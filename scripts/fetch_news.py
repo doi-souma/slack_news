@@ -58,47 +58,50 @@ def fetch_all_articles(categories: list[dict], max_per_feed: int = 8) -> list[di
 
 
 def select_articles(articles: list[dict], config: dict) -> list[dict]:
-    """Geminiに記事番号だけを選ばせ、元の記事データをそのまま返す。"""
+    """Geminiで記事を選別する。APIが使えない場合は全記事をそのまま返す。"""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        raise ValueError("GEMINI_API_KEY environment variable is not set.")
+        print("GEMINI_API_KEY not set. Returning all articles.")
+        return articles
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-2.0-flash")
+    try:
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel("gemini-2.0-flash")
 
-    news_per_day = config.get("news_per_day", 7)
-    keywords = [
-        kw
-        for cat in config.get("categories", [])
-        for kw in cat.get("keywords", [])
-    ]
+        news_per_day = config.get("news_per_day", 7)
+        keywords = [
+            kw
+            for cat in config.get("categories", [])
+            for kw in cat.get("keywords", [])
+        ]
 
-    # タイトルのみのリスト（最小限のトークン数）
-    articles_text = "\n".join(
-        f"{i+1}. [{a['category']}] {a['title']}"
-        for i, a in enumerate(articles)
-    )
+        articles_text = "\n".join(
+            f"{i+1}. [{a['category']}] {a['title']}"
+            for i, a in enumerate(articles)
+        )
 
-    prompt = (
-        f"以下のニュース記事リストから、情報系学生にとって重要な{news_per_day}本を選んでください。\n"
-        f"特に注目するキーワード: {', '.join(keywords[:15])}\n\n"
-        f"{articles_text}\n\n"
-        f"選んだ記事の番号だけをJSON配列で返してください。例: [1, 5, 8, 12]"
-    )
+        prompt = (
+            f"以下のニュース記事リストから、情報系学生にとって重要な{news_per_day}本を選んでください。\n"
+            f"特に注目するキーワード: {', '.join(keywords[:15])}\n\n"
+            f"{articles_text}\n\n"
+            f"選んだ記事の番号だけをJSON配列で返してください。例: [1, 5, 8, 12]"
+        )
 
-    print("Calling Gemini API (selection only)...")
-    response = model.generate_content(prompt)
-    raw = response.text.strip()
+        print("Calling Gemini API (selection only)...")
+        response = model.generate_content(prompt)
+        raw = response.text.strip()
 
-    # コードブロック除去
-    if raw.startswith("```"):
-        raw = raw.split("```")[1].lstrip("json").strip()
+        if raw.startswith("```"):
+            raw = raw.split("```")[1].lstrip("json").strip()
 
-    indices: list[int] = json.loads(raw)
-    selected = [articles[i - 1] for i in indices if 1 <= i <= len(articles)]
+        indices: list[int] = json.loads(raw)
+        selected = [articles[i - 1] for i in indices if 1 <= i <= len(articles)]
+        print(f"Selected {len(selected)} articles by Gemini.")
+        return selected
 
-    print(f"Selected {len(selected)} articles by Gemini.")
-    return selected
+    except Exception as e:
+        print(f"Gemini API unavailable ({e}). Returning all articles as fallback.")
+        return articles
 
 
 def save_articles(articles: list[dict], output_path: Path) -> None:
