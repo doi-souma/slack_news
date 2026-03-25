@@ -25,7 +25,7 @@ def load_config() -> dict:
         return yaml.safe_load(f)
 
 
-def fetch_all_articles(categories: list[dict], max_per_feed: int = 15) -> list[dict]:
+def fetch_all_articles(categories: list[dict], max_per_feed: int = 5) -> list[dict]:
     """全カテゴリのRSSフィードから記事を収集する。カテゴリ情報も付与。"""
     articles = []
     seen_urls = set()
@@ -47,7 +47,7 @@ def fetch_all_articles(categories: list[dict], max_per_feed: int = 15) -> list[d
                         "source": feed_info["name"],
                         "title": entry.get("title", ""),
                         "url": url,
-                        "summary": entry.get("summary", entry.get("description", ""))[:500],
+                        "summary": entry.get("summary", entry.get("description", ""))[:150],
                         "published": entry.get("published", ""),
                     })
             except Exception as e:
@@ -116,7 +116,20 @@ def select_and_summarize(articles: list[dict], config: dict) -> list[dict]:
 
     prompt = build_prompt(articles, config)
     print("Calling Gemini API...")
-    response = model.generate_content(prompt)
+
+    # 429が来た場合は待機してリトライ（最大3回）
+    for attempt in range(3):
+        try:
+            response = model.generate_content(prompt)
+            break
+        except Exception as e:
+            if "429" in str(e) and attempt < 2:
+                wait = 60 * (attempt + 1)
+                print(f"Rate limited. Waiting {wait}s before retry {attempt + 2}/3...")
+                time.sleep(wait)
+            else:
+                raise
+
     raw = response.text.strip()
 
     # コードブロックが含まれる場合は除去
