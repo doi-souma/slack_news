@@ -1,0 +1,113 @@
+# ===================================
+# 個人ニュース設定ファイル
+# ===================================
+
+# --- 基本設定 ---
+language: "ja"           # 要約・出力言語（ja = 日本語）
+news_per_day: 7          # 1日の取得ニュース数（5〜8本）
+output_language: "ja"    # HTMLページの表示言語
+
+
+# --- カテゴリ設定 ---
+# weight: 重要度（1〜5）。高いほどGeminiが優先的に選ぶ
+categories:
+
+  - name: "AI・テクノロジー"
+    weight: 5
+    keywords:
+      - "半導体"
+      - "NVIDIA"
+      - "エヌビディア"
+      - "Claude"
+      - "Anthropic"
+      - "OpenAI"
+      - "Gemini"
+      - "生成AI"
+      - "LLM"
+      - "機械学習"
+      - "GPU"
+      - "TSMC"
+      - "AI規制"
+    rss_sources:
+      - name: "TechCrunch Japan"
+        url: "https://jp.techcrunch.com/feed/"
+      - name: "Gigazine"
+        url: "https://gigazine.net/news/rss_2.0/"
+      - name: "MIT Technology Review"
+        url: "https://www.technologyreview.com/feed/"
+
+  - name: "政治・国際情勢"
+    weight: 4
+    keywords:
+      - "日米関係"
+      - "トランプ"
+      - "石破"
+      - "日本首相"
+      - "アメリカ大統領"
+      - "関税"
+      - "日米首脳会談"
+      - "外交"
+      - "安全保障"
+      - "NATO"
+      - "中国"
+      - "台湾"
+    rss_sources:
+      - name: "NHK政治"
+        url: "https://www.nhk.or.jp/rss/news/cat4.xml"
+      - name: "NHK国際"
+        url: "https://www.nhk.or.jp/rss/news/cat6.xml"
+      - name: "BBC Japan"
+        url: "https://feeds.bbci.co.uk/japanese/rss.xml"
+
+  - name: "経済・金融"
+    weight: 4
+    keywords:
+      - "円安"
+      - "円高"
+      - "日銀"
+      - "金利"
+      - "為替"
+      - "ガソリン価格"
+      - "物価"
+      - "インフレ"
+      - "株価"
+      - "日経平均"
+      - "FRB"
+      - "利上げ"
+      - "貿易摩擦"
+    rss_sources:
+      - name: "NHK経済"
+        url: "https://www.nhk.or.jp/rss/news/cat5.xml"
+      - name: "日経電子版"
+        url: "https://www.nikkei.com/rss/category/market.rdf"
+
+
+# --- Gemini への指示（プロンプト） ---
+gemini_prompt: |
+  あなたは情報系の学生向けのニュースキュレーターです。
+  以下の記事リストから最も重要な {news_per_day} 本を選んでください。
+
+  【選別の優先基準】
+  1. AI・半導体・テクノロジーの最新動向（特にClaude/Anthropic, OpenAI, NVIDIA関連）
+  2. 日本とアメリカの政治的動き（首相・大統領の発言や政策）
+  3. 政治の動きが経済（円安・ガソリン・物価）に与える影響が読み取れる記事
+  4. 情報系学生として知っておくべき技術トレンド
+
+  【各記事の出力形式（JSON）】
+  - title: 記事タイトル（日本語）
+  - summary: 3文以内の要約（日本語）。政治・経済記事は「なぜ生活に影響するか」まで言及
+  - category: カテゴリ名
+  - importance: 重要度スコア（1〜5）
+  - url: 元記事URL
+  - source: 媒体名
+  - tags: 関連キーワードリスト（最大3つ）
+
+
+# --- Slack通知設定 ---
+slack:
+  channel: "#news"        # 通知先チャンネル（変更可）
+  mention: false          # @here などのメンションをつけるか
+  message_template: |
+    📰 *今日のニュース ({date})* 
+    AI・テクノロジー / 政治・国際情勢 / 経済・金融 の注目 {news_per_day} 本
+    👉 {page_url}

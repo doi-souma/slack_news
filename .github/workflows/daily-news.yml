@@ -1,0 +1,52 @@
+name: Daily News Bot
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 毎朝9時JST（= UTC 0:00）
+  workflow_dispatch:      # GitHub画面から手動実行も可能
+
+jobs:
+  news-bot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # gh-pagesブランチへのpushに必要
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── Step 1: RSSフィード収集 + Gemini選別・要約 ──────────────
+      - name: Fetch and select news
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/fetch_news.py
+
+      # ── Step 2: HTMLページ生成 ───────────────────────────────────
+      - name: Generate HTML
+        run: python scripts/generate_html.py
+
+      # ── Step 3: GitHub Pages へデプロイ ─────────────────────────
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output   # output/index.html を公開
+          publish_branch: gh-pages
+          destination_dir: news   # → https://<user>.github.io/<repo>/news/
+
+      # ── Step 4: Slack通知 ────────────────────────────────────────
+      - name: Notify Slack
+        env:
+          SLACK_API_BOT_TOKEN: ${{ secrets.SLACK_API_BOT_TOKEN }}
+          SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
+          PAGE_URL: ${{ secrets.PAGE_URL }}
+        run: python scripts/notify_slack.py
