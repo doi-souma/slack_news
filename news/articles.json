@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-25T04:30:42.867817+00:00",
+  "generated_at": "2026-03-25T04:40:02.383820+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "Gigazine",
       "title": "任天堂はNintendo Switch 2の生産台数を33％削減し600万台から400万台に引き下げるとの報道、アメリカ市場での需要低迷が主な理由",
       "url": "https://gigazine.net/news/20260325-nintendo-cuts-production-switch-2/",
-      "summary": "任天堂が2025年6月に発売した「Nintendo Switch 2」は、発売から4カ月で1000万台超も売れ、アメリカでは2025年に最も売れたゲーム機となりました。<p><b><a href=\"https://gigazine.net/news/20260325&#45;nintendo&#45;cuts&#45;production&#45;switch&#45;2/\">続きを読む...</a></b></p>",
+      "summary": "任天堂が2025年6月に発売した「Nintendo Switch 2」は、発売から4カ月で1000万台超も売れ、アメリカでは2025年に最も売れたゲーム機となりました。続きを読む...",
       "published": "Wed, 25 Mar 2026 13:11:00 +0900"
     },
     {
@@ -14,7 +14,7 @@
       "source": "Gigazine",
       "title": "Ai2がビジュアルウェブAIエージェントの「MolmoWeb」をリリース、HTMLを解析するのではなくブラウザのスクリーンショットで動作",
       "url": "https://gigazine.net/news/20260325-molmoweb/",
-      "summary": "アメリカに拠点を置くAI企業のアレン人工知能研究所(Ai2)が、ブラウザを操作・制御するように設計されたAIエージェント「MolmoWeb」を発表しました。<p><b><a href=\"https://gigazine.net/news/20260325&#45;molmoweb/\">続きを読む...</a></b></p>",
+      "summary": "アメリカに拠点を置くAI企業のアレン人工知能研究所(Ai2)が、ブラウザを操作・制御するように設計されたAIエージェント「MolmoWeb」を発表しました。続きを読む...",
       "published": "Wed, 25 Mar 2026 13:00:00 +0900"
     },
     {
@@ -22,7 +22,7 @@
       "source": "Gigazine",
       "title": "AppleがiOSおよびiPadOS 26.4をリリース、AIでApple Musicのプレイリストを生成できる新機能「Playlist Playground」＆8種類の新しい絵文字追加など",
       "url": "https://gigazine.net/news/20260325-apple-ios-ipados-26-4-released/",
-      "summary": "iOSおよびiPadOS 26.4が2026年3月25日にリリースされました。アップデートにはApple Musicの新機能やアクセシビリティ改善、新しい絵文字の追加など一般ユーザー向けの機能拡張に加え、開発者向けには新しいフレームワークやAPI、セキュリティ機構の強化、不具合修正が含まれ、ユーザー体験の細かな向上と今後の機能拡張に向けた基盤整備の両面が特徴となっています。<p><b><a href=\"https://gigazine.net/news/20260325&#45;apple&#45;ios&#45;ipados&#45;26&#45;4&#45;released/\">続きを読む",
+      "summary": "iOSおよびiPadOS 26.4が2026年3月25日にリリースされました。アップデートにはApple Musicの新機能やアクセシビリティ改善、新しい絵文字の追加など一般ユーザー向けの機能拡張に加え、開発者向けには新しいフレームワークやAPI、セキュリティ機構の強化、不具合修正が含まれ、ユーザー体験の細かな向上と今後の機能拡張に向けた基盤整備の両面が特徴となっています。続きを読む...",
       "published": "Wed, 25 Mar 2026 12:37:00 +0900"
     },
     {
@@ -30,7 +30,7 @@
       "source": "Gigazine",
       "title": "668の夢を分析した研究でストレスと睡眠の関係が示される",
       "url": "https://gigazine.net/news/20260325-disrupt-sleep/",
-      "summary": "寝るために布団に入ったのに、過去の嫌な出来事や将来の不安が頭に浮かんでなかなか寝付けなかった経験のある人は多いはず。スイスの心理学者による研究では、「すでにストレスを感じているパターン」と「将来的にストレスを感じることを予期しているパターン」で睡眠の質が異なることが示されています。<p><b><a href=\"https://gigazine.net/news/20260325&#45;disrupt&#45;sleep/\">続きを読む...</a></b></p>",
+      "summary": "寝るために布団に入ったのに、過去の嫌な出来事や将来の不安が頭に浮かんでなかなか寝付けなかった経験のある人は多いはず。スイスの心理学者による研究では、「すでにストレスを感じているパターン」と「将来的にストレスを感じることを予期しているパターン」で睡眠の質が異なることが示されています。続きを読む...",
       "published": "Wed, 25 Mar 2026 12:30:00 +0900"
     },
     {
@@ -38,7 +38,7 @@
       "source": "Gigazine",
       "title": "GitHubスター4万超えのAIライブラリ「LiteLLM」がサプライチェーン攻撃を受けマルウェア版が配布されてしまう、ユーザーのSSHキーやAPIキーが盗まれた可能性あり",
       "url": "https://gigazine.net/news/20260325-litellm-supply-chain-attack/",
-      "summary": "AI管理ライブラリの「LiteLLM」がサプライチェーン攻撃を受け、一時的に悪意ある変更を含んだマルウェア版が配布されていたことが判明しました。LiteLLMのマルウェア版ではユーザーのSSHキーやAPIキーを盗み出すスクリプトが動作していたことも判明しています。<p><b><a href=\"https://gigazine.net/news/20260325&#45;litellm&#45;supply&#45;chain&#45;attack/\">続きを読む...</a></b></p>",
+      "summary": "AI管理ライブラリの「LiteLLM」がサプライチェーン攻撃を受け、一時的に悪意ある変更を含んだマルウェア版が配布されていたことが判明しました。LiteLLMのマルウェア版ではユーザーのSSHキーやAPIキーを盗み出すスクリプトが動作していたことも判明しています。続きを読む...",
       "published": "Wed, 25 Mar 2026 12:23:00 +0900"
     },
     {
@@ -46,7 +46,7 @@
       "source": "Gigazine",
       "title": "Appleが「Siri」を音声アシスタントからAIエージェントへ刷新へ、単独の「Siri」アプリも",
       "url": "https://gigazine.net/news/20260325-apple-siri-reboot/",
-      "summary": "Appleが「Siri」を一新して、単なる音声アシスタントからOSに統合したシステム全体のAIエージェントにする計画を進めていることがわかりました。計画の一環として、2026年後半にiPhone・iPad・Macで「Siri」アプリのテストが始まる見込みです。<p><b><a href=\"https://gigazine.net/news/20260325&#45;apple&#45;siri&#45;reboot/\">続きを読む...</a></b></p>",
+      "summary": "Appleが「Siri」を一新して、単なる音声アシスタントからOSに統合したシステム全体のAIエージェントにする計画を進めていることがわかりました。計画の一環として、2026年後半にiPhone・iPad・Macで「Siri」アプリのテストが始まる見込みです。続きを読む...",
       "published": "Wed, 25 Mar 2026 12:06:00 +0900"
     },
     {
@@ -54,7 +54,7 @@
       "source": "Gigazine",
       "title": "Claude Codeに権限自動決定機能が追加される、AIが権限のリスクをチェックしタスクを自動実行",
       "url": "https://gigazine.net/news/20260325-claude-auto-mode/",
-      "summary": "コーディングアシスタントのClaude Codeに、AIがユーザーに変わって権限の判断を行う「Auto mode」が追加されました。人間の承認が必要な一部のタスクを自動実行する機能です。<p><b><a href=\"https://gigazine.net/news/20260325&#45;claude&#45;auto&#45;mode/\">続きを読む...</a></b></p>",
+      "summary": "コーディングアシスタントのClaude Codeに、AIがユーザーに変わって権限の判断を行う「Auto mode」が追加されました。人間の承認が必要な一部のタスクを自動実行する機能です。続きを読む...",
       "published": "Wed, 25 Mar 2026 11:33:00 +0900"
     },
     {
@@ -62,7 +62,7 @@
       "source": "Gigazine",
       "title": "フォートナイトの開発元・Epic Gamesが1000人以上を解雇",
       "url": "https://gigazine.net/news/20260325-fortnite-epic-games-cuts-1000-jobs/",
-      "summary": "人気バトルロイヤルゲームのフォートナイトや、ゲームエンジン・Unreal Engineの開発元であるEpic Gamesが、1000人超の従業員を解雇すると発表しました。<p><b><a href=\"https://gigazine.net/news/20260325&#45;fortnite&#45;epic&#45;games&#45;cuts&#45;1000&#45;jobs/\">続きを読む...</a></b></p>",
+      "summary": "人気バトルロイヤルゲームのフォートナイトや、ゲームエンジン・Unreal Engineの開発元であるEpic Gamesが、1000人超の従業員を解雇すると発表しました。続きを読む...",
       "published": "Wed, 25 Mar 2026 11:16:00 +0900"
     },
     {
@@ -70,7 +70,7 @@
       "source": "MIT Technology Review",
       "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
       "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
-      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Rel",
+      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current",
       "published": "Tue, 24 Mar 2026 18:17:13 +0000"
     },
     {
@@ -78,7 +78,7 @@
       "source": "MIT Technology Review",
       "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
       "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
-      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos&",
+      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, ap",
       "published": "Tue, 24 Mar 2026 16:43:36 +0000"
     },
     {
@@ -86,7 +86,7 @@
       "source": "MIT Technology Review",
       "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
       "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find ",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What",
       "published": "Tue, 24 Mar 2026 12:28:27 +0000"
     },
     {
@@ -94,7 +94,7 @@
       "source": "MIT Technology Review",
       "title": "The hardest question to answer about AI-fueled delusions",
       "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A",
       "published": "Mon, 23 Mar 2026 16:31:20 +0000"
     },
     {
@@ -102,7 +102,7 @@
       "source": "MIT Technology Review",
       "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
       "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&#160; In early February, animal welfare advocates and AI researchers arrived in stocking fe",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In",
       "published": "Mon, 23 Mar 2026 12:17:33 +0000"
     },
     {
@@ -110,7 +110,7 @@
       "source": "MIT Technology Review",
       "title": "The Bay Area’s animal welfare movement wants to recruit AI",
       "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&#160; In the common area",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers",
       "published": "Mon, 23 Mar 2026 09:00:00 +0000"
     },
     {
@@ -118,7 +118,7 @@
       "source": "MIT Technology Review",
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
       "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher&#160; OpenAI has a new grand challenge: building an AI researcher—a fully aut",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ",
       "published": "Fri, 20 Mar 2026 13:15:45 +0000"
     },
     {
@@ -126,7 +126,7 @@
       "source": "MIT Technology Review",
       "title": "OpenAI is throwing everything into building a fully automated researcher",
       "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open",
+      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated",
       "published": "Fri, 20 Mar 2026 11:57:16 +0000"
     },
     {
