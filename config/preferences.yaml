@@ -52,10 +52,6 @@ categories:
       - "中国"
       - "台湾"
     rss_sources:
-      - name: "NHK政治"
-        url: "https://www3.nhk.or.jp/rss/news/cat4.xml"
-      - name: "NHK国際"
-        url: "https://www3.nhk.or.jp/rss/news/cat6.xml"
       - name: "BBC Japan"
         url: "https://feeds.bbci.co.uk/japanese/rss.xml"
       - name: "ロイター日本語版"
@@ -78,8 +74,6 @@ categories:
       - "利上げ"
       - "貿易摩擦"
     rss_sources:
-      - name: "NHK経済"
-        url: "https://www3.nhk.or.jp/rss/news/cat5.xml"
       - name: "ロイター経済"
         url: "https://feeds.reuters.com/reuters/JPbusinessNews"
       - name: "東洋経済オンライン"
