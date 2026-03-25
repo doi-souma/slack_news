@@ -28,51 +28,32 @@ def load_articles(input_path: Path) -> list[dict]:
 
 def build_blocks(articles: list[dict], page_url: str, config: dict) -> list[dict]:
     """Slack Block Kit形式のメッセージを組み立てる。"""
-    slack_cfg = config.get("slack", {})
-    news_per_day = config.get("news_per_day", 7)
     date_str = datetime.now(timezone.utc).astimezone().strftime("%Y年%m月%d日")
+    count = len(articles)
 
-    # ヘッダー（preferences.yaml の message_template を使用）
-    template = slack_cfg.get("message_template", "📰 *今日のニュース ({date})*\n👉 {page_url}")
-    header_text = template.format(date=date_str, news_per_day=news_per_day, page_url=page_url).strip()
+    # カテゴリ別の件数を集計
+    category_counts: dict[str, int] = {}
+    for a in articles:
+        cat = a.get("category", "その他")
+        category_counts[cat] = category_counts.get(cat, 0) + 1
+    category_summary = "　".join(f"{cat}: {n}本" for cat, n in category_counts.items())
 
     blocks = [
         {
             "type": "section",
-            "text": {"type": "mrkdwn", "text": header_text},
+            "text": {
+                "type": "mrkdwn",
+                "text": f"📰 *今日のニュース（{date_str}）*\n{category_summary}　計 *{count}本*",
+            },
         },
-        {"type": "divider"},
-    ]
-
-    # 記事を重要度順に並べてリスト表示
-    sorted_articles = sorted(articles, key=lambda a: a.get("importance", 0), reverse=True)
-    for article in sorted_articles:
-        importance = article.get("importance", 0)
-        stars = "★" * importance + "☆" * (5 - importance)
-        category = article.get("category", "")
-        title = article.get("title", "")
-        summary = article.get("summary", "")
-        url = article.get("url", "")
-
-        blocks.append({
+        {
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": (
-                    f"*[{category}]* {stars}\n"
-                    f"*<{url}|{title}>*\n"
-                    f"{summary}"
-                ),
+                "text": f"👉 <{page_url}|ニュースページを開く>",
             },
-        })
-
-    blocks.append({"type": "divider"})
-    blocks.append({
-        "type": "context",
-        "elements": [
-            {"type": "mrkdwn", "text": f"🔗 ページ全体: <{page_url}|ニュースページを開く>　｜　Powered by Gemini & GitHub Actions"}
-        ],
-    })
+        },
+    ]
 
     return blocks
 
