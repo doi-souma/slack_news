@@ -21,5 +21,3 @@ news_bot/
 ## 必要なシークレット（GitHub Secretsに登録予定）
 - GEMINI_API_KEY
 - SLACK_BOT_TOKEN
-
-まずfetch_news.pyから実装してください。

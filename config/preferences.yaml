@@ -29,12 +29,12 @@ categories:
       - "TSMC"
       - "AI規制"
     rss_sources:
-      - name: "TechCrunch Japan"
-        url: "https://jp.techcrunch.com/feed/"
       - name: "Gigazine"
         url: "https://gigazine.net/news/rss_2.0/"
-      - name: "MIT Technology Review"
-        url: "https://www.technologyreview.com/feed/"
+      - name: "ITmedia AI+"
+        url: "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"
+      - name: "CNET Japan"
+        url: "https://japan.cnet.com/rss/index.rdf"
 
   - name: "政治・国際情勢"
     weight: 4
@@ -53,11 +53,13 @@ categories:
       - "台湾"
     rss_sources:
       - name: "NHK政治"
-        url: "https://www.nhk.or.jp/rss/news/cat4.xml"
+        url: "https://www3.nhk.or.jp/rss/news/cat4.xml"
       - name: "NHK国際"
-        url: "https://www.nhk.or.jp/rss/news/cat6.xml"
+        url: "https://www3.nhk.or.jp/rss/news/cat6.xml"
       - name: "BBC Japan"
         url: "https://feeds.bbci.co.uk/japanese/rss.xml"
+      - name: "ロイター日本語版"
+        url: "https://feeds.reuters.com/reuters/JPdomesticNews"
 
   - name: "経済・金融"
     weight: 4
@@ -77,9 +79,11 @@ categories:
       - "貿易摩擦"
     rss_sources:
       - name: "NHK経済"
-        url: "https://www.nhk.or.jp/rss/news/cat5.xml"
-      - name: "日経電子版"
-        url: "https://www.nikkei.com/rss/category/market.rdf"
+        url: "https://www3.nhk.or.jp/rss/news/cat5.xml"
+      - name: "ロイター経済"
+        url: "https://feeds.reuters.com/reuters/JPbusinessNews"
+      - name: "東洋経済オンライン"
+        url: "https://toyokeizai.net/list/feed/rss"
 
 
 # --- Gemini への指示（プロンプト） ---
