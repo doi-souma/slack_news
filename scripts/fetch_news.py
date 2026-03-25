@@ -3,8 +3,10 @@ fetch_news.py
 カテゴリ別RSSフィードからニュースを収集し、Gemini APIで選別・要約してJSONに保存する。
 """
 
+import html
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -17,6 +19,12 @@ from dotenv import load_dotenv
 
 load_dotenv(dotenv_path=Path(__file__).parent.parent / ".env")
 
+
+def strip_html(text: str) -> str:
+    """HTMLタグを除去し、エンティティをデコードする。"""
+    text = re.sub(r"<[^>]+>", "", text)
+    text = html.unescape(text)
+    return text.strip()
 
 
 def load_config() -> dict:
@@ -46,7 +54,7 @@ def fetch_all_articles(categories: list[dict], max_per_feed: int = 8) -> list[di
                         "source": feed_info["name"],
                         "title": entry.get("title", ""),
                         "url": url,
-                        "summary": entry.get("summary", entry.get("description", ""))[:300],
+                        "summary": strip_html(entry.get("summary", entry.get("description", "")))[:200],
                         "published": entry.get("published", ""),
                     })
             except Exception as e:

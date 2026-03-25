@@ -92,12 +92,6 @@
       background: #e8eaf6;
       color: #3949ab;
     }
-    .importance {
-      margin-left: auto;
-      font-size: 0.75rem;
-      color: #e67e22;
-      font-weight: 600;
-    }
     .card h3 {
       font-size: 1rem;
       font-weight: 700;
@@ -160,7 +154,6 @@
       <div class="card-meta">
         <span class="badge">{{ article.source }}</span>
         <span>{{ article.published }}</span>
-        <span class="importance">重要度 {{ article.importance }}/5</span>
       </div>
       <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a></h3>
       <p>{{ article.summary }}</p>
