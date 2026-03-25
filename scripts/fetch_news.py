@@ -112,7 +112,7 @@ def select_and_summarize(articles: list[dict], config: dict) -> list[dict]:
         raise ValueError("GEMINI_API_KEY environment variable is not set.")
 
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-2.0-flash")
 
     prompt = build_prompt(articles, config)
     print("Calling Gemini API...")
