@@ -1,0 +1,373 @@
+{
+  "generated_at": "2026-03-25T04:16:56.683324+00:00",
+  "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "Gigazine",
+      "title": "任天堂はNintendo Switch 2の生産台数を33％削減し600万台から400万台に引き下げるとの報道、アメリカ市場での需要低迷が主な理由",
+      "url": "https://gigazine.net/news/20260325-nintendo-cuts-production-switch-2/",
+      "summary": "任天堂が2025年6月に発売した「Nintendo Switch 2」は、発売から4カ月で1000万台超も売れ、アメリカでは2025年に最も売れたゲーム機となりました。<p><b><a href=\"https://gigazine.net/news/20260325&#45;nintendo&#45;cuts&#45;production&#45;switch&#45;2/\">続きを読む...</a></b></p>",
+      "published": "Wed, 25 Mar 2026 13:11:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "Gigazine",
+      "title": "Ai2がビジュアルウェブAIエージェントの「MolmoWeb」をリリース、HTMLを解析するのではなくブラウザのスクリーンショットで動作",
+      "url": "https://gigazine.net/news/20260325-molmoweb/",
+      "summary": "アメリカに拠点を置くAI企業のアレン人工知能研究所(Ai2)が、ブラウザを操作・制御するように設計されたAIエージェント「MolmoWeb」を発表しました。<p><b><a href=\"https://gigazine.net/news/20260325&#45;molmoweb/\">続きを読む...</a></b></p>",
+      "published": "Wed, 25 Mar 2026 13:00:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "Gigazine",
+      "title": "AppleがiOSおよびiPadOS 26.4をリリース、AIでApple Musicのプレイリストを生成できる新機能「Playlist Playground」＆8種類の新しい絵文字追加など",
+      "url": "https://gigazine.net/news/20260325-apple-ios-ipados-26-4-released/",
+      "summary": "iOSおよびiPadOS 26.4が2026年3月25日にリリースされました。アップデートにはApple Musicの新機能やアクセシビリティ改善、新しい絵文字の追加など一般ユーザー向けの機能拡張に加え、開発者向けには新しいフレームワークやAPI、セキュリティ機構の強化、不具合修正が含まれ、ユーザー体験の細かな向上と今後の機能拡張に向けた基盤整備の両面が特徴となっています。<p><b><a href=\"https://gigazine.net/news/20260325&#45;apple&#45;ios&#45;ipados&#45;26&#45;4&#45;released/\">続きを読む",
+      "published": "Wed, 25 Mar 2026 12:37:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "Gigazine",
+      "title": "668の夢を分析した研究でストレスと睡眠の関係が示される",
+      "url": "https://gigazine.net/news/20260325-disrupt-sleep/",
+      "summary": "寝るために布団に入ったのに、過去の嫌な出来事や将来の不安が頭に浮かんでなかなか寝付けなかった経験のある人は多いはず。スイスの心理学者による研究では、「すでにストレスを感じているパターン」と「将来的にストレスを感じることを予期しているパターン」で睡眠の質が異なることが示されています。<p><b><a href=\"https://gigazine.net/news/20260325&#45;disrupt&#45;sleep/\">続きを読む...</a></b></p>",
+      "published": "Wed, 25 Mar 2026 12:30:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "Gigazine",
+      "title": "GitHubスター4万超えのAIライブラリ「LiteLLM」がサプライチェーン攻撃を受けマルウェア版が配布されてしまう、ユーザーのSSHキーやAPIキーが盗まれた可能性あり",
+      "url": "https://gigazine.net/news/20260325-litellm-supply-chain-attack/",
+      "summary": "AI管理ライブラリの「LiteLLM」がサプライチェーン攻撃を受け、一時的に悪意ある変更を含んだマルウェア版が配布されていたことが判明しました。LiteLLMのマルウェア版ではユーザーのSSHキーやAPIキーを盗み出すスクリプトが動作していたことも判明しています。<p><b><a href=\"https://gigazine.net/news/20260325&#45;litellm&#45;supply&#45;chain&#45;attack/\">続きを読む...</a></b></p>",
+      "published": "Wed, 25 Mar 2026 12:23:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "Gigazine",
+      "title": "Appleが「Siri」を音声アシスタントからAIエージェントへ刷新へ、単独の「Siri」アプリも",
+      "url": "https://gigazine.net/news/20260325-apple-siri-reboot/",
+      "summary": "Appleが「Siri」を一新して、単なる音声アシスタントからOSに統合したシステム全体のAIエージェントにする計画を進めていることがわかりました。計画の一環として、2026年後半にiPhone・iPad・Macで「Siri」アプリのテストが始まる見込みです。<p><b><a href=\"https://gigazine.net/news/20260325&#45;apple&#45;siri&#45;reboot/\">続きを読む...</a></b></p>",
+      "published": "Wed, 25 Mar 2026 12:06:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "Gigazine",
+      "title": "Claude Codeに権限自動決定機能が追加される、AIが権限のリスクをチェックしタスクを自動実行",
+      "url": "https://gigazine.net/news/20260325-claude-auto-mode/",
+      "summary": "コーディングアシスタントのClaude Codeに、AIがユーザーに変わって権限の判断を行う「Auto mode」が追加されました。人間の承認が必要な一部のタスクを自動実行する機能です。<p><b><a href=\"https://gigazine.net/news/20260325&#45;claude&#45;auto&#45;mode/\">続きを読む...</a></b></p>",
+      "published": "Wed, 25 Mar 2026 11:33:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "Gigazine",
+      "title": "フォートナイトの開発元・Epic Gamesが1000人以上を解雇",
+      "url": "https://gigazine.net/news/20260325-fortnite-epic-games-cuts-1000-jobs/",
+      "summary": "人気バトルロイヤルゲームのフォートナイトや、ゲームエンジン・Unreal Engineの開発元であるEpic Gamesが、1000人超の従業員を解雇すると発表しました。<p><b><a href=\"https://gigazine.net/news/20260325&#45;fortnite&#45;epic&#45;games&#45;cuts&#45;1000&#45;jobs/\">続きを読む...</a></b></p>",
+      "published": "Wed, 25 Mar 2026 11:16:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "MIT Technology Review",
+      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Rel",
+      "published": "Tue, 24 Mar 2026 18:17:13 +0000"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "MIT Technology Review",
+      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+      "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos&",
+      "published": "Tue, 24 Mar 2026 16:43:36 +0000"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "MIT Technology Review",
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find ",
+      "published": "Tue, 24 Mar 2026 12:28:27 +0000"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "MIT Technology Review",
+      "title": "The hardest question to answer about AI-fueled delusions",
+      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com",
+      "published": "Mon, 23 Mar 2026 16:31:20 +0000"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "MIT Technology Review",
+      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+      "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&#160; In early February, animal welfare advocates and AI researchers arrived in stocking fe",
+      "published": "Mon, 23 Mar 2026 12:17:33 +0000"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "MIT Technology Review",
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&#160; In the common area",
+      "published": "Mon, 23 Mar 2026 09:00:00 +0000"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "MIT Technology Review",
+      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher&#160; OpenAI has a new grand challenge: building an AI researcher—a fully aut",
+      "published": "Fri, 20 Mar 2026 13:15:45 +0000"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "MIT Technology Review",
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open",
+      "published": "Fri, 20 Mar 2026 11:57:16 +0000"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK政治",
+      "title": "木原官房長官 自衛官逮捕 “誠に遺憾 適切対応”中国側に説明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083691000",
+      "summary": "東京にある中国大使館の敷地内に侵入したとして陸上自衛官が建造物侵入の疑いで逮捕されたことについて、木原官房長官は25日午前の記者会見で「誠に遺憾だ」と述べたうえで、中国側に再発防止を含め適切に対応して…",
+      "published": "Wed, 25 Mar 2026 12:34:19 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK政治",
+      "title": "高市首相 “機雷掃海目的の自衛隊派遣 決まっていることない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083631000",
+      "summary": "イラン情勢をめぐり、高市総理大臣は参議院予算委員会で、機雷掃海を目的としたホルムズ海峡への自衛隊の派遣について現時点で決まっていることはないとした上で、将来的な派遣の可能性はその時々の状況を踏まえ、法…",
+      "published": "Wed, 25 Mar 2026 12:15:15 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK政治",
+      "title": "高市首相動静 2026年3月24日",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083501000",
+      "summary": "（高市首相動静 2026年3月24日）",
+      "published": "Wed, 25 Mar 2026 08:54:47 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK政治",
+      "title": "売春規制のあり方を議論 相手方を処罰対象に加えるかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083351000",
+      "summary": "路上などで売春を勧誘する行為が社会的に問題となる中、法務省の有識者検討会が規制のあり方について議論を始めました。売春をする側に罰則のある法律を見直し、相手方を対象に加える方向とするかが焦点となります。",
+      "published": "Wed, 25 Mar 2026 05:51:38 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK政治",
+      "title": "政府 与党“予算案の年度内成立を” 野党側“審議の充実を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083341000",
+      "summary": "新年度予算案をめぐり、政府・与党は不測の事態に備えて暫定予算案の編成を進めるとともに年度内成立の目標は維持しています。これに対し、野党側は年度内にこだわらず審議を充実させるよう求めています。",
+      "published": "Wed, 25 Mar 2026 05:24:37 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK政治",
+      "title": "自民 運動方針の原案 “憲法改正原案の作成と国会提出目指す”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083441000",
+      "summary": "自民党はことしの運動方針の原案をまとめ、衆議院で3分の2を超える議席を得たものの、おごることなく党運営にあたっていくとした上で、憲法改正原案の作成と国会提出を目指すなどとしています。",
+      "published": "Wed, 25 Mar 2026 05:16:15 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK政治",
+      "title": "売春に関する規制のあり方を検討 有識者検討会が初会合",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082891000",
+      "summary": "売春に関する規制のあり方をめぐり、法務省が設けた有識者による検討会が初会合を開き、委員からは売春の相手方への罰則を新たに設けることの是非などについて議論すべきだという意見が出されました。今後、関係者に…",
+      "published": "Tue, 24 Mar 2026 21:33:02 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK政治",
+      "title": "高市首相 フィリピン大統領と電話会談 “中東の沈静化へ連携”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083311000",
+      "summary": "中東情勢をめぐり、高市総理大臣は、24日夜、フィリピンのマルコス大統領と電話で会談し、事態の早期沈静化に向けて連携して対応していくことで一致しました。",
+      "published": "Tue, 24 Mar 2026 21:03:57 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK国際",
+      "title": "“米 戦闘終結へ15項目の計画送付” イラン側 協議自体否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083481000",
+      "summary": "イラン情勢をめぐって、アメリカのトランプ大統領がイラン側と協議を行っていると主張する中、アメリカのメディアは戦闘の終結に向けた15項目からなる計画がイラン側に送付されたと伝えました。一方、イラン側は、…",
+      "published": "Wed, 25 Mar 2026 11:57:37 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK国際",
+      "title": "米 オープンAI 動画生成AI「Sora」サービス終了へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083611000",
+      "summary": "アメリカのオープンAIは、自社が開発した動画生成AI「Sora」について、サービスを終了する方針を明らかにしました。AI開発の競争が激しさを増す中、企業向け製品に事業を絞り込み、戦略を転換する動きだと…",
+      "published": "Wed, 25 Mar 2026 11:22:33 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK国際",
+      "title": "米国土安全保障省 新長官に上院議員務めてきたモリン氏就任",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083531000",
+      "summary": "アメリカで国土安全保障省が管轄するICE＝移民税関捜査局による強硬な取り締まりに批判が高まるなか、上院議員を務めてきたモリン氏が新しい長官に就任しました。就任の宣誓に立ち会ったトランプ大統領は、不法移…",
+      "published": "Wed, 25 Mar 2026 10:55:05 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK国際",
+      "title": "NY ラガーディア空港での衝突事故 “警報が発せられなかった”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083541000",
+      "summary": "アメリカ ニューヨークの空港で旅客機と消防車両が衝突しパイロット2人が死亡した事故で、アメリカのNTSB＝国家運輸安全委員会は、管制官に地上での航空機や車両の接近を知らせるシステムの警報が発せられなか…",
+      "published": "Wed, 25 Mar 2026 10:49:41 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK国際",
+      "title": "フィリピン 国家エネルギー非常事態を宣言 イラン情勢に伴い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083451000",
+      "summary": "フィリピンのマルコス大統領は、緊迫するイラン情勢に伴い、エネルギー供給の危機に直面しているとして、「国家エネルギー非常事態」を宣言し、関係省庁による委員会を設置して、対応を強化することにしています。",
+      "published": "Wed, 25 Mar 2026 08:20:54 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK国際",
+      "title": "香港「リンゴ日報」香港政府が法人登記からの抹消を命じ解散",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083461000",
+      "summary": "中国政府に批判的な論調で知られた香港の新聞「リンゴ日報」について、香港政府は法人登記からの抹消を命じ、「リンゴ日報」は解散させられました。",
+      "published": "Wed, 25 Mar 2026 08:15:18 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK国際",
+      "title": "NY原油市場 先物価格が一時急落 イラン情勢めぐり荒い値動きに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083491000",
+      "summary": "24日のニューヨーク原油市場では国際的な取り引きの指標、WTIの先物価格が一時、急落するなど、イラン情勢をめぐって荒い値動きとなりました。",
+      "published": "Wed, 25 Mar 2026 07:55:57 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "NHK国際",
+      "title": "ゼレンスキー大統領 防空システムの支援継続を改めて求める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083471000",
+      "summary": "ウクライナのゼレンスキー大統領は24日、ロシアによる無人機やミサイルでの攻撃で、あわせて4人が死亡したと発表し、「ロシアの攻撃から人命を守るため、さらなる対策が必要だ」と訴え、各国に防空システムの支援…",
+      "published": "Wed, 25 Mar 2026 07:50:54 +0900"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米がイランに15項目の計画を提示か、トランプ氏は交渉の成果強調　イランとイスラエルの攻撃続くなか",
+      "url": "https://www.bbc.com/japanese/articles/cr71vz9kyvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "米・イスラエルとイランの戦争が続くなか、アメリカがイランに対し、パキスタンを通じて15項目の計画を手渡したと複数メディアが報じている。これに先駆け、トランプ米大統領は24日、自身の政権がイランの「適切な人物と話している」と述べ、「彼らは非常に強く合意を望んでいる」と語った。また、「この戦争に勝利した」と述べたものの、この戦争が実際にどのように終結し得るのかについてはほとんど触れなかった。",
+      "published": "Wed, 25 Mar 2026 03:55:36 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】米・イラン協議の窓がごくわずかに開いたか……しかし戦争早期終了の展望は見えず",
+      "url": "https://www.bbc.com/japanese/articles/cvg0n832588o?at_medium=RSS&at_campaign=rss",
+      "summary": "トランプ米大統領は、アメリカはイラン・イスラム共和国の「トップの人物」と協議しているのだと主張するが、イラン側は協議開始を否定する。",
+      "published": "Wed, 25 Mar 2026 03:58:18 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "英首相、中東での紛争は「迅速かつ早期」には終わらないと警告　「我々の戦争ではない」とも強調",
+      "url": "https://www.bbc.com/japanese/articles/cx26n3e34leo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのスターマー首相は23日、米・イスラエルとイランの戦争が「迅速かつ早期に終結するという誤った安心感に陥ってはならない」と、自身のチームに警告したことを明らかにした。また、この紛争は「我々の戦争ではない」とし、イギリスが関与する場合には「合法的根拠」が必要だと語った。",
+      "published": "Tue, 24 Mar 2026 05:03:44 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "「入植者が家を燃やしてる」　襲撃されたヨルダン川西岸のパレスチナ人集落を取材",
+      "url": "https://www.bbc.com/japanese/articles/cgrl0pye9yjo?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエルが占領するパレスチナ・ヨルダン川西岸地区で21日、ユダヤ人入植者の過激派がパレスチナ人の複数の集落を襲撃し、住宅や車、農地に火を放った。BBCのヨランド・ネル中東特派員が、襲撃のあったデイル・アル・ハタブ集落に入り、焼け跡を確認し、住民に話を聞いた。",
+      "published": "Tue, 24 Mar 2026 04:14:05 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "EU各国が燃料高騰に対応、購入制限や減税　米・イスラエルとイランの紛争受け",
+      "url": "https://www.bbc.com/japanese/articles/cvgk0y0z729o?at_medium=RSS&at_campaign=rss",
+      "summary": "欧州連合（EU）各国が、米・イスラエルとイランの紛争によるエネルギー価格の高騰への対応策を取り始めている。中欧スロヴェニアは23日、EU加盟国として初めて燃料の購入制限を発表。アイルランドも同日、ガソリンとディーゼル油に対する間接税を引き下げると発表した。",
+      "published": "Tue, 24 Mar 2026 07:40:09 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "香港警察、携帯電話のパスワード開示要求が可能に　「国家安全維持法」に関わる捜査で",
+      "url": "https://www.bbc.com/japanese/articles/czx9rq940jro?at_medium=RSS&at_campaign=rss",
+      "summary": "香港政府は23日、香港での反政府的な動きを取り締まる中国の「香港国家安全維持法」（国安法、2020年6月施行）の施行規則を改正したと発表した。これにより、香港警察は国安法に違反した疑いのある人物に対し、携帯電話やコンピューターのパスワードの開示を求めることが可能になった。",
+      "published": "Tue, 24 Mar 2026 09:22:30 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏、イランと協議し攻撃を5日間延期したと投稿　「フェイクニュース」とイラン国会議長",
+      "url": "https://www.bbc.com/japanese/articles/c93e76k0zzqo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は23日、自国とイランが「敵対行為の完全かつ全面的な解決」について協議したとし、自らが予告していたイランの発電所への攻撃を5日間延期したとソーシャルメディアに投稿した。一方、イランの国会議長は協議の実施を否定し、「フェイクニュース」が石油市場の「操作」に利用されていると主張した。",
+      "published": "Tue, 24 Mar 2026 03:43:12 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "メローニ伊首相、国民投票で敗北　初の痛手で立場弱まる",
+      "url": "https://www.bbc.com/japanese/articles/czjw7zmwwwko?at_medium=RSS&at_campaign=rss",
+      "summary": "イタリアで22、23両日、憲法改正の是非を問う国民投票があった。事実上、政権に対する信任投票となり、メローニ首相が支持する案が否決され、同氏は「敗北」を喫した。メローニ氏にとっては首相に就任して初の痛手で、立場が弱まるとの見方もある。",
+      "published": "Tue, 24 Mar 2026 08:28:02 GMT"
+    },
+    {
+      "category": "経済・金融",
+      "source": "NHK経済",
+      "title": "日銀 1月金融政策決定会合 “利上げタイミング逃さず” 意見も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083661000",
+      "summary": "日銀は25日、政策金利の据え置きを決めたことし1月の金融政策決定会合の議事要旨を公表しました。前の会合で利上げに踏み切ったばかりでしたが、円安によって物価の上昇がさらに加速するリスクを念頭に次の利上げ…",
+      "published": "Wed, 25 Mar 2026 12:21:41 +0900"
+    },
+    {
+      "category": "経済・金融",
+      "source": "NHK経済",
+      "title": "株価 一時5万4000円台を回復 イラン情勢めぐる警戒感後退で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083521000",
+      "summary": "25日の東京株式市場、イラン情勢をめぐる警戒感がいくぶん後退し、このところ値下がりした銘柄を買い戻す動きが広がって、日経平均株価は一時、5万4000円台を回復しました。",
+      "published": "Wed, 25 Mar 2026 12:01:43 +0900"
+    },
+    {
+      "category": "経済・金融",
+      "source": "NHK経済",
+      "title": "きょうのおはBiz3月25日(水) デジタル化で逆風!? 文具に勝機は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083591000",
+      "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…",
+      "published": "Wed, 25 Mar 2026 11:27:34 +0900"
+    },
+    {
+      "category": "経済・金融",
+      "source": "NHK経済",
+      "title": "上場企業の行動指針 コーポレートガバナンス・コード 改訂へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083371000",
+      "summary": "上場企業の行動指針を示す「コーポレートガバナンス・コード」が5年ぶりに改訂される見通しです。企業が保有する現金や預金が、好調な業績などを背景に積み上がっていることを踏まえ、国の有識者会議は、適切に活用…",
+      "published": "Wed, 25 Mar 2026 06:33:13 +0900"
+    },
+    {
+      "category": "経済・金融",
+      "source": "NHK経済",
+      "title": "金融機関どうし資金やりとりの「全銀ネット」新システム構築へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083361000",
+      "summary": "口座振り込みなど金融機関どうしで資金をやりとりするための基幹システムについて、運営する全国銀行協会の関連団体は新しいシステムの構築に向けて本格的な検討に入ることになりました。デジタル資産のステーブルコ…",
+      "published": "Wed, 25 Mar 2026 05:33:04 +0900"
+    },
+    {
+      "category": "経済・金融",
+      "source": "NHK経済",
+      "title": "中部電力 専務執行役員の辞任発表 複数人へのセクハラ発言で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083321000",
+      "summary": "中部電力は、片山明彦専務執行役員が、複数人に対してセクハラにあたる発言をしていたとして、24日付けで辞任したと発表しました。事案を極めて重く受け止めるとして、林欣吾社長も、役員報酬の一部を自主的に返上…",
+      "published": "Tue, 24 Mar 2026 21:17:14 +0900"
+    }
+  ]
+}
