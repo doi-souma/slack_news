@@ -1,69 +1,85 @@
 {
-  "generated_at": "2026-03-25T05:08:53.713000+00:00",
+  "generated_at": "2026-03-26T01:12:13.658065+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "Gigazine",
-      "title": "任天堂はNintendo Switch 2の生産台数を33％削減し600万台から400万台に引き下げるとの報道、アメリカ市場での需要低迷が主な理由",
-      "url": "https://gigazine.net/news/20260325-nintendo-cuts-production-switch-2/",
-      "summary": "任天堂が2025年6月に発売した「Nintendo Switch 2」は、発売から4カ月で1000万台超も売れ、アメリカでは2025年に最も売れたゲーム機となりました。続きを読む...",
-      "published": "Wed, 25 Mar 2026 13:11:00 +0900"
+      "title": "交流から直流へデータセンターは移行中、800ボルトの直流電力供給で次世代AIデータセンターが実現可能に",
+      "url": "https://gigazine.net/news/20260326-data-centers-transitioning-ac-dc/",
+      "summary": "次世代のAIデータセンターでは従来のスタンダードである交流ではなく、直流での電力供給が流行する可能性を、世界有数のエンジニアリング誌であるIEEE Spectrumが報じています。続きを読む...",
+      "published": "Thu, 26 Mar 2026 08:00:00 +0900"
     },
     {
       "category": "AI・テクノロジー",
       "source": "Gigazine",
-      "title": "Ai2がビジュアルウェブAIエージェントの「MolmoWeb」をリリース、HTMLを解析するのではなくブラウザのスクリーンショットで動作",
-      "url": "https://gigazine.net/news/20260325-molmoweb/",
-      "summary": "アメリカに拠点を置くAI企業のアレン人工知能研究所(Ai2)が、ブラウザを操作・制御するように設計されたAIエージェント「MolmoWeb」を発表しました。続きを読む...",
-      "published": "Wed, 25 Mar 2026 13:00:00 +0900"
+      "title": "Windows標準機能より4倍高速な圧縮・解凍ソフト「CoZip」が登場したので使ってみた、GPUを駆使して爆速圧縮できる無料ソフト",
+      "url": "https://gigazine.net/news/20260326-gpu-accelerated-compression-cozip/",
+      "summary": "GPUを用いて非常に高速な圧縮処理が可能な圧縮・解凍(展開)ソフト「CoZip」がべあ(bea4dev)氏によって公開されました。オープンソースで開発されていてWindows用のインストーラーも用意されていたので、実際に使ってWindows標準機能と速度を比べてみました。続きを読む...",
+      "published": "Thu, 26 Mar 2026 07:00:00 +0900"
     },
     {
       "category": "AI・テクノロジー",
       "source": "Gigazine",
-      "title": "AppleがiOSおよびiPadOS 26.4をリリース、AIでApple Musicのプレイリストを生成できる新機能「Playlist Playground」＆8種類の新しい絵文字追加など",
-      "url": "https://gigazine.net/news/20260325-apple-ios-ipados-26-4-released/",
-      "summary": "iOSおよびiPadOS 26.4が2026年3月25日にリリースされました。アップデートにはApple Musicの新機能やアクセシビリティ改善、新しい絵文字の追加など一般ユーザー向けの機能拡張に加え、開発者向けには新しいフレームワークやAPI、セキュリティ機構の強化、不具合修正が含まれ、ユーザー体験の細かな向上と今後の機能拡張に向けた基盤整備の両面が特徴となっています。続きを読む...",
-      "published": "Wed, 25 Mar 2026 12:37:00 +0900"
+      "title": "自動車修理工場向けにAI受付システムを構築した記録",
+      "url": "https://gigazine.net/news/20260326-build-ai-receptionist-auto-repair-shop/",
+      "summary": "ソフトウェア開発者のケダーシャ・カー氏は、高級車向けの整備工場を営む兄が車の整備中に電話に出られず週に数百件の電話を逃していたことから、AI受付システムの構築を始めました。価格表や営業時間などの実データを参照して質問に答え、分からない内容は折り返し連絡として受け付けるAI受付システムをどう組み上げたのか、カー氏はAIの助けを借りた上で情報をまとめてブログに投稿しています。続きを読む...",
+      "published": "Thu, 26 Mar 2026 06:00:00 +0900"
     },
     {
       "category": "AI・テクノロジー",
       "source": "Gigazine",
-      "title": "668の夢を分析した研究でストレスと睡眠の関係が示される",
-      "url": "https://gigazine.net/news/20260325-disrupt-sleep/",
-      "summary": "寝るために布団に入ったのに、過去の嫌な出来事や将来の不安が頭に浮かんでなかなか寝付けなかった経験のある人は多いはず。スイスの心理学者による研究では、「すでにストレスを感じているパターン」と「将来的にストレスを感じることを予期しているパターン」で睡眠の質が異なることが示されています。続きを読む...",
-      "published": "Wed, 25 Mar 2026 12:30:00 +0900"
+      "title": "無料で使えるApple IntelligenceのFoundation Modelsベースのローカル翻訳アプリ「Pre-Babel Lens」",
+      "url": "https://gigazine.net/news/20260325-pre-babel-lens/",
+      "summary": "Apple Intelligenceのデバイス内LLMであるFoundation Modelsを使う翻訳アプリケーション「Pre-Babel Lens(プレバベル)」が公開されました。Apple Intelligenceを有効にしたMacであれば無料で利用することが可能です。続きを読む...",
+      "published": "Wed, 25 Mar 2026 21:00:00 +0900"
     },
     {
       "category": "AI・テクノロジー",
       "source": "Gigazine",
-      "title": "GitHubスター4万超えのAIライブラリ「LiteLLM」がサプライチェーン攻撃を受けマルウェア版が配布されてしまう、ユーザーのSSHキーやAPIキーが盗まれた可能性あり",
-      "url": "https://gigazine.net/news/20260325-litellm-supply-chain-attack/",
-      "summary": "AI管理ライブラリの「LiteLLM」がサプライチェーン攻撃を受け、一時的に悪意ある変更を含んだマルウェア版が配布されていたことが判明しました。LiteLLMのマルウェア版ではユーザーのSSHキーやAPIキーを盗み出すスクリプトが動作していたことも判明しています。続きを読む...",
-      "published": "Wed, 25 Mar 2026 12:23:00 +0900"
+      "title": "「Wine 11」でLinuxがWindowsゲームを実行する方法をカーネルレベルで書き換えて速度が大幅に向上",
+      "url": "https://gigazine.net/news/20260325-wine-11-linux/",
+      "summary": "Linux上でWindows向けアプリを動作させるための互換レイヤー「Wine」のバージョン11で、パフォーマンスを向上させるドライバー「NTSYNC」が正式にサポートされました。これに伴い、一部のゲームのパフォーマンスが目に見えるレベルで向上したとして、テクノロジー系メディアのXDAが詳細を共有しています。続きを読む...",
+      "published": "Wed, 25 Mar 2026 20:00:00 +0900"
     },
     {
       "category": "AI・テクノロジー",
       "source": "Gigazine",
-      "title": "Appleが「Siri」を音声アシスタントからAIエージェントへ刷新へ、単独の「Siri」アプリも",
-      "url": "https://gigazine.net/news/20260325-apple-siri-reboot/",
-      "summary": "Appleが「Siri」を一新して、単なる音声アシスタントからOSに統合したシステム全体のAIエージェントにする計画を進めていることがわかりました。計画の一環として、2026年後半にiPhone・iPad・Macで「Siri」アプリのテストが始まる見込みです。続きを読む...",
-      "published": "Wed, 25 Mar 2026 12:06:00 +0900"
+      "title": "2026年3月25日のヘッドラインニュース",
+      "url": "https://gigazine.net/news/20260325-headline/",
+      "summary": "Netflix独占配信から「1週間限定劇場公開」を経て全国劇場公開を成し遂げた『超かぐや姫！』で、2026年3月27日(金)から5週連続で週替わりのウェルカムアナウンス上映が行われます。第1週はかぐやが担当。第2週以降の担当は毎週火曜18時に発表されるとのことです。続きを読む...",
+      "published": "Wed, 25 Mar 2026 19:15:00 +0900"
     },
     {
       "category": "AI・テクノロジー",
       "source": "Gigazine",
-      "title": "Claude Codeに権限自動決定機能が追加される、AIが権限のリスクをチェックしタスクを自動実行",
-      "url": "https://gigazine.net/news/20260325-claude-auto-mode/",
-      "summary": "コーディングアシスタントのClaude Codeに、AIがユーザーに変わって権限の判断を行う「Auto mode」が追加されました。人間の承認が必要な一部のタスクを自動実行する機能です。続きを読む...",
-      "published": "Wed, 25 Mar 2026 11:33:00 +0900"
+      "title": "GitHubが海賊版アニメ視聴ツールのリポジトリとフォークを900件以上削除、ただし「DRM回避行為」の主張は否定",
+      "url": "https://gigazine.net/news/20260325-github-deleted-piracy-repos-and-forks/",
+      "summary": "GitHubがアニメを違法に視聴するツールに関連した900以上のリポジトリとフォークを削除しました。これはCrunchyrollやVIZ Mediaなどの権利者を代表するRemove Your Media LLCによる削除要請を受けた措置です。続きを読む...",
+      "published": "Wed, 25 Mar 2026 19:00:00 +0900"
     },
     {
       "category": "AI・テクノロジー",
       "source": "Gigazine",
-      "title": "フォートナイトの開発元・Epic Gamesが1000人以上を解雇",
-      "url": "https://gigazine.net/news/20260325-fortnite-epic-games-cuts-1000-jobs/",
-      "summary": "人気バトルロイヤルゲームのフォートナイトや、ゲームエンジン・Unreal Engineの開発元であるEpic Gamesが、1000人超の従業員を解雇すると発表しました。続きを読む...",
-      "published": "Wed, 25 Mar 2026 11:16:00 +0900"
+      "title": "99種類以上のフルーツやスパイスフレーバーをブレンドした「ギルティ炭酸 NOPE(ノープ)」は一体どんな味なのか？",
+      "url": "https://gigazine.net/news/20260325-guilty-nope/",
+      "summary": "サントリーが99種のフルーツ＆スパイスをかけ合わせて基本五味を刺激する味わいを詰め込んだドリンク「ギルティ炭酸 NOPE(ノープ)」を2026年3月24日に新発売しました。どのような味のドリンクなのか、サントリーから届いたNOPEを実際に飲んでみました。続きを読む...",
+      "published": "Wed, 25 Mar 2026 17:00:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia AI+",
+      "title": "「Claude Cowork」とRPAの根本的な違い　AIが“ソフトウェアを殺す”メカニズム",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/27/news007.html",
+      "summary": "Anthropicの自律型AI「Claude Cowork」がSaaS業界に激震を走らせている。なぜ「Anthropicショック」は起きたのか。そして、従来のRPAやGUI操作AIとは何が異なるのか。その仕組みを詳解する。",
+      "published": "Thu, 26 Mar 2026 08:00:00 +0900"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia AI+",
+      "title": "メルカリ、出品ページの“生成AI画像”に注意喚起　「購入者に誤解与え、取引トラブルになる」",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/25/news117.html",
+      "summary": "メルカリは、出品時に生成AI画像などを使用する場合の注意点をまとめて公開した。メルカリでは実物のない出品や虚偽情報の記載は禁止していると説明し、生成AI画像の利用に関するルールをまとめた。",
+      "published": "Wed, 25 Mar 2026 17:47:00 +0900"
     },
     {
       "category": "AI・テクノロジー",
@@ -115,19 +131,51 @@
     },
     {
       "category": "AI・テクノロジー",
-      "source": "ITmedia AI+",
-      "title": "JALはRAGの“試練”にどう立ち向かったか　プロジェクト中断から利用率80％超に至った「JAL-AI」の軌跡",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/27/news008.html",
-      "summary": "AI導入に慎重だったJALはなぜ、全社展開へと踏み出せたのか。試行錯誤と戦略転換を重ねた同社の取り組みは、AI活用に悩む多くの企業へのヒントを与えてくれる。",
-      "published": "Wed, 25 Mar 2026 08:00:00 +0900"
+      "source": "CNET Japan",
+      "title": "「無線LANルータの寿命は最長で6年」エレコムが案内",
+      "url": "https://japan.cnet.com/article/35245519/",
+      "summary": "同社は、無線LANルーターの寿命は最長で6年としている。内訳は、機器本体が4〜5年、通信規格が2〜6年、セキュリティが2〜5年だという。機器本体は内部の電子部品やファンが経年劣化し、処理速度や電波強度に影響が出る場合がある。接続が不安定になったり、本体が異常に熱を持ったりする場合は、買い替えを検討すべきとしている。",
+      "published": ""
     },
     {
       "category": "AI・テクノロジー",
-      "source": "ITmedia AI+",
-      "title": "Arm、初の自社開発チップ「AGI CPU」を発表　Metaと共同開発のエージェンティックAI特化CPU",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/25/news067.html",
-      "summary": "Armは、自社初となる独自開発CPU「AGI CPU」を発表した。エージェンティックAIの需要拡大に対応し、高い電力効率と並列処理能力を備える。開発ではMetaが中核的な役割りを担っており、将来的に設計をOCPで公開する予定だ。OpenAIやソシオネクストなど50社以上が支持を表明しており、次世代AIインフラの中核を担うことが期待される。",
-      "published": "Wed, 25 Mar 2026 07:43:00 +0900"
+      "source": "CNET Japan",
+      "title": "火星探査を変える？　NASA、原子力宇宙船「SR-1 Freedom」を2028年打ち上げへ",
+      "url": "https://japan.cnet.com/article/35245514/",
+      "summary": "NASAは、火星探査機「Skyfall」を運ぶ原子力宇宙船「SR-1 Freedom」を2028年に打ち上げる計画を明らかにした。火星地下にある氷の探査や、将来の深宇宙ミッションへの応用が期待される──。",
+      "published": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "CNET Japan",
+      "title": "ソニーの「PlayStationカー」構想、突然の打ち切り--どんなクルマだったのか",
+      "url": "https://japan.cnet.com/article/35245511/",
+      "summary": "ソニー・ホンダモビリティがEV「Afeela」セダンとSUVの開発中止を発表した。ホンダの電動化戦略見直しに伴い、計画継続が難しくなったという。",
+      "published": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "CNET Japan",
+      "title": "ソニーホンダもEVの開発・発売を中止",
+      "url": "https://japan.cnet.com/article/35245509/",
+      "summary": "ソニーグループと本田技研工業は3月25日、合弁会社のソニー・ホンダモビリティ（ソニーホンダ）の事業方針を見直すと発表した。これに伴い、同社が開発していた第1弾モデル「AFEELA 1」と第2弾モデルの開発・発売を中止する。",
+      "published": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "CNET Japan",
+      "title": "「ドコモの火災保険」提供開始",
+      "url": "https://japan.cnet.com/article/35245500/",
+      "summary": "NTTドコモは3月25日、日新火災海上保険と持家向けの「ドコモの火災保険」の提供を始めた。マンションの区分所有者も対象。インターネット完結型の火災保険で、ドコモ回線の契約がないユーザーでも申し込める。",
+      "published": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "CNET Japan",
+      "title": "NASA、月周回基地「ゲートウェイ」建設を停止　月面基地に集中",
+      "url": "https://japan.cnet.com/article/35245478/",
+      "summary": "NASAはここ2カ月で2度目となる、月探査計画の大幅な見直しを断行した。",
+      "published": ""
     },
     {
       "category": "AI・テクノロジー",
@@ -146,60 +194,28 @@
       "published": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "CNET Japan",
-      "title": "アップル、「Siri」の大幅刷新で専用アプリ提供か　iOS 27で",
-      "url": "https://japan.cnet.com/article/35245459/",
-      "summary": "アップルは、音声アシスタント「Siri」を10年以上前に提供開始して以来、最大級となる変更を計画しているようだ。",
-      "published": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "CNET Japan",
-      "title": "「Claude」の著作権訴訟が決着へ、和解金は過去最大規模の約2400億円",
-      "url": "https://japan.cnet.com/article/35245446/",
-      "summary": "作家らとAnthropicの間で争われている、会話型AI「Claude」の学習をめぐる画期的な著作権訴訟は、10万件近い請求が提出され、終結に近づいている。",
-      "published": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "CNET Japan",
-      "title": "「Metaが子どもの性的搾取を許容」との評決、約560億円の制裁金　ニューメキシコ州",
-      "url": "https://japan.cnet.com/article/35245441/",
-      "summary": "ニューメキシコ州の陪審団は、Metaが「Facebook」「Instagram」「WhatsApp」で子どもの性的搾取を許容し、安全性についてユーザーに誤解を与えたとして、同州の消費者保護法に違反したとの評決を下した。",
-      "published": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "CNET Japan",
-      "title": "アップルの「マップ」に広告が登場へ、新サービス「Apple Business」の一環で",
-      "url": "https://japan.cnet.com/article/35245438/",
-      "summary": "アップルは2026年夏に「iPhone」などのデバイスやウェブ版アプリで、「マップ」への広告表示を開始する。",
-      "published": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "CNET Japan",
-      "title": "OpenAI、動画生成アプリ「Sora」終了へ　なぜ？ 理由を聞いた",
-      "url": "https://japan.cnet.com/article/35245437/",
-      "summary": "米OpenAIが、最近大きな話題を呼んだ動画生成AIアプリ「Sora」を終了すると発表した。",
-      "published": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "CNET Japan",
-      "title": "アステラス製薬、7つのAIで「出荷か廃棄か」を判断　品質管理にマルチエージェント導入",
-      "url": "https://japan.cnet.com/article/35245435/",
-      "summary": "医薬品製造で異物混入などのトラブルが起きた際、過去事例100件超を調べて判断する必要がある逸脱処理。アステラス製薬はマイクロソフトと共同で、検索・検証・要約を分担する7つのAIエージェントシステムを約2カ月で開発し、5月に実装完了予定。",
-      "published": ""
-    },
-    {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
       "title": "米がイランに15項目の計画を提示か、トランプ氏は交渉の成果強調　イランとイスラエルの攻撃続くなか",
       "url": "https://www.bbc.com/japanese/articles/cr71vz9kyvxo?at_medium=RSS&at_campaign=rss",
       "summary": "米・イスラエルとイランの戦争が続くなか、アメリカがイランに対し、パキスタンを通じて15項目の計画を手渡したと複数メディアが報じている。これに先駆け、トランプ米大統領は24日、自身の政権がイランの「適切な人物と話している」と述べ、「彼らは非常に強く合意を望んでいる」と語った。また、「この戦争に勝利した」と述べたものの、この戦争が実際にどのように終結し得るのかについてはほとんど触れなかった。",
       "published": "Wed, 25 Mar 2026 03:55:36 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米・イスラエルとイラン、合意するのか戦争拡大か　BBC国際編集長",
+      "url": "https://www.bbc.com/japanese/articles/c74v592q27xo?at_medium=RSS&at_campaign=rss",
+      "summary": "米・イスラエルとイランの間で、仮に明日に停戦や合意が実現したとして、この戦争は中東地域に何をもたらすのか。ジェレミー・ボウエンBBC国際編集長が報告する。",
+      "published": "Wed, 25 Mar 2026 11:14:06 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ロシア、ドローン948機をウクライナに発射　24時間の攻撃としては最大規模",
+      "url": "https://www.bbc.com/japanese/articles/clyx2l0xn2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "ロシアは24日にかけての24時間で、ウクライナ各地の都市を攻撃し、ドローン948機を発射した。ロシアが丸1日で実施した空爆としては、ウクライナでの戦争が始まってから最大規模のものとなった。",
+      "published": "Wed, 25 Mar 2026 07:57:09 GMT"
     },
     {
       "category": "政治・国際情勢",
@@ -212,10 +228,18 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英首相、中東での紛争は「迅速かつ早期」には終わらないと警告　「我々の戦争ではない」とも強調",
-      "url": "https://www.bbc.com/japanese/articles/cx26n3e34leo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのスターマー首相は23日、米・イスラエルとイランの戦争が「迅速かつ早期に終結するという誤った安心感に陥ってはならない」と、自身のチームに警告したことを明らかにした。また、この紛争は「我々の戦争ではない」とし、イギリスが関与する場合には「合法的根拠」が必要だと語った。",
-      "published": "Tue, 24 Mar 2026 05:03:44 GMT"
+      "title": "フィリピンがエネルギー非常事態を宣言、イランめぐる紛争では世界初",
+      "url": "https://www.bbc.com/japanese/articles/c4g6pjp5z2mo?at_medium=RSS&at_campaign=rss",
+      "summary": "フィリピンは24日、国家エネルギー非常事態を宣言した。米・イスラエルとイランの戦争を受けたものとしては、世界初。マルコス大統領はこの日、国内のエネルギー供給の「利用可能性と安定性に差し迫った危険が生じている」として、エネルギー安全保障を確保するための大統領令に署名したと述べた。",
+      "published": "Wed, 25 Mar 2026 08:04:45 GMT"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "中国、燃料価格の引き上げ幅を縮小　米・イスラエルとイランの戦争受け",
+      "url": "https://www.bbc.com/japanese/articles/c05dp63y867o?at_medium=RSS&at_campaign=rss",
+      "summary": "米・イスラエルとイランとの戦争を受けてエネルギー価格が急騰するなか、中国は運転者の「負担を軽減する」として、以前から予定していた燃料価格の引き上げの幅を抑制した。価格調整を行う国家発展改革委員会は23日の声明で、「国際原油価格の異常な上昇の影響を緩和し、下流利用者の負担を軽減し、経済運営と公益の安定を確保するため、暫定的な規制措置を採用した」と述べた。アジアの他の国々も、燃料の値上がりへの対応策を",
+      "published": "Wed, 25 Mar 2026 06:29:24 GMT"
     },
     {
       "category": "政治・国際情勢",
@@ -234,92 +258,68 @@
       "published": "Tue, 24 Mar 2026 07:40:09 GMT"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "香港警察、携帯電話のパスワード開示要求が可能に　「国家安全維持法」に関わる捜査で",
-      "url": "https://www.bbc.com/japanese/articles/czx9rq940jro?at_medium=RSS&at_campaign=rss",
-      "summary": "香港政府は23日、香港での反政府的な動きを取り締まる中国の「香港国家安全維持法」（国安法、2020年6月施行）の施行規則を改正したと発表した。これにより、香港警察は国安法に違反した疑いのある人物に対し、携帯電話やコンピューターのパスワードの開示を求めることが可能になった。",
-      "published": "Tue, 24 Mar 2026 09:22:30 GMT"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "トランプ氏、イランと協議し攻撃を5日間延期したと投稿　「フェイクニュース」とイラン国会議長",
-      "url": "https://www.bbc.com/japanese/articles/c93e76k0zzqo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は23日、自国とイランが「敵対行為の完全かつ全面的な解決」について協議したとし、自らが予告していたイランの発電所への攻撃を5日間延期したとソーシャルメディアに投稿した。一方、イランの国会議長は協議の実施を否定し、「フェイクニュース」が石油市場の「操作」に利用されていると主張した。",
-      "published": "Tue, 24 Mar 2026 03:43:12 GMT"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "メローニ伊首相、国民投票で敗北　初の痛手で立場弱まる",
-      "url": "https://www.bbc.com/japanese/articles/czjw7zmwwwko?at_medium=RSS&at_campaign=rss",
-      "summary": "イタリアで22、23両日、憲法改正の是非を問う国民投票があった。事実上、政権に対する信任投票となり、メローニ首相が支持する案が否決され、同氏は「敗北」を喫した。メローニ氏にとっては首相に就任して初の痛手で、立場が弱まるとの見方もある。",
-      "published": "Tue, 24 Mar 2026 08:28:02 GMT"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢暗号資産トレジャリー｣に東証のメスは入るか | ダイジェスト版 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939053?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「上場後において、上場適格性に懸念が生じるような、事業内容の大幅な変更を行う事例が発生している」2月…",
+      "published": "Thu, 26 Mar 2026 10:00:00 +0900"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "バルミューダ新作｢The Clock｣賛否が割れた理由 | インターネット | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938861?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "毎年、数えきれないほどの便利な新製品が発売されている。気付けば我々の身の回りは便利なものだらけだ。…",
-      "published": "Wed, 25 Mar 2026 14:00:00 +0900"
+      "title": "あなたは大丈夫？｢モラハラ夫チェックリスト｣ | 自衛隊員も学ぶ！メンタルチューニング | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938913?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "夕食後、夫にどうしても気になっていたことを切り出そうとした。「少し話せる？」と声をかけると、彼はス…",
+      "published": "Thu, 26 Mar 2026 10:00:00 +0900"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢暴政株式会社｣が破壊する米国の自由と民主主義 | アメリカ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938034?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "10年前の2016年アメリカ大統領選でのドナルド・トランプの勝利は必然だったのだろう。前年の出馬表明以来…",
-      "published": "Wed, 25 Mar 2026 13:00:00 +0900"
+      "title": "｢ビジネスケアラー｣の言葉に感じた強い\"違和感\" | 家庭 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938816?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "少子高齢化の進む日本で、“親の介護”は社会全体の大きな課題となっています。子世代は仕事があり、自分…",
+      "published": "Thu, 26 Mar 2026 09:30:00 +0900"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "インデックスに｢物足りない人｣打つべき次の一手 | 投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/935818?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "投資をはじめてから、わたしの軸はずっとインデックス投資でした。とりわけオルカンに振り切ることが、現…",
-      "published": "Wed, 25 Mar 2026 12:30:00 +0900"
+      "title": "賃上げはコスト？春闘でバレる｢経営者の頭の中｣ | 経営 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938868?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "今年の春闘は、一斉回答日を経て、大企業を中心に満額回答が相次ぎました。賃上げは「できるかどうか」で…",
+      "published": "Thu, 26 Mar 2026 09:00:00 +0900"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "Z世代が選ぶ｢高コスパ｣な留学先､米国以外も人気 | 教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938772?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "海外留学といえば、昔は語学、特に英語を学びに行くものというイメージが強かった。しかし近年強まってい…",
-      "published": "Wed, 25 Mar 2026 12:00:00 +0900"
+      "title": "独身女性のマンション購入は｢49歳がリミット｣？ | 不動産 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938761?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「女性がマンションを買うなら49歳まで」そう語るのは、東京都内で働く司法書士の川本さん（仮名）だ。早…",
+      "published": "Thu, 26 Mar 2026 08:30:00 +0900"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ホルムズ危機で注目｢日本の備蓄｣は足りるのか | 国内経済 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938994?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アメリカとイスラエルによるイラン攻撃によって、中東石油搬出の要とも言えるホルムズ海峡は事実上封鎖さ…",
-      "published": "Wed, 25 Mar 2026 11:30:00 +0900"
+      "title": "｢不動産バブル崩壊｣はいよいよ近づいているのか | 賢く儲ける！マイホーム投資のすすめ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939040?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "金融庁が2026年2月、全国の地銀に対し、不動産業への融資増加について異例の警告を発したと報じられた。…",
+      "published": "Thu, 26 Mar 2026 08:15:00 +0900"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢教育コストを売上に｣変えた逆転発想の経営術 | 外食 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938766?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ラーメンと半チャーハンのセットが500円――。物価高騰が続く今、この価格は明らかに常識外れといってよ…",
-      "published": "Wed, 25 Mar 2026 11:00:00 +0900"
+      "title": "8兆円市場｢レガシー産業｣改革､スナックの未来 | 外食 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938984?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "重たい扉の向こうから談笑やカラオケの歌声が漏れ聞こえてくる。煌々と明かりを灯すのは夜の社交場「スナ…",
+      "published": "Thu, 26 Mar 2026 08:00:00 +0900"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "プロが解説！映画『国宝』\"女形メイク\"の凄さ | 美容・フィットネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938917?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2025年に大旋風を巻き起こした映画『国宝』。日本アカデミー賞では10冠に輝き、本場アメリカのアカデミー…",
-      "published": "Wed, 25 Mar 2026 10:45:00 +0900"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "新｢コルド リーブス｣ベースをいすゞに変えた訳 | トレンド | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938597?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "近年、人気を博しているキャンピングカーの中でも、高級感が際立つキャブコン（キャブコンバージョン）と…",
-      "published": "Wed, 25 Mar 2026 10:30:00 +0900"
+      "title": "4年連続｢寝不足世界一｣な\"不眠列島･日本\"を救え | 健康 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938810?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「いかに深く、質の高い睡眠を手に入れるか」という、現代のビジネスパーソンにとって最も切実なテーマに…",
+      "published": "Thu, 26 Mar 2026 07:45:00 +0900"
     }
   ]
 }
