@@ -1,11 +1,10 @@
 """
 fetch_news.py
-カテゴリ別RSSフィードからニュースを収集し、Gemini APIで選別・要約してJSONに保存する。
+カテゴリ別RSSフィードからニュースを収集し、カテゴリごとに新着順で選別してJSONに保存する。
 """
 
 import html
 import json
-import os
 import re
 import sys
 import time
@@ -13,7 +12,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import feedparser
-import google.generativeai as genai
 import yaml
 from dotenv import load_dotenv
 
@@ -25,6 +23,33 @@ def strip_html(text: str) -> str:
     text = re.sub(r"<[^>]+>", "", text)
     text = html.unescape(text)
     return text.strip()
+
+
+def extract_image_url(entry) -> str:
+    """RSSエントリから画像URLを抽出する。"""
+    # media:thumbnail
+    thumbnails = getattr(entry, "media_thumbnail", None)
+    if thumbnails:
+        return thumbnails[0].get("url", "")
+    # media:content
+    media_content = getattr(entry, "media_content", None)
+    if media_content:
+        for m in media_content:
+            url = m.get("url", "")
+            if m.get("medium") == "image" or re.search(r"\.(jpg|jpeg|png|webp|gif)", url, re.I):
+                return url
+    # enclosure
+    enclosures = getattr(entry, "enclosures", None)
+    if enclosures:
+        for enc in enclosures:
+            if enc.get("type", "").startswith("image/"):
+                return enc.get("url", "")
+    # summary/description内の<img>タグ
+    raw = entry.get("summary", "") + entry.get("description", "")
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw)
+    if m:
+        return m.group(1)
+    return ""
 
 
 def load_config() -> dict:
@@ -56,6 +81,7 @@ def fetch_all_articles(categories: list[dict], max_per_feed: int = 8) -> list[di
                         "url": url,
                         "summary": strip_html(entry.get("summary", entry.get("description", "")))[:200],
                         "published": entry.get("published", ""),
+                        "image_url": extract_image_url(entry),
                     })
             except Exception as e:
                 print(f"  Warning: {feed_info['name']}: {e}", file=sys.stderr)
@@ -66,50 +92,15 @@ def fetch_all_articles(categories: list[dict], max_per_feed: int = 8) -> list[di
 
 
 def select_articles(articles: list[dict], config: dict) -> list[dict]:
-    """Geminiで記事を選別する。APIが使えない場合は全記事をそのまま返す。"""
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        print("GEMINI_API_KEY not set. Returning all articles.")
-        return articles
+    """カテゴリごとに新着順で上位N件を返す。"""
+    n = config.get("articles_per_category", 5)
+    by_category: dict[str, list[dict]] = {}
+    for a in articles:
+        by_category.setdefault(a["category"], []).append(a)
 
-    try:
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-2.0-flash")
-
-        news_per_day = config.get("news_per_day", 7)
-        keywords = [
-            kw
-            for cat in config.get("categories", [])
-            for kw in cat.get("keywords", [])
-        ]
-
-        articles_text = "\n".join(
-            f"{i+1}. [{a['category']}] {a['title']}"
-            for i, a in enumerate(articles)
-        )
-
-        prompt = (
-            f"以下のニュース記事リストから、情報系学生にとって重要な{news_per_day}本を選んでください。\n"
-            f"特に注目するキーワード: {', '.join(keywords[:15])}\n\n"
-            f"{articles_text}\n\n"
-            f"選んだ記事の番号だけをJSON配列で返してください。例: [1, 5, 8, 12]"
-        )
-
-        print("Calling Gemini API (selection only)...")
-        response = model.generate_content(prompt)
-        raw = response.text.strip()
-
-        if raw.startswith("```"):
-            raw = raw.split("```")[1].lstrip("json").strip()
-
-        indices: list[int] = json.loads(raw)
-        selected = [articles[i - 1] for i in indices if 1 <= i <= len(articles)]
-        print(f"Selected {len(selected)} articles by Gemini.")
-        return selected
-
-    except Exception as e:
-        print(f"Gemini API unavailable ({e}). Returning all articles as fallback.")
-        return articles
+    selected = [a for cat_articles in by_category.values() for a in cat_articles[:n]]
+    print(f"Selected {len(selected)} articles ({n} per category).")
+    return selected
 
 
 def save_articles(articles: list[dict], output_path: Path) -> None:

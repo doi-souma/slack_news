@@ -3,7 +3,8 @@
     "allow": [
       "Bash(python3:*)",
       "Bash(.venv/bin/pip install:*)",
-      "Bash(.venv/bin/python scripts/generate_html.py)"
+      "Bash(.venv/bin/python scripts/generate_html.py)",
+      "Bash(gh run:*)"
     ]
   }
 }

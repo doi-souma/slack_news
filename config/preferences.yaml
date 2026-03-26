@@ -4,7 +4,7 @@
 
 # --- 基本設定 ---
 language: "ja"           # 要約・出力言語（ja = 日本語）
-news_per_day: 7          # 1日の取得ニュース数（5〜8本）
+articles_per_category: 5  # カテゴリごとの記事数
 output_language: "ja"    # HTMLページの表示言語
 
 
@@ -29,12 +29,12 @@ categories:
       - "TSMC"
       - "AI規制"
     rss_sources:
-      - name: "Gigazine"
-        url: "https://gigazine.net/news/rss_2.0/"
-      - name: "ITmedia AI+"
-        url: "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"
-      - name: "CNET Japan"
-        url: "https://japan.cnet.com/rss/index.rdf"
+      - name: "ITmedia NEWS"
+        url: "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml"
+      - name: "Zenn"
+        url: "https://zenn.dev/feed"
+      - name: "Qiita"
+        url: "https://qiita.com/popular-items/feed"
 
   - name: "政治・国際情勢"
     weight: 4
@@ -79,26 +79,6 @@ categories:
       - name: "東洋経済オンライン"
         url: "https://toyokeizai.net/list/feed/rss"
 
-
-# --- Gemini への指示（プロンプト） ---
-gemini_prompt: |
-  あなたは情報系の学生向けのニュースキュレーターです。
-  以下の記事リストから最も重要な {news_per_day} 本を選んでください。
-
-  【選別の優先基準】
-  1. AI・半導体・テクノロジーの最新動向（特にClaude/Anthropic, OpenAI, NVIDIA関連）
-  2. 日本とアメリカの政治的動き（首相・大統領の発言や政策）
-  3. 政治の動きが経済（円安・ガソリン・物価）に与える影響が読み取れる記事
-  4. 情報系学生として知っておくべき技術トレンド
-
-  【各記事の出力形式（JSON）】
-  - title: 記事タイトル（日本語）
-  - summary: 3文以内の要約（日本語）。政治・経済記事は「なぜ生活に影響するか」まで言及
-  - category: カテゴリ名
-  - importance: 重要度スコア（1〜5）
-  - url: 元記事URL
-  - source: 媒体名
-  - tags: 関連キーワードリスト（最大3つ）
 
 
 # --- Slack通知設定 ---

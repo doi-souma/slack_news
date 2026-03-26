@@ -2,7 +2,7 @@ name: Daily News Bot
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 毎朝9時JST（= UTC 0:00）
+    - cron: '15 0 * * *'  # 毎朝9時15分JST（= UTC 0:15）
   workflow_dispatch:      # GitHub画面から手動実行も可能
 
 jobs:
@@ -28,8 +28,6 @@ jobs:
 
       # ── Step 1: RSSフィード収集 + Gemini選別・要約 ──────────────
       - name: Fetch and select news
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/fetch_news.py
 
       # ── Step 2: HTMLページ生成 ───────────────────────────────────
