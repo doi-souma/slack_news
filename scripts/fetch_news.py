@@ -8,7 +8,8 @@ import json
 import re
 import sys
 import time
-from datetime import datetime, timezone
+import unicodedata
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
@@ -16,6 +17,17 @@ import yaml
 from dotenv import load_dotenv
 
 load_dotenv(dotenv_path=Path(__file__).parent.parent / ".env")
+
+JST = timezone(timedelta(hours=9))
+
+
+def format_published(entry) -> str:
+    """公開日時をJSTの統一フォーマット（YYYY/MM/DD HH:MM）で返す。"""
+    parsed = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
+    if parsed:
+        dt = datetime(*parsed[:6], tzinfo=timezone.utc).astimezone(JST)
+        return dt.strftime("%Y/%m/%d %H:%M")
+    return ""
 
 
 def strip_html(text: str) -> str:
@@ -52,16 +64,28 @@ def extract_image_url(entry) -> str:
     return ""
 
 
+def normalize_title(title: str) -> str:
+    """重複判定用にタイトルを正規化する。"""
+    # 【速報】などの角括弧プレフィックスを除去
+    title = re.sub(r'[【〔\[（(][^】〕\]）)]*[】〕\]）)]', '', title)
+    # 全角英数→半角、大文字→小文字
+    title = unicodedata.normalize('NFKC', title).lower()
+    # 空白・記号を除去
+    title = re.sub(r'[\s\u3000\-・|／/「」『』、。]+', '', title)
+    return title
+
+
 def load_config() -> dict:
     config_path = Path(__file__).parent.parent / "config" / "preferences.yaml"
     with open(config_path, encoding="utf-8") as f:
         return yaml.safe_load(f)
 
 
-def fetch_all_articles(categories: list[dict], max_per_feed: int = 8) -> list[dict]:
+def fetch_all_articles(categories: list[dict], max_per_feed: int = 10) -> list[dict]:
     """全カテゴリのRSSフィードから記事を収集する。カテゴリ情報も付与。"""
     articles = []
-    seen_urls = set()
+    seen_urls: set[str] = set()
+    seen_titles: set[str] = set()
 
     for category in categories:
         cat_name = category["name"]
@@ -71,16 +95,20 @@ def fetch_all_articles(categories: list[dict], max_per_feed: int = 8) -> list[di
                 feed = feedparser.parse(feed_info["url"])
                 for entry in feed.entries[:max_per_feed]:
                     url = entry.get("link", "")
-                    if url in seen_urls:
+                    title = entry.get("title", "")
+                    norm = normalize_title(title)
+                    if url in seen_urls or (norm and norm in seen_titles):
                         continue
                     seen_urls.add(url)
+                    if norm:
+                        seen_titles.add(norm)
                     articles.append({
                         "category": cat_name,
                         "source": feed_info["name"],
-                        "title": entry.get("title", ""),
+                        "title": title,
                         "url": url,
                         "summary": strip_html(entry.get("summary", entry.get("description", "")))[:200],
-                        "published": entry.get("published", ""),
+                        "published": format_published(entry),
                         "image_url": extract_image_url(entry),
                     })
             except Exception as e:
