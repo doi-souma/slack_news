@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-28T03:16:34.174548+00:00",
+  "generated_at": "2026-03-29T03:35:15.018408+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "ソニー、CFexpressおよびSDカードの注文受付を一時停止　半導体不足で",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/29/news025.html",
+      "summary": "ソニーは、主にデジタルカメラ向けに提供しているCFexpressおよびSDメモリーカードの一部製品で注文受付を一時停止した。世界的な半導体不足により供給が追いつかない状況だ。当面は店頭在庫のみの販売となり、受付再開は供給状況を見て改めて案内するとしている。",
+      "published": "2026/03/29 07:45",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "NASAも協力　映画「プロジェクト・ヘイル・メアリー」を見たマンガ家が驚いたリアルな宇宙船描写と、それを凌駕したファンタジー展開",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/29/news018.html",
+      "summary": "20日から公開中のSF映画「プロジェクト・ヘイル・メアリー」が、初週に全世界興行収入1億4000万ドルを記録しました。ボクも劇場でワクワクドキドキしながら見てきました。",
+      "published": "2026/03/29 07:14",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -29,22 +47,40 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "サイバー子会社・AI Shift、名前が似た企業との混同に注意喚起　「SHIFT」や「SHIFT AI」との誤認が発生か",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/27/news112.html",
-      "summary": "サイバーエージェントの子会社でAI事業を手掛けるAI Shiftが、自社への問い合わせや評価において、似た名前の企業・サービスとの混同が見られるとして注意喚起した。生成AI関連のスクール事業を手掛けるSHIFT AI（東京都渋谷区）や、ITコンサルティング事業を手掛けるSHIFTとの誤認が起きているとみられる。",
-      "published": "2026/03/27 16:03",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イランでの戦争、「数週間以内」に終える見通しと米国務長官　イスラエルはイラン核施設などを攻撃",
+      "url": "https://www.bbc.com/japanese/articles/c4g80x754d7o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのマルコ・ルビオ国務長官は27日、イランでの軍事作戦について、「今後数週間以内」に終える見通しだと述べた。アメリカがイランの発電所攻撃を停止し、協議の可能性を模索する中、イスラエルの対イラン攻撃は続いている。",
+      "published": "2026/03/28 13:24",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e600/live/fd3a48a0-2a58-11f1-b297-95b0a0a8331e.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "日産「リーフ」、バッテリー不具合で171台リコール　「火災に至るおそれ」",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/27/news110.html",
-      "summary": "日産自動車は26日、EV「リーフ」（ZAA-ZE2）の一部をリコールすると国土交通省に届け出た。火災を伴う事故が報告されている。",
-      "published": "2026/03/27 15:48",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イラン系ハッカー集団、FBI長官の個人メールアカウントに侵入　FBI認める",
+      "url": "https://www.bbc.com/japanese/articles/c0e7g1ndxxno?at_medium=RSS&at_campaign=rss",
+      "summary": "米連邦捜査局（FBI）は27日、カシュ・パテル長官の個人メールアカウントが、イランと関係のあるグループによってハッキングされたと認めた。「ハンダラ・ハック・チーム」と呼ばれるグループは同日、パテル氏の履歴書とされる文書や本人の写真を自分たちのウェブサイトに公開。「我々にとって、これは始まりに過ぎない」と表明した。",
+      "published": "2026/03/28 13:39",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06b9/live/0657dc00-2a44-11f1-b297-95b0a0a8331e.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イラン代表のサッカー選手たち、戦争初日に爆撃で死亡の生徒たちを追悼",
+      "url": "https://www.bbc.com/japanese/articles/c070z9pyz2po?at_medium=RSS&at_campaign=rss",
+      "summary": "サッカーのイラン男子代表チームは27日、トルコで行われたナイジェリアとの親善試合前、国歌演奏の際に黒い腕章を着け、児童用のスクールバッグを手に、イラン戦争の初日に起きた小学校への攻撃に抗議した。イラン当局によると、2月28日にイラン南部の小学校が攻撃され、少なくとも168人が死亡した。",
+      "published": "2026/03/28 14:26",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c9c/live/aa3fef90-29f1-11f1-b297-95b0a0a8331e.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "タイガー・ウッズ選手を逮捕…車の横転事故　飲酒か薬物の影響下で運転した疑い",
+      "url": "https://www.bbc.com/japanese/articles/cp8dvm72v2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "男子ゴルフの元世界ランキング1位のタイガー・ウッズ選手（50）が27日、米フロリダ州で自動車事故を起こし、飲酒もしくは薬物の影響下で運転した疑いでマーティン郡保安官事務所に逮捕された。ウッズ選手は、メジャー15制覇の成績を持つ。",
+      "published": "2026/03/28 14:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3ec/live/b9891b80-2a40-11f1-934f-036468834728.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2169/live/02ea4e70-2992-11f1-934f-036468834728.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ゼレンスキー氏、サウジアラビア訪問　ウクライナのドローン技術を提供の意向",
-      "url": "https://www.bbc.com/japanese/articles/cvg4p7r258qo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのゼレンスキー大統領は26日、サウジアラビアを訪問した。湾岸地域でイランによるドローン攻撃が続くなか、ウクライナのドローン技術が同地域での安全を向上し得ると、ゼレンスキー氏は述べている。",
-      "published": "2026/03/27 14:17",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3825/live/d2d886a0-2989-11f1-a79a-77e93010d956.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ベラルーシ大統領が初訪朝、金正恩氏にライフル銃を贈呈　友好条約を締結",
-      "url": "https://www.bbc.com/japanese/articles/cqxl9y3w8npo?at_medium=RSS&at_campaign=rss",
-      "summary": "ベラルーシのルカシェンコ大統領は26日、北朝鮮・平壌を訪れ、金総書記と会談した。両首脳は友好協力条約に署名し、ルカシェンコ氏は金氏に、敵が現れた場合への備えだとしてライフル銃を贈った。ベラルーシ国営メディアが27日に報じた。",
-      "published": "2026/03/27 16:33",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b494/live/0842cd10-2989-11f1-9f06-7feda6c40cec.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "オリンピックの女子種目、生物学的な女性に出場限定　IOCが方針示す",
-      "url": "https://www.bbc.com/japanese/articles/clyxe9kdk70o?at_medium=RSS&at_campaign=rss",
-      "summary": "オリンピック（五輪）の女子種目は、2028年米ロサンゼルス夏季大会から、生物学上の女性のみに出場が限定されることになった。国際オリンピック委員会（IOC）が26日、発表した。出まれた時の性別が男性で、女性を自認するトランスジェンダーの女性や、男性としての思春期を経た、性分化疾患（DSD）がある人は出場できなくなる。",
-      "published": "2026/03/27 16:39",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b596/live/b6fdeac0-29a6-11f1-b297-95b0a0a8331e.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "安楽死を求めたスペイン人女性が死亡　父親との長い法廷闘争の末",
-      "url": "https://www.bbc.com/japanese/articles/cpvxmd3xx1po?at_medium=RSS&at_campaign=rss",
-      "summary": "自分の人生を終える権利をめぐり、父親と長い法廷闘争を続けていたスペイン人女性が26日、本人の希望に沿って安楽死した。",
-      "published": "2026/03/27 15:50",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4bbc/live/d567f270-2939-11f1-b297-95b0a0a8331e.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢78歳で出陣｣信長の才覚見抜いた朝倉\"最強の爺\" | 秀吉を天下人にした男、豊臣秀長の実像 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939074?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "名門、朝倉家のルーツについては、さまざまな説があり、 孝徳天皇の皇子・表米親王（うわよねしんのう）…",
+      "published": "2026/03/29 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/3/1200w/img_73a4d9ae3537611ba2c05d0e24e6075c957157.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "猿顔で指が6本…秀吉を天下人にした劣等感の正体 | 歴史 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938558?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "豊臣秀吉と言えば「猿顔」で知られています。江戸時代初期の旗本・土屋知貞が記した秀吉の伝記『太閤素生…",
-      "published": "2026/03/28 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/3/1200w/img_e3c2f6bebe200db9d51a235d5ecb44c7486512.jpg?nextgen=false"
+      "title": "キンコン西野が｢相方に救われた｣と感謝する理由 | 映画・音楽 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939353?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "お笑いコンビ、キングコングの西野亮廣が製作総指揮・原作・脚本を務め、2020年12月に公開された『映画 …",
+      "published": "2026/03/29 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/4/1200w/img_b4e0b812f022314a95d321dd64e1ae36190560.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "物価高でもちょっと高級｢ロイホ｣が増収増益のワケ | 外食 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938536?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ロイヤルホストといえば、ファミレスの中でも値段設定が高めで、高級感のあるレストランチェーン。物価高…",
-      "published": "2026/03/28 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/3/1200w/img_53980b366591788975d3416d86791e8d494805.jpg?nextgen=false"
+      "title": "｢水滸伝｣中国と完全一致した\"日本のすごい場所\" | “聖地”巡礼 あの名作の舞台地を訪ねて | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939387?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "3月29日に最終回を迎える、織田裕二さん主演のWOWOWドラマ『北方謙三 水滸伝』。原作は、シリーズ累計発…",
+      "published": "2026/03/29 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/6/1200w/img_b6250a84089e493b2a587a0169f5ae2a402385.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢矛と盾｣が崩壊する軍拡競争とアメリカ覇権の限界 | 安全保障 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939319?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "高校の漢文の教科書に必ず出てきた有名な話がある。それは矛と盾を売る2人の商人の話だ。どんな盾でも貫…",
-      "published": "2026/03/28 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/a/1200w/img_1a106e7ab19618294d0056280c54766e922241.jpg?nextgen=false"
+      "title": "｢養育費｣受給率約30％なのに強制徴収でない理由 | ほしいのは「つかれない家族」 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938620?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "別居・離婚に関連するお金はまだ他にもあります。必須ではないものも含め、以下にまとめました。＜離婚モ…",
+      "published": "2026/03/29 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/0/1200w/img_20ec5ce46931c89594ced958e5fe1f5261537.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "焼肉きんぐ｢ファミリー層のLTV最大化｣の仕掛け | 子連れのグルメ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938755?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "今回取材したのは「焼肉きんぐ」。株式会社物語コーポレーション（愛知県豊橋市）が、首都圏から東海地域…",
-      "published": "2026/03/28 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/a/1200w/img_ca71d412d18e7934632bb2433814be5f589312.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "進む高速の｢ETC専用化｣私たちにメリットは？ | 佐滝剛弘の高速道路最前線 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939431?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "昨年暮れから、首都高速道路のCMがテレビなどで流れている。テーマは「首都高のETC専用入口拡大中」。CM…",
-      "published": "2026/03/28 10:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/8/1200w/img_589c3f55550d6fa9d1bf7e36134abeb2229890.jpg?nextgen=false"
+      "title": "ジム･ロジャーズ｢株は持つな､今は米ドルを持て｣ | 市場観測 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938815?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「歴史上、終わらない強気相場など存在しない。そして、次に訪れる経済危機は、今まで以上に深刻なものに…",
+      "published": "2026/03/29 08:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/b/1200w/img_8b78778cb4e32f1f5f0a4a15bdf5009280996.jpg?nextgen=false"
     }
   ]
 }
