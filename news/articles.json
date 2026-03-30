@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-29T03:35:15.018408+00:00",
+  "generated_at": "2026-03-30T03:42:56.555121+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "「新サービスは死に、\"狂気\"が生まれる」　ニコニコを創ったカワンゴ氏&ひろゆき氏に聞く、AI時代のサービス開発",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/30/news093.html",
+      "summary": "新サービスが簡単にコピーされ、競争力を失うAI時代。個人開発は「狂気」になると、ひろゆき氏は言う。",
+      "published": "2026/03/30 12:00",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "5G・6G電波、部屋の隅々に行きわたらせる新技術　NTT、薄型液晶装置で電波方向制御",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/30/news084.html",
+      "summary": "NTTは、設置するだけで電波の進む方向を制御できる薄型液晶装置「透過型メタサーフェス」を開発した。第5世代（5G）移動通信システム以降で使われる高い周波数の電波は障害物に遮断されやすく電波状況の改善が期待できる。",
+      "published": "2026/03/30 10:26",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "Bluesky、AIとの対話でカスタムフィードを作る新アプリ「Attie」　招待制で提供開始",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/30/news080.html",
+      "summary": "Blueskyは、自然言語でカスタムフィードを作成できるAIアプリ「Attie」を発表した。「AT Protocol」を活用し、プログラミング知識なしでAIエージェントと対話しながら独自のタイムラインを構築できる。CIOのグレーバー氏は、AIをプラットフォームではなく個人の主導権を取り戻すための道具と位置づけている。",
+      "published": "2026/03/30 07:31",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "値上げ交渉、全部一緒じゃないですか　漫画「15日後、データセンター業務のリアルを知るヤマダくん」【残り1日】",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/30/news001.html",
+      "summary": "データセンターで働く人々の様子を4コマ漫画で紹介。データセンター事業を手掛けるブロードバンドタワー協力のもと、業務のリアルな空気感をお伝えします。更新は毎営業日。",
+      "published": "2026/03/30 07:00",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -11,42 +47,6 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "NASAも協力　映画「プロジェクト・ヘイル・メアリー」を見たマンガ家が驚いたリアルな宇宙船描写と、それを凌駕したファンタジー展開",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/29/news018.html",
-      "summary": "20日から公開中のSF映画「プロジェクト・ヘイル・メアリー」が、初週に全世界興行収入1億4000万ドルを記録しました。ボクも劇場でワクワクドキドキしながら見てきました。",
-      "published": "2026/03/29 07:14",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "PS5、4月2日から値上げ　PS5とPS5 Proは1万8000円アップ",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/28/news028.html",
-      "summary": "ソニー・インタラクティブエンタテインメントは、PS5やPS5 Proなどの希望小売価格を4月2日から引き上げると発表した。世界的な経済環境の変化が理由だ。日本市場向けの「PS5 デジタル・エディション 日本語専用」は5万5000円に据え置く。",
-      "published": "2026/03/28 07:01",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "ビーエスフジとBSテレ東、BS4K放送の終了を発表　テレ東は終了日も明らかに",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/27/news123.html",
-      "summary": "BS4K放送からの撤退を検討していると報じられていた民放BS局5社のうち、ビーエスフジとBSテレビ東京が27日に放送の終了を発表した。BSテレビ東京は2027年1月23日をもって終了する。",
-      "published": "2026/03/27 17:50",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "桜のある風景を美しく、並木もそれっぽく撮るために知っておくと便利なこと",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/27/news114.html",
-      "summary": "桜の季節です。「桜はこう撮れ」という決まったルールはないけれど、それでも「こういうときはこういうことに気をつけるといいよ」って話はたくさんあるのだ。",
-      "published": "2026/03/27 16:24",
-      "image_url": ""
-    },
-    {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
       "title": "イランでの戦争、「数週間以内」に終える見通しと米国務長官　イスラエルはイラン核施設などを攻撃",
@@ -54,15 +54,6 @@
       "summary": "アメリカのマルコ・ルビオ国務長官は27日、イランでの軍事作戦について、「今後数週間以内」に終える見通しだと述べた。アメリカがイランの発電所攻撃を停止し、協議の可能性を模索する中、イスラエルの対イラン攻撃は続いている。",
       "published": "2026/03/28 13:24",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e600/live/fd3a48a0-2a58-11f1-b297-95b0a0a8331e.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イラン系ハッカー集団、FBI長官の個人メールアカウントに侵入　FBI認める",
-      "url": "https://www.bbc.com/japanese/articles/c0e7g1ndxxno?at_medium=RSS&at_campaign=rss",
-      "summary": "米連邦捜査局（FBI）は27日、カシュ・パテル長官の個人メールアカウントが、イランと関係のあるグループによってハッキングされたと認めた。「ハンダラ・ハック・チーム」と呼ばれるグループは同日、パテル氏の履歴書とされる文書や本人の写真を自分たちのウェブサイトに公開。「我々にとって、これは始まりに過ぎない」と表明した。",
-      "published": "2026/03/28 13:39",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06b9/live/0657dc00-2a44-11f1-b297-95b0a0a8331e.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -85,6 +76,15 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
+      "title": "イラン系ハッカー集団、FBI長官の個人メールアカウントに侵入　FBI認める",
+      "url": "https://www.bbc.com/japanese/articles/c0e7g1ndxxno?at_medium=RSS&at_campaign=rss",
+      "summary": "米連邦捜査局（FBI）は27日、カシュ・パテル長官の個人メールアカウントが、イランと関係のあるグループによってハッキングされたと認めた。「ハンダラ・ハック・チーム」と呼ばれるグループは同日、パテル氏の履歴書とされる文書や本人の写真を自分たちのウェブサイトに公開。「我々にとって、これは始まりに過ぎない」と表明した。",
+      "published": "2026/03/28 13:39",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06b9/live/0657dc00-2a44-11f1-b297-95b0a0a8331e.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
       "title": "トランプ氏、イラン発電所への攻撃停止を10日間延長すると表明　協議は順調と",
       "url": "https://www.bbc.com/japanese/articles/cjw84y0q64zo?at_medium=RSS&at_campaign=rss",
       "summary": "アメリカのトランプ大統領は26日、イランのエネルギー関連施設への攻撃停止措置を10日間延長すると表明した。また、イランとの協議は「継続中」で「非常に順調だ」と述べた。",
@@ -94,47 +94,47 @@
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢78歳で出陣｣信長の才覚見抜いた朝倉\"最強の爺\" | 秀吉を天下人にした男、豊臣秀長の実像 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939074?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "名門、朝倉家のルーツについては、さまざまな説があり、 孝徳天皇の皇子・表米親王（うわよねしんのう）…",
-      "published": "2026/03/29 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/3/1200w/img_73a4d9ae3537611ba2c05d0e24e6075c957157.jpg?nextgen=false"
+      "title": "ドコモ3G終了で顕在化した高齢者スマホ移行問題 | インターネット | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939349?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本の携帯電話サービスで、ついに「3G」が歴史に幕を下ろす。2026年3月末、NTTドコモのFOMAが予定通り終…",
+      "published": "2026/03/30 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/2/1200w/img_e2a84a2ee88a6201b53f8689bed4c9c0455985.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "キンコン西野が｢相方に救われた｣と感謝する理由 | 映画・音楽 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939353?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "お笑いコンビ、キングコングの西野亮廣が製作総指揮・原作・脚本を務め、2020年12月に公開された『映画 …",
-      "published": "2026/03/29 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/4/1200w/img_b4e0b812f022314a95d321dd64e1ae36190560.jpg?nextgen=false"
+      "title": "｢ノルマ達成､よくやったね｣は二流？一流の褒め方 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938553?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ここでは、「感謝」「期待」「感情」という視点から、効果的な褒め方を考えていきます。承認や評価を超え…",
+      "published": "2026/03/30 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/f/1200w/img_9fec555cc7679187b0bb6f4e2cfd25dd385510.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢水滸伝｣中国と完全一致した\"日本のすごい場所\" | “聖地”巡礼 あの名作の舞台地を訪ねて | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939387?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "3月29日に最終回を迎える、織田裕二さん主演のWOWOWドラマ『北方謙三 水滸伝』。原作は、シリーズ累計発…",
-      "published": "2026/03/29 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/6/1200w/img_b6250a84089e493b2a587a0169f5ae2a402385.jpg?nextgen=false"
+      "title": "社員総出｢コンクリートの船｣のハードな建造現場 | コンクリートの船 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/937870?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "太平洋戦争末期、資材不足の日本で民間の一企業がコンクリートの船を造った。それは、一企業の社長の想い…",
+      "published": "2026/03/30 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/a/1200w/img_4a6dd63ef0c0d57ad1d996874410d3e3520085.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢養育費｣受給率約30％なのに強制徴収でない理由 | ほしいのは「つかれない家族」 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938620?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "別居・離婚に関連するお金はまだ他にもあります。必須ではないものも含め、以下にまとめました。＜離婚モ…",
-      "published": "2026/03/29 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/0/1200w/img_20ec5ce46931c89594ced958e5fe1f5261537.jpg?nextgen=false"
+      "title": "AI起業家が伝えたい｢人生のモヤモヤ｣解消法 | 読書 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939014?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「意志をクリアにすること」は、私がこの本で最も伝えたいテーマです。その最大の利点は、エネルギーを一…",
+      "published": "2026/03/30 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/3/1200w/img_93bd6987a4ed341dbedf7eb4c04ba0e3695245.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ジム･ロジャーズ｢株は持つな､今は米ドルを持て｣ | 市場観測 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938815?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "「歴史上、終わらない強気相場など存在しない。そして、次に訪れる経済危機は、今まで以上に深刻なものに…",
-      "published": "2026/03/29 08:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/b/1200w/img_8b78778cb4e32f1f5f0a4a15bdf5009280996.jpg?nextgen=false"
+      "title": "72歳人気料理家の野菜が摂れる｢ひとりランチ｣ | グルメ・レシピ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/936623?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "年を重ねて1日2食だけにしている人の話も聞きますが、私は朝昼晩の3食、必ず食べるようにしています。そ…",
+      "published": "2026/03/30 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/3/1200w/img_43306043e83bf54722a597a406228f44740297.jpg?nextgen=false"
     }
   ]
 }
