@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-04-02T03:26:26.661210+00:00",
+  "generated_at": "2026-04-03T03:28:24.357414+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「Google AI Pro」の容量が2TBから5TBに増量　価格据え置きで",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/02/news083.html",
-      "summary": "Googleは、「Google One」の月額2900円プラン「Google AI Pro」の提供容量を2TBから5TBへ増量した。米国ではWorkspaceでのAIエージェント機能やGmailのAI校正、Chromeの自動ブラウジング、Google Home Premiumの無料利用も追加される。",
-      "published": "2026/04/02 11:48",
+      "title": "Flipboard、マルチSNS統合リーダー「Surf」の一般提供開始",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/03/news067.html",
+      "summary": "Flipboardは、複数のSNSやコンテンツを統合管理できるソーシャルWebサイト「Surf」を一般公開した。BlueskyやMastodon、YouTubeなどの投稿を1カ所に集約し、アルゴリズムに依存せず運営者が表示をコントロールできるのが特徴。ユーザーはカスタムドメインを割り当て、独立したサイトとして公開し、運用できる。",
+      "published": "2026/04/03 10:35",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「自分だけのデータセンターを作れるゲーム」Steamで配信開始、評価は「非常に好評」",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/02/news080.html",
-      "summary": "PCゲーム配信プラットフォーム「Steam」で、自分だけのデータセンターを作れるシミュレーションゲーム「Data Center」の配信が始まった。サーバやラックなどの機器選定、その運搬、設置や配線、ローカルIPアドレスの割り当てなど、実務を再現したような内容で、日本語でもプレイできる。4月2日時点のユーザー評価は「非常に好評」だ。価格は1150円。",
-      "published": "2026/04/02 11:31",
+      "title": "ドコモで各種手続きがしづらい状態に　店頭、Webサイトでも　原因は顧客システムの障害",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/03/news066.html",
+      "summary": "NTTドコモは3日、ドコモショップなどの店頭やコールセンター、「My docomo」「ahamo」などのWebサイトで、各種手続きがしずらい状態になっていると公表した。",
+      "published": "2026/04/03 10:33",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "クラウドが不正アクセス受け個人情報流出　マイナビ、ユーザー情報7万件など",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
-      "summary": "「クラウドサービスに対し、通常のセキュリティ対策を回避する不正アクセスが行われたこと」が原因という。",
-      "published": "2026/04/02 10:59",
+      "title": "2030年までに、1兆パラメータを持つLLMの推論コストが90％以上削減される　ガートナー予想",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/03/news064.html",
+      "summary": "米調査会社のガートナーは、2025年と比較した場合の大規模言語モデルにおける推論実行のコストが、1兆個のパラメータを持つモデルでは2030年までに90％以上削減されるとの予想を発表しました。",
+      "published": "2026/04/03 10:17",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "noteの記事、自動で多言語翻訳スタート　「?hl=en」で英語版表示",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/02/news071.html",
-      "summary": "事前に応募したクリエイターを対象に、1人あたり最大100記事、全体で約2万記事を順次、英語に翻訳する。",
-      "published": "2026/04/02 10:31",
+      "title": "ぬいぐるみは“人が触る”とよりかわいく見える、触っている人もかわいく見える　阪大が研究発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/01/news078.html",
+      "summary": "大阪大学大学院に所属する研究者らが科学誌「PLOS ONE」で発表した論文「Beyond the baby schema: Objects being touched are perceived to be cute」は、人が触れているぬいぐるみは、触れていない状態よりもかわいく見えることを実証した研究報告だ。",
+      "published": "2026/04/03 08:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Raspberry Pi、メモリ価格高騰で一部製品を値上げ　3GBメモリの新モデル投入で選択肢を最適化",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/02/news069.html",
-      "summary": "Raspberry Piは、半導体価格の高騰を受けて一部製品の値上げと新モデルの投入を発表した。LPDDR4メモリの価格急騰に対応し、コストを最適化した3GBメモリ搭載の「Raspberry Pi 4」を新発売する。既存の4GB以上のモデルは大幅な値上げとなる一方、エントリーモデルや旧製品の価格は据え置かれる。",
-      "published": "2026/04/02 09:05",
+      "title": "腸内環境の悪化で脳も老化する？　老マウスの腸内細菌移植で若いマウスの記憶力低下　Natureで研究発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/03/news013.html",
+      "summary": "米ペンシルベニア大学や米スタンフォード大学、Arc Instituteなどに所属する研究者らがNature誌で発表した論文「Intestinal interoceptive dysfunction drives age-associated cognitive decline」は、加齢に伴う記憶力の低下は、脳だけの問題ではなく、腸内環境が大きく関わっていることを明らかにした研究報告である。",
+      "published": "2026/04/03 08:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、米軍は「間もなく」イランを離れると　イスラエルはレバノンに「安全地帯」",
-      "url": "https://www.bbc.com/japanese/articles/c8dl16l17d8o?at_medium=RSS&at_campaign=rss",
-      "summary": "米・イスラエルによるイランに対する戦争をめぐり、トランプ米大統領は3月31日、イランによる核兵器取得を阻止するという戦争目的は達成できたので、アメリカは「間もなく（イランを）離れる」と述べた。米軍の行動は「2～3週間」で終わる可能性もあるという。イランのペゼシュキアン大統領は、一定の条件が整うなら、戦争を終わりにするために「必要な意思」がイランにはあると発言した。",
-      "published": "2026/04/01 13:11",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a4e/live/616af670-2d66-11f1-a9eb-9f642170f021.jpg"
+      "title": "宇宙船オリオンが月への軌道修正成功、「かなり気分はいい」と飛行士　「アルテミス2」計画",
+      "url": "https://www.bbc.com/japanese/articles/c203wgwdgedo?at_medium=RSS&at_campaign=rss",
+      "summary": "米航空宇宙局（NASA）は2日、米南部フロリダ州のケネディ宇宙センターから1日に打ち上げられた宇宙船オリオンが地球周回軌道を離脱し、月へ向かうための軌道変更に成功したと記者会見で発表した。宇宙船に搭乗しているジェレミー・ハンセン飛行士は、「月に向かうクルーの気分はかなりいいです」と交信でNASAの管制センターに伝えた。人類が地球の周回軌道の外に出るのは、1972年以来初めて。",
+      "published": "2026/04/03 12:03",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cddb/live/7439b010-2efc-11f1-934f-036468834728.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イスラエル、レバノン南部の一部を管理下に置くと　対ヒズボラ戦が終結後も",
-      "url": "https://www.bbc.com/japanese/articles/ce841z7001zo?at_medium=RSS&at_campaign=rss",
-      "summary": "イスラエルのカッツ国防相は3月31日、イランと協力関係にあるレバノンのイスラム教シーア派武装勢力ヒズボラとの紛争終結後は、レバノン南部に緩衝地帯を設け、イスラエル国境からリタニ川までの約30キロの全域を管理下に置く方針を明らかにした。",
-      "published": "2026/04/01 15:30",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceb9/live/6074dc70-2cff-11f1-b960-35ed0ba67153.jpg"
+      "title": "トランプ氏、ボンディ米司法長官を解任　長年の盟友",
+      "url": "https://www.bbc.com/japanese/articles/crm1vlnxwnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は2日、ボンディ司法長官を解任した。ボンディ氏はトランプ氏の長年の盟友で、トランプ政権を熱烈に支持してきた。",
+      "published": "2026/04/03 11:59",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83a0/live/cd456300-2f03-11f1-934f-036468834728.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】　トランプ氏は直感で戦争を遂行し、それはうまくいっていない……BBC国際編集長",
-      "url": "https://www.bbc.com/japanese/articles/cp3ln9g16n7o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのドナルド・トランプ大統領とイスラエルのベンヤミン・ネタニヤフ首相が、イラン空爆のために米・イスラエル両軍の戦闘機を送り出してから1カ月がたつ。この間、この戦争についていくつかの「古い真実」が、ホワイトハウス大統領執務室の扉を叩いている。",
-      "published": "2026/04/01 10:47",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccb2/live/0bcea060-29e0-11f1-b297-95b0a0a8331e.jpg"
+      "title": "【解説】「トランプ関税」発表から1年……世界経済にもたらした変化",
+      "url": "https://www.bbc.com/japanese/articles/cq8wzq903qlo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのドナルド・トランプ大統領は昨年4月、貿易戦争を開始した際、アメリカにとって新たな時代を約束した。しかし1年後、アメリカの関税率は数十年ぶりの高水準に達した。「トランプ関税」が世界の貿易に与えた四つの変化を解説する。",
+      "published": "2026/04/03 11:50",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c74/live/5096bbb0-2d2d-11f1-a36a-2bc3523bb833.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカ人記者シェリー・キトルソン氏、誘拐される　イラク首都で",
-      "url": "https://www.bbc.com/japanese/articles/czx90yezw8wo?at_medium=RSS&at_campaign=rss",
-      "summary": "イラクの首都バグダッドで3月31日、アメリカ人のフリージャーナリストが誘拐された。イラクとアメリカの当局が発表した。容疑者の1人は、イランが支援する武装組織と関係のある人物だという。",
-      "published": "2026/04/01 12:10",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f74f/live/0ae033f0-2d5d-11f1-ba5e-31fb01ddb409.jpg"
+      "title": "トランプ氏、イランでの目標は「完遂間近」とテレビ演説　「停戦を求められた」との主張は虚偽とイラン",
+      "url": "https://www.bbc.com/japanese/articles/c62l8de72rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は1日午後21時（日本時間2日午前10時）ごろから、イラン情勢をめぐり国民向けに演説を行った。その中でトランプ氏は、イランのミサイルやドローンの発射能力が劇的に低下したとし、イスラエルとの対イラン攻撃における「核心的な戦略目標は完遂間近」だとの考えを示した。これに先立ちトランプ氏は、「イラン新政権の大統領」がアメリカに停戦を求めてきたと、自分のソーシャルメディア「トゥルース",
+      "published": "2026/04/02 15:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c3ae/live/81c6b880-2e58-11f1-a79a-77e93010d956.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英国防相、中東への追加部隊の派遣を発表",
-      "url": "https://www.bbc.com/japanese/articles/cx26jl7630zo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスは3月31日、米・イスラエル攻撃に対するイランの報復攻撃への防衛措置として、中東に追加部隊を派遣し、さらなる防衛システムを展開する方針を発表した。これにより、湾岸地域および東地中海の島国キプロスの防衛に関与する英軍関係者は1000人規模に拡大する。",
-      "published": "2026/04/01 23:12",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8451/live/1c2858e0-2d17-11f1-ba67-f7b8dbc6a466.jpg"
+      "title": "NASA「アルテミス」計画の有人宇宙船、打ち上げ成功　10日間で月を回って帰還へ",
+      "url": "https://www.bbc.com/japanese/articles/c6245lrylwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "月の周りを飛行する米航空宇宙局（NASA）の「アルテミス」計画の第2弾として、宇宙飛行士4人が搭乗した宇宙船が1日午後（日本時間2日午前）、米フロリダ州のケネディ宇宙センターから打ち上げられた。宇宙船は地球の周回軌道に入った。",
+      "published": "2026/04/02 17:14",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f656/live/b0f94710-2e64-11f1-9408-ab8675603e32.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "グーグルが導く結論｢指示待ち部下｣を変える方法 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939008?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "あなたは、どんな上司が「優秀」だと考えていますか？「部下の話をよく聞く」とか、「部下対応が公平で、…",
-      "published": "2026/04/02 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/0/1200w/img_200f57687e73f29137243207a336eb93236880.jpg?nextgen=false"
+      "title": "習近平がドタキャン､現れた｢影の実力者｣とは | 中国･台湾 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939754?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2024年春、私は中国の北京を訪問して大学や社会科学院などで講演した。8カ月後の11月末から12月はじめに…",
+      "published": "2026/04/03 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/5/1200w/img_0528c104977725a94034fe1d7aa9dfc0335472.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "秀長が5人の師から盗んだ\"弱者\"の生存戦略の妙 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939380?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "豊臣秀長は、令和8年（2026）のNHK大河ドラマ『豊臣兄弟！』の主人公であり、豊臣秀吉の弟として歴史に登…",
-      "published": "2026/04/02 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/a/1200w/img_2a210c37a3870b6d731dd4913fb191be513751.jpg?nextgen=false"
+      "title": "ロシアが｢イラン戦争の勝者｣になれないワケ | ウクライナ侵攻､危機の本質 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940073?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イラン戦争が2カ月目に入った。終結の時期やどのように決着するかは現時点では見通せない。この間のイラ…",
+      "published": "2026/04/03 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/b/1200w/img_fbfc4c2a1dcb307e2ef031ae271407ea23214.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "グルメジャーナリストが今《新潟》に注目する訳 | グルメ・レシピ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938684?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "新潟の食と聞いて、多くの人が想起するのは「米と日本酒」だろう。新潟県は米の作付面積・収穫量ともに全…",
-      "published": "2026/04/02 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/e/1200w/img_9ea0585b796efca55ff298e60c43cc4767251.jpg?nextgen=false"
+      "title": "天才ピアニスト･ブーニンが日本を愛する理由 | 映画・音楽 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938398?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――ソ連体制下ではさまざまな嫌な思いをされたと聞いています。ブーニン：嫌なことは本当にたくさんあり…",
+      "published": "2026/04/03 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/0/1200w/img_502085b9a4eacfa5bc78a5c1d9edb6e0256633.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "世界を覆う専制主義の波と米国｢格下げ｣の衝撃 | アメリカ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939673?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "3月17日、世界各国の民主主義レベルを分析する「V-Dem研究所」が最新の年次報告を公表した。拙著でも触れ…",
-      "published": "2026/04/02 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/3/1200w/img_031b7fbab018533a79d18cb8ed7a0309724301.jpg?nextgen=false"
+      "title": "生きづらさは性格ではない｢かくれトラウマ｣とは | 健康 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939508?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "外傷と違い、目には見えない心の傷――。心の「傷（トラウマ）」とはいったい何なのでしょうか。そして「…",
+      "published": "2026/04/03 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/0/1200w/img_d0f2067e7c788926027f7aaec035109a226040.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢上司との対話｣を後回しにした彼が支払った代償 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939035?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "あなたが自分のキャリアを、自分の意思で満足できる方向へデザインしていくうえでキーパーソンとなるのが…",
-      "published": "2026/04/02 10:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/d/1200w/img_bddd8029b1a055c50033fccd6dd7ca70228840.jpg?nextgen=false"
+      "title": "中国製ヒューマノイドの社会実装が始まった | ダイジェスト版 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940219?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「何かお手伝いできることがあれば、お声がけください」。手を挙げて、人型ロボットは言った。「採血室に…",
+      "published": "2026/04/03 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/7/1200w/img_775390c848de8a1213f488c10986a835153181.jpg?nextgen=false"
     }
   ]
 }
