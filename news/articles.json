@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-05T03:38:11.817985+00:00",
+  "generated_at": "2026-04-06T03:42:03.216169+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "購入済みでも起動不可……語学ソフト「ロゼッタストーン」日本版、サービス終了へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/06/news068.html",
+      "summary": "購入済みの製品も起動できなくなることに対して、ユーザーから不満が出ている。",
+      "published": "2026/04/06 12:10",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "「子供のマイナカードむずすぎ」問題　成長で顔認証も通らない？",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/06/news062.html",
+      "summary": "子供の数が増えるほどパスワード管理が煩雑になり、顔認証が成長で通らなくなり……。",
+      "published": "2026/04/06 11:06",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "実務経験ゼロでもシステムエンジニア　派遣会社が経歴詐称を強要　早期の退職で精神的苦痛",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/06/news054.html",
+      "summary": "システムエンジニア（SE）の派遣会社に採用され、取引先で勤務した元SEの男性3人が、実務経験がないのに経歴詐称を強要されて精神的苦痛を受けたなどとして派遣会社代表らに賠償を求めた訴訟で、最高裁は、賠償を命じた東京高裁判決を不服とした代表らの上告を棄却した。原告の支援者らは「派遣会社は名前を変えながら従業員の経歴詐称を続けており、問題は終わっていない」と警鐘を鳴らしている。",
+      "published": "2026/04/06 10:36",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "注射1回で「脳内のごみ」大掃除に成功　米大学がアルツハイマー病の新治療をScienceで発表　マウスで実証",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/03/news026.html",
+      "summary": "米ワシントン大学などに所属する研究者らがScienceで発表した論文「Targeting amyloid-β pathology by chimeric antigen receptor astrocyte (CAR-A) therapy」は、一度の投薬で脳の細胞を改造して、アルツハイマー病の原因となるごみを掃除させる新しい治療法を提案した研究報告だ。",
+      "published": "2026/04/06 08:00",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -11,40 +47,31 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "世界が押し寄せてきた？　自動翻訳で大きく変化した「X」にマンガ家が期待すること、そしてちょっと恐れていること",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/05/news014.html",
-      "summary": "Xの生成AI「Grok」による自動翻訳機能が日本のユーザーにも拡大されました。この機能により、X上のコミュニケーションに大きな変化が起こっています。",
-      "published": "2026/04/05 09:18",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏、放送禁止語を交えイランに強い脅し　ホルムズ海峡開放の期限を7日夜に",
+      "url": "https://www.bbc.com/japanese/articles/clyd9r0225ro?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのドナルド・トランプ大統領は5日、イランが7日夜までにホルムズ海峡をすべての船舶に再開放しなければ同国の発電所と橋を破壊すると、放送禁止語を交えながら自分のソーシャルメディアで脅した。市民インフラの破壊を脅し、強い罵倒表現で最後通告を突き付けた格好だが、イランはこれを「救いようのない、不安にかられ、愚かな」発言だと嘲笑した。トランプ氏は一方で、イランとの間で合意が成立する「可能性は高い」と",
+      "published": "2026/04/06 12:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f6a/live/d78ed6c0-3160-11f1-b297-95b0a0a8331e.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "電子書籍が作れるNRエディターが絶妙なアプデ　開発者に聞く新機能のコンセプトと便利な“使い方”",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/04/news027.html",
-      "summary": "ボイジャーの「ロマンサーは、「自分で書く　自分で残す　自立出版」をコンセプトにした総合電子出版支援サービスだ。そして専用のEPUBエディタ「NRエディター」。それが今回、なんとも絶妙なバージョンアップを果たした。",
-      "published": "2026/04/04 08:14",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ローマ教皇レオ14世、「平和を選ぶ」よう各国指導者に呼びかけ　就任後初のイースターで",
+      "url": "https://www.bbc.com/japanese/articles/cz90j5zd3v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "キリスト教カトリック教会のローマ教皇レオ14世は5日、就任後初のイースター（復活祭）礼拝をおこなった。ヴァチカンの聖ペトロ大聖堂の中央バルコニーに現れた教皇は、「戦争を起こす力を持つ人」に対し、平和を選ぶよう呼びかけた。",
+      "published": "2026/04/06 11:53",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e9d1/live/c42c9ff0-30ec-11f1-8697-1157c53c2504.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "BS朝日もBS4K放送終了を発表　「事業環境は厳しさを増している」",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/03/news110.html",
-      "summary": "BS朝日は3日、「BS朝日4K」の放送を終了すると発表した。終了日は未定。",
-      "published": "2026/04/03 19:03",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "SIE、3D技のCinemersive Labsを買収――プレステの視覚効果を機械学習で強化",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/03/news091.html",
-      "summary": "ソニー・インタラクティブエンタテインメント（SIE）は、VR/AR向け3D技術を持つCinemersive Labsの買収を発表した。機械学習を活用した視覚効果の強化とレンダリング技術の向上を図り、PlayStationにおける視覚体験の進化を目指す。買収後、同社チームはSIEのグループに合流し、次世代のコンテンツ開発に貢献する。",
-      "published": "2026/04/03 15:06",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "アメリカ、イランの山間部から米空軍士官を救出　作戦はどう展開したのか",
+      "url": "https://www.bbc.com/japanese/articles/c0mj49p0v1vo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ軍は、イラン上空で戦闘機が撃墜された後、行方不明となっていた空軍士官1人を救出した。ドナルド・トランプ米大統領は5日、「我々は、重傷を負い、そして本当に勇敢な、F-15の搭乗員／将校を、イランの山岳地帯の奥深くから救出した」とソーシャルメディアに投稿した。",
+      "published": "2026/04/06 11:57",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -65,76 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e85/live/f195a230-2ec0-11f1-934f-036468834728.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "トランプ氏、来年度の防衛費に1兆5000億ドルを要求　国内支出は削減へ",
-      "url": "https://www.bbc.com/japanese/articles/c5yjev33p5go?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのドナルド・トランプ政権は3日、2027会計年度（2026年10月～2027年9月）の政府予算の要望をまとめた「予算教書」を示した。国防費には、前年度比4割増の1.5兆ドル（約239兆円）を連邦議会に要求する。これは、第2次世界大戦以降で最大の軍事支出拡大となる。",
-      "published": "2026/04/04 14:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c9f0/live/4152aaf0-2f72-11f1-8612-f1cd1152f88c.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イランが米軍機を撃墜、不明者の捜索続く　イラン・メディアは2機撃墜と報道",
-      "url": "https://www.bbc.com/japanese/articles/cwyk1dw9ejeo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのメディアは3日、アメリカのF-15E戦闘機がイラン南部で撃墜され、搭乗していた乗員1人が救出されたと伝えた。イラン国営テレビは同日、アメリカの軍用機2機を撃墜したと報道。1機は同国南西部上空を飛行していたF-15で、もう1機はF-15の乗員救出任務に当たっていた機体だという。",
-      "published": "2026/04/04 12:14",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5f3/live/a5aa35c0-2fce-11f1-bddc-69d32da3de97.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ロシアの攻撃でウクライナ市民6人死亡　ロシアは復活祭に休戦ではなく攻撃激化を選んだとゼレンスキー氏",
-      "url": "https://www.bbc.com/japanese/articles/c04xrn3wwdpo?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアは3日、ウクライナに対し、再びミサイルとドローンによる大規模攻撃を行った。この攻撃により、民間人6人が殺害され、40人が負傷した。ウクライナのウォロディミル・ゼレンスキー大統領は、ロシアがイースター（復活祭）休戦ではなく「イースターのエスカレーション」を選んだと非難した。",
-      "published": "2026/04/04 13:53",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aeaf/live/25e129c0-2f92-11f1-b297-95b0a0a8331e.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "Z世代が上司との職場チャットで身構える瞬間 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939976?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「若手はグループチャットが苦手」ということは私も働きながら実感しています。私自身、仕事で10人くらい…",
+      "published": "2026/04/06 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/9/1200w/img_c96ce548313977da5a48814c316dbec2586094.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "人気編集者が手放した｢褒められたい｣の呪縛 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938830?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2025年に放送された朝ドラ『あんぱん』は「決してひっくり返らない正義」を見つけるまでの、やなせたかし…",
-      "published": "2026/04/05 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/0/1200w/img_f0361997cccc84329ef2211e5b097abf721952.jpg?nextgen=false"
+      "title": "信長を怪物にした父･信秀の｢長所1点突破｣の教え | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939382?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて上司の役割といえば、若い人の短所を指摘し、修正することだと考えられていた時期がありました。と…",
+      "published": "2026/04/06 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/1/1200w/img_411c0c9717a4fde56cd554140f1c35be274319.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "娘とミュージアム､親の見たいものは\"全スルー\" | ちかごろのわかい娘と | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939884?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "「もともと子育てには興味がなかった」、という実録系マンガ家・西アズナブル氏。ところが初育児で我が子…",
-      "published": "2026/04/05 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/6/1200w/img_d62c79663a79af103e55e73779f5cb30496150.jpg?nextgen=false"
+      "title": "習近平が｢台湾統一｣にこだわる本当の理由 | 中国･台湾 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939755?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1949年に毛沢東が建国した中華人民共和国は、鄧小平の改革開放政策によって経済発展を遂げた。そして今、…",
+      "published": "2026/04/06 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/9/1200w/img_c9770ddcc07ae99b07c81d00be6d0998406567.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢浅井氏三代｣愚鈍とされた父｢久政｣の意外な手腕 | 秀吉を天下人にした男、豊臣秀長の実像 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939974?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "「平和の愛好者は、固より生存競争の劣敗者たるを免れず」平和を愛するものは生存競争に生き残れない――…",
-      "published": "2026/04/05 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/8/1200w/img_88895d05bdf99224f449285d5b888d2c818450.jpg?nextgen=false"
+      "title": "こうして上司は傷つき｢コミュ障｣になっていく | 教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939463?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "長田：金間先生と共同研究をする中でも気付いたことですが、いま、若者と上司の間で言葉の定義にすさまじ…",
+      "published": "2026/04/06 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6a69ccddf3ccf2d07f6bbe475b893807264997.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢戦隊ヒーロー休止｣に地球の裏側で起こった反響 | テレビ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939635?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2月8日、テレビ朝日系列で放送されていた東映制作のスーパー戦隊シリーズ『ナンバーワン戦隊ゴジュウジャ…",
-      "published": "2026/04/05 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/e/1200w/img_de8c90bd003d7709e781fb20ae91828d564707.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "犯罪者にアドバイスする｢悪徳弁護士｣の腹積もり | 九条の大罪 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939708?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "『闇金ウシジマくん』の真鍋昌平が新たに心血を注ぐ法とモラルの極限クライムエンタテインメント！弁護士…",
-      "published": "2026/04/05 08:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/b/1200w/img_8bac76ba1a3ead5ac4546bafc9a6bdc9373841.jpg?nextgen=false"
+      "title": "iPhone向けゲーム特化の外部アプリストアの勝算 | インターネット | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939955?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "iPhoneにApp Store以外のアプリストアを入れられる時代が来た。2025年12月に施行された「スマートフォン…",
+      "published": "2026/04/06 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/a/1200w/img_1a74f13c17620907e0e04ffe79ccab3d337940.jpg?nextgen=false"
     }
   ]
 }
