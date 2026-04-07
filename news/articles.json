@@ -1,57 +1,75 @@
 {
-  "generated_at": "2026-04-06T03:42:03.216169+00:00",
+  "generated_at": "2026-04-07T03:31:17.121056+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "購入済みでも起動不可……語学ソフト「ロゼッタストーン」日本版、サービス終了へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/06/news068.html",
-      "summary": "購入済みの製品も起動できなくなることに対して、ユーザーから不満が出ている。",
-      "published": "2026/04/06 12:10",
+      "title": "「サム・アルトマンは信頼できるのか？」　The New Yorkerが描くAI界の天才の光と影",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/07/news072.html",
+      "summary": "The New Yorkerは、OpenAIのサム・アルトマンCEOの人物像に迫る長編記事を公開した。100人近い関係者への取材を通じ、同氏の類まれな説得力と「人を欺くパターン」という相反する評価を浮き彫りにしている。解任劇の舞台裏や権力の集中を詳報し、「superintelligence」（超知能）を主導する人物の信頼性と説明責任を問う内容だ。",
+      "published": "2026/04/07 11:14",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「子供のマイナカードむずすぎ」問題　成長で顔認証も通らない？",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/06/news062.html",
-      "summary": "子供の数が増えるほどパスワード管理が煩雑になり、顔認証が成長で通らなくなり……。",
-      "published": "2026/04/06 11:06",
+      "title": "Anthropic、GoogleとBroadcomとの提携拡大　次世代「TPU」で3.5GWのAIインフラ確保へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/07/news064.html",
+      "summary": "Anthropicは、GoogleおよびBroadcomとの提携拡大を発表した。2027年稼働予定の次世代「TPU」を活用し、3.5GW規模のAIインフラを確保する。このリソースはClaudeの需要増に対応し、Google Cloudでも活用される。同社は、AWSやNVIDIAなどマルチベンダー戦略を継続し、システムの回復力向上を目指すとしている。",
+      "published": "2026/04/07 10:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "実務経験ゼロでもシステムエンジニア　派遣会社が経歴詐称を強要　早期の退職で精神的苦痛",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/06/news054.html",
-      "summary": "システムエンジニア（SE）の派遣会社に採用され、取引先で勤務した元SEの男性3人が、実務経験がないのに経歴詐称を強要されて精神的苦痛を受けたなどとして派遣会社代表らに賠償を求めた訴訟で、最高裁は、賠償を命じた東京高裁判決を不服とした代表らの上告を棄却した。原告の支援者らは「派遣会社は名前を変えながら従業員の経歴詐称を続けており、問題は終わっていない」と警鐘を鳴らしている。",
-      "published": "2026/04/06 10:36",
+      "title": "カスハラ抑止へ、小田急の駅員にウェアラブルカメラ　トラブル時などに装着",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/07/news063.html",
+      "summary": "「カスタマーハラスメント」や乗客同士のトラブル発生時などに胸部に着用。状況を録画し、事実に基づいた対応につなげる。",
+      "published": "2026/04/07 10:12",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "注射1回で「脳内のごみ」大掃除に成功　米大学がアルツハイマー病の新治療をScienceで発表　マウスで実証",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/03/news026.html",
-      "summary": "米ワシントン大学などに所属する研究者らがScienceで発表した論文「Targeting amyloid-β pathology by chimeric antigen receptor astrocyte (CAR-A) therapy」は、一度の投薬で脳の細胞を改造して、アルツハイマー病の原因となるごみを掃除させる新しい治療法を提案した研究報告だ。",
-      "published": "2026/04/06 08:00",
+      "title": "「Pixel 10a」国内発売、価格据え置きの7万9900円から　日本独自カラー「Isai Blue」も",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/07/news056.html",
+      "summary": "Googleの日本支社は、新型スマホ「Pixel 10a」を国内で4月14日に発売する。価格は先代と同額の7万9900円から。10周年記念としてヘラルボニーと協力した日本限定色「Isai Blue」も登場。専用ケースや壁紙が付属する。",
+      "published": "2026/04/07 08:26",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "OpenAIの“AGI担当CEO”シモ氏が療養休職　ライトキャップCOOが“特別プロジェクト”担当に",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/05/news019.html",
-      "summary": "OpenAIのAGI導入担当CEO、フィジ・シモ氏が、病気療養のため数週間休職すると発表した。休職中はグレッグ・ブロックマン社長が製品管理を代行する。また、ブラッド・ライトキャップCOOが特別プロジェクト担当の新職務へ異動し、CMOのケイト・ラウチ氏はがん治療のため辞任。ゲイリー・ブリッグス氏が暫定CMOに就任する。",
-      "published": "2026/04/05 10:33",
+      "title": "“脳のごみ”洗い流す量を10％弱増加させる薬の配合特定　人間で世界初の実証、認知症予防に　米チームが研究発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/04/news012.html",
+      "summary": "米バイオテクノロジー企業Applied Cognitionや米ワシントン州立大学などに所属する研究者らが発表した論文「Pharmacological enhancement of glymphatic function in humans increases the clearance of Alzheimer’s disease-related proteins」は、睡眠中の脳に備わる老廃物排出",
+      "published": "2026/04/07 08:00",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏、「一夜で」イランを壊滅させると警告　7日夜までにホルムズ海峡開放なければ",
+      "url": "https://www.bbc.com/japanese/articles/cn9q503318do?at_medium=RSS&at_campaign=rss",
+      "summary": "世界のエネルギー輸送の要衝ホルムズ海峡をイランが事実上封鎖していることをめぐり、アメリカのトランプ大統領は6日、イランが7日夜までに同海峡をすべての船舶に再開放することに合意しなければ、イランを「一夜で」壊滅させると警告した。",
+      "published": "2026/04/07 12:28",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e45a/live/ef22eae0-31e9-11f1-8794-099b3bc3f94e.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "宇宙船オリオン、月の「裏側」を通過し帰還開始　地球から最も遠く離れた人類に",
+      "url": "https://www.bbc.com/japanese/articles/czexwzepd8do?at_medium=RSS&at_campaign=rss",
+      "summary": "米航空宇宙局（NASA）主導の国際月探査プロジェクト「アルテミス計画」で打ち上げられた宇宙船オリオンは日本時間7日午前、地球から見た月の「裏側」を通過した。これに先立ち、宇宙船が月の裏側へ回り込むため接近する中で、同日午前8時過ぎ、人類として地球から最も離れた距離に達した。",
+      "published": "2026/04/07 11:17",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/440b/live/f8bd73a0-321a-11f1-a79a-77e93010d956.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
       "title": "トランプ氏、放送禁止語を交えイランに強い脅し　ホルムズ海峡開放の期限を7日夜に",
       "url": "https://www.bbc.com/japanese/articles/clyd9r0225ro?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのドナルド・トランプ大統領は5日、イランが7日夜までにホルムズ海峡をすべての船舶に再開放しなければ同国の発電所と橋を破壊すると、放送禁止語を交えながら自分のソーシャルメディアで脅した。市民インフラの破壊を脅し、強い罵倒表現で最後通告を突き付けた格好だが、イランはこれを「救いようのない、不安にかられ、愚かな」発言だと嘲笑した。トランプ氏は一方で、イランとの間で合意が成立する「可能性は高い」と",
+      "summary": "アメリカのドナルド・トランプ大統領は5日、イランが7日夜までにホルムズ海峡をすべての船舶に再開放しなければ同国の発電所と橋を破壊すると、放送禁止語を交えながら自分のソーシャルメディアで脅した。インフラの破壊を脅し、強い罵倒表現で最後通告を突き付けた格好だが、イランはこれを「救いようのない、不安にかられ、愚かな」発言だと嘲笑した。トランプ氏は一方で、イランとの間で合意が成立する「可能性は高い」との見",
       "published": "2026/04/06 12:25",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f6a/live/d78ed6c0-3160-11f1-b297-95b0a0a8331e.jpg"
     },
@@ -67,74 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカ、イランの山間部から米空軍士官を救出　作戦はどう展開したのか",
-      "url": "https://www.bbc.com/japanese/articles/c0mj49p0v1vo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ軍は、イラン上空で戦闘機が撃墜された後、行方不明となっていた空軍士官1人を救出した。ドナルド・トランプ米大統領は5日、「我々は、重傷を負い、そして本当に勇敢な、F-15の搭乗員／将校を、イランの山岳地帯の奥深くから救出した」とソーシャルメディアに投稿した。",
-      "published": "2026/04/06 11:57",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "宇宙船オリオンのクルー、地球を撮影　米「アルテミス2」計画",
-      "url": "https://www.bbc.com/japanese/articles/cp86919gmlqo?at_medium=RSS&at_campaign=rss",
-      "summary": "米航空宇宙局（NASA）は3日、宇宙船オリオンのクルーが撮影した地球の高解像度画像を公開した。「Hello, World（こんにちは、世界）」と題された最初の写真には、広大な大西洋の青が写っている。地球が太陽に覆いかぶさり、その地球を覆う薄い大気の層が光っている。",
-      "published": "2026/04/04 10:26",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【検証】イランとの戦争にアメリカはいくら使っているのか　開戦から1カ月",
-      "url": "https://www.bbc.com/japanese/articles/czx9e9429nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "米・イスラエルによるイランとの戦争は開戦から2カ月目に入った。アメリカがこの戦争につぎ込んでいる軍事費について、関心が高まっている。トランプ米政権はこのほど、追加予算が必要になると示唆し始めた。",
-      "published": "2026/04/04 14:08",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e85/live/f195a230-2ec0-11f1-934f-036468834728.jpg"
+      "title": "英カンタベリー大主教が就任後初のイースター礼拝、中東での「暴力と破壊」終結訴え",
+      "url": "https://www.bbc.com/japanese/articles/cddqmzn2ddlo?at_medium=RSS&at_campaign=rss",
+      "summary": "英イングランド教会の指導者、カンタベリー大主教デイム・サラ・マラーリーは5日、就任後初のイースター（復活祭）礼拝をおこない、中東での「暴力と破壊」の終結を呼び掛けた。マラーリー大主教は約2週間前に同職に就任したばかり。叙任式では初の女性カンタベリー大主教となったことについて、10代の自分にはその後の自分に「どういう未来が待っているか、思いもよらなかった」と話した。",
+      "published": "2026/04/06 14:26",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f76e/live/149442d0-30e9-11f1-b297-95b0a0a8331e.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "Z世代が上司との職場チャットで身構える瞬間 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939976?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "「若手はグループチャットが苦手」ということは私も働きながら実感しています。私自身、仕事で10人くらい…",
-      "published": "2026/04/06 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/9/1200w/img_c96ce548313977da5a48814c316dbec2586094.jpg?nextgen=false"
+      "title": "50代､自慢話より喜ばれる経験の見える化とは？ | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939808?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「50代になったら意味のない仕事は断ってしまえ」と述べました。では、50代がやるべき「意味のある仕事」…",
+      "published": "2026/04/07 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/a/1200w/img_7aa4d81224060f2ca421fe3ced68b260248618.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "信長を怪物にした父･信秀の｢長所1点突破｣の教え | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939382?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "かつて上司の役割といえば、若い人の短所を指摘し、修正することだと考えられていた時期がありました。と…",
-      "published": "2026/04/06 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/1/1200w/img_411c0c9717a4fde56cd554140f1c35be274319.jpg?nextgen=false"
+      "title": "｢認められたい私｣を手放して人とラクにつながる | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938831?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "10数年前、48歳のときに私は車の運転免許を取りました。ちょうど春休みの時期だったので、大勢の高校生た…",
+      "published": "2026/04/07 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/e/1200w/img_5e7dd207bc6e59422c594b3a950a7243726553.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "習近平が｢台湾統一｣にこだわる本当の理由 | 中国･台湾 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939755?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "1949年に毛沢東が建国した中華人民共和国は、鄧小平の改革開放政策によって経済発展を遂げた。そして今、…",
-      "published": "2026/04/06 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/9/1200w/img_c9770ddcc07ae99b07c81d00be6d0998406567.jpg?nextgen=false"
+      "title": "レーシングカーやクラシックカーの投資的価値 | トレンド（自動車） | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939609?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ホンダ技研工業（以下、ホンダ）のレース活動を支えるホンダ・レーシング（以下、HRC）は、本物のF1エン…",
+      "published": "2026/04/07 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/6/1200w/img_36d3918b00e476b76434fca6bc22c60e473376.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "こうして上司は傷つき｢コミュ障｣になっていく | 教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939463?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "長田：金間先生と共同研究をする中でも気付いたことですが、いま、若者と上司の間で言葉の定義にすさまじ…",
-      "published": "2026/04/06 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6a69ccddf3ccf2d07f6bbe475b893807264997.jpg?nextgen=false"
+      "title": "日本式根回しが世界標準の交渉術と認められた訳 | 経営 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939363?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "前の会議で少し説明したときには好意的な反応だったのに、次の会議で突然反対されたことはありませんか？…",
+      "published": "2026/04/07 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/8/1200w/img_686cb7548279fa18d5262b712ffedcbf261619.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "iPhone向けゲーム特化の外部アプリストアの勝算 | インターネット | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939955?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "iPhoneにApp Store以外のアプリストアを入れられる時代が来た。2025年12月に施行された「スマートフォン…",
-      "published": "2026/04/06 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/a/1200w/img_1a74f13c17620907e0e04ffe79ccab3d337940.jpg?nextgen=false"
+      "title": "｢時短勤務｣24時間ずっと余裕なしを卒業するコツ | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939988?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "安藤健（以下、安藤）：この連載で定番になってきた「やりがい4タイプ診断」の結果はいかがでしたか？Hさ…",
+      "published": "2026/04/07 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/d/1200w/img_bd23f7f7443948f42de6736d765682e0323783.jpg?nextgen=false"
     }
   ]
 }
