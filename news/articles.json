@@ -1,50 +1,77 @@
 {
-  "generated_at": "2026-04-08T03:32:52.503460+00:00",
+  "generated_at": "2026-04-09T03:28:48.855929+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AIコーディングエディタ「Cursor 3」リリース AIエージェントを中心に新たに構築",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/08/news070.html",
-      "summary": "AIコーディングエディタ「Cursor」の開発元であるAnysphereは、Cursorの最新版となる「Cursor 3」のリリースを発表しました。",
-      "published": "2026/04/08 10:59",
+      "title": "「ホワイトハラスメント」が離職を招く　「仕事途中でも定時に帰って」など過度な配慮に失望",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/09/news080.html",
+      "summary": "ホワハラとは、過度な気遣いや配慮が結果的に相手の成長やキャリアの妨げになる行為。職場の「良かれと思った配慮」が、社員の成長機会を奪い、離職意向を高めているとみている。",
+      "published": "2026/04/09 12:10",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Google Chromeに待望の「垂直タブ」登場　「リーディングモード」は全画面表示に",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/08/news062.html",
-      "summary": "Googleは、Webブラウザ「Chrome」に「垂直タブ」と「リーディングモードの全画面表示」の2つの新機能を導入した。垂直タブにより、多数のタブを開いた状態でも視認性と管理のしやすさが向上する。また、不要な要素を省くリーディングモードが全画面に対応し、より没入感のある閲覧体験が可能になる。",
-      "published": "2026/04/08 09:44",
+      "title": "「Blu-rayドライブの提供を継続します」アイ・オー・データが表明　Verbatimとの協業強化",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/09/news077.html",
+      "summary": "業界で撤退が相次ぎ、今後の入手に不安を感じるユーザーが増える中、両社は供給の維持に取り組む方針だ。",
+      "published": "2026/04/09 11:49",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "産業用“ロボット密度”日本は4位……1位の韓国は「従業員8人にロボ1台」",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/08/news061.html",
-      "summary": "中国もロボット大国であることが、数字で明らかに。",
-      "published": "2026/04/08 09:34",
+      "title": "テレビ録画の長期保存もクラウドで　デジオンの新サービスは月額380円から",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/09/news071.html",
+      "summary": "デジオンは8日、テレビ視聴アプリ「DiXiM Play」がクラウド保存に対応したと発表した。併せて専用クラウドサービス「DiXiM U Cloud」の提供を始めている。",
+      "published": "2026/04/09 11:25",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「今月の経理業務をまとめて処理して」──マネフォからAIエージェント機能　あいまい指示で自律処理",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/08/news051.html",
-      "summary": "マネーフォワードは4月7日、AIが経理・労務・法務などのバックオフィス業務を自律処理するサービス「マネーフォワード AI Cowork」を7月に提供開始すると発表した。自然言語指示で複数のAIエージェントが並列に動作し業務を完結させる。マネーフォワード クラウドのユーザーが対象で、MCP設定不要で利用できる。",
-      "published": "2026/04/08 08:30",
+      "title": "Google、日本でも「Gemini for Home」の早期アクセス開始",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/09/news069.html",
+      "summary": "Googleは、家庭向けAIアシスタント「Gemini for Home」の早期アクセスを日本でも開始した。従来の「Googleアシスタント」に代わり、曖昧な指示や文脈を理解する。音楽再生や家電操作が自然な対話で行えるほか、スマートカメラの映像履歴をAIが解析し、特定のシーンを検索・要約する機能も備える。",
+      "published": "2026/04/09 11:04",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Intel、イーロン・マスク氏の「Terafab」構想に参画　次世代AIチップ生産を支援",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/08/news057.html",
-      "summary": "Intelは、イーロン・マスク氏が主導する次世代半導体工場「Terafab」プロジェクトへの参画を発表した。TeslaやSpaceX、xAI向けのAIやロボティクス用チップの内製化を目指す本構想に対し、Intelは設計や製造技術を提供し、大規模生産を支援する。",
-      "published": "2026/04/08 07:52",
+      "title": "アクションカメラのGoPro、全従業員の約23％を削減へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/09/news065.html",
+      "summary": "GoProは、全従業員の約23％に当たる145人の人員削減計画を明らかにした。運営コストの削減と営業レバレッジの強化を目的とした再編計画の一環で、2026年末までに完了する見込み。同社は2025年通期で純損失を計上しており、スマホの普及や競合台頭による需要鈍化を受け、収益構造の立て直しを急いでいる。",
+      "published": "2026/04/09 10:12",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "アメリカとイランが停戦で合意、条件付きで2週間　ホルムズ海峡開放へ",
+      "url": "https://www.bbc.com/japanese/articles/cnv8eed16rdo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は7日夜、自身のソーシャルメディア「トゥルース・ソーシャル」で、イランがホルムズ海峡の航行を認めれば、アメリカとイランの間で2週間の停戦が実現すると発表した。その後、イランの最高国家安全保障会議（SNSC）も声明で、アメリカとの合意を認め、詳細を「最終確定」させるため、最大15日以内に、パキスタンの首都イスラマバードで交渉を行うと明らかにした。",
+      "published": "2026/04/08 13:37",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa19/live/c82856b0-32f1-11f1-99b6-23f4623af7b4.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "原油価格が急落、米・イランの「2週間攻撃停止」合意受け　ホルムズ海峡開放が条件",
+      "url": "https://www.bbc.com/japanese/articles/cp9v7kxl7ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとイランが7日、重要な海上輸送路であるホルムズ海峡の再開放などを条件とした、2週間にわたる攻撃停止に合意したことを受け、世界の原油価格は急落し、株式市場は急騰した。",
+      "published": "2026/04/08 14:15",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c92/live/4b2bc340-32d8-11f1-b63d-15080c5ce187.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 トランプ氏が払う代償は大きい　イランと停戦合意で戦争脱する道は開いたが",
+      "url": "https://www.bbc.com/japanese/articles/ckgx132kj42o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領が7日夜、イランと2週間の停戦で合意したと発表した。だが、たとえこの停戦が恒久的な平和につながったとしても、イランとの戦争――そしてトランプ氏の最近の言動――は、世界のアメリカを見る目を根本的に変えてしまった可能性がある。",
+      "published": "2026/04/08 17:26",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce77/live/bc760220-331b-11f1-934f-036468834728.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,83 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イラクで拉致されたアメリカ人ジャーナリスト、解放される　米当局が発表",
-      "url": "https://www.bbc.com/japanese/articles/cr413q7l3n7o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのルビオ国務長官は7日、イラクの首都バグダッドで3月末に拉致されたアメリカ人フリージャーナリストについて、解放されたと発表した。",
-      "published": "2026/04/08 11:22",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1822/live/e387e9a0-32e9-11f1-934f-036468834728.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "アジア諸国、続々とイランとホルムズ海峡通過の合意結ぶ　トランプ氏の再開期限迫るなか",
-      "url": "https://www.bbc.com/japanese/articles/cvg04rwlqx6o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は6日、イランが7日夜までにホルムズ海峡をすべての船舶に再開放することに合意しなければ、同国を「一夜で」壊滅させると警告した。しかし、こうした脅しが出る以前から、一部の国は自国船舶がこの主要な航路を利用できるよう、イランとの取り決めを確保している。特にアジア諸国は、経済が湾岸地域のエネルギーに大きく依存していることから、合意に至ることに特に積極的だった。",
-      "published": "2026/04/07 17:11",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/87e4/live/78fa26e0-3184-11f1-86cc-99d8e53afbd3.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "インドの留置施設で親子死亡、警官9人に死刑言い渡し　ロックダウン違反で拘束後「容赦なく暴行」と裁判所",
-      "url": "https://www.bbc.com/japanese/articles/cge02e11vw0o?at_medium=RSS&at_campaign=rss",
-      "summary": "インドで2020年、新型コロナウイルス対策のロックダウン措置に違反して店の営業を続けたとして警察に拘束された親子が、数日後に留置施設で死亡した事件をめぐり、インドの裁判所は6日、警官9人に死刑を言い渡した。",
-      "published": "2026/04/07 15:29",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad14/live/4b633f20-31f5-11f1-980b-61f22cc055ba.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "宇宙船オリオン、月の「裏側」を通過し帰還開始　地球から最も遠く離れた人類に",
-      "url": "https://www.bbc.com/japanese/articles/czexwzepd8do?at_medium=RSS&at_campaign=rss",
-      "summary": "米航空宇宙局（NASA）主導の国際月探査プロジェクト「アルテミス計画」で打ち上げられた宇宙船オリオンは日本時間7日午前、地球から見た月の「裏側」を通過した。これに先立ち、宇宙船が月の裏側へ回り込むため接近する中で、同日午前8時過ぎ、人類として地球から最も離れた距離に達した。",
-      "published": "2026/04/07 13:08",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/440b/live/f8bd73a0-321a-11f1-a79a-77e93010d956.jpg"
+      "title": "イラン市民、橋や発電所で「人間の鎖」作りアメリカに抵抗",
+      "url": "https://www.bbc.com/japanese/articles/c705jjxxgd4o?at_medium=RSS&at_campaign=rss",
+      "summary": "イラン当局は7日、アメリカからの攻撃の脅しを抑止するため、民間インフラの周囲で「人間の鎖」を作るよう国民に呼びかけた。イラン国営のファルス通信が共有し、BBCヴェリファイ（検証チーム）が確認した映像には、橋や発電所などで人間の鎖を作り、国旗を掲げる人々が映っている。この後、両国は2週間の停戦に合意したと発表した。",
+      "published": "2026/04/08 13:44",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2213/live/e8f47e90-32b6-11f1-934f-036468834728.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "noteマネー炎上｢場所貸し｣逃げ切れる論理の終焉 | インターネット | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940701?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "メディアプラットフォーム運営企業「note（ノート）」による、金融・投資情報サイト「noteマネー」に対し…",
-      "published": "2026/04/08 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/d/1200w/img_5de342aad0f2d394b167f52e794ed00e495694.jpg?nextgen=false"
+      "title": "独身男子が舌鼓｢たまごの黄身のしょうゆづけ｣ | ごはんのおともをあと少し | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/937506?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "これさえあれば、何杯だって食べられる。路地裏の料理店「ひとくちや」にあつまる人たちを、心まであたた…",
+      "published": "2026/04/09 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/1/1200w/img_71c0b79421ec5ea7f74970bd126e78b646103.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "井村屋はなぜ130年間｢失敗｣し続けられるのか | 外食 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940084?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "三重県津市の、お世辞にも好立地とはいえない商店街の一角に、今年2月にオープンした店がある。「imuraya …",
-      "published": "2026/04/08 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/1/1200w/img_0151e7cdce7bad525a5a1ce004c0977e274508.jpg?nextgen=false"
+      "title": "｢アメリカ人は貯蓄しない｣という通説の大嘘 | 『世界は負債で回っている』 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938389?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "家計や国の「純資産」に意味があるとすれば、それは大いに重要であるとともに、マクロ経済を理解する基本…",
+      "published": "2026/04/09 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/8/1200w/img_0857efff6968938c0c979797869e0b90692625.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "新入社員歓迎会を｢有効な離職防止策｣にする方法 | 教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939466?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "金間：私の本『無敵化する若者たち』に、「アットホームな会社は人気が無い」というデータを載せたところ…",
-      "published": "2026/04/08 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/e/1200w/img_be70fe650350cab32c55e0198463a8b7217777.jpg?nextgen=false"
+      "title": "施術家が力説｢毎日1分運動｣ジムより大事な訳 | 健康 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940176?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "実は、私たちが考えている以上に、身体と心は深く結びついています。例えば、肩こり一つとっても、それは…",
+      "published": "2026/04/09 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200w/img_fe151b6ac5287fed9016e0d74f95f091322812.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "マレーシア航空､福岡線を20年ぶり復活の理由 | インターネット | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940377?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "マレーシア航空が20年ぶりに福岡に帰ってくる。同社の親会社であるマレーシア・アビエーション・グループ…",
-      "published": "2026/04/08 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/b/1200w/img_2babc080c3c2b4d7ecf422b90ae36827514588.jpg?nextgen=false"
+      "title": "習近平｢善意にあふれた悪意の政治｣とその限界 | 中国･台湾 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939756?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "習近平は盤石の支配体制を整えた。その態様はマルクス・レーニン主義に基づく独裁という違いはあるが、近…",
+      "published": "2026/04/09 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/4/1200w/img_b4851ea68cc72f0d8fc48366c425aec0158798.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢雑談は無駄？｣新人研修で吐露された本音の中身 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940506?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "「先生、先ほどの『雑談はとても大切』というお話がよく理解できませんでした。休憩時間中に雑談したほう…",
-      "published": "2026/04/08 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/3/1200w/img_63b891e093e9b9bbc31ca7558fe228fc565504.jpg?nextgen=false"
+      "title": "｢お相手にときめかない｣38歳女子の\"遠すぎる春\" | 仲人はミタ－婚活現場からのリアルボイス－ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940145?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "そもそも婚活での出会いでは、恋愛感情が育ちにくい。生活をしている中で自然に出会い結婚する場合は、ま…",
+      "published": "2026/04/09 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/0/1200w/img_006aad10b7a6385a714d97e2160751af128646.jpg?nextgen=false"
     }
   ]
 }
