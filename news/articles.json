@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-11T03:19:53.647682+00:00",
+  "generated_at": "2026-04-12T03:46:28.281193+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "PCが壊れた！　買い替えか、修理か……昨今の半導体事情を知ったマンガ家が出した結論とは？",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/12/news013.html",
+      "summary": "突然ですが、自宅のデスクトップPCが故障しました。7年半近く使用してきたこともあり、そろそろ買い替えるか……とも考えたのですが、悩ましいのが昨今の状況です。",
+      "published": "2026/04/12 11:14",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "OpenAIのアルトマンCEO、批判的報道と自宅への火炎瓶事件についての個人ブログ公開　家族写真も",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/12/news018.html",
+      "summary": "OpenAIのサム・アルトマンCEOは、自身を批判する報道や自宅への火炎瓶投げ込み事件を受け、個人ブログで心境を明かした。AIへの不安に理解を示しつつ、過度な扇動が暴力を招くリスクを指摘。AGIを巡る権力争いを「権力の指輪」に例え、技術を広く共有し、民主的なプロセスで管理する重要性を強調している。",
+      "published": "2026/04/12 09:19",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -29,31 +47,40 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "「ぶいすぽっ！」がタレントを誹謗中傷した人物に勝訴　“当て字”使っても「合理的に確認できれば責任は逃れられない」",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/10/news133.html",
-      "summary": "VTuberプロジェクト「ぶいすぽっ！」を運営するバーチャルエンターテイメントは10日、所属タレント「花芽なずな」さんに対する誹謗中傷行為を行った人物への対応状況を明らかにした。",
-      "published": "2026/04/10 21:34",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イランとアメリカの協議、成果得られずと米副大統領　パキスタンで21時間",
+      "url": "https://www.bbc.com/japanese/articles/cy91ywejrqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとイランの停戦協議は、仲介するパキスタンの首都イスラマバードで11日始まり、直接協議は12日早朝まで21時間続いた。アメリカの代表団を率いたヴァンス副大統領は日本時間12日午前10時50分（現地時間午前6時50分）ごろに記者会見し、合意が得られないまま自分たちはパキスタンを離れると述べた。イランの代表団はガリバフ国会議長とアラグチ外相が率いていた。",
+      "published": "2026/04/12 11:48",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db34/live/3829b7e0-3614-11f1-8650-23c514a89b8d.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "小野田紀美AI戦略担当相、自身のAI利用は「業務で必要性感じず」　人材育成を推進",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/10/news132.html",
-      "summary": "小野田紀美人工知能（AI）戦略担当相が記者会見で、自身のAIの利用状況を問われ、「私自身は今のところ、自分の業務の中では必要性を感じていないので、必要な時には使おうと思う」と述べた。",
-      "published": "2026/04/10 21:08",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イランとアメリカの代表団、停戦協議のためパキスタン到着　イランは交渉の前提条件示す",
+      "url": "https://www.bbc.com/japanese/articles/cyv154lv0n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとの停戦協議に臨むイランの代表団は10日夜、パキスタンの首都イスラマバードに到着した。イラン外務省が発表した。アメリカの代表団を率いるJ・D・ヴァンス副大統領も11日午前、イスラマバードに到着した。イランとアメリカの協議は11日に予定されている。",
+      "published": "2026/04/11 16:49",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4543/live/f838d440-3591-11f1-879d-1b2f5c3919b8.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
       "title": "﻿宇宙船オリオンが太平洋に着水、9日間の月への往復終える",
       "url": "https://www.bbc.com/japanese/articles/c937vn5zeqgo?at_medium=RSS&at_campaign=rss",
-      "summary": "米航空宇宙局（NASA）が主導する国際月探査プロジェクト「アルテミス計画」の第2弾として打ち上げられた宇宙船オリオンが、米中部夏時間10日午後７時過ぎ（日本時間11日午前9時過ぎ）、太平洋に着水（スプラッシュダウン）した。月の「裏側」を回って地球へと戻る、往復約111万7659キロの旅が完了した。",
-      "published": "2026/04/11 10:48",
+      "summary": "米航空宇宙局（NASA）が主導する国際月探査プロジェクト「アルテミス計画」の第2弾として打ち上げられた宇宙船オリオンの乗員カプセルが、米中部夏時間10日午後７時過ぎ（日本時間11日午前9時過ぎ）、太平洋に着水（スプラッシュダウン）した。月の「裏側」を回って地球へと戻る、往復約111万7659キロの旅が完了した。",
+      "published": "2026/04/11 14:56",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c3e/live/4bac9360-3546-11f1-974b-5f918f62d445.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "宇宙船オリオンのクルーが帰還　分離と通信遮断と着水",
+      "url": "https://www.bbc.com/japanese/articles/c4g4r8xd2zgo?at_medium=RSS&at_campaign=rss",
+      "summary": "米航空宇宙局（NASA）が主導する国際月探査プロジェクト「アルテミス計画」の第2弾として打ち上げられた宇宙船オリオンの乗員カプセルが、米中部夏時間10日午後７時過ぎ（日本時間11日午前9時過ぎ）、太平洋の米カリフォルニア州沖に着水（スプラッシュダウン）した。モジュールの分離、大気圏再突入時のブラックアウト、着水から回収までを振り返る。",
+      "published": "2026/04/11 15:49",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c981/live/cbee2430-3555-11f1-9003-c3c69f46897a.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -65,76 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "英首相、国外情勢に「振り回されてはいけない」と主張　生活費高騰などに対応約束",
-      "url": "https://www.bbc.com/japanese/articles/c87wlzgxyreo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのキア・スターマー首相は9日、イランでの紛争のような「衝撃」が頻発する「不安定で危険」な世界に対処するため、イギリスはいっそう強靭（きょうじん）にならなくてはならないと警告した。同日夜にはアメリカのドナルド・トランプ大統領と電話で会談し、ホルムズ海峡の再開について協議した。同海峡の閉鎖は、ガソリン価格や食料品価格を押し上げる形で、イギリスの生活費に影響を及ぼしている。",
-      "published": "2026/04/11 09:41",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a622/live/0016f6c0-34a1-11f1-9d5c-8ba507d7dbde.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "エアコン依存のシンガポール、エネルギー危機で苦慮　設定温度上げるよう指示",
-      "url": "https://www.bbc.com/japanese/articles/cq8wd9dkyqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "エアコンの普及率の高さで知られるシンガポールの当局は8日、政府職員に対し、オフィスの室温を25度以上に設定するよう指示した。同国も他の東南アジアの国々と同様、イラン情勢を受けたエネルギー価格の高騰に悩まされている。",
-      "published": "2026/04/10 18:32",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b48/live/1f9fc560-34b7-11f1-9d5c-8ba507d7dbde.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イランのホルムズ海峡めぐる対応、「合意と違う」とトランプ氏　イスラエルはレバノンでの停戦を否定",
-      "url": "https://www.bbc.com/japanese/articles/cvglkzjw80no?at_medium=RSS&at_campaign=rss",
-      "summary": "トランプ米大統領は9日、重要な海上交通路のホルムズ海峡を通じた原油輸送について、イランが「とてもひどい対応」をしていると非難し、「これは合意した内容と違う」と主張した。一方でイスラエルのネタニヤフ首相は、イランと協力関係にあるレバノンのイスラム教シーア派武装勢力ヒズボラとの戦闘をめぐり、直接協議を開始するよう内閣に指示した。ただし、レバノンでの停戦の可能性は否定した。",
-      "published": "2026/04/10 14:47",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/998a/live/b5546150-349a-11f1-9d5c-8ba507d7dbde.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢ストレス解消で寿命を延伸｣60･70代向け趣味2つ | 健康 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939736?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ヒトはストレスを受けると、副腎皮質ホルモンを副腎皮質から放出することによって、ストレスを抑制するよ…",
+      "published": "2026/04/12 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/f/1200w/img_3f9762c63368c0b51ef61c29c703f0a2380511.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "姉川の戦い前夜､信長を仕留め損ねた男の末路 | 歴史 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940543?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "元亀元年（1570）4月、織田信長は越前の朝倉氏を攻めますが、縁戚である北近江の浅井長政（妻は信長の妹…",
-      "published": "2026/04/11 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/5/1200w/img_55a0e0e0fb4d4016b7fffe7e4dd1d7e6874270.jpg?nextgen=false"
+      "title": "浅井を打倒するため親族差し出す｢秀吉の非情｣ | 秀吉を天下人にした男、豊臣秀長の実像 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940540?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "NHK大河ドラマ「豊臣兄弟！」では、若き日の豊臣秀吉と弟の豊臣秀長が、織田信長のもとで、様々な「ムチ…",
+      "published": "2026/04/12 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/8/1200w/img_c8e2c37481e05381e1f1dda0818a9c14242606.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "古墳で見つかった｢異様な大剣｣の持ち主を追え | 宗像教授世界篇 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939771?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "世界各地で語り継がれてきた伝説や神話、古来受け継がれてきた風習等には何らかの歴史的事実が秘められて…",
-      "published": "2026/04/11 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/4/1200w/img_74144e6a9987c7b8a31e9cafa92b7392383525.jpg?nextgen=false"
+      "title": "｢千葉の小江戸･佐原｣で感激した\"至高の名所8選\" | レジャー・観光・ホテル | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940795?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "関東圏で情緒あふれる古い街並みを楽しめるのが、「千葉の小江戸」と呼ばれる佐原（さわら）だ。埼玉の川…",
+      "published": "2026/04/12 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/2/1200w/img_121b38b4b471c0283c92db54e9b248dc590211.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "東大生の親が｢食事と入浴｣の時間を固定するワケ | 子育て | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940165?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "「もっと早く勉強してほしいのに」「どうしてそんなにだらだらしてしまうのだろう」子どもの様子を見なが…",
-      "published": "2026/04/11 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/9/1200w/img_99bf913513b2ceaa908f4a9fe1333c14261226.jpg?nextgen=false"
+      "title": "理解不足でいじめも｢食物アレルギー｣増える実態 | 健康 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939741?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "好き嫌いではなく、食べられない人がいる――。そんな切実な現実が、まだ十分に知られておらず、子どもの…",
+      "published": "2026/04/12 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/5/1200w/img_9571814077caa361f2a61d36ee21d73d957623.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢マークII｣に令和のギャルが惚れた納得の理由 | 槇島ユズは売りたくない！ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940712?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "中古車販売店に勤める新人・槇島ユズ。名車を愛でるだけのつもりが、熱烈なオタクトークで図らずも成約を…",
-      "published": "2026/04/11 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1c47bb5a7d2899cce38c547c3088c255346061.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "謎の食べ物も…イオン｢独特フードコート｣の光景 | 最高のフードコートを探そう | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940787?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "フードコートといえば、ショッピングモール。ショッピングモールといえば、イオンモール。イオンモールと…",
-      "published": "2026/04/11 09:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/2/1200w/img_3284b36a0f2c2b472a7cdd320c5e9474344484.jpg?nextgen=false"
+      "title": "ベテラン医師が解説《いびき》の\"危険なサイン\" | 健康 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939786?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "いびきがやっかいなのは、多くの人がそれを「たいしたことではない」と軽く考えてしまう点にあります。疲…",
+      "published": "2026/04/12 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/3/1200w/img_c3cef8811515b86cc7d7212475e2987f263146.jpg?nextgen=false"
     }
   ]
 }
