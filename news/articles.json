@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-04-13T03:52:56.734275+00:00",
+  "generated_at": "2026-04-14T03:43:05.723612+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "政府、ラピダスに6315億円の追加支援発表　2027年の先端半導体量産化へアクセル",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/13/news067.html",
-      "summary": "赤沢亮正経済産業相は11日、先端半導体の国産化を目指すラピダスに対し、2026年度の研究開発委託費として6315億円の追加支援をすると発表した。北海道千歳市の同社工場で行われた新施設の開所式で明らかにした。戦略分野として半導体を最重要視する高市早苗政権のもと、目標とする2027年度後半の量産化に向けて一段とアクセルを踏み込む。",
-      "published": "2026/04/13 10:51",
+      "title": "AI関連のスクレイピングか　Twilogに「通常の数十倍」のアクセス　ログイン必須の緊急制限中",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/14/news080.html",
+      "summary": "「攻撃もしくはAI関連の悪質なスクレイピング」とみており、簡易的な対応では防御が難しい状況。",
+      "published": "2026/04/14 12:20",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "落合陽一氏の人気万博パビリオン「ヌルヌル」進化形、横浜・国際園芸博に　ランドマークタワーに常設も",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/13/news066.html",
-      "summary": "大阪・関西万博の開幕から4月13日で1年となるのを前に、万博の人気パビリオン「null2」（ヌルヌル）を手掛けたメディアアーティストの落合陽一氏が12日、大阪府吹田市で開かれた記念イベントの会場で報道陣の取材に応じた。",
-      "published": "2026/04/13 10:44",
+      "title": "動画編集ソフトなのに写真レタッチが可能に　「DaVinci Resolve 21」β公開、「Photo」新設",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/14/news075.html",
+      "summary": "豪Blackmagic Designは4月14日、映像編集ソフト「DaVinci Resolve 21」のパブリックβ版を、米ラスベガスで開催中の「NAB Show 2026」に合わせて公開した。静止画編集専用の「Photoページ」を新設したほか、AIツールを中心に100以上の新機能を追加した。基本版は無料でダウンロードでき、有料の「Studio」版は295ドルだ。",
+      "published": "2026/04/14 12:10",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ソフトバンクも料金値上げ、6月から順次　専務「原価高騰の波」大手3社そろい踏み",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/13/news065.html",
-      "summary": "ソフトバンクは4月10日、スマートフォン決済「PayPay」のポイント還元優遇を強化した新料金プラン「ペイトク2」を6月2日から開始すると発表した。基本料金は月額1万538円（税込）で、現行プランの「ペイトク」からは約1000円高くなる。",
-      "published": "2026/04/13 10:41",
+      "title": "本当にこう見えていたんだ──EXIF情報が教えてくれる「アルテミスII」の旅路",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/14/news076.html",
+      "summary": "アルテミスIIで話題になったのが宇宙で撮影された写真。なんと撮影した写真のオリジナルサイズで見ることができ、そこに撮影したカメラやセッティングなどの情報が付いているのだ。",
+      "published": "2026/04/14 11:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AirPods Pro 2の「ライブリスニング機能」は補聴器代わりになるか？　騒音下で検証　米国チームが学術誌で発表",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/13/news031.html",
-      "summary": "米アリゾナ州立大学などに所属する研究者らが学術誌「American Journal of Audiology」で発表した論文「Apple AirPods Pro 2 Live Listen as an Assistive Listening Device」は、AppleのAirPods Pro 2が搭載する聴覚補助機能「ライブリスニング」が、騒音下における高齢者の音声認識や記憶の保持に貢献すること",
-      "published": "2026/04/13 08:00",
+      "title": "ランサム攻撃で基幹システム停止、決算発表延期　繊維メーカー・オーミケンシ",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/14/news073.html",
+      "summary": "3月のランサム攻撃の影響で、5月13日に予定していた2026年3月期決算発表を延期。",
+      "published": "2026/04/14 11:18",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "東芝の「量子インスパイアード計算」、速度100倍に　成功率もほぼ100％、鍵は“カオスの縁”",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/13/news030.html",
-      "summary": "東芝 総合研究所社などに所属する研究者らが米国物理学会の学術誌「Physical Review Applied」で発表した論文「Edge-of-chaos-enhanced quantum-inspired algorithm for combinatorial optimization」は、膨大な選択肢の中から最適な答えを見つけ出す「量子インスパイアード組合せ最適化計算機」の性能を飛躍的に高める",
-      "published": "2026/04/13 08:00",
+      "title": "“LINE内アプリ課金”ゲームや動画でも……デジタルコンテンツ課金を全事業者に開放",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/14/news070.html",
+      "summary": "LINE上で自社サービスを展開できるアプリプラットフォーム「LINEミニアプリ」で、デジタルコンテンツ課金機能の本格提供を始めた。",
+      "published": "2026/04/14 10:51",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏が予告したイラン港湾封鎖が始まる　ヴァンス氏はホルムズ海峡で「経済テロ」とイラン非難",
+      "url": "https://www.bbc.com/japanese/articles/c86ey6pll40o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は13日、イランの港湾封鎖の措置を米東部時間同日午前10時（日本時間同午後11時）に開始すると述べた。この時間が過ぎたあと、ホワイトハウスで記者団の取材に応じ、イランが世界を脅すことは許さないとの考えを示した。イランは反発している。",
+      "published": "2026/04/14 11:06",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ba5/live/d0f7bb20-379f-11f1-9d5c-8ba507d7dbde.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏、自分をキリストのように描いた絵を投稿　批判相次ぎ削除",
+      "url": "https://www.bbc.com/japanese/articles/c30r903pmg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は13日、自分をキリストのように描いた画像を自分のソーシャルメディア・アカウントに投稿したものの、支持者たちからも「冒涜（ぼうとく）」だと厳しい批判が相次いだ後、画像を削除した。本人は記者団の質問に、「自分を医者として」描いた絵だと思ったと説明した。トランプ氏は画像投稿の前には、キリスト教カトリック教会のトップ、教皇レオ14世を強く批判していた。",
+      "published": "2026/04/14 11:09",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fa8/live/34556af0-375f-11f1-8606-05fe34b06e1b.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ハイチ北部の世界遺産で群集事故、少なくとも30人死亡か",
+      "url": "https://www.bbc.com/japanese/articles/c145mrnv51ro?at_medium=RSS&at_campaign=rss",
+      "summary": "ハイチ北部の人気観光地で11日、多数の人が倒れる群衆事故が起きた。少なくとも30人が死亡したとみられる。",
+      "published": "2026/04/14 09:28",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/97d6/live/002434b0-3637-11f1-ab65-2568beff0c21.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ハンガリー総選挙、オルバン首相の与党敗れ16年ぶり政権交代へ　新興野党が圧勝",
+      "url": "https://www.bbc.com/japanese/articles/crl14zw75z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "ハンガリーで12日、議会（一院制）の総選挙があり、新興野党が圧勝した。オルバン首相は敗北を認め、16年ぶりに政権交代が実現することになった。この選挙はハンガリーとヨーロッパの将来を左右する重要なものとして国内外で大きく注目された。",
+      "published": "2026/04/13 13:11",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba01/live/d257c9f0-36e7-11f1-8606-05fe34b06e1b.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf8e/live/283c4080-36d4-11f1-ae17-375712b020fc.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ウクライナとロシア、互いに約2000件の停戦違反があったと非難　正教会の復活祭に合わせ",
-      "url": "https://www.bbc.com/japanese/articles/c2lwr774rneo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナとロシアは、正教会の復活祭に合わせた短期間の停戦に、相手側が約2000件の違反を行ったと非難し合った。ウクライナのウォロディミル・ゼレンスキー大統領は停戦に先立ち、同国の部隊は停戦中のロシアによる攻撃に対し「対称的に」対応すると述べ、復活祭は「平和の時だ」と語っていた。",
-      "published": "2026/04/13 12:06",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f639/live/b14356e0-3650-11f1-9d5c-8ba507d7dbde.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イランとアメリカの協議、成果得られずと米副大統領　パキスタンで21時間",
-      "url": "https://www.bbc.com/japanese/articles/cy91ywejrqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカとイランの停戦協議は、仲介するパキスタンの首都イスラマバードで11日始まり、直接協議は12日早朝まで21時間続いた。アメリカの代表団を率いたヴァンス副大統領は日本時間12日午前10時50分（現地時間午前6時50分）ごろに記者会見し、合意が得られないまま自分たちはパキスタンを離れると述べた。イランの代表団はガリバフ国会議長とアラグチ外相が率いていた。",
-      "published": "2026/04/12 17:33",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db34/live/3829b7e0-3614-11f1-8650-23c514a89b8d.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イランとアメリカの代表団、停戦協議のためパキスタン到着　イランは交渉の前提条件示す",
-      "url": "https://www.bbc.com/japanese/articles/cyv154lv0n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカとの停戦協議に臨むイランの代表団は10日夜、パキスタンの首都イスラマバードに到着した。イラン外務省が発表した。アメリカの代表団を率いるJ・D・ヴァンス副大統領も11日午前、イスラマバードに到着した。イランとアメリカの協議は11日に予定されている。",
-      "published": "2026/04/11 16:49",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4543/live/f838d440-3591-11f1-879d-1b2f5c3919b8.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "﻿宇宙船オリオンが太平洋に着水、9日間の月への往復終える",
-      "url": "https://www.bbc.com/japanese/articles/c937vn5zeqgo?at_medium=RSS&at_campaign=rss",
-      "summary": "米航空宇宙局（NASA）が主導する国際月探査プロジェクト「アルテミス計画」の第2弾として打ち上げられた宇宙船オリオンの乗員カプセルが、米中部夏時間10日午後７時過ぎ（日本時間11日午前9時過ぎ）、太平洋に着水（スプラッシュダウン）した。月の「裏側」を回って地球へと戻る、往復約111万7659キロの旅が完了した。",
-      "published": "2026/04/11 14:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c3e/live/4bac9360-3546-11f1-974b-5f918f62d445.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "山P主演｢正直不動産｣､映画化で課された絶対条件 | 映画・音楽 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941276?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "契約を勝ち取るためなら、口八丁で真実をぼかし、相手を丸め込むことも日常茶飯事の不動産業界。やり手営…",
+      "published": "2026/04/14 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/8/1200w/img_1858ba3779a20777d767ee9a55f728a8348408.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢食料自給率｣の低い日本が\"令和に直面する課題\" | 国内経済 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939208?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "農林水産省の統計によれば、日本のカロリーベース食料自給率（国民が摂取する食料の熱量（カロリー）のう…",
-      "published": "2026/04/13 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/f/1200w/img_9f46fe280f8bb70e3b649abe22c72e7b417364.jpg?nextgen=false"
+      "title": "AIにもうまく指示が出せない人に足りないもの | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940675?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「とりあえず考えてみて」上司からそう言われたとき、あなたはすぐに動き出せますか。やる気はある。情報…",
+      "published": "2026/04/14 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/c/1200w/img_bc0885044a11c25ebcbf8c8cb312fb65142270.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "上司に相談しない｢今どきの若手｣が考えている事 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940907?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "「相談できる人が誰もいませんでした」適応障害で2カ月間休職した、IT企業勤務の女性Aさん（26歳）。復職…",
-      "published": "2026/04/13 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/8/1200w/img_989466f89546dc9e236c5138502e82e0140238.jpg?nextgen=false"
+      "title": "日本限定色で攻めるPixel､エントリー機の狙い | ネット・SNS | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940860?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "グーグルが、スマートフォン「Pixel」シリーズで異例の一手を打った。4月7日に発表した新モデル「Google P…",
+      "published": "2026/04/14 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/b/1200w/img_7bb03fa979782c256984ecbab741a7c7192666.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "不器用おやこの距離をすっと近づけた｢づけ丼｣ | ごはんのおともをあと少し | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/937554?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "しあわせの笑みがこぼれる物語と美味しい8つのレシピ。路地裏の料理店「ひとくちや」にあつまる人たちを…",
-      "published": "2026/04/13 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/4/1200w/img_d484c13f0bb5ff64ddff4384fec12235109960.jpg?nextgen=false"
+      "title": "最新輸入車乗り比べ､BEVとICEVで共通の一体感 | 西村直人の乗り物見聞録 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940828?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "新型輸入車を集めた「第45回輸入車試乗会」が2026年も開催された。事前にリストから試乗したい車両を選び…",
+      "published": "2026/04/14 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200w/img_fe0e3100d106332c11b7ed14b83ca164828148.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢スマホやめない子｣に親が言ってはいけない言葉 | 子育て | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939525?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "親として非認知能力を育むうえで、まず、子どもの脳が、どのように発達していくのかを理解しておく必要が…",
-      "published": "2026/04/13 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/5/1200w/img_f5c96df6c10415e78a25b301cc0777b0194344.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "究極のエコカー｢燃料電池車｣はオワコンなのか | 桃田健史の「クルマとエネルギー」の未来 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940690?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2026年3月12日、自動車産業界に激震が走った。ホンダが上場以来、初の赤字転落となることが明らかになっ…",
-      "published": "2026/04/13 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/8/1200w/img_089438289d2035221f33c23c70b90d98409819.jpg?nextgen=false"
+      "title": "熱闘甲子園？人気マンガ編集者の\"意外な情報源\" | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939078?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "石井：林さんは、作品作りにおけるテーマやルールってありますか。林：まったくないです。作った瞬間に終…",
+      "published": "2026/04/14 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/3/1200w/img_73d442e1023a51487757ec92d706332c162527.jpg?nextgen=false"
     }
   ]
 }
