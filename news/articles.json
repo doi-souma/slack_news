@@ -1,50 +1,77 @@
 {
-  "generated_at": "2026-04-15T03:41:28.212507+00:00",
+  "generated_at": "2026-04-16T03:47:21.625247+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「来週の予定は？」→GoogleカレンダーやGmail参照してAIが回答　Gemini「パーソナルインテリジェンス」日本でも",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/15/news092.html",
-      "summary": "Geminiに「明日の予定は？」と尋ねると、Googleカレンダーから翌日の予定を回答。「来月の旅行の予定を教えて」と聞くと、Gmailから予約確認メールを参照し、最近視聴したYouTube動画からレストランを提案する。",
-      "published": "2026/04/15 11:47",
+      "title": "Anthropic、本人確認機能を導入　悪用防止とコンプライアンス強化で",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/16/news075.html",
+      "summary": "Anthropicは、悪用防止や法的義務の順守を目的に、一部のユースケースで本人確認機能を導入した。外部パートナーのPersona Identitiesを通じて政府発行の身分証と自撮り写真による照合を行う。収集データは本人確認のみに使用され、AIモデルの学習には利用されないとしている。",
+      "published": "2026/04/16 12:03",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "動き出した「NEXTGIGA」は初期の反省は生かせるか？　“学校のWindows離れ”が起きた3つの背景",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/15/news082.html",
-      "summary": "21年度から運用がスタートした「GIGAスクール構想」は、25年度で5年目が終了したところである。端末の更新も相次ぎ、Windows離れが進んでいることが明らかになった。",
-      "published": "2026/04/15 11:01",
+      "title": "クラファン「うぶごえ」が閲覧できない状態に　支払い遅延の指摘も",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/16/news072.html",
+      "summary": "クラウドファンディングサイトの「うぶごえ」が、閲覧できない状態になっているとして、プロジェクト実行者や支援者の間に動揺が広がっている。",
+      "published": "2026/04/16 11:27",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "なぜXの「歌ってみた」だけ音を消す？　JASRAC「Xとは契約していない」と解説　YouTubeやTikTokは契約済み",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/15/news076.html",
-      "summary": "「Xだけ、音無しで投稿します」――人気楽曲のカバーを歌う“歌い手”らがXで相次いで、動画から音を消すなどと表明。その理由は。",
-      "published": "2026/04/15 09:51",
+      "title": "ニセ刑事に騙されて国税職員が個人企業の納税情報をLINEで漏えい「潔白証明したかった」",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/16/news065.html",
+      "summary": "大阪国税局は4月15日、課税1部の20代職員が税務署での勤務中、電話をかけてきた警察官を名乗る男のうそを信じ、個人や企業計259者の納税情報を漏らしたと発表した。職員は国税局の聞き取りに「身の潔白を証明するため、言われるがままになってしまった」と話したという。警察官をかたる特殊詐欺被害は近年、全国で多発している。",
+      "published": "2026/04/16 10:39",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Amazon、衛星通信大手Globalstar買収でAppleとの提携も継続、強化",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/15/news074.html",
-      "summary": "Amazonは、衛星通信事業者のGlobalstarを買収することで合意した。あわせてAppleとも提携し、iPhoneやApple Watch向けの衛星通信サービスを継続、強化する。独自の低軌道衛星ネットワーク「Amazon Leo」にGlobalstarの周波数帯を統合し、圏外でも緊急SOS等が利用可能な世界規模の通信環境構築を目指す。",
-      "published": "2026/04/15 09:19",
+      "title": "「Snapchat」のSnap、従業員1000人を削減　AIによる「業務変革」で2026年の黒字化狙う",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/16/news060.html",
+      "summary": "SnapのシュピーゲルCEOは、全従業員の約16％に当たる約1000人の解雇を発表した。AI活用による業務変革を推進し、新規コードの65％をAIで生成するなど徹底した効率化を図る。2026年中の黒字化とMAU10億人の達成を目標に掲げ、広告基盤の強化やデバイス事業への投資を継続し、持続的な成長を目指す方針だ。",
+      "published": "2026/04/16 09:25",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Twitterの“青い鳥”生みの親　サイモン・オクスリー氏死去、56歳　GitHubの“半ネコ半タコ”もデザイン",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/15/news073.html",
-      "summary": "1999年～2011年の12年間を日本で過ごし、東京・原宿のデザイン会社で勤務した後、福岡に移住した。",
-      "published": "2026/04/15 09:09",
+      "title": "Windows版「Googleアプリ」に続きMac版の「Geminiアプリ」も登場　ショートカットでGemini呼び出し",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/16/news059.html",
+      "summary": "Googleは、デスクトップからGeminiや検索機能を即座に呼び出せるWindows版「Googleアプリ」およびMac版「Geminiアプリ」を公開した。ショートカット操作や画面共有による文脈理解、「AI Mode」での応答に対応する。Mac版はApple Silicon専用で画像と動画の生成が可能。Windows版はローカルファイル検索やGoogleレンズを搭載している。",
+      "published": "2026/04/16 07:37",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "英首相、トランプ氏からの圧力に「屈しない」と強調　イランでの戦争めぐり",
+      "url": "https://www.bbc.com/japanese/articles/cx2d1v7ze3go?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのスターマー首相は15日の議会で、イランでの紛争に参加するよう求めるトランプ米大統領からの圧力に「屈するつもりはない」と述べた。トランプ氏はこの少し前、英スカイニュースに対し、アメリカがイギリスに支援を求めた際に「彼らはいなかった」と語り、イギリスとの関税合意について「いつでも変更できる」と示唆した。両国首脳の関係は、ここ数週間、中東情勢をめぐって緊張していることがうかがえる。",
+      "published": "2026/04/16 12:04",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/016f/live/b2adb2c0-38b5-11f1-90eb-854a36c38eaa.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 マムダニNY市長、就任から100日　成果と課題",
+      "url": "https://www.bbc.com/japanese/articles/cx244kezn1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "ゾーラン・マムダニ氏が米ニューヨーク市の市長に就任してから、今月中旬で100日がたった。トランプ大統領との不安定な関係への対処から、市内バスの効率化・無償化に至るまで、主要な選挙公約のいくつかについて、マムダニ市政がどの段階にあるのかを見ていく。",
+      "published": "2026/04/16 10:49",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6173/live/7da0ef90-374b-11f1-bcf0-130930103dc8.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "スペイン、非正規移民50万人に在留許可　政府が計画承認",
+      "url": "https://www.bbc.com/japanese/articles/c80mm2v8487o?at_medium=RSS&at_campaign=rss",
+      "summary": "スペイン政府は14日、非正規移民約50万人に法的地位を与え、労働市場に正式に参入できるようにする計画を承認した。サンチェス首相は、「正義の行為」であると同時に、スペインにとって必要不可欠なものだと述べた。",
+      "published": "2026/04/16 11:17",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d44/live/a993bc30-37f6-11f1-a445-59df4d41808f.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,83 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏が予告したイラン港湾封鎖が始まる　ヴァンス氏はホルムズ海峡で「経済テロ」とイラン非難",
-      "url": "https://www.bbc.com/japanese/articles/c86ey6pll40o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は13日、イランの港湾封鎖の措置を米東部時間同日午前10時（日本時間同午後11時）に開始すると述べた。この時間が過ぎたあと、ホワイトハウスで記者団の取材に応じ、イランが世界を脅すことは許さないとの考えを示した。イランは反発している。",
-      "published": "2026/04/14 11:06",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ba5/live/d0f7bb20-379f-11f1-9d5c-8ba507d7dbde.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "トランプ氏、自分をキリストのように描いた絵を投稿　批判相次ぎ削除",
-      "url": "https://www.bbc.com/japanese/articles/c30r903pmg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は13日、自分をキリストのように描いた画像を自分のソーシャルメディア・アカウントに投稿したものの、支持者たちからも「冒涜（ぼうとく）」だと厳しい批判が相次いだ後、画像を削除した。本人は記者団の質問に、「自分を医者として」描いた絵だと思ったと説明した。トランプ氏は画像投稿の前には、キリスト教カトリック教会のトップ、教皇レオ14世を強く批判していた。",
-      "published": "2026/04/14 11:09",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fa8/live/34556af0-375f-11f1-8606-05fe34b06e1b.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "カナダのカーニー首相、政権基盤固める　補選で自由党が勝利し過半数確保",
-      "url": "https://www.bbc.com/japanese/articles/c4gjjv9vj9yo?at_medium=RSS&at_campaign=rss",
-      "summary": "カナダのカーニー首相率いる自由党が13日、下院の補欠選挙で少なくとも2議席を獲得し、僅差ながら下院で過半数を確保して政権基盤を固める情勢になった。自由党には野党から議員の移籍も続いている。",
-      "published": "2026/04/14 16:31",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/07a0/live/ee4c42a0-37cb-11f1-8606-05fe34b06e1b.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ハンガリー次期首相候補、プーチン氏から電話があれば応答し「ウクライナでの戦争停止」求めると",
-      "url": "https://www.bbc.com/japanese/articles/c4gxx39xmejo?at_medium=RSS&at_campaign=rss",
-      "summary": "ハンガリーで12日に投開票が行われた総選挙で、地滑り的勝利を収めた中道右派の政党「ティサ（尊重と自由）」のマジャル党首は13日、すでに10人の欧州指導者と協議したと明らかにした。総選挙ではオルバン首相率いる与党「フィデス・ハンガリー市民連盟」が敗北し、16年ぶりに政権交代が実現することになった。",
-      "published": "2026/04/14 17:53",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4448/live/68e90900-3775-11f1-b023-c3d1c5398968.jpg"
+      "title": "イスラエルとレバノンが33年ぶりに直接の外交協議、ヒズボラとの停戦めぐり",
+      "url": "https://www.bbc.com/japanese/articles/c39334ex9xro?at_medium=RSS&at_campaign=rss",
+      "summary": "レバノンとイスラエルは14日、レバノンのイスラム教シーア派組織ヒズボラとイスラエルとの戦闘終結に向けた協議を行った。両国は外交関係を持っておらず、最後に直接かつ高官級の協議をしたのは1993年だった。イスラエルは2月28日にアメリカと共にイランを攻撃。数日後の3月2日にレバノンでもヒズボラに対する軍事作戦を開始した。イランはヒズボラの最大の支援国。レバノンでは戦闘開始以来、2000人以上が殺害され",
+      "published": "2026/04/15 13:15",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4c3/live/73374c20-387c-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ハンガリー･オルバン政権大敗で欧州ポピュリズムの潮目は変わったのか／新興保守の勝利で社会民主主義勢力弱体が続く | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941399?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "16年続いたハンガリーのオルバーン政権が終焉し､保守系新党ティサ党のマジャル･ペーテル氏が圧勝した2026年総選挙。その背景には､欧州で進むイデオロギー疲れや経済停滞､既存政治勢力への不信が渦巻いて…",
-      "published": "2026/04/15 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/4/1200w/img_24bcc05de0b89c3ed4dc8d7c148d21b9712855.jpg?nextgen=false"
+      "title": "繰り返す転職で｢また仕事変えたの？｣と心配されても｟納得のキャリア｠になる理由〈安藤健のキャリア相談室♯6〉 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940366?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢転職を繰り返した私のキャリアに一貫性はあるのか｣──複数の業種を渡り歩いた女性の不安。その経験が実は\"今の時代に安定したキャリア\"に繋がる秘訣だとしたら？自分らしさを武器にする働き方のヒントを探り…",
+      "published": "2026/04/16 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_7935ec154182a30f15ef5b87baa96ab8215254.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "高市一色に沸き立つ自民党大会の裏で広がる\"面従腹背\"､｢改憲へ1年でメド｣発言に立ちはだかる2つの\"高い壁\" | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941531?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "4月12日の自民党大会で高市首相が｢1年で憲法改正発議にメド｣と宣言し､永田町に大きな波紋が広がっています。改憲論議の舞台裏で渦巻く､複雑な思惑とは？",
-      "published": "2026/04/15 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/2/1200w/img_62caf52ee3bf1e58addb1bc329b79900801471.jpg?nextgen=false"
+      "title": "日経平均株価が最高値更新でついに6万円に接近､米国とイランの停戦期待から企業収益を評価する取引が優勢に | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941709?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中東情勢の緊張緩和期待が日本株式市場を押し上げ､日経平均は史上最高値を突破。円は対ドルで小幅に上昇しつつも､債券相場は軟調に推移しています。市場はAI関連株やハイテク銘柄にも注目が集まる中､この勢い…",
+      "published": "2026/04/16 12:16",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/4/1200w/img_242e7a2e366452018e7c22e35fdcdb0b500341.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "資料を何時間も作り込み｢全否定｣される人の共通点。手戻りを防ぎ仕事を爆速化させる｢粗いたたき台｣を出すタイミングとコツ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940678?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "資料作成で貴重な時間を費やしたのに｢方向性が違う｣と一蹴された経験はありませんか？手戻りを防ぐ鍵は､｢叩かれるたたき台｣を早く用意し､議論と修正を重ねる進め方です。批判を恐れず未完成な案を提示する､…",
-      "published": "2026/04/15 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/b/1200w/img_fb5423610d585e4bf07a723d934e8308172216.jpg?nextgen=false"
+      "title": "ダイキン株大幅反発､エリオットが大規模出資－利益率向上など求める | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941702?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "米著名アクティビスト､エリオットがダイキン工業に大規模投資を行い､利益率向上や株主還元強化を求めたことが明らかに。株価は急騰し､久々の上昇率を記録しました。世界的アクティビストの狙いとダイキンが直面…",
+      "published": "2026/04/16 12:11",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/4/1200w/img_b421db0bd90ca6362b634bf792453dd6397314.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "アクアライン｢時間帯別料金｣で交通量は変わったか？渋滞緩和対策の｢400～1600円｣料金変動性の成果 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941204?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東京湾アクアラインは通行料金の変動制導入で､渋滞緩和と利用分散を目指す社会実験を続けています。休日の混雑はなぜ解消されないのか､ユーザーや地域に与える影響は？　最新データと他路線の取り組みも交え､深…",
-      "published": "2026/04/15 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/b/1200w/img_9b31328f46808be652d7f10e0e1862de256191.jpg?nextgen=false"
+      "title": "iOSで｢代替アプリストア｣解禁の現実､App Storeにないアプリやポイント還元も視野に入れた新しい使い方 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941095?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2025年施行の｢スマホ新法｣により､iOSユーザーもついにApp Store以外のアプリストアを利用可能に。日本ではAltStore PALや､ポイント還元が魅力のあっぷアリーナ！が登場し､独自ア…",
+      "published": "2026/04/16 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/c/1200w/img_4cfb0a0d6851931da33c0fabb508b9ff240575.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "インドにバブル到来!? ｢バックパッカーが自分探し｣はもう古い 結婚式に950億円､週70時間働く｢超スケール経済｣とは | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940772?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢インドは貧困や混沌の象徴｣というイメージは､もはや過去のもの。人口15億人が支える巨大経済圏では､超富裕層の台頭とデジタル革命が進行中です。バブル期の日本を超える熱気に満ちた\"超スケール状態\"のイ…",
-      "published": "2026/04/15 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/f/1200w/img_ffab48980539b7edb36c2ab3528584ac611352.jpg?nextgen=false"
+      "title": "【会社を辞めるか否か】迷った時に｢後悔しない決断｣をするための《判断基準》はどこに置くべきか | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939033?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "近年､転職が一般的になった一方で､現職でやり尽くせることは本当に全て試したでしょうか。キャリアの悩みや不満を友人や家族だけでなく､戦略的に上司と対話する重要性､制度活用や他部署との関わり方､そして｢…",
+      "published": "2026/04/16 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/7/1200w/img_b7bbb85131326dc4e9de549f789b3616200739.jpg?nextgen=false"
     }
   ]
 }
