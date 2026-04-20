@@ -1,50 +1,68 @@
 {
-  "generated_at": "2026-04-19T03:50:12.931494+00:00",
+  "generated_at": "2026-04-20T03:52:10.088197+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "海賊版は良くてメーカーは悪者？ 「ニーア」の勝手サーバ事件で海外勢の意見に驚いたマンガ家が声を大にして言いたいこと",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/19/news015.html",
-      "summary": "最近のX（エックス）は国際交流が盛んになっていますが、やはり衝突が起きました。サービスを終了したオンラインゲーム「NieR Re[in]carnation」を巡る議論を見ていて、ボクもかなり驚きました。",
-      "published": "2026/04/19 07:14",
+      "title": "ランサムウェア被害を受けても「身代金は支払わない」企業の割合が年々増加──JIPDEC調査",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/20/news070.html",
+      "summary": "ランサムウェア攻撃を受けた場合に犯人グループに身代金を支払う日本企業の割合は年々減少傾向にあることが、日本情報経済社会推進協会の調査で分かった。",
+      "published": "2026/04/20 11:52",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "フェンシング剣の軌跡が光る、追える　東京五輪でも活躍、アニメみたいな可視化技術が米国デビューへ",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/18/news020.html",
-      "summary": "フェンシング剣の軌跡を光らせ可視化する技術「Fencing Visualized」が、米国で開催される国際大会「WORLD FENCING LEAGUE」で導入される。米国での公開は初という。",
-      "published": "2026/04/18 09:00",
+      "title": "Google検索「AIモード」に個人情報を入力しないで――立教大など、学内に注意喚起",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/20/news069.html",
+      "summary": "AIモードに入力した情報はGoogleのデータベースに蓄積され、AI学習に利用されるため、入力自体が情報漏えいになるとし、注意を呼び掛けている。",
+      "published": "2026/04/20 11:46",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ソニーの「サイバーショット」30周年　画期的なデザインと大胆な機構で注目を集めた“あの頃”",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/18/news014.html",
-      "summary": "1996年発売の初代サイバーショットは今見てもドキドキするくらい画期的なデザインだった。というわけで、今回はサイバーショット（Cyber-shot）30周年記念コラムである。",
-      "published": "2026/04/18 08:14",
+      "title": "朗報！　Googleが「戻るボタン→広告」がスパムに……次は「×ボタン小さすぎ広告」を何とかしてほしい",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/20/news060.html",
+      "summary": "「×」を探しているうちに広告本体を誤タップしてしまい、広告ページに飛ばされてイライラするアレも何とかならないだろうか。",
+      "published": "2026/04/20 11:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropic、「Opus 4.7」ベースのAIデザインツール「Claude Design」発表　Canvaとの連携も可能",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/18/news023.html",
-      "summary": "Anthropicは、AIデザインツール「Claude Design」をリサーチプレビューとして発表した。最新モデル「Claude Opus 4.7」を基盤とし、指示やファイルからプロトタイプを自動生成する。Canvaとの提携強化により、生成物をCanvaで直接編集することも可能。プロトタイプから実装まで、業務プロセスのAI統合を加速させる。",
-      "published": "2026/04/18 08:05",
+      "title": "身に着けるクーラー、酷暑で人気　売上5割増　海外出張で着想　ソニーサーモテクノロジー",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/20/news058.html",
+      "summary": "年々、夏の暑さが厳しさを増す中、ソニーグループの新規事業プログラムから誕生した暑熱対策のウェアラブルデバイス「REON POCKET」（レオンポケット）が人気だ。2025年度の売り上げ（事業全体）は、前年比約1.5倍に伸びており、4月に早くも全国100カ所以上で夏日を記録した今年も身に着けるクーラーの注目は高まっている。",
+      "published": "2026/04/20 10:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "岸田元首相、公式YouTubeで自身のディープフェイク映像をセルフパロディー　「この画像は公式です」",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/17/news137.html",
-      "summary": "岸田文雄元首相の公式YouTubeチャンネルが4月17日に公開した動画が話題だ。フェイク動画やSNS工作に関する内容だが、そのサムネイルは2023年に話題になった、岸田元首相のディープフェイク動画を模したもの。Xでは岸田元首相に対し「鋼の心過ぎる」と注目を浴びている。",
-      "published": "2026/04/18 08:00",
+      "title": "中国人型ロボがハーフマラソンで50分台、人間の世界記録超え　昨年から1時間50分短縮",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/20/news057.html",
+      "summary": "中国・北京で19日、人型ロボットが走るハーフマラソン大会が開かれた。優勝タイムは50分26秒で、人間の男子世界記録である57分20秒を大幅に上回った。中国は、2026年を人型ロボットの「商業化元年」と位置付けており、新興産業で先頭集団を走っていると国内外に誇示した。",
+      "published": "2026/04/20 10:12",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米軍がイラン貨物船を拿捕　トランプ氏が主張する協議をイランは否定",
+      "url": "https://www.bbc.com/japanese/articles/cn0wnx2edqko?at_medium=RSS&at_campaign=rss",
+      "summary": "ドナルド・トランプ米大統領は19日、ホルムズ海峡東側のオマーン湾で、アメリカによる海上封鎖を突破しようとしたイラン船籍の貨物船を攻撃して拿捕（だほ）したと明らかにした。トランプ氏はこれに先立ち、米代表団が20日にも再びパキスタンへ向かいイラン側と交渉するとしつつ、今回も合意が得られなければイランのエネルギー関連施設や橋などを破壊すると改めて脅した。これに対してイラン国営メディアは当局者の話として、",
+      "published": "2026/04/20 11:28",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9350/live/aa6ef180-3c4a-11f1-879d-1b2f5c3919b8.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "キーウで乱射事件　警官が現場から逃げた疑いでウクライナ巡回警察トップ辞任",
+      "url": "https://www.bbc.com/japanese/articles/c3w3096zppvo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナの首都キーウで18日、男性が路上やスーパーマーケットで銃を乱射する事件があり、6人が死亡し14人が負傷した。銃撃犯は人質をとってスーパーに立てこもった後、警官に射殺された。この事件現場から警官2人が逃げ出したと言われており、ウクライナ巡回警察トップが19日、引責辞任した。",
+      "published": "2026/04/20 12:13",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f9a/live/8e252110-3c0f-11f1-9ee7-39ebe3a225a4.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -74,67 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abd4/live/6f68ddd0-3ad3-11f1-879d-1b2f5c3919b8.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】トランプ氏とローマ教皇の間の亀裂があらわに　米大統領の支持に影響",
-      "url": "https://www.bbc.com/japanese/articles/cz902zej4v4o?at_medium=RSS&at_campaign=rss",
-      "summary": "トランプ米大統領がイラン戦争をめぐりローマ教皇レオ14世を攻撃したり、自分をイエス・キリストのように描いた画像を投稿したりしたことで、従来は支持政党別に対立していたアメリカのカトリック教徒たちが、ひとつにまとまりつつある。どういう状況なのか、BBCのマクブール宗教担当編集委員が解説する。",
-      "published": "2026/04/18 12:04",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/103b/live/9d6b1080-3a20-11f1-9d5c-8ba507d7dbde.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "日本の気象庁、最高気温40℃以上の日の名称を「酷暑日」に決定",
-      "url": "https://www.bbc.com/japanese/articles/cwyx0g5pxp7o?at_medium=RSS&at_campaign=rss",
-      "summary": "日本の気象庁は17日、最高気温が摂氏40度以上の日について、「酷暑日」と呼ぶと発表した。日本が昨年、観測史上最も暑い夏を経験したことを受けてのもの。気象庁によると、「酷暑日」という呼び名は、今年2月末から1カ月にわたり行われたオンライン調査で最も支持を集めた。",
-      "published": "2026/04/18 13:37",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ce3/live/7537af70-3a7e-11f1-850e-07c4418cf86c.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "AIへの指示が下手な人は｢仕事の構造｣が見えていない。周りから高く評価される｢たたき台｣を生むプロンプト術 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941249?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIの進化で｢AIに仕事を任せればいい｣と考えるビジネスパーソンが増えていますが､良いアウトプットを得る鍵は｢たたき台｣の質にあります。どの環境でも活躍する人が実践する\"叩かれるたたき台\"の極意…",
+      "published": "2026/04/20 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/1/1200w/img_110051b2a5263b08819f2cbc6e83cf6b150527.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢浅井の頭蓋骨を金箔で飾ってお披露目｣姉川の戦い勝利で見せた信長の残虐 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941600?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "兄･豊臣秀吉を支えた｢理想のナンバー2｣豊臣秀長。その実像に迫る本連載第17回では､織田信長の残虐性にスポットライトを当てます。",
-      "published": "2026/04/19 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/5/1200w/img_a50e9d6374dfad264abc48b28fd1f9ae896661.jpg?nextgen=false"
+      "title": "人に化けて暮らす｢威圧的な嘗女｣の\"意外な悩み\"　漫画｢化けの皮のヒトバケ｣（第2集 第15話） | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940346?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "令和の世を人間として生きる妖怪・“人化（ヒトバケ）”。彼らにも、それぞれ悩みがあるらしい……。雪女・六花（りっか）は、そんな人化からの相談を受け、解決を手助けする役目を祖母から引き継いだ。六花は、「…",
+      "published": "2026/04/20 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/6/1200w/img_d6b8383910c40d4838c7c787f46cc427426053.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "EV失速に直面した電池メーカーがこぞって電力貯蔵事業への転換を模索､ところが生産ラインの変更は難しい | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941965?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "米国のEV市場が低迷する中､自動車･電池メーカーは生き残りをかけて工場をエネルギー貯蔵システム（ESS）向けに転用し始めています。しかし､中国が技術を握る電池分野での転換や新需要の成長速度には課題も…",
-      "published": "2026/04/19 11:50",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/5/1200w/img_a571edb479fee84489843e1ee36d8930368409.jpg?nextgen=false"
+      "title": "モチベは｢上げる｣ことより｢下げない｣ことが重要だから…心が折れる\"2つの瞬間\"を賢く回避する方法 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/940858?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢やる気が出ない…｣そんな悩みに直面したことはありませんか？実は､モチベーションは上げるより\"下げないこと\"が大切。やる気を奪う原因は誰にも共通し､仕組みの工夫でコントロール可能です。本当に必要なの…",
+      "published": "2026/04/20 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/3/1200w/img_73017d7c4eba1be74a3785f4672f5f5d141102.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ホルムズ海峡で混乱拡大､米イラン合意に暗雲－レバノン停戦でも亀裂 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941957?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "イランがホルムズ海峡を再び封鎖し､中東情勢は一層不安定になっています。イスラエルとレバノンの停戦合意も揺らぎ､米国や欧州各国も緊張を強めています。エネルギー輸送の要所で何が起きているのか―その舞台裏…",
-      "published": "2026/04/19 11:40",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/9/1200w/img_c912ae0bbaf24fae68f2fcbd17758015100765.jpg?nextgen=false"
+      "title": "林望｢本は再読､三読にこそ価値がある｣ 世阿弥の教えに学ぶ､人生の節目で\"新たな自分\"に出会う読書の醍醐味 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939642?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "若い頃に読み流した一冊が､人生経験を重ねた今だからこそ見えてくる｢行間の意味｣—。紙の本を手元に置き､鈍行列車の旅のようにゆっくりと言葉と向き合うことで､年齢ごとに新たな発見や感動が生まれます。なぜ…",
+      "published": "2026/04/20 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/2/1200w/img_822c8d9c7110e418f34aad707ef1596744057.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "フェイクと詐欺があふれる時代に池上彰が怒った——SNS型投資詐欺とニセ警察詐欺の深刻実態《日本は対策がまだ甘い》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/940745?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "SNSを利用した投資詐欺やAIを使った偽情報の拡散など､\"法\"だけでは防ぎきれない新たな脅威が増えています。本当に私たちを守るのは､自らの教養と倫理観です。あなたは騙されずにいられる自信がありますか…",
-      "published": "2026/04/19 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/d/1200w/img_dd127c98e12fe470dcfad49152c2b9eb411161.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "最高18億円!?｢億超え｣車両も多数のクラシックカー展示会｢オートモビルカウンシル｣は文化を作れるか？ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941687?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "近年､若者や富裕層を中心に旧車やクラシックカーへの熱い関心が高まっています。｢オートモビルカウンシル2026｣では､希少な海外車と多彩なヒストリックカーが一堂に集結し､高額車両の即売も実施。その舞台…",
-      "published": "2026/04/19 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/a/1200w/img_fa25047d9d578a3dae6fc0a19a9fdbcd222234.jpg?nextgen=false"
+      "title": "クラウン エステート｢隠れヒット車｣といえるワケ。発売1年の販売データから見えたシリーズを支える功労者 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941006?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "半世紀以上の歴史を誇るクラウンシリーズに18年ぶりに復活したワゴンモデル｢クラウン エステート｣。SUVとして生まれ変わった新型は､発売初年度から予想以上の好調な売れ行きを記録しています。その人気と…",
+      "published": "2026/04/20 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/a/1200w/img_0ad14417d72cbd3be1ed8cdb7e377001366717.jpg?nextgen=false"
     }
   ]
 }
