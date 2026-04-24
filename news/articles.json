@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-04-23T03:47:25.199834+00:00",
+  "generated_at": "2026-04-24T03:51:06.316034+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ヤフオクとYahoo!フリマ、転売対策をポリシー化　買い占めによる高額転売など制限",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/23/news091.html",
-      "summary": "これまでにも、個別商品ごとに出品制限を行ってきたが、新たに、判断基準や対応方針を統一的なポリシーとして明文化。",
-      "published": "2026/04/23 12:17",
+      "title": "「セブン-イレブン」発注システムメンテ中に障害、商品供給滞る可能性　最大約800店舗で",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news085.html",
+      "summary": "影響を受けた最大約800店舗で、24日に一部の商品の供給が滞る可能性がある。",
+      "published": "2026/04/24 11:33",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "なぜアマゾンで不動産は買えないのか？　専門家が解説",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/23/news023.html",
-      "summary": "バブル経済の崩壊後、低迷してきた日本の不動産価格が反転上昇し、内外からの投資が盛り上がる中、海外の先進事例なども交えて将来の不動産業界や価格を分かりやすく展望する。第1回は「なぜアマゾンで不動産を買えないのか」を深堀りする。",
-      "published": "2026/04/23 12:00",
+      "title": "“推しの機器”をカプセルトイに　「手のひらネットワーク機器」第5弾はユーザー投票でラインアップを決定",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news081.html",
+      "summary": "エーピーコミュニケーションズは24日、カプセルトイ「手のひらネットワーク機器」の第5弾ラインアップを決めるユーザー投票を実施すると発表した。",
+      "published": "2026/04/24 11:16",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "noteのCEO、自社株の約3％を市場で売却　好決算直後に株価急落　「売却は流動性向上のため」",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/23/news084.html",
-      "summary": "売却日の終値は前日比-16.25％に急落。翌日には反発したものの、値幅が拡大する不安定な展開が続いている。",
-      "published": "2026/04/23 11:52",
+      "title": "白亜紀後期の海では19mの巨大タコが食物連鎖の頂点に　化石をAI解析、常識覆す",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news077.html",
+      "summary": "今から約1億～7200万年前の白亜紀後期の海では、全長が最大19mにもなる巨大タコが食物連鎖の頂点にいたことが、北海道大などの研究チームによるAIでの解析で分かった。24日付の米科学誌サイエンスで発表した。海の頂点捕食者は過去約4億年にわたり、背骨を持つ脊椎動物だったと考えられていたが、常識が覆された形だ。",
+      "published": "2026/04/24 10:44",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Threads、ライブイベント用「Live Chat」機能追加　NBAから提供開始",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/23/news077.html",
-      "summary": "Metaは、Threadsの新機能「Live Chat」を発表した。スポーツやアーティストの新譜リリースなどのライブイベントに合わせ、リアルタイムで公開グループチャットを楽しめる仕組みだ。まずは米国から展開。150人までメッセージ送信が可能で、満員後も閲覧や投票は行える。",
-      "published": "2026/04/23 11:41",
+      "title": "「Claude」の連携機能「コネクタ」、Uber EatsやSpotifyなど日常アプリに対応",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news075.html",
+      "summary": "Anthropicは、「Claude」の外部連携機能「コネクタ」を拡充した。Uber EatsやSpotify、Booking.comなど日常的なサービスに対応。会話の文脈から最適なアプリを動的に提案し、Claudeで予約や検索を行える。全プランのユーザーが利用可能だ。",
+      "published": "2026/04/24 10:27",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "旭精機工業のサイト改ざん、仮想通貨取引所の偽サイトに……サイバー攻撃受け",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/23/news071.html",
-      "summary": "IR情報ページなどで、「XXKK Virtual Currency Exchange」を名乗る暗号資産取引所の宣伝ページが表示される状態になっていた。",
-      "published": "2026/04/23 10:51",
+      "title": "サイバー攻撃疑いの市立奈良病院、初動対応に成功で「感染・漏えいなし」　通常診療再開",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news069.html",
+      "summary": "初動対応での検知・遮断に成功したため、個人情報の漏洩やデータ破損、ウイルス感染などの被害は、現時点で確認していないという。",
+      "published": "2026/04/24 08:02",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "マドゥロ氏の失脚に賭けて40万ドル超の利益　拘束作戦に関与の米特殊部隊兵を起訴",
+      "url": "https://www.bbc.com/japanese/articles/c1eqxyxldnwo?at_medium=RSS&at_campaign=rss",
+      "summary": "米司法省は23日、ヴェネズエラのニコラス・マドゥロ大統領の拘束作戦に関与した米軍特殊部隊の兵士が、情報が公になる前にマドゥロ氏の失脚に賭けていたとして、詐欺などの罪で逮捕・起訴した。",
+      "published": "2026/04/24 11:35",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7911/live/bdf0c0a0-3f63-11f1-9a6a-6f029c393108.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米メタ、従業員8000人削減へ　AI関連支出が急増する中",
+      "url": "https://www.bbc.com/japanese/articles/c0j60l3vgl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "米メタの人工知能（AI）関連プロジェクトへの支出が過去最大となる中、同社が来月に、数千人規模の人員削減を実施することが、23日に明らかになった。",
+      "published": "2026/04/24 11:45",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72b1/live/f79c1250-3f45-11f1-ac78-2112837ce2aa.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "レバノンで記者殺害　イスラエルが空爆で記者を標的にしたとレバノン首相が非難",
+      "url": "https://www.bbc.com/japanese/articles/cp9vgekrdrro?at_medium=RSS&at_campaign=rss",
+      "summary": "レバノンのナワーフ・サラーム首相は23日、レバノン南部で前日にイスラエルの空爆によって記者1人が殺害され、別の記者1人が負傷したことを受け、イスラエルの行為は戦争犯罪だと非難した。",
+      "published": "2026/04/24 12:18",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1474/live/4d6990d0-3eb6-11f1-bd52-e755d604ece4.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イラン、ホルムズ海峡の開放は「不可能」　米・イスラエルの「停戦違反」が続く限り",
+      "url": "https://www.bbc.com/japanese/articles/c0q9knyqlz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとの和平協議でイラン代表団を率いるガリバフ国会議長は22日、アメリカとイスラエルが「露骨に停戦違反」をしているため、ホルムズ海峡を開放するのが「不可能な」状況だと述べた。",
+      "published": "2026/04/23 15:08",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/87cc/live/970c5e30-3e97-11f1-a4f7-2909a7c81847.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0888/live/d3ae0350-3eb7-11f1-b55d-0f258dce1735.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ホルムズ海峡で米・イランの対立続く　イランは船舶を攻撃し拿捕、自国関連船の航行も続く",
-      "url": "https://www.bbc.com/japanese/articles/cp3lgyezx6zo?at_medium=RSS&at_campaign=rss",
-      "summary": "イランとアメリカの対立が続く中、トランプ米大統領は停戦を延長するものの、イラン港湾の海上封鎖は続けると発表した。対するイランは、米軍が封鎖を続ける限り、ホルムズ海峡の封鎖は続けると対抗。トランプ氏はイランの海軍力は全滅させたとしているものの、イランは複数の船舶を攻撃したり拿捕（だほ）したりしているほか、イラン関連船の航行も続いている。BBCヴェリファイのチュー編集委員が解説する。",
-      "published": "2026/04/23 12:30",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f130/live/f733ada0-3ec3-11f1-bd52-e755d604ece4.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "トランプ氏、イランとの停戦延長を発表　「議論の結論出るまで」と",
-      "url": "https://www.bbc.com/japanese/articles/cn53dg52n5no?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのドナルド・トランプ大統領は21日、イランとの停戦を延長すると発表した。仲介国パキスタンの要請を受けたもので、和平に向けたイランの統一案が出され、議論の結論が出るまでとしている。イランの港湾に出入りする船舶に対する封鎖措置は継続するという。",
-      "published": "2026/04/22 15:55",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd18/live/6d9024f0-3dee-11f1-9aec-bb722aee3160.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イランで200万人が職を失う　米・イスラエルとの戦争が影響",
-      "url": "https://www.bbc.com/japanese/articles/c20373v9z22o?at_medium=RSS&at_campaign=rss",
-      "summary": "イランではこのところ、大規模な人員削減の動きが続いている。これは、アメリカ・イスラエルとの紛争と直接、あるいは間接的に関係している。",
-      "published": "2026/04/22 13:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd4a/live/df3e79e0-3d8e-11f1-ac78-2112837ce2aa.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米特使らのキーウ未訪問は「無礼」　ゼレンスキー氏が地元メディアに",
-      "url": "https://www.bbc.com/japanese/articles/c747egm7ljmo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのゼレンスキー大統領は21日、アメリカのウィトコフ大統領特使とトランプ大統領の娘の夫クシュナー氏がロシアの首都モスクワをたびたび訪問している一方で、ウクライナの首都キーウを一度も訪れたことがないことについて、「無礼だ」と受け止めていると述べた。",
-      "published": "2026/04/22 17:46",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bab1/live/3d4c7e80-3d74-11f1-ac78-2112837ce2aa.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "AI時代にエリートが｢文化人類学｣に注目する理由　｢文化人類学的な調査手法｣はビジネスに応用できる | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939090?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "グーグルやアップルなど､名だたる企業が文化人類学者を採用し始めた今､ビジネスの世界で｢文化人類学｣が脚光を浴びています。なぜ効率や数値化だけでは見えない価値を求め､エリートたちはこの学問に注目するの…",
+      "published": "2026/04/24 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/e/1200w/img_6e53fdf93293ce25448b0017f53800a5628418.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日豪間のフリゲート共同開発が示す3つの死角／日本の防衛輸出の試金石となりうるか､あるいは試練となるか | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942286?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本最大級の防衛装備輸出となる日豪新型フリゲート共同開発が始動し､両国関係を新たな段階へ押し上げつつあります。しかし｢ゼロ変更｣方針の形骸化､膨張するコスト､経験不足という三重の難題が浮上。果たして…",
-      "published": "2026/04/23 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/8/1200w/img_580afafe7c5227fc64ce4f7fc00aeef4119097.jpg?nextgen=false"
+      "title": "｢高齢者｣の定義見直しなど…自民と維新の《連立合意書･13施策》から読み解く\"今後の医療政策\" | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941334?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "社会保険料の負担が増え続ける一方で､｢手取りが増えない｣と感じる現役世代。しかし､その保険料の多くは親や祖父母世代の医療を支え､家族全体を守る役割を担っています。今､制度の根本的な見直しが進みつつあ…",
+      "published": "2026/04/24 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/8/1200w/img_d890a9dcbdb46e8edf8bec9c0589270a216400.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢中国より止められないモンスターがいる｣小泉悠×辻愛沙子対談（前編）日本の安全保障の現実について激論 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941461?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ロシアのウクライナ侵攻や中東の緊迫､台湾有事への不安が高まる中､日本の防衛予算も過去最大に。そんな時代に問われる｢戦争と平和｣へのリアリティは､世代ごとにどう異なるのか。対話から見えてくる私たちの選…",
-      "published": "2026/04/23 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/9/1200w/img_c9cf49d6a3198e1335f1272285cac53a238030.jpg?nextgen=false"
+      "title": "｢右派も左派も\"脳内の敵\"を叩いているだけ｣小泉悠×辻愛沙子対談（後編）日本人が無自覚にハマる\"言論の軍拡競争\"とは | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941464?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ロシアのウクライナ侵攻や中東情勢の悪化を背景に､日本の防衛力強化や情報戦の重要性が急速に増しています。SNS上では虚実が交錯し､見えない戦争が日常化する現代､私たちはどのように真実を見極めるべきなの…",
+      "published": "2026/04/24 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/9/1200w/img_59141b4203d82e34397c6ec915b8472f166194.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本人の右傾化はウソ？ \"日本の危機\"に右派の動きが活発化も､世論はむしろ｢無関心｣の実態 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941113?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢日本は右傾化している｣との指摘が増える一方､実際の世論調査では明確な裏付けはありません。本記事では､歴史認識や外交問題､排外主義運動まで､社会の｢右傾化｣をめぐるデータや事例を通じて､現在の日本社…",
-      "published": "2026/04/23 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_230dc36ea90a53f1920840f7ca11c2c4338189.jpg?nextgen=false"
+      "title": "｢いい場｣での外遊びは子どもの目にもいい－－ママ･パパが意外と知らない｢近視｣と｢遺伝｣と｢外遊び｣の関係 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939184?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢近視はメガネで対応できる｣と考えがちですが､実は将来的な失明リスクを高める要注意の疾患。しかし予防や正しい知識は意外と知られていません。子育て世帯向けアプリiiba開発者･逢澤奈菜さんと眼科医が語…",
+      "published": "2026/04/24 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/6/1200w/img_f640d36a64266cb1c21b392c6b62035c123994.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ある意味で歴史の転換点？ 高市首相｢お別れの会｣30分退出と武器輸出解禁が象徴する｢日本の国防｣不可逆の2日間 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942372?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "昨年逝去した村山富市元首相の｢お別れの会｣には､政界を代表する多くの顔ぶれが集いました。しかし､その穏やかな雰囲気の裏側では､平和憲法をめぐる緊張も浮き彫りに。時代が揺れる今､村山氏の遺した｢平和へ…",
-      "published": "2026/04/23 11:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/1/1200w/img_b1e2a7048120c6a03e118dc53c4316b782266.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "揺らぐ性自認…結婚控え｢本当の自分｣に迷う女性の葛藤　漫画｢ボールアンドチェイン｣（第1集 第2話） | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/937885?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "宝島社『このマンガがすごい！2025』オンナ編 第3位。文藝春秋『CREA夜ふかしマンガ大賞2024』第4位。性自認の揺らぎを感じつつも、“女”として結婚を控える〈けいと〉（20代後半・会社員）。夫…",
-      "published": "2026/04/23 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/1/1200w/img_819481631fae1d0d19a714e977d4bf56451205.jpg?nextgen=false"
+      "title": "｢そんなこと言われても…｣　義父の介護でボロボロの妻が夫とわかり合えない\"根深い理由\"　『介護者たちの事件簿』 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942436?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "路地裏にひっそりと佇む、とあるBAR。 ここには、さまざまな事情を抱えた人がやってきます。今宵も介護で疲れ切った人が、重いため息と共にやってきました。全国で約690万人超──。これは、介護サービスの…",
+      "published": "2026/04/24 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/2/1200w/img_22bf86deed2d7c73542e7b00835d41df228288.jpg?nextgen=false"
     }
   ]
 }
