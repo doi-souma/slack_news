@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-04-24T03:51:06.316034+00:00",
+  "generated_at": "2026-04-25T03:32:32.171807+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「セブン-イレブン」発注システムメンテ中に障害、商品供給滞る可能性　最大約800店舗で",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news085.html",
-      "summary": "影響を受けた最大約800店舗で、24日に一部の商品の供給が滞る可能性がある。",
-      "published": "2026/04/24 11:33",
+      "title": "自分用ウィジェットが作れるNothing「Phone（4a）Pro」は“使って楽しいスマホ”の完成形かもしれない",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/25/news015.html",
+      "summary": "Nothingの新製品「Phone（4a）Pro」の評価機を借りることができました。ハードウェアの美しさと、OSを含めたソフトウェアの進化が融合した、まさに「使っていて楽しいスマホ」でした。",
+      "published": "2026/04/25 10:14",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“推しの機器”をカプセルトイに　「手のひらネットワーク機器」第5弾はユーザー投票でラインアップを決定",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news081.html",
-      "summary": "エーピーコミュニケーションズは24日、カプセルトイ「手のひらネットワーク機器」の第5弾ラインアップを決めるユーザー投票を実施すると発表した。",
-      "published": "2026/04/24 11:16",
+      "title": "MetaとAWSが提携　エージェント型AI強化に最新のArmベースチップ「Graviton5」を大量採用",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/25/news024.html",
+      "summary": "Metaは、エージェント型AI強化のためAWSと提携し、数千万個の「AWS Graviton」コアを導入する。最新の「Graviton5」を採用し、推論やコード生成、自律タスクの調整などCPU負荷の高い処理を効率化。AIインフラの多様化とエネルギー効率向上を図り、次世代AI開発の基盤を強化する方針だ。",
+      "published": "2026/04/25 06:41",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "白亜紀後期の海では19mの巨大タコが食物連鎖の頂点に　化石をAI解析、常識覆す",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news077.html",
-      "summary": "今から約1億～7200万年前の白亜紀後期の海では、全長が最大19mにもなる巨大タコが食物連鎖の頂点にいたことが、北海道大などの研究チームによるAIでの解析で分かった。24日付の米科学誌サイエンスで発表した。海の頂点捕食者は過去約4億年にわたり、背骨を持つ脊椎動物だったと考えられていたが、常識が覆された形だ。",
-      "published": "2026/04/24 10:44",
+      "title": "はてな、11億円の資金流出　振り込め詐欺か",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news127.html",
+      "summary": "はてなは24日、不正な送金指示によって約11億円の資金が銀行口座から流出したと公表した。第三者から虚偽の送金指示があった。",
+      "published": "2026/04/24 20:54",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「Claude」の連携機能「コネクタ」、Uber EatsやSpotifyなど日常アプリに対応",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news075.html",
-      "summary": "Anthropicは、「Claude」の外部連携機能「コネクタ」を拡充した。Uber EatsやSpotify、Booking.comなど日常的なサービスに対応。会話の文脈から最適なアプリを動的に提案し、Claudeで予約や検索を行える。全プランのユーザーが利用可能だ。",
-      "published": "2026/04/24 10:27",
+      "title": "Chrome、名前の読み仮名を自動入力できるように",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news125.html",
+      "summary": "米Googleは4月24日（現地時間）、Google Chromeの自動入力機能を日本の姓名表記に対応させたと発表した。",
+      "published": "2026/04/24 19:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "サイバー攻撃疑いの市立奈良病院、初動対応に成功で「感染・漏えいなし」　通常診療再開",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news069.html",
-      "summary": "初動対応での検知・遮断に成功したため、個人情報の漏洩やデータ破損、ウイルス感染などの被害は、現時点で確認していないという。",
-      "published": "2026/04/24 08:02",
+      "title": "CAMPFIRE、最大22.5万人分の個人情報漏えいか　一部口座情報も　GitHubアカウントに不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news126.html",
+      "summary": "クラウドファンディング事業を手掛けるCAMPFIREは4月24日、3日に発表したGitHubアカウントへの不正アクセスを巡り、最大22万5846人分の情報が漏えいした可能性があると発表した。",
+      "published": "2026/04/24 19:18",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米代表団、和平協議のためパキスタンへ　イランは2国間会談の予定なしと",
+      "url": "https://www.bbc.com/japanese/articles/cn08dzkxzwko?at_medium=RSS&at_campaign=rss",
+      "summary": "米ホワイトハウスは24日、トランプ大統領の特使ウィトコフ氏と、大統領の娘の夫クシュナー氏が、イランとの和平協議のため25日朝にパキスタンへ向かうと発表した。一方、イラン外務省は、アラグチ外相が25日未明にパキスタンに入ったと明らかにした。ただ、アメリカではなくパキスタンの高官と協議する予定だとした。",
+      "published": "2026/04/25 11:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14a4/live/f66111b0-403f-11f1-b55d-0f258dce1735.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "英政府、フォークランド諸島の主権を強調　米政権がイラン戦争めぐる不満から「立場見直し」と報道され",
+      "url": "https://www.bbc.com/japanese/articles/c4g8nlx7z9po?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスの首相官邸は24日、南太平洋にあるフォークランド諸島をめぐり、同国の領有権の主張についてアメリカが立場を見直す可能性があると報道されたのを受け、主権は「イギリスにある」と述べた。ロイター通信が報じた米国防総省の内部メールによると、アメリカ政府は、イランとの戦争を支持しなかったとみなした北大西洋条約機構（NATO）同盟国を処罰することを検討していたとされる。",
+      "published": "2026/04/25 12:18",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3360/live/0dc581d0-3fee-11f1-ac78-2112837ce2aa.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "NATO、加盟国除名の「規定はない」　アメリカがスペインの資格停止求めるとの報道受け",
+      "url": "https://www.bbc.com/japanese/articles/cvge2vk0904o?at_medium=RSS&at_campaign=rss",
+      "summary": "北大西洋条約機構（NATO）当局は24日、同盟の条約に加盟国を資格停止または除名する規定は存在しないと述べた。アメリカがイランとの戦争への立場をめぐり、スペインの資格停止を求める可能性があるとする報道を受けたもの。ロイター通信が報じた米国防総省の内部メールによると、アメリカ政府は、イランとの戦争を支持しなかったとみなしたNATO同盟国を処罰することを検討していたとされる。",
+      "published": "2026/04/25 12:27",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e03/live/e25af9c0-3fcb-11f1-ac78-2112837ce2aa.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米政権、連邦当局の死刑で銃殺を認める　ガスと電気椅子も追加導入",
+      "url": "https://www.bbc.com/japanese/articles/c79j2l7392qo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの司法省は24日、連邦刑務所に対し、死刑執行の手段の拡大を指示した。従来の薬物注射に加え、銃殺、ガスによる窒息、電気椅子を導入する。",
+      "published": "2026/04/25 12:24",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e9d/live/d3d11330-404d-11f1-bd52-e755d604ece4.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7911/live/bdf0c0a0-3f63-11f1-9a6a-6f029c393108.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米メタ、従業員8000人削減へ　AI関連支出が急増する中",
-      "url": "https://www.bbc.com/japanese/articles/c0j60l3vgl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "米メタの人工知能（AI）関連プロジェクトへの支出が過去最大となる中、同社が来月に、数千人規模の人員削減を実施することが、23日に明らかになった。",
-      "published": "2026/04/24 11:45",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72b1/live/f79c1250-3f45-11f1-ac78-2112837ce2aa.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "レバノンで記者殺害　イスラエルが空爆で記者を標的にしたとレバノン首相が非難",
-      "url": "https://www.bbc.com/japanese/articles/cp9vgekrdrro?at_medium=RSS&at_campaign=rss",
-      "summary": "レバノンのナワーフ・サラーム首相は23日、レバノン南部で前日にイスラエルの空爆によって記者1人が殺害され、別の記者1人が負傷したことを受け、イスラエルの行為は戦争犯罪だと非難した。",
-      "published": "2026/04/24 12:18",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1474/live/4d6990d0-3eb6-11f1-bd52-e755d604ece4.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イラン、ホルムズ海峡の開放は「不可能」　米・イスラエルの「停戦違反」が続く限り",
-      "url": "https://www.bbc.com/japanese/articles/c0q9knyqlz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカとの和平協議でイラン代表団を率いるガリバフ国会議長は22日、アメリカとイスラエルが「露骨に停戦違反」をしているため、ホルムズ海峡を開放するのが「不可能な」状況だと述べた。",
-      "published": "2026/04/23 15:08",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/87cc/live/970c5e30-3e97-11f1-a4f7-2909a7c81847.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】アメリカとイランの協議、パキスタンが促すも行方は不透明　海峡封鎖で対立",
-      "url": "https://www.bbc.com/japanese/articles/c78rp9m0rvlo?at_medium=RSS&at_campaign=rss",
-      "summary": "イランと、アメリカおよびイスラエルとの間の停戦は22日に期限切れとなる予定だったが、トランプ米大統領が21日夜に延長を表明したことで、どうにか維持されている。ホルムズ海峡での「封鎖合戦」は続いており、イランとアメリカの2回目の和平協議の開催は不透明な状況だ。仲介国パキスタンは依然として、両国の到着を期待している。",
-      "published": "2026/04/23 11:48",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0888/live/d3ae0350-3eb7-11f1-b55d-0f258dce1735.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "遺伝の不平等とどう向き合うか 近い将来に直面するかもしれない困難な問い／『遺伝と平等』を読む（下） | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942318?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『遺伝と平等 人生の成り行きは変えられる』（キャスリン･ペイジ･ハーデン 著）を渡部沙織氏が読み解きます（下編）。",
+      "published": "2026/04/25 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/4/1200w/img_6450c0763d4511820a9ae0c8e5087702161481.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "AI時代にエリートが｢文化人類学｣に注目する理由　｢文化人類学的な調査手法｣はビジネスに応用できる | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939090?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "グーグルやアップルなど､名だたる企業が文化人類学者を採用し始めた今､ビジネスの世界で｢文化人類学｣が脚光を浴びています。なぜ効率や数値化だけでは見えない価値を求め､エリートたちはこの学問に注目するの…",
-      "published": "2026/04/24 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/e/1200w/img_6e53fdf93293ce25448b0017f53800a5628418.jpg?nextgen=false"
+      "title": "｢浅井･朝倉に加担した人々を虐殺｣比叡山延暦寺焼き討ちで信長の暴挙に加担した明智光秀\"裏の顔\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941900?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "戦国の動乱期､織田信長による比叡山延暦寺の焼き討ちは､なぜ実行されたのか。その陰には､激しく揺れる勢力図と複雑な人間関係がありました。",
+      "published": "2026/04/25 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/a/1200w/img_eaed9bf8b005ec7ad880d05927c9d57c1041504.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢高齢者｣の定義見直しなど…自民と維新の《連立合意書･13施策》から読み解く\"今後の医療政策\" | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941334?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "社会保険料の負担が増え続ける一方で､｢手取りが増えない｣と感じる現役世代。しかし､その保険料の多くは親や祖父母世代の医療を支え､家族全体を守る役割を担っています。今､制度の根本的な見直しが進みつつあ…",
-      "published": "2026/04/24 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/8/1200w/img_d890a9dcbdb46e8edf8bec9c0589270a216400.jpg?nextgen=false"
+      "title": "人気ブーランジェリー《メゾン ランドゥメンヌ》のオーナーシェフを25歳でパンの道へと導いた｢意外な出発点｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941699?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "漬物屋に嫁いだことがきっかけで｢発酵｣への興味が芽生えた著者。パン教室の開講や女性サークルの立ち上げと挑戦を重ねるも､時代や周囲の理解の壁に苦悩し､精神的に大きな波に飲み込まれていきます。彼女を支え…",
+      "published": "2026/04/25 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/9/1200w/img_39ec6f07d57e5e9d47beba6a2b76ca1975225.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢右派も左派も\"脳内の敵\"を叩いているだけ｣小泉悠×辻愛沙子対談（後編）日本人が無自覚にハマる\"言論の軍拡競争\"とは | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941464?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ロシアのウクライナ侵攻や中東情勢の悪化を背景に､日本の防衛力強化や情報戦の重要性が急速に増しています。SNS上では虚実が交錯し､見えない戦争が日常化する現代､私たちはどのように真実を見極めるべきなの…",
-      "published": "2026/04/24 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/9/1200w/img_59141b4203d82e34397c6ec915b8472f166194.jpg?nextgen=false"
+      "title": "｢ホタルの森｣が壊されてしまうのか？…名古屋で16年止まった道路建設がいま動き出した理由 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942450?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "16年ぶりに再開される名古屋市の都市計画道路｢弥富相生山線｣。工事が横断する相生山緑地は､貴重なヒメボタルの生息地としても知られます。建設の是非をめぐり市民や行政､議会の思惑が交錯し､地域社会に波紋…",
+      "published": "2026/04/25 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/d/1200w/img_6ddae9eeb34f76e7cfb0d7c62a3ef77b592059.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢いい場｣での外遊びは子どもの目にもいい－－ママ･パパが意外と知らない｢近視｣と｢遺伝｣と｢外遊び｣の関係 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939184?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢近視はメガネで対応できる｣と考えがちですが､実は将来的な失明リスクを高める要注意の疾患。しかし予防や正しい知識は意外と知られていません。子育て世帯向けアプリiiba開発者･逢澤奈菜さんと眼科医が語…",
-      "published": "2026/04/24 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/6/1200w/img_f640d36a64266cb1c21b392c6b62035c123994.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "｢そんなこと言われても…｣　義父の介護でボロボロの妻が夫とわかり合えない\"根深い理由\"　『介護者たちの事件簿』 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942436?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "路地裏にひっそりと佇む、とあるBAR。 ここには、さまざまな事情を抱えた人がやってきます。今宵も介護で疲れ切った人が、重いため息と共にやってきました。全国で約690万人超──。これは、介護サービスの…",
-      "published": "2026/04/24 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/2/1200w/img_22bf86deed2d7c73542e7b00835d41df228288.jpg?nextgen=false"
+      "title": "〈書評〉『自由と平等 ｢正義｣のための設計図』『体育会系 日本のスポーツ教育が創った特異な世界』『シン･SNS論』 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942435?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『自由と平等 ｢正義｣のための設計図』（ダニエル･チャンドラー 著､鬼澤忍 訳）､『体育会系 日本のスポーツ教育が創った特異な世界』（小野雄…",
+      "published": "2026/04/25 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/9/1200w/img_a91c9ea469db422813316773344f076f387994.jpg?nextgen=false"
     }
   ]
 }
