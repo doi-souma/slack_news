@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-25T03:32:32.171807+00:00",
+  "generated_at": "2026-04-26T03:56:04.309812+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "“金髪幼女”が話題のゲーム「プラグマタ」、クリアしたマンガ家が彼女に抱いたのは父性か、それとも……",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/26/news017.html",
+      "summary": "カプコンの新作ゲーム「PRAGMATA（プラグマタ）」が発売から2日で全世界100万本突破と好調です。「美形の金髪幼女」であるディアナが一部で小児性愛を想起させるといった意見もあるようですが、プレイしてみれば異なる印象を受けると思います。",
+      "published": "2026/04/26 07:14",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -38,29 +47,29 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "CAMPFIRE、最大22.5万人分の個人情報漏えいか　一部口座情報も　GitHubアカウントに不正アクセス",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news126.html",
-      "summary": "クラウドファンディング事業を手掛けるCAMPFIREは4月24日、3日に発表したGitHubアカウントへの不正アクセスを巡り、最大22万5846人分の情報が漏えいした可能性があると発表した。",
-      "published": "2026/04/24 19:18",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏参加のホワイトハウス記者会夕食会で銃声　トランプ氏は退避",
+      "url": "https://www.bbc.com/japanese/articles/cx2r82gy5d1o?at_medium=RSS&at_campaign=rss",
+      "summary": "米首都ワシントン中心部のホテルで25日夜、毎年恒例のホワイトハウス記者協会（WHCA）主催の夕食会に出席していたドナルド・トランプ米大統領が、シークレットサービス（大統領警護隊）に促されて避難した。現場では複数の発砲があったとされるが、負傷者は出ていないもよう。トランプ氏はソーシャルメディアに、銃撃犯が「拘束された」と書いた。ワシントン・ヒルトン・ホテルで開かれていた夕食会での状況について、警備関",
+      "published": "2026/04/26 12:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/177d/live/9c2d5770-4112-11f1-b444-51ad07313543.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米代表団、和平協議のためパキスタンへ　イランは2国間会談の予定なしと",
-      "url": "https://www.bbc.com/japanese/articles/cn08dzkxzwko?at_medium=RSS&at_campaign=rss",
-      "summary": "米ホワイトハウスは24日、トランプ大統領の特使ウィトコフ氏と、大統領の娘の夫クシュナー氏が、イランとの和平協議のため25日朝にパキスタンへ向かうと発表した。一方、イラン外務省は、アラグチ外相が25日未明にパキスタンに入ったと明らかにした。ただ、アメリカではなくパキスタンの高官と協議する予定だとした。",
-      "published": "2026/04/25 11:54",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14a4/live/f66111b0-403f-11f1-b55d-0f258dce1735.jpg"
+      "title": "トランプ氏、特使のパキスタン派遣を中止　イランとの協議めぐり",
+      "url": "https://www.bbc.com/japanese/articles/c1l90lpd8yqo?at_medium=RSS&at_campaign=rss",
+      "summary": "ドナルド・トランプ米大統領は25日、イランとの戦争をめぐる協議のために米政府高官をパキスタンへ派遣する予定を中止した。イランの代表団がパキスタンの首都イスラマバードを離れた直後に明らかにした。",
+      "published": "2026/04/26 11:26",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b84/live/6b377100-40e5-11f1-ac78-2112837ce2aa.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
       "title": "英政府、フォークランド諸島の主権を強調　米政権がイラン戦争めぐる不満から「立場見直し」と報道され",
       "url": "https://www.bbc.com/japanese/articles/c4g8nlx7z9po?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスの首相官邸は24日、南太平洋にあるフォークランド諸島をめぐり、同国の領有権の主張についてアメリカが立場を見直す可能性があると報道されたのを受け、主権は「イギリスにある」と述べた。ロイター通信が報じた米国防総省の内部メールによると、アメリカ政府は、イランとの戦争を支持しなかったとみなした北大西洋条約機構（NATO）同盟国を処罰することを検討していたとされる。",
+      "summary": "イギリスの首相官邸は24日、南大西洋にある洋にあるフォークランド諸島をめぐり、同国の領有権の主張についてアメリカが立場を見直す可能性があると報道されたのを受け、主権は「イギリスにある」と述べた。ロイター通信が報じた米国防総省の内部メールによると、アメリカ政府は、イランとの戦争を支持しなかったとみなした北大西洋条約機構（NATO）同盟国を処罰することを検討していたとされる。",
       "published": "2026/04/25 12:18",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3360/live/0dc581d0-3fee-11f1-ac78-2112837ce2aa.jpg"
     },
@@ -76,65 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米政権、連邦当局の死刑で銃殺を認める　ガスと電気椅子も追加導入",
-      "url": "https://www.bbc.com/japanese/articles/c79j2l7392qo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの司法省は24日、連邦刑務所に対し、死刑執行の手段の拡大を指示した。従来の薬物注射に加え、銃殺、ガスによる窒息、電気椅子を導入する。",
-      "published": "2026/04/25 12:24",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e9d/live/d3d11330-404d-11f1-bd52-e755d604ece4.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "マドゥロ氏の失脚に賭けて40万ドル超の利益　拘束作戦に関与の米特殊部隊兵を起訴",
-      "url": "https://www.bbc.com/japanese/articles/c1eqxyxldnwo?at_medium=RSS&at_campaign=rss",
-      "summary": "米司法省は23日、ヴェネズエラのニコラス・マドゥロ大統領の拘束作戦に関与した米軍特殊部隊の兵士が、情報が公になる前にマドゥロ氏の失脚に賭けていたとして、詐欺などの罪で逮捕・起訴した。",
-      "published": "2026/04/24 11:35",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7911/live/bdf0c0a0-3f63-11f1-9a6a-6f029c393108.jpg"
+      "title": "ヘッドスカーフとベレーを合わせて……肌の露出少ない「モデスト・ファッション」ウィーク、パリで初",
+      "url": "https://www.bbc.com/japanese/articles/cly037z7zk7o?at_medium=RSS&at_campaign=rss",
+      "summary": "フランス・パリで4月半ば、初の「モデスト・ファッション・ウィーク」が開かれた。イスラム教徒の女性の多くは自分たちの宗教の原則に沿って、腕や脚、場合によっては髪も覆う服装をする。今回のコレクションでは、そういう女性たちの装いに合うデザインの服が、多数登場した。",
+      "published": "2026/04/25 13:01",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/248b/live/8eeee510-3e51-11f1-bd52-e755d604ece4.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "遺伝の不平等とどう向き合うか 近い将来に直面するかもしれない困難な問い／『遺伝と平等』を読む（下） | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942318?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『遺伝と平等 人生の成り行きは変えられる』（キャスリン･ペイジ･ハーデン 著）を渡部沙織氏が読み解きます（下編）。",
-      "published": "2026/04/25 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/4/1200w/img_6450c0763d4511820a9ae0c8e5087702161481.jpg?nextgen=false"
+      "title": "建国精神の矛盾と拡張主義の泥沼で揺らぐアメリカの覇権／武器輸出解禁の日本が直視すべき世界秩序の崩壊 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942573?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本は武器輸出解禁という歴史的転換を行いましたが､戦後日本の平和主義にどんな影響をもたらすでしょうか。不透明な時代の中､軍産複合体やアメリカの矛盾する拡大政策､日本社会はどこへ向かうのかを多角的に考…",
+      "published": "2026/04/26 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/a/1200w/img_bad1ddd6730c0f8c1fa7fe74f1ac02e4366510.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢浅井･朝倉に加担した人々を虐殺｣比叡山延暦寺焼き討ちで信長の暴挙に加担した明智光秀\"裏の顔\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941900?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "戦国の動乱期､織田信長による比叡山延暦寺の焼き討ちは､なぜ実行されたのか。その陰には､激しく揺れる勢力図と複雑な人間関係がありました。",
-      "published": "2026/04/25 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/a/1200w/img_eaed9bf8b005ec7ad880d05927c9d57c1041504.jpg?nextgen=false"
+      "title": "独特の曲に乗って､一気にお茶の間に広まった｢イシイのミートボール｣､ユニークなCMの狙いは実は消費者ではなかった | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942432?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "30年以上にわたる企業取材の経験を通して､｢ヤバい｣と感じた会社や仕事を取り上げます。今回は第103回｢イシイのミートボール｣をお届けします。",
+      "published": "2026/04/26 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/7/1200w/img_772af532ea687dbad6d68cd4d9650c6b321583.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "人気ブーランジェリー《メゾン ランドゥメンヌ》のオーナーシェフを25歳でパンの道へと導いた｢意外な出発点｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941699?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "漬物屋に嫁いだことがきっかけで｢発酵｣への興味が芽生えた著者。パン教室の開講や女性サークルの立ち上げと挑戦を重ねるも､時代や周囲の理解の壁に苦悩し､精神的に大きな波に飲み込まれていきます。彼女を支え…",
-      "published": "2026/04/25 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/9/1200w/img_39ec6f07d57e5e9d47beba6a2b76ca1975225.jpg?nextgen=false"
+      "title": "｢東京一極集中｣は悪とは限らない／『経済学を手がかりに､都市と地方を論じてみよう』佐藤泰裕氏に聞く | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942434?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『経済学を手がかりに､都市と地方を論じてみよう』の著者､東京大学大学院経済学研究科教授の佐藤泰裕氏に話を聞きました。",
+      "published": "2026/04/26 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/b/1200w/img_8b175c6c239d678e3fb140b9d0fceefc245869.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢ホタルの森｣が壊されてしまうのか？…名古屋で16年止まった道路建設がいま動き出した理由 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942450?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "16年ぶりに再開される名古屋市の都市計画道路｢弥富相生山線｣。工事が横断する相生山緑地は､貴重なヒメボタルの生息地としても知られます。建設の是非をめぐり市民や行政､議会の思惑が交錯し､地域社会に波紋…",
-      "published": "2026/04/25 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/d/1200w/img_6ddae9eeb34f76e7cfb0d7c62a3ef77b592059.jpg?nextgen=false"
+      "title": "東大生が｢麻雀｣にハマりがちなワケ 思考のクセが合致する3つの理由 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941760?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東大生に麻雀好きが多いのはなぜでしょうか。確率計算や心理戦､相手の動きを読む駆け引き――知的好奇心と負けず嫌いの性質が､麻雀と東大生を強く結び付けています。",
+      "published": "2026/04/26 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/5/1200w/img_e502b7fa3611aac57e2e617346f1e593224803.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈書評〉『自由と平等 ｢正義｣のための設計図』『体育会系 日本のスポーツ教育が創った特異な世界』『シン･SNS論』 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942435?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『自由と平等 ｢正義｣のための設計図』（ダニエル･チャンドラー 著､鬼澤忍 訳）､『体育会系 日本のスポーツ教育が創った特異な世界』（小野雄…",
-      "published": "2026/04/25 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/9/1200w/img_a91c9ea469db422813316773344f076f387994.jpg?nextgen=false"
+      "title": "【アグネス論争から40年】渦中の2人が振り返る…オヤジ雑誌が煽った｢産む女と産まない女の対立｣への違和感 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941524?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1980年代に大きな話題となった｢アグネス論争｣。女性同士の対立構図をメディアが煽る中､本人たちの思いはどのようなものだったのでしょうか。論争の渦中にいたアグネス･チャンさんと上野千鶴子さんが語る本…",
+      "published": "2026/04/26 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/5/1200w/img_85c126565e34bf73135445943655d3a5285898.jpg?nextgen=false"
     }
   ]
 }
