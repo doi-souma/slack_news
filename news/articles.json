@@ -1,58 +1,76 @@
 {
-  "generated_at": "2026-04-26T03:56:04.309812+00:00",
+  "generated_at": "2026-04-27T04:00:13.348634+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“金髪幼女”が話題のゲーム「プラグマタ」、クリアしたマンガ家が彼女に抱いたのは父性か、それとも……",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/26/news017.html",
-      "summary": "カプコンの新作ゲーム「PRAGMATA（プラグマタ）」が発売から2日で全世界100万本突破と好調です。「美形の金髪幼女」であるディアナが一部で小児性愛を想起させるといった意見もあるようですが、プレイしてみれば異なる印象を受けると思います。",
-      "published": "2026/04/26 07:14",
+      "title": "「ポケモンGO」でAED設置場所が「ポケストップ」に　てあてポケモン「パーモット」のフォトディスク採用",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/27/news083.html",
+      "summary": "ナイアンティックは27日、AED（自動体外式除細動器）設置場所を「ポケモンGO」の「ポケストップ」にすると発表した。AEDの認知向上に貢献するとしている。",
+      "published": "2026/04/27 12:39",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "自分用ウィジェットが作れるNothing「Phone（4a）Pro」は“使って楽しいスマホ”の完成形かもしれない",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/25/news015.html",
-      "summary": "Nothingの新製品「Phone（4a）Pro」の評価機を借りることができました。ハードウェアの美しさと、OSを含めたソフトウェアの進化が融合した、まさに「使っていて楽しいスマホ」でした。",
-      "published": "2026/04/25 10:14",
+      "title": "「自社が買収され働き方激変」は突然やってくる──そのとき、SIer・SES・IT部門はどう変わるのか",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/23/news078.html",
+      "summary": "「もし明日自社が買われたら、会社はどう変わっていくか」を、主にIT部門、SIer、SESといった現場の視点で整理する。",
+      "published": "2026/04/27 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "MetaとAWSが提携　エージェント型AI強化に最新のArmベースチップ「Graviton5」を大量採用",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/25/news024.html",
-      "summary": "Metaは、エージェント型AI強化のためAWSと提携し、数千万個の「AWS Graviton」コアを導入する。最新の「Graviton5」を採用し、推論やコード生成、自律タスクの調整などCPU負荷の高い処理を効率化。AIインフラの多様化とエネルギー効率向上を図り、次世代AI開発の基盤を強化する方針だ。",
-      "published": "2026/04/25 06:41",
+      "title": "なぜ燃えるモバイルバッテリー　旅客機内は使用禁止に　\"非常識\"な「中華電池」も登場",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/27/news069.html",
+      "summary": "モバイルバッテリーが発火する事故が相次ぎ、国土交通省は24日から旅客機内での使用を禁止する安全基準の適用を始めた。スマートフォンなど小型電子機器の高機能化もあり、モバイルバッテリーでの手軽な充電の需要は高まる一方だが、ひとたび発火すれば大きな被害につながりかねない。市場では安価な海外製も多く流通しているが、価格は多少割高でも安全性を重視した日本製の存在感が増している。",
+      "published": "2026/04/27 10:27",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "はてな、11億円の資金流出　振り込め詐欺か",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news127.html",
-      "summary": "はてなは24日、不正な送金指示によって約11億円の資金が銀行口座から流出したと公表した。第三者から虚偽の送金指示があった。",
-      "published": "2026/04/24 20:54",
+      "title": "中国EVの猛攻にさらされる欧州　新車販売の1割が中国製　追加関税も骨抜きに",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/27/news068.html",
+      "summary": "欧州連合（EU）は、中国製の電気自動車（EV）の猛攻で苦戦を強いられている。2024年には中国の不当な補助金支給を理由に中国製EVに追加関税をかけ、税率を最大45.3％にしたが、輸出の勢いは止まっていない。",
+      "published": "2026/04/27 10:23",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Chrome、名前の読み仮名を自動入力できるように",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news125.html",
-      "summary": "米Googleは4月24日（現地時間）、Google Chromeの自動入力機能を日本の姓名表記に対応させたと発表した。",
-      "published": "2026/04/24 19:30",
+      "title": "脳を老化させる“新たな一因”特定、減らすと記憶力が回復　2025年夏にNature系列誌で研究掲載",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/27/news031.html",
+      "summary": "米カリフォルニア大学サンフランシスコ校などに所属する研究者らがNature Aging誌で発表した論文「Targeting iron-associated protein Ftl1 in the brain of old mice improves age-related cognitive impairment」は、脳の老化を促進する「FTL1」と呼ばれるタンパク質を特定し、その量",
+      "published": "2026/04/27 08:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏参加のホワイトハウス記者会夕食会で銃声　トランプ氏は退避",
+      "title": "イギリス国王の訪米は「予定通り」、銃撃事件で警備上の懸念も　27日から",
+      "url": "https://www.bbc.com/japanese/articles/c5y9yv6nqqno?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリス王室は26日、イギリス国王チャールズ3世とカミラ王妃のアメリカ国賓訪問は「予定通り」実施されると発表した。国王夫妻は27～30日にアメリカを訪問する予定だが、25日にドナルド・トランプ大統領が参加した夕食会で発生した銃撃事件を受け、警備上の懸念が高まっている。国王夫妻の公務を管理するバッキンガム宮殿は声明で、「大西洋の両側で丸一日、協議を重ね」、この決定を行ったと説明。リスクをさらに最小限",
+      "published": "2026/04/27 12:02",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3fec/live/7a119a80-2c17-11f1-aa35-ab540ef24ae5.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米司法省、パウエルFRB議長の捜査打ち切る　内部監査へ移行と",
+      "url": "https://www.bbc.com/japanese/articles/cew7wjwvw08o?at_medium=RSS&at_campaign=rss",
+      "summary": "米司法省は24日、米連邦準備制度理事会（FRB）のパウエル議長に対する刑事捜査を打ち切ると発表した。同省は、FRB本部の改修工事費が超過したとされる疑惑をめぐり議長を起訴していたが、一連の捜査が連邦議会において、後任議長の指名承認で障害となっていた。",
+      "published": "2026/04/27 12:46",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b6d/live/71dbeb30-41da-11f1-bd52-e755d604ece4.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏参加のホワイトハウス記者会夕食会で銃声、男性を拘束　トランプ氏は退避",
       "url": "https://www.bbc.com/japanese/articles/cx2r82gy5d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "米首都ワシントン中心部のホテルで25日夜、毎年恒例のホワイトハウス記者協会（WHCA）主催の夕食会に出席していたドナルド・トランプ米大統領が、シークレットサービス（大統領警護隊）に促されて避難した。現場では複数の発砲があったとされるが、負傷者は出ていないもよう。トランプ氏はソーシャルメディアに、銃撃犯が「拘束された」と書いた。ワシントン・ヒルトン・ホテルで開かれていた夕食会での状況について、警備関",
-      "published": "2026/04/26 12:23",
+      "summary": "米首都ワシントン中心部のホテルで25日夜、毎年恒例のホワイトハウス記者協会（WHCA）主催の夕食会に出席していたドナルド・トランプ米大統領が、シークレットサービス（大統領警護隊）に促されて避難した。現場では複数の発砲があり、シークレットサービスの1人が防弾装備越しに負傷したという。トランプ氏はソーシャルメディアに、銃撃犯が「拘束された」と書いた。ワシントン・ヒルトン・ホテルで開かれていた夕食会での",
+      "published": "2026/04/26 13:19",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/177d/live/9c2d5770-4112-11f1-b444-51ad07313543.jpg"
     },
     {
@@ -74,67 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3360/live/0dc581d0-3fee-11f1-ac78-2112837ce2aa.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "NATO、加盟国除名の「規定はない」　アメリカがスペインの資格停止求めるとの報道受け",
-      "url": "https://www.bbc.com/japanese/articles/cvge2vk0904o?at_medium=RSS&at_campaign=rss",
-      "summary": "北大西洋条約機構（NATO）当局は24日、同盟の条約に加盟国を資格停止または除名する規定は存在しないと述べた。アメリカがイランとの戦争への立場をめぐり、スペインの資格停止を求める可能性があるとする報道を受けたもの。ロイター通信が報じた米国防総省の内部メールによると、アメリカ政府は、イランとの戦争を支持しなかったとみなしたNATO同盟国を処罰することを検討していたとされる。",
-      "published": "2026/04/25 12:27",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e03/live/e25af9c0-3fcb-11f1-ac78-2112837ce2aa.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ヘッドスカーフとベレーを合わせて……肌の露出少ない「モデスト・ファッション」ウィーク、パリで初",
-      "url": "https://www.bbc.com/japanese/articles/cly037z7zk7o?at_medium=RSS&at_campaign=rss",
-      "summary": "フランス・パリで4月半ば、初の「モデスト・ファッション・ウィーク」が開かれた。イスラム教徒の女性の多くは自分たちの宗教の原則に沿って、腕や脚、場合によっては髪も覆う服装をする。今回のコレクションでは、そういう女性たちの装いに合うデザインの服が、多数登場した。",
-      "published": "2026/04/25 13:01",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/248b/live/8eeee510-3e51-11f1-bd52-e755d604ece4.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢俺が頑張る｣上司は三流？｢話題のプロデューサー｣が人を動かすために\"最初に捨てたもの\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/923347?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "チームが停滞する原因は｢リーダーの考え方｣にある？　いま話題のプロデューサー安達勇人氏がたどり着いた｢人を動かす極意｣――あなたも体得しませんか？",
+      "published": "2026/04/27 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/e/1200w/img_6e3df894e9ff72d59eb2f6212761db6c77748.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "建国精神の矛盾と拡張主義の泥沼で揺らぐアメリカの覇権／武器輸出解禁の日本が直視すべき世界秩序の崩壊 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942573?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本は武器輸出解禁という歴史的転換を行いましたが､戦後日本の平和主義にどんな影響をもたらすでしょうか。不透明な時代の中､軍産複合体やアメリカの矛盾する拡大政策､日本社会はどこへ向かうのかを多角的に考…",
-      "published": "2026/04/26 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/a/1200w/img_bad1ddd6730c0f8c1fa7fe74f1ac02e4366510.jpg?nextgen=false"
+      "title": "イラン戦争が招く｢プラスチック危機｣ 東大発ベンチャーがあえてローテクで挑む再生プラの勝算 ｢ゴミを利用するのか｣の声も | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942328?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界情勢や原油高騰の波が､私たちの生活に影響を及ぼしはじめています。プラスチック不足が心配されるなか､リサイクル製品で業界をリードするベンチャー企業の挑戦が注目を集めています。循環型社会の鍵は､どこ…",
+      "published": "2026/04/27 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/3/1200w/img_93a762e5d62945a06a1532a0e6f13fdc294480.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "独特の曲に乗って､一気にお茶の間に広まった｢イシイのミートボール｣､ユニークなCMの狙いは実は消費者ではなかった | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942432?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "30年以上にわたる企業取材の経験を通して､｢ヤバい｣と感じた会社や仕事を取り上げます。今回は第103回｢イシイのミートボール｣をお届けします。",
-      "published": "2026/04/26 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/7/1200w/img_772af532ea687dbad6d68cd4d9650c6b321583.jpg?nextgen=false"
+      "title": "｢さすがにやりすぎ｣｢改悪で破滅｣ANAマイラー界隈で怨嗟の声､SFCステータス\"一生モノ崩壊\"で考えたい3つのサバイバル術 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942715?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ANAの上級会員制度｢スーパーフライヤーズカード｣が大幅刷新され､生涯特典が約束されていた会員も厳格な決済条件を満たさなければ特典維持が困難に。長年の特権が揺らぐ今､会員やマイル修行中の人はどのよう…",
+      "published": "2026/04/27 11:15",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/a/1200w/img_aad1dd1bc553a59cc5e46690f3b15a78156034.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢東京一極集中｣は悪とは限らない／『経済学を手がかりに､都市と地方を論じてみよう』佐藤泰裕氏に聞く | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942434?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『経済学を手がかりに､都市と地方を論じてみよう』の著者､東京大学大学院経済学研究科教授の佐藤泰裕氏に話を聞きました。",
-      "published": "2026/04/26 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/b/1200w/img_8b175c6c239d678e3fb140b9d0fceefc245869.jpg?nextgen=false"
+      "title": "アップルが環境を｢語らなくなった｣本当の理由､リサ･ジャクソン退任後に進む\"脱政治化\"と現場組み込みの戦略転換 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941960?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "毎年進化を遂げるアップルの環境報告書。2026年は圧倒的な成果とともに､カリスマ的旗手リサ･ジャクソンの不在という大きな変化も表れました。環境政策の語り口が変わった背景には何があったのか。経営と環境…",
+      "published": "2026/04/27 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/a/1200w/img_ca024cd47c6e6171fb188d747ed9f5f2259970.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "東大生が｢麻雀｣にハマりがちなワケ 思考のクセが合致する3つの理由 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941760?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東大生に麻雀好きが多いのはなぜでしょうか。確率計算や心理戦､相手の動きを読む駆け引き――知的好奇心と負けず嫌いの性質が､麻雀と東大生を強く結び付けています。",
-      "published": "2026/04/26 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/5/1200w/img_e502b7fa3611aac57e2e617346f1e593224803.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "【アグネス論争から40年】渦中の2人が振り返る…オヤジ雑誌が煽った｢産む女と産まない女の対立｣への違和感 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941524?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "1980年代に大きな話題となった｢アグネス論争｣。女性同士の対立構図をメディアが煽る中､本人たちの思いはどのようなものだったのでしょうか。論争の渦中にいたアグネス･チャンさんと上野千鶴子さんが語る本…",
-      "published": "2026/04/26 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/5/1200w/img_85c126565e34bf73135445943655d3a5285898.jpg?nextgen=false"
+      "title": "人材育成のプロ｢AIを使わせない新人研修の注文が増えている｣ 背景に\"AIコピペ新人\"の底知れないリスク | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941467?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIの普及で新人研修の現場に生まれた\"AIコピペ新人\"という新たなリスク。表面上は優秀に見えても､基礎を知らず品質管理ができないままAIを頼る若手が実務で深刻な問題を引き起こし始めています。人材…",
+      "published": "2026/04/27 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/1/1200w/img_5194f1e11f4fdcb81b4e7dea1b844275363726.jpg?nextgen=false"
     }
   ]
 }
