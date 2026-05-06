@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-05T03:50:52.406137+00:00",
+  "generated_at": "2026-05-06T04:05:48.304083+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "去年の2倍以上！　SDカード“高騰”時代だから知っておきたい無駄のない製品の選び方",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news019.html",
+      "summary": "デジカメ撮影に欠かせないSDカードやCFexpressカード。これが今年に入ってから、急激に値上がりしている。今回はそんな価格高騰時代のSDカードの話。",
+      "published": "2026/05/06 08:14",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+      "summary": "Anthropicは、金融サービス企業向けに10種類のAIエージェントテンプレートを公開した。投資銀行などの専門家を対象に、ピッチブック作成や監査などの業務を支援する。Microsoft 365との連携強化や、外部データプロバイダーとの接続も発表した。",
+      "published": "2026/05/06 07:53",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -29,24 +47,6 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "【全話まとめ】漫画「15日後、データセンター業務のリアルを知るヤマダくん」",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/07/news013.html",
-      "summary": "データセンターで働く人々の様子を4コマ漫画で紹介するコンテンツ「15日後、データセンター業務のリアルを知るヤマダくん」。連載時点では1日に1記事ずつ公開していましたが、本記事ではその全エピソードをまとめて掲載します。",
-      "published": "2026/05/04 10:00",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "マリオ好きにはたまらないけど映画としては……？ マリオ新作映画を見てマンガ家が首を傾げた理由",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/03/news023.html",
-      "summary": "24日に公開された映画「ザ・スーパーマリオギャラクシー・ムービー」の国内興行収入が、公開3日で16億109万3600円を記録しました。ボクも大満足で劇場を後にした、と言いたかったのですが……なぜかそれほど満足感がありませんでした。",
-      "published": "2026/05/03 07:14",
-      "image_url": ""
-    },
-    {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
       "title": "アメリカ、イランの高速艇を攻撃　イランはUAEの石油施設を空爆",
@@ -67,6 +67,15 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
+      "title": "モスクワの高層住宅にドローン攻撃　赤の広場から数キロ",
+      "url": "https://www.bbc.com/japanese/articles/czx2k7e6ge2o?at_medium=RSS&at_campaign=rss",
+      "summary": "ロシアの首都モスクワで4日未明、高層集合住宅にウクライナのドローンが命中し、建物の外壁が大きく損傷した。死傷者はいなかった。高層住宅は、クレムリン（ロシア大統領府）や赤の広場のある首都中心部から南西約6キロの高級住宅地にある。他方、ロシア政府は4日、戦勝記念日の記念行事に合わせて8日と9日にはウクライナに対して停戦すると一方的に宣言した。",
+      "published": "2026/05/05 13:01",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e0b/live/02a9f320-4828-11f1-bc74-4f7f27ea7fac.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
       "title": "ドイツ東部ライプツィヒで車が歩行者に突入　2人死亡、多数負傷",
       "url": "https://www.bbc.com/japanese/articles/cvgz99746npo?at_medium=RSS&at_campaign=rss",
       "summary": "ドイツ東部ライプツィヒで4日午後、車が歩行者の中へ突入し、2人が死亡し、ほかにも複数の人が負傷した。地元当局が明らかにした。ライプツィヒの市長は、当局がドイツ国籍の33歳男性を容疑者として逮捕したと明らかにした。動機は不明だという。",
@@ -83,58 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0168/live/a60aab20-470d-11f1-8bd0-c9ca96b627c7.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ロシアの攻撃で10人死亡とウクライナ　ウクライナはロシアのタンカーなど攻撃とゼレンスキー大統領",
-      "url": "https://www.bbc.com/japanese/articles/c775jmxl222o?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナ各地の当局は3日、ロシアによるドローンおよびミサイル攻撃で、過去1日の間に少なくとも10人が殺害され、少なくとも76人が負傷したと明らかにした。国内5地域の当局が死者を報告した。他方、ウクライナのゼレンスキー大統領は、ロシアの2つの港で、ロシアの石油タンカー3隻など複数の艦船をドローンで攻撃したと述べた。",
-      "published": "2026/05/04 13:21",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9240/live/e12a3160-475f-11f1-ac78-2112837ce2aa.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "自衛隊員の自民党大会｢私人参加｣問題の本質／｢国歌だから｣では済まない自衛隊の政治利用はますますエスカレートする | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943423?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "自民党大会で自衛隊員が｢通常演奏服装｣で歌唱した問題は､法の抜け穴を利用した政治的中立の崩壊を浮き彫りにしました。とくに自衛隊には政治的中立が強く求められます。｢国民が国歌を歌うのが何が悪い｣という…",
+      "published": "2026/05/06 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/9/1200w/img_09dfc75faee487886307b6e497ab4561985160.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "あなたのモチベーションはどこにある？　｢最高のキャリア｣を手にするために確認したい4タイプ診断 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942928?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "キャリアアップや転職を考える際､年収や会社の評判だけで選んでいませんか？実は､自分のモチベーションの源泉を知ることが､真の満足感あるキャリアを築く第一歩です。4タイプ診断で､あなたにとっての｢最高の…",
-      "published": "2026/05/05 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/3/1200w/img_6320810acc20e77c6fb130756d3c281b165571.jpg?nextgen=false"
+      "title": "｢やる気が出ない｣を一瞬で消す脳科学的なアプローチ。仕事がサクサク進む｢アクション動詞｣タスク管理術 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943031?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "多様な職場で活躍してきた萩原雅裕氏が提唱する｢たたき台｣作りの極意。小さな達成感を重ねることで､誰でも着実にモチベーションを維持し､質の高い仕事を実現できる。果たして､その実践法とは？（このリード文…",
+      "published": "2026/05/06 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/b/1200w/img_bb09dcb36940e7a816ed1f004039b884112963.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "不可解な密室殺人､残された手形は｢3本指｣の謎… 名探偵\"金田一耕助\"が事件に挑む─漫画『本陣殺人事件』第2話 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942198?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "いまなお語り継がれる「金田一耕助シリーズ」第1作であり、“伝説”と化した傑作『本陣殺人事件』。世界に誇るジャパニーズミステリーの金字塔を、このたび美麗に完全コミカライズ。完全なる密室で起きた不可解な…",
-      "published": "2026/05/05 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/3/1200w/img_43efb77ca1f68d8a7bd29563428d53dc367592.jpg?nextgen=false"
+      "title": "｢砲弾が飛び交う極限の状況で育ち…｣朝ドラ｢風､薫る｣で注目\"鹿鳴館の華\"と呼ばれた大山捨松の生涯 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942861?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "明治の激動を生き抜き､日本初の女子留学生として異国で学び､近代看護と女子教育の礎を築いた大山捨松。その波乱に満ちた人生は､時代や常識をどう切り拓いていったのか。彼女の生き方が投げかける問いとは――。",
+      "published": "2026/05/06 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/d/1200w/img_3d7f8c89aa7a2d4abbe54ee567c05a04267599.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢休日も仕事が頭から離れない…｣真面目な人ほど休めていない？　心と身体を本当の意味で休ませる《寝る前の儀式》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942974?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "休みの日や夜の布団の中でも仕事のことが頭から離れず､心が休まらない……そんな｢見えない残業｣に悩むあなたへ。日記を書くという小さな\"儀式\"が､心にやさしい境界線を生み出します。今夜､あなたも自分を守…",
-      "published": "2026/05/05 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/8/1200w/img_18a6de75d41c24ec8eb5c42d44a1b342263956.jpg?nextgen=false"
+      "title": "アップルが今秋の次期iOSで外部AIモデルを選択可能に､自社デバイスを包括的なAIプラットフォームへ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943520?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップルが今秋､iOS27などの主要OSで外部AIサービスの選択肢を大きく拡大します。ChatGPTのみだった従来から､GoogleやAnthropicなどのAIも選べる可能性が浮上しています。",
+      "published": "2026/05/06 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/2/1200w/img_02268958e8cebd2d76b782221424095e598111.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "長友選手専属シェフが作る\"鶏が主役\"の｢超たんぱくめし｣､秘伝の唐揚げ･ムネチャーシュー･腸活つくねの作り方 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942148?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "プロサッカー選手･長友佑都さんの専属シェフとして活躍する加藤超也さんが､鶏肉を活用したレシピや部位ごとの栄養､日々の健康管理に役立つ食事の工夫を紹介します。",
-      "published": "2026/05/05 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/3/1200w/img_c3790b7330a82cd2ad60acd412ff15a1625566.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "｢マーラータン｣の名がつけば何でもアリ…外食チェーンも続々参入､日本で独自進化を遂げる\"魔改造マーラータン\"の大増殖 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943306?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "専門店の急増や大手チェーンの参入により､マーラータンは｢ガチ中華｣だけでなく日本の食文化として急速に広がっています。今やアレンジ系や食品以外にも拡大し､その定義やイメージも大きく変貌。果たしてこのブ…",
-      "published": "2026/05/05 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/a/1200w/img_3a858518b414e5075794ebb6ee5f31ab418830.jpg?nextgen=false"
+      "title": "《｢五月病｣を防ぐ》仕事は好調でも､なぜメンタルは壊れる…？｢心を壊さない働き方｣を､克服したプロデューサーが解説 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/923350?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "まもなくGWも終わりますが､毎年この時期に話題になるのが｢五月病｣です。仕事は｢順調｣でも､ふと｢心が疲れている｣ことに気づく瞬間があります。若手プロデューサー安達勇人氏が､自らの｢克服した…",
+      "published": "2026/05/06 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/7/1200w/img_e7b5b039daea9736da89ed48587c8cfd38727.jpg?nextgen=false"
     }
   ]
 }
