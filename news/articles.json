@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-09T03:56:14.050093+00:00",
+  "generated_at": "2026-05-10T04:15:29.323347+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "中国産ソシャゲ「NTE」をプレイしたマンガ家が思う「アニメ調オープンワールド大作」を日本が作らなくてもいい理由",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/10/news014.html",
+      "summary": "最近、SNSで盛り上がっている話題の一つに「日本のゲーム業界はアニメ調のオープンワールドゲームをなぜ作らないのか」というものがあります。キッカケは「NTE: Neverness to Everness」でした。",
+      "published": "2026/05/10 07:14",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -38,13 +47,13 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "「Switch 2」値上げへ　1万円アップの5万9980円に",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/08/news101.html",
-      "summary": "任天堂が、ゲーム機本体および関連サービスの価格改定を発表した。新型機「Nintendo Switch 2」を含むSwitchシリーズ各機種に加え、サブスクリプションサービス「Nintendo Switch Online」、トランプ・花札などの玩具類が対象。",
-      "published": "2026/05/08 16:17",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イラン、米国を「無謀な軍事行動」と非難　米側は提案への回答近く受け取ると",
+      "url": "https://www.bbc.com/japanese/articles/c242qgj3rg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "イランのアラグチ外相は8日、アメリカについて、「外交的な解決策が提示される」たびに「無謀な軍事的行動」を選択していると非難した。一方、アメリカのルビオ国務長官は、同国の提案に対してイランが8日中に回答を示すとの見通しを示した。",
+      "published": "2026/05/09 13:06",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c0d/live/25af0840-4b54-11f1-ac78-2112837ce2aa.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,20 +76,11 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ホルムズ海峡で「交戦」とイラン報道、アメリカは駆逐艦への攻撃に報復と",
-      "url": "https://www.bbc.com/japanese/articles/c0k2gk4z6j6o?at_medium=RSS&at_campaign=rss",
-      "summary": "イランの国営放送は7日、ホルムズ海峡で爆発があったと報じた。また、イランと「敵」との間で「交戦」があったと伝えた。この報道の後、アメリカ中央軍（CENTCOM）は声明で、米海軍のミサイル駆逐艦がホルムズ海峡からオマーン湾へ向けて航行する中で、「イランの攻撃を迎撃し、自衛としての攻撃で対応した」と述べた。",
-      "published": "2026/05/08 10:49",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33f5/live/7c514d70-4a78-11f1-b8a0-ddf13023a8c2.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】 トランプ氏、イランとの和平合意に期待　いくつか条件つきで",
-      "url": "https://www.bbc.com/japanese/articles/c0k2grd77yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は、ホルムズ海峡を通る船舶をアメリカ側が誘導する「プロジェクト・フリーダム」を、開始からほどなくして一時停止した。イランとの「完全かつ最終的な合意」の締結に向け、進展があったためだと説明した。これにより、石油市場は落ち着きを取り戻し、事態打開への期待が高まった。しかし、そうした期待はまもなく、トランプ氏自身によってしぼめられることとなった。",
-      "published": "2026/05/08 10:36",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d085/live/280ac880-4a15-11f1-bd52-e755d604ece4.jpg"
+      "title": "アッテンボロー氏が100歳に、英国王や著名人が祝福　ドキュメンタリー通じ自然保護訴える",
+      "url": "https://www.bbc.com/japanese/articles/c87qpr3q3llo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスの著名な動植物学者で、長年にわたり自然・環境ドキュメンタリー番組の制作・司会を務めてきたサー・デイヴィッド・アッテンボローが、8日に100歳を迎えた。英国王チャールズ3世をはじめとする王族やイギリスの多くの著名人らが、サー・デイヴィッドの誕生日を祝い、功績をたたえるメッセージを次々と発表した。また、ロンドンのロイヤル・アルバート・ホールでは、100歳を祝う特別コンサートも開催された。",
+      "published": "2026/05/09 13:11",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c440/live/ae8bd5b0-4b51-11f1-85fc-bdab61217b8e.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -94,47 +94,47 @@
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢市場経済は社会を従属させうるもの｣と考えることの誤り／カール･ポラニー『大転換』を読む（上） | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943555?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『［新訳］大転換 市場社会の形成と崩壊』（カール･ポラニー 著）を河野龍太郎氏が読み解きます（上編）。",
-      "published": "2026/05/09 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/8/1200w/img_b87cadc7e36651f5e0de41bbd1a349e6138596.jpg?nextgen=false"
+      "title": "ある｢台湾老兵｣の激動の人生､日本へ伝えたかったそのメッセージとは？ 日本兵･国民党兵･政治受難､知られざる血涙の物語 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943679?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "台湾の激動の現代史を生き抜いた許昭栄さん。日本統治下の青春から戦争､白色恐怖､長い亡命生活､そして老兵たちの名誉回復運動。時代の波に翻弄され続けた彼の波乱の人生は､何を後世に訴えかけているのでしょう…",
+      "published": "2026/05/10 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/2/1200w/img_324e4b76c861fc3eeba5504465ea3e7a89597.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "秀吉が｢左腿｣を射抜かれた阿坂城の激戦 伊勢を狙う信長に尽くす､泥臭く体を張った\"天下人\"の原点 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941915?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "戦国時代､織田信長が目指した伊勢攻略。その中に木下藤吉郎（後の秀吉）が阿坂城攻めで負傷した逸話があります。信長の快進撃の裏で泥臭く働く秀吉の姿を紹介します。",
-      "published": "2026/05/09 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/0/1200w/img_a0307acf5f409ba84eee85944913af5b687710.jpg?nextgen=false"
+      "title": "元トヨタエンジニアが起業｢リーンモビリティ｣は次世代モビリティの｢死の谷越え｣を果たせるか？ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943584?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢次世代モビリティ｣という表現がある。従来の4輪車や2輪車とは違う乗り物を指す。少し前ならば自立型2輪車｢セグウェイ｣､近年では｢Luup｣などのいわゆる電動キックボードや､｢Whill｣な…",
+      "published": "2026/05/10 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/0/1200w/img_c09ee00a6ed3f6bc9525def9e4aa265f377446.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "投資銀行を辞めスペイン･イスラエルへ渡った男性が伝授　｢あなたでなくてもいい｣と言われないためにすべきこと | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942293?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "投資銀行を退職してスペインに留学。その後はイスラエルでテック企業へ。最終的にはスペインでアートに関わる……。まわりから共感されない人生を歩み続ける男性が説く､唯一無二の人物になるための｢体験投資｣の…",
-      "published": "2026/05/09 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/2/1200w/img_723fc8cdd88533bc0a1859dcffb78167237666.jpg?nextgen=false"
+      "title": "｢家臣2人を殺害→放浪の身に｣7度主君を変えた問題児､藤堂高虎が秀長のもとで花開くまで | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943657?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "天下人となる兄を支えた弟の豊臣秀長にスポットライトをあてた､NHK大河ドラマ｢豊臣兄弟！｣。豊臣秀長は､豊臣政権内ではトップリーダーである秀吉と家臣たちとのよき橋渡しとなりながら､対外的には兄の代わ…",
+      "published": "2026/05/10 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/7/1200w/img_d7746c49e5342303b014402dda56ff8b509818.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "書評『社会保障･税一体改革の政治過程分析』『明六社 森有礼､西周､福澤諭吉らが集った知的結社』『白球は海を渡る』 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943554?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『社会保障･税一体改革の政治過程分析』（香取照幸 著）､『明六社 森有礼､西周､福澤諭吉らが集った知的結社』（河野有理 著）､『白球は海を渡…",
-      "published": "2026/05/09 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/7/1200w/img_67c256924b6b6dc40f6390c09d6b983c339161.jpg?nextgen=false"
+      "title": "｢収納術｣はむしろ害悪？《直木賞作家･小川哲氏》雑談･口臭･片付けの悩みを一掃する｢斜め上｣の思考法 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942821?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "直木賞作家･小川哲氏が綴る初エッセイ『斜め45度の処世術』より､雑談の苦手意識や口臭の悩み､部屋をきれいに保つ極意など､独自の視点で日常の｢生きづらさ｣と向き合う方法を紹介します。",
+      "published": "2026/05/10 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/7/1200w/img_a7b948e4af59adcc02cd8cf7b4752b45151553.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本やアメリカの脅威になる？ 台湾｢鴻海（ホンハイ）｣が変える自動車産業の次世代構造 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942697?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "台湾の自動車産業が今､大きな転換期を迎えている。きっかけは､鴻海（ホンハイ）精密工業による新たなビジネスモデルのグローバル展開だ。",
-      "published": "2026/05/09 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_2312ff7340ef59b858964387a60ada59369715.jpg?nextgen=false"
+      "title": "多くの台湾人を夢中にさせる日本だからこその｢五感｣という魅力　20年前から6倍増の観光客､リピーターが8割の要因は | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943795?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "驚異的な伸びを続ける台湾人の日本旅行熱。その背景には円安やLCC､ビザ免除の追い風だけでなく､高いリピート率や日本でしか味わえない五感体験への憧れがありました。なぜ今､多くの台湾人が日本を選び続ける…",
+      "published": "2026/05/10 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/1/1200w/img_51aa1efe322faaa87c9b4c79a848d353487278.jpg?nextgen=false"
     }
   ]
 }
