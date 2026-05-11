@@ -1,50 +1,68 @@
 {
-  "generated_at": "2026-05-10T04:15:29.323347+00:00",
+  "generated_at": "2026-05-11T04:36:39.602094+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "中国産ソシャゲ「NTE」をプレイしたマンガ家が思う「アニメ調オープンワールド大作」を日本が作らなくてもいい理由",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/10/news014.html",
-      "summary": "最近、SNSで盛り上がっている話題の一つに「日本のゲーム業界はアニメ調のオープンワールドゲームをなぜ作らないのか」というものがあります。キッカケは「NTE: Neverness to Everness」でした。",
-      "published": "2026/05/10 07:14",
+      "title": "1人で続ける“漏えいしないBeReal”　友達ゼロでも楽しい理由",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/11/news076.html",
+      "summary": "つまらない日常のほうが「あのころは毎日、こんな感じだったな」とリアルな記憶が蘇る。",
+      "published": "2026/05/11 13:05",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "防衛装備庁、国産ドローン300台を1.1億円で導入へ　日本企業と契約",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/09/news024.html",
-      "summary": "防衛装備庁が、ドローン開発を手掛けるテラドローン（東京都渋谷区）と1億1543万4000円の製造委託契約を結び、同社のドローン「モジュール型UAV（汎用型）教育用」300機を導入する。テラドローンが発表した。",
-      "published": "2026/05/09 10:00",
+      "title": "“ChatGPT以後”に公開のWebサイト、35％がAI生成に？　米スタンフォード大などが調査　広まる「不自然に明るい文章」",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/11/news027.html",
+      "summary": "英インペリアル・カレッジ・ロンドンや米国の非営利団体Internet Archive、米スタンフォード大学に所属する研究者らが発表した論文「The Impact of AI-Generated Text on the Internet」は、インターネット上のAI生成テキストの割合と、それがもたらす真の影響を明らかにした研究報告だ。",
+      "published": "2026/05/11 12:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ソニーセミコンとTSMC、次世代イメージセンサーで提携　フィジカルAI分野に照準",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/09/news027.html",
-      "summary": "ソニーはTSMCと次世代イメージセンサーの開発・製造に関する合弁会社設立に向け基本合意した。熊本県に拠点を置き、車載やロボティクスなどのフィジカルAI分野を強化する。一方で、ホームAV事業をTCLとの合弁会社へ承継し、テレビの自社製造から事実上撤退しており、成長分野へ経営資源を集中させる構造改革を加速させる。",
-      "published": "2026/05/09 07:02",
+      "title": "マネーフォワード「なぜGitHubに個人情報が含まれていたか」を説明",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/11/news059.html",
+      "summary": "「通常、GitHubに保存するソースコードに個人情報の入力はない」が……。」",
+      "published": "2026/05/11 10:29",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Fitbitアプリは「Google Health」に　Googlがフィットネスアプリ統合　既存ユーザーも順次移行",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/08/news113.html",
-      "summary": "米Googleは5月8日、ヘルスケアアプリ「Fitbit」の名称を「Google Health」へ変更し、全面刷新すると発表。米国時間19日より全ユーザーを対象に順次アップデートを開始する。",
-      "published": "2026/05/08 18:00",
+      "title": "マネーフォワードの銀行連携、10日経っても再開せず　ユーザーに不満、解約した人も",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/11/news056.html",
+      "summary": "資産管理サービス「マネーフォワード」で、銀行との連携停止が長期化しており、問題発生から10日経っても再開のめどが見えていない。",
+      "published": "2026/05/11 09:40",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Apple、390億円の和解金支払いで合意　AI機能の開発遅れに関する集団訴訟で",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
-      "summary": "音声アシスタント「Siri」のAI機能の誇大広告を巡る集団訴訟について、米Appleが2億5000万ドル（約390億円）の支払いで合意する和解案を米国の裁判所へ提出した。2024年に発表したAIプラットフォーム「Apple Intelligence」の開発遅れに関するもので、同社は今後、和解の対象となる米国の消費者に対して端末1台につき基本25ドルを支払うとしている。",
-      "published": "2026/05/08 17:05",
+      "title": "「まるで一反もめん」と話題の“人型重機”　JRも活用する技術を市販ロボに　国産スタートアップ人機一体",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/08/news061.html",
+      "summary": "「一反木綿みたい」と話題になった人型重機の技術を、既成のロボットにも──高所作業用ロボットなどを手掛けるスタートアップの人機一体が、鉄道設備メンテナンスで稼働している人型重機の基幹技術を、市販の産業用ロボット（協働ロボット）でも応用可能にする試みを進めている。",
+      "published": "2026/05/11 09:00",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏、イランの回答は「全く受け入れられない」　戦争終結に向けたアメリカ案めぐり",
+      "url": "https://www.bbc.com/japanese/articles/c2l2ky9r4jyo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は10日、イランとの戦争の終結に向けた提案に対してイランから回答があったものの、「全く受け入れられない」内容だとはねつけた。イランの政府系タスニム通信によると、同国は仲介役パキスタンを通してアメリカに提案を送った。それには、全ての戦線での即時終戦、アメリカによる海上封鎖の停止、イランを攻撃しないことの保証が含まれているという。",
+      "published": "2026/05/11 12:02",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2f1a/live/ef1c03b0-4cdd-11f1-b55d-0f258dce1735.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "スターマー英首相、国の課題に「より大胆な対策」講じる考え　指導力への批判強まる中",
+      "url": "https://www.bbc.com/japanese/articles/c152nyyz41jo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスで行われた地方選挙で、イングランドの地方議会で計1400以上の議席を失うなど与党・労働党が大敗し、一部の労働党議員などからキア・スターマー首相の辞任を求める声が上がっている。こうした中スターマー首相は、国が直面する「大きな課題」に対処するため、より大胆な対策を講じていくと約束する見通しであることが、10日に首相官邸が公表した演説の要旨で明らかになった。",
+      "published": "2026/05/11 12:45",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50ed/live/2f6da300-4cb2-11f1-b4e4-6525d59b4000.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -74,67 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dec4/live/244a9e10-4ad7-11f1-b55d-0f258dce1735.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "アッテンボロー氏が100歳に、英国王や著名人が祝福　ドキュメンタリー通じ自然保護訴える",
-      "url": "https://www.bbc.com/japanese/articles/c87qpr3q3llo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスの著名な動植物学者で、長年にわたり自然・環境ドキュメンタリー番組の制作・司会を務めてきたサー・デイヴィッド・アッテンボローが、8日に100歳を迎えた。英国王チャールズ3世をはじめとする王族やイギリスの多くの著名人らが、サー・デイヴィッドの誕生日を祝い、功績をたたえるメッセージを次々と発表した。また、ロンドンのロイヤル・アルバート・ホールでは、100歳を祝う特別コンサートも開催された。",
-      "published": "2026/05/09 13:11",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c440/live/ae8bd5b0-4b51-11f1-85fc-bdab61217b8e.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】 ロシアの対独戦勝記念パレードに戦車なし、ウクライナでの戦争が計画通りでないこと示唆＝ロシア編集長",
-      "url": "https://www.bbc.com/japanese/articles/c3r28qn48nqo?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシア・モスクワで9日、第2次世界大戦でのナチス・ドイツに対する勝利を記念する戦勝記念日パレードが行われる。しかし今年は、約20年ぶりにその規模が縮小され、兵器は登場しない。",
-      "published": "2026/05/08 18:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abcc/live/8dc39600-4a3a-11f1-bd52-e755d604ece4.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "いったんフラッグシップを捨てたスマホメーカーNothing､普及価格帯に全振りしてブランドを作り直す戦略の成否 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942561?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "透明な背面と独自のLEDデザインで若者を中心に注目を集めるイギリス発スタートアップ｢Nothing｣。日本市場で躍進する中､同社は高価な最上位モデルを一時封印し､手頃価格帯の新スマホ2機種でブランド…",
+      "published": "2026/05/11 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/2/1200w/img_a2c7f0a62c0bfa43f551f0780503c81d272501.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ある｢台湾老兵｣の激動の人生､日本へ伝えたかったそのメッセージとは？ 日本兵･国民党兵･政治受難､知られざる血涙の物語 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943679?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "台湾の激動の現代史を生き抜いた許昭栄さん。日本統治下の青春から戦争､白色恐怖､長い亡命生活､そして老兵たちの名誉回復運動。時代の波に翻弄され続けた彼の波乱の人生は､何を後世に訴えかけているのでしょう…",
-      "published": "2026/05/10 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/2/1200w/img_324e4b76c861fc3eeba5504465ea3e7a89597.jpg?nextgen=false"
+      "title": "5分で学ぶ【学習する組織】｢考えているのに判断を間違える人｣の共通点…優秀な人ほど陥る罠から抜け出すMIT流\"思考の枠組み\"とは | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942970?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "考えるほど正しい答えに近づく――私たちはそう信じがちです。しかしダニエル･キムの『セオリー』は､実は思考の枠組み自体が誤りを強化し､優秀な組織ほど同じ間違いに陥ると指摘します。あなたの｢考え方｣は更…",
+      "published": "2026/05/11 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/7/1200w/img_1705d6ce75a7aa8e8a39482d9fa2ed1d119998.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "元トヨタエンジニアが起業｢リーンモビリティ｣は次世代モビリティの｢死の谷越え｣を果たせるか？ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943584?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢次世代モビリティ｣という表現がある。従来の4輪車や2輪車とは違う乗り物を指す。少し前ならば自立型2輪車｢セグウェイ｣､近年では｢Luup｣などのいわゆる電動キックボードや､｢Whill｣な…",
-      "published": "2026/05/10 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/0/1200w/img_c09ee00a6ed3f6bc9525def9e4aa265f377446.jpg?nextgen=false"
+      "title": "こっそりAIを使用しトラブル続出…社員による｢シャドーAI｣見過ごせないリスクと\"具体的な対策法\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941086?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIの急速な普及とともに､従業員が個人的に生成AIを業務利用する｢シャドーAI｣が深刻なリスクを招いています。情報漏えいやコンプライアンス違反の危険性を企業はどう防ぐべきか——中小企業が今すぐ実…",
+      "published": "2026/05/11 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/0/1200w/img_b04fc1aa3ab7dceaf1517eb1297bfd02246371.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢家臣2人を殺害→放浪の身に｣7度主君を変えた問題児､藤堂高虎が秀長のもとで花開くまで | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943657?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "天下人となる兄を支えた弟の豊臣秀長にスポットライトをあてた､NHK大河ドラマ｢豊臣兄弟！｣。豊臣秀長は､豊臣政権内ではトップリーダーである秀吉と家臣たちとのよき橋渡しとなりながら､対外的には兄の代わ…",
-      "published": "2026/05/10 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/7/1200w/img_d7746c49e5342303b014402dda56ff8b509818.jpg?nextgen=false"
+      "title": "｢たたき台を作る人が一番えらい｣は本当？文句を言うだけの人を出し抜き､圧倒的な社内評価を得る思考 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943041?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "多様な職場でキャリアを重ねた萩原雅裕氏が提唱する｢たたき台を作る人が一番えらい｣という考え方には､仕事の本質が凝縮されています。ゼロから具体的なアウトプットを生み出す重要性や､議論と人間関係を前進さ…",
+      "published": "2026/05/11 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/6/1200w/img_a6a84c237f68060c4ca218d1032d2fe2157704.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢収納術｣はむしろ害悪？《直木賞作家･小川哲氏》雑談･口臭･片付けの悩みを一掃する｢斜め上｣の思考法 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942821?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "直木賞作家･小川哲氏が綴る初エッセイ『斜め45度の処世術』より､雑談の苦手意識や口臭の悩み､部屋をきれいに保つ極意など､独自の視点で日常の｢生きづらさ｣と向き合う方法を紹介します。",
-      "published": "2026/05/10 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/7/1200w/img_a7b948e4af59adcc02cd8cf7b4752b45151553.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "多くの台湾人を夢中にさせる日本だからこその｢五感｣という魅力　20年前から6倍増の観光客､リピーターが8割の要因は | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943795?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "驚異的な伸びを続ける台湾人の日本旅行熱。その背景には円安やLCC､ビザ免除の追い風だけでなく､高いリピート率や日本でしか味わえない五感体験への憧れがありました。なぜ今､多くの台湾人が日本を選び続ける…",
-      "published": "2026/05/10 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/1/1200w/img_51aa1efe322faaa87c9b4c79a848d353487278.jpg?nextgen=false"
+      "title": "採用のプロが明かす\"意識高い系\"新卒が面接で落とされる決定的な理由　｢成長したい｣と言う人ほど成長しない… | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941056?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢もっと成長したい｣と望む20代が増える中で､その意欲が採用現場で誤解されたり､ネガティブに受け止められることがあります。会社は成果を出す場であり､自己成長はその過程で得られるもの。真の成長とは､与…",
+      "published": "2026/05/11 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/8/1200w/img_983ecfb699a732fbd5f2634d8f236a65197768.jpg?nextgen=false"
     }
   ]
 }
