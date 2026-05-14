@@ -1,68 +1,77 @@
 {
-  "generated_at": "2026-05-13T04:12:52.492586+00:00",
+  "generated_at": "2026-05-14T04:12:42.866377+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Claude Mythosがもたらすセキュリティビジネス激変の可能性　二極化していく“業界のこれから”",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/12/news077.html",
-      "summary": "IT業界の話題をさらう、Anthropicのセキュリティ特化型エージェント「Claude Mythos」。MythosのようなAIスキャナーの普及がセキュリティ業界の構造にどんな変化をもたらすのか。IT組織作りに携わってきた筆者が視点から分析する。",
-      "published": "2026/05/13 12:00",
+      "title": "Instagram、素の日常を共有できる新機能「Instants」リリース　写真は友達の閲覧後に自動消去",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news087.html",
+      "summary": "米Metaは5月13日、Instagramで日常の瞬間をフィルタなしで友達と共有できる新機能「Instants（インスタント）」を全世界でリリースした。カメラで撮影した写真をそのままシェアし、閲覧後に自動消去する特徴を持つ。同時に、カメラ機能を素早く起動できる独立アプリ「Instants app」のテスト公開も一部の国で開始した。",
+      "published": "2026/05/14 12:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "TikTok動画から旅行予約「TikTok GO」日本で利用拡大　半年で270％増",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/13/news079.html",
-      "summary": "海外ユーザーによる日本旅行・体験の予約売上も直近3カ月間で大幅に伸びたとし、成長をアピールしている。",
-      "published": "2026/05/13 11:06",
+      "title": "Amazon、ショッピングAI「Rufus」を「Alexa for Shopping」に刷新　「Alexa+」と統合し外部サイト購入にも対応",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news089.html",
+      "summary": "Amazonは、AIショッピングアシスタント「Rufus」を「Alexa for Shopping」へ移行すると発表した。スマートスピーカーで使われる「Alexa+」と機能を統合し、個人の好みや会話履歴を反映した高度な買い物サポートを実現する。外部サイトでの代理購入や価格通知にも対応。まずは米国で全ユーザー向けに無料提供を開始する。",
+      "published": "2026/05/14 12:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "マツダ、電動化投資を3000億円減額　需要縮小で自社開発EV投入を2年程度延期",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/13/news076.html",
-      "summary": "マツダが電動化投資計画の修正を発表した。昨年3月時点で1.5兆円としていた2022～30年の累計投資額を1.2兆円に3000億円減額する。トランプ政権による環境規制の緩和などに伴う米国の電気自動車（EV）需要の縮小を踏まえ、自社開発EVの投入時期を当初予定の27年から2年程度延期するなど商品戦略を見直した。",
-      "published": "2026/05/13 10:29",
+      "title": "ChatGPTの医療アドバイスで薬を過剰摂取、米国で19歳大学生が死亡　遺族がOpenAI提訴",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news054.html",
+      "summary": "ChatGPTによる不適切な医療アドバイスが原因で息子が薬物の過剰摂取で死亡したとして、遺族（母親と継父）が開発元の米OpenAIと同社の最高経営責任者（CEO）であるサム・アルトマン氏をサンフランシスコ郡上級裁判所に提訴した。遺族の代理人らが5月12日に発表した。",
+      "published": "2026/05/14 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“酒を飲むと顔が赤くなる”体質は収入を左右する？　日本男性含む3000人を調査　東大などが2023年に学術誌で発表",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/12/news066.html",
-      "summary": "東京大学、一橋大学、ソウル国立大学、国立台湾大学に所属する研究者らが2023年にHealth Economicsで発表した論文「Is Asian flushing syndrome a disadvantage in the labor market?」（プレスリリース）は、アルコール耐性の有無が収入や労働時間といった労働市場における成果に影響を与えるかを調査した研究報告だ。",
-      "published": "2026/05/13 08:00",
+      "title": "くら寿司、万博店を再現した“メモリアル店“オープン　回転ベルトなど移設、世界70カ国の料理も",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news084.html",
+      "summary": "くら寿司は14日、「大阪・関西万博」で注目を集めた「くら寿司 万博店」のコンセプトを引き継ぐ「くら寿司　メモリアル店　なんば千日前」をオープンした。",
+      "published": "2026/05/14 11:35",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「ラブライブ！」アクア公式ファンクラブのドメイン、第三者が購入できる状態に→入札額950億円？　ファンから悪用を懸念する声も",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/12/news148.html",
-      "summary": "「ラブライブ！サンシャイン!!」の「Aqours」公式ファンクラブで使われていたドメインがオークションにかけられていることが分かった。SNSでは第三者の手に渡るリスクを指摘する声が上がっている。",
-      "published": "2026/05/12 21:35",
+      "title": "高市首相、“研究費実質倍増”を表明　産総研拡充も　「新技術立国」へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/14/news079.html",
+      "summary": "「強い経済の基盤は、優れた科学技術力」とし、官民で連携して競争力強化に取り組む。",
+      "published": "2026/05/14 11:05",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英首相の進退めぐり与党内の対立続く　首相は主要対立候補とみられる保健相と会談へ",
-      "url": "https://www.bbc.com/japanese/articles/c2l2e8lzk2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリス地方選で与党・労働党が大敗したことを受け、キア・スターマー首相の進退をめぐり与党の内部分裂が続く中、首相は13日にも、将来の党首候補の一人とみられるウェス・ストリーティング保健相と会談する見通しとなった。スターマー氏は12日、続投の意思を閣議であらためて示したものの、これに対して政務次官4人が首相に抗議する形で辞任したほか、労働党の下院議員80人以上が首相に辞任を求めた。他方、首相を支持す",
-      "published": "2026/05/13 12:14",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9c8/live/3ddd4840-4e48-11f1-ae62-ab9d6bf96137.jpg"
+      "title": "トランプ氏、習氏と米中首脳会談へ　北京に到着し歓迎受ける",
+      "url": "https://www.bbc.com/japanese/articles/c5yepgmg72no?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領が13日夜、北京に到着し、実質2日間の中国訪問が始まった。現職の米大統領の訪中は約10年ぶり。14日にはトランプ氏と習国家主席との首脳会談が予定されている。",
+      "published": "2026/05/14 11:24",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4166/live/6669d640-4f31-11f1-ac78-2112837ce2aa.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ゼレンスキー氏の元最側近、汚職事件で出廷　ウクライナで捜査進む",
-      "url": "https://www.bbc.com/japanese/articles/clypnw41q8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのゼレンスキー大統領の最側近だったイェルマーク前大統領府長官が、マネーロンダリング（資金洗浄）事件の容疑者として二つの反汚職機関によって名指しされ、12日にキーウの裁判所に出廷した。弁護士は、容疑には「根拠がない」としている。イェルマーク氏は前夜、「捜査が終わり次第コメントする」と記者団に述べた。",
-      "published": "2026/05/13 12:59",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/368f/live/87fa2800-4e73-11f1-b55d-0f258dce1735.jpg"
+      "title": "英首相への党内圧力続く、近くストリーティング保健相が党首選に名乗りか　国王の演説で議会開会",
+      "url": "https://www.bbc.com/japanese/articles/cgrp994p2qvo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリス地方選で与党・労働党が大敗した結果を受け、党内から辞任圧力を受け続けるスターマー首相は13日、もし党首選に至るようなら労働党は「混乱に陥いる可能性がある」と、閣僚および労働党議員に警鐘を鳴らした。ストリーティング保健相が近く、党首選に名乗りを上げるのではないかとの観測が強まっている。これに先立ち同日、イギリス議会は恒例の「国王の演説」で新会期を開始。その中で政府は新会期で成立を目指す37法",
+      "published": "2026/05/14 10:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a1e7/live/d4033f90-4f1b-11f1-ac78-2112837ce2aa.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 ストリーティング保健相にとって決断の時　党首選に挑むのか……BBC政治編集長",
+      "url": "https://www.bbc.com/japanese/articles/cwy20lqvwveo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリス与党・労働党の党首の座をめぐり、ストリーティング保健相がスターマー首相に近く挑戦するのかどうか、注目されている。",
+      "published": "2026/05/14 11:18",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/97af/live/f95c1de0-4f14-11f1-b64a-c7f24c09699b.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -76,65 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ハンタウイルス集団感染、最後の乗客が下船　新たに3人が検査で陽性に",
-      "url": "https://www.bbc.com/japanese/articles/cwy2r8rpd4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "ハンタウイルスの集団感染が発生したクルーズ船から11日、最後の乗客が下船した。当局は同日、新たに3人が検査で陽性と確認されたと発表した。",
-      "published": "2026/05/12 16:45",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce75/live/38d6c960-4dd1-11f1-ac78-2112837ce2aa.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "トランプ氏、イランとの停戦は「生命維持措置」に頼っている状態と",
-      "url": "https://www.bbc.com/japanese/articles/cqlp02ex2q2o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は11日、イランとの間で約1カ月間続いている停戦について、「大規模な生命維持装置」に頼っている状態だと述べた。また、イランが前日にアメリカ側に送った和平案について、「向こうが送ってきたあのごみのような文書を、私は読み終えることさえしなかった」と述べた。",
-      "published": "2026/05/12 12:18",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c10b/live/1bab4320-4da4-11f1-bd52-e755d604ece4.jpg"
+      "title": "ゼレンスキー氏の元最側近、汚職事件で出廷　ウクライナで捜査進む",
+      "url": "https://www.bbc.com/japanese/articles/clypnw41q8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナのゼレンスキー大統領の最側近だったイェルマーク前大統領府長官が、マネーロンダリング（資金洗浄）事件の容疑者として二つの反汚職機関によって名指しされ、12日にキーウの裁判所に出廷した。弁護士は、容疑には「根拠がない」としている。イェルマーク氏は前夜、「捜査が終わり次第コメントする」と記者団に述べた。",
+      "published": "2026/05/13 12:59",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/368f/live/87fa2800-4e73-11f1-b55d-0f258dce1735.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "台湾･台北を中心にネズミが大量発生､ハンタウイルス感染例も確認､行政の対応に市民の不満が高まる事態に | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944098?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "台湾の台北市と新北市でネズミが大量発生し､市民たちが不安になっています。ハンタウイルス感染者も発生､商業施設での混乱や感染症リスクの急増､行政の大規模清掃など､日常生活への影響は深刻です。なぜ今､台…",
-      "published": "2026/05/13 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/5/1200w/img_f5ea168d5674e0fe96fc5a758d98b9e2972347.jpg?nextgen=false"
+      "title": "AI需要で再浮上の原子力発電が生み出す｢放射性廃棄物｣という難問＝放射性廃棄物､現実的な克服にはトリウム溶融塩炉だ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944040?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "福島第一原発事故から15年､AIデータセンターの急増に伴う電力需要の爆発的拡大が､原子力発電とそのサプライチェーンに再び脚光を当てています。ウラン資源や圧力容器などの供給課題､使用済み核燃料処分の難…",
+      "published": "2026/05/14 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/d/1200w/img_4d92fe340709ed688f60c38826dc5ab8637228.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【磐越道バス事故】自己防衛に走る学校と業者の醜態　免許返納を望む運転手に命を託した無責任体質の｢あきれた実態｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944357?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "福島県の磐越自動車道で発生した部活動遠征中のマイクロバス事故は､生徒の命を預かる組織の安全管理の杜撰さを浮き彫りにしました。学校側とバス会社側の説明が食い違う中､誰が責任を取るべきなのでしょうか。",
-      "published": "2026/05/13 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/c/1200w/img_bcd63b723a6e52ca0887b0f178a8fbb1520180.jpg?nextgen=false"
+      "title": "東大と京大の英語はどちらが難しい？　東大合格者が語る､｢思考の速さ｣問う東大と｢思考の深さ｣問う京大の差 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943744?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東大と京大､どちらの入試が難しいのか――この疑問には単純な答えがありません。実は両大学は英語ひとつをとっても問う力が異なり､東大は｢思考の速さ｣､京大は｢思考の深さ｣を重視します。",
+      "published": "2026/05/14 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/0/1200w/img_60db56bc7d5e7ef7f6756f10a1b72da2264972.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢九九を丸暗記すれば算数が得意になる｣は大間違い…算数嫌いの子を生む\"あぶない勉強法\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944083?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢九九を覚えるだけで算数が得意になる｣と信じていませんか？実際には､暗記や反復学習だけでは子どもの算数力を十分に伸ばせない場合が多いのです。本当に必要なのは｢数字センス｣の育成。算数嫌いを防ぎ､子ど…",
-      "published": "2026/05/13 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/c/1200w/img_5c578fec4d394c891c2a33656eded81f791235.jpg?nextgen=false"
+      "title": "『ドラゴン桜』編集者が自戒を込めて語る｢アドバイスより\"生きた感想\"こそ相手の心を動かす最大の武器｣の理由 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942262?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢丁寧にフィードバックしても､相手に伝わらない……｣。そんなもどかしさを感じることは少なくありません。『宇宙兄弟』『ドラゴン桜』などを担当した編集者､佐渡島庸平氏が説くのは､アドバイスよりも感想を伝…",
+      "published": "2026/05/14 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/a/1200w/img_8a3a56011655d6e131cd01a9ca29d5d8165668.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢返事一つでタワマンに住める｣　同業他社の\"エース引き抜き\"企てる悪徳社長の思想　漫画｢正直不動産｣（第22集 第174話） | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942302?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "不動産会社・登坂不動産のエース営業である永瀬財地（ながせ・さいち）、35歳。「売るためだけ」の情報を顧客に伝え、時には嘘も厭わない口八丁ぶりで、圧倒的な売り上げをたたき出してきた。だが、ある地鎮祭で…",
-      "published": "2026/05/13 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/2/1200w/img_42146c92c55b887103d475014b2b5b58225272.jpg?nextgen=false"
+      "title": "【20～50代の約4割】｢静かな退職者｣が増加する原因は?　一人前に育った社員ほど《会社を逃げ出す》3つの不満足 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943676?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "優秀な社員が｢静かな退職者｣となり､組織の活力が失われていく現象が増えています。やる気を引き出し､会社に定着してもらうためには､メンバーのキャリアアンカーを見極め､価値観や働き方を尊重することが不可…",
+      "published": "2026/05/14 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/f/1200w/img_4fc36ed515311e4304b3d5a4809afe54213259.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "戸田恵梨香の怪演が話題…細木数子の半生描く『地獄に堕ちるわよ』　｢世界4位｣の裏にある\"Netflixの緻密な計算\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944099?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "Netflixドラマ『地獄に堕ちるわよ』が､多くの話題を集めています。戸田恵梨香が演じる細木数子の波乱万丈な成り上がりと､欲望むき出しのドラマ展開､独特なキャストの妙が視聴者を圧倒。あなたは､この怪…",
-      "published": "2026/05/13 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/a/1200w/img_facd74d00831a2ada0f179ff5e1a8a9d226635.jpg?nextgen=false"
+      "title": "｢中学までに避妊も教えてほしい｣—親は望むのに学校は踏み込めない性教育の現状　NPO代表が問う｢学ぶ権利｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943525?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本では包括的な性教育が十分行われておらず､大人も子どもも｢性｣について語ることにためらいがちです。親世代の不満や､性教育現場の課題､そして社会の固定観念…。誰もが自分らしく生きるために､今こそ性を…",
+      "published": "2026/05/14 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/f/1200w/img_af00c2c118f157aff87f5e83172209d6820889.jpg?nextgen=false"
     }
   ]
 }
