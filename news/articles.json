@@ -1,50 +1,77 @@
 {
-  "generated_at": "2026-05-19T04:33:39.287556+00:00",
+  "generated_at": "2026-05-20T04:36:32.948310+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「WWDC26」は6月9日午前2時（日本時間）から　Appleがスケジュール公開　新OSなど披露か",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news081.html",
-      "summary": "米Appleは5月18日（現地時間）、毎年恒例の年次開発者会議「WWDC26」の詳細スケジュールを発表した。初日の6月8日午前10時（日本時間6月9日午前2時）から行われる基調講演を皮切りに、AI関連における進化や新しいソフトウェア、デベロッパーツールなどの最新アップデートを披露する。",
-      "published": "2026/05/19 12:55",
+      "title": "ファンティアの「修正・モザイク基準」改定にクリエイター悲鳴　「過去作も？」「時間なさすぎ」",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news087.html",
+      "summary": "クリエイター支援サービス「Fantia（ファンティア）」が19日に発表した「修正・モザイク基準に関するガイドライン改定」が波紋を広げている。あまりに時間的な猶予がないからだ。",
+      "published": "2026/05/20 13:08",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "転用を断念したEVバス100台超　大阪メトロが「墓場」からの移動開始　移送先は非公表",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news077.html",
-      "summary": "2025年の大阪・関西万博でトラブルが相次いだEVモーターズ・ジャパン（EV社、北九州市）の電気自動車（EV）バスについて、大阪メトロは5月18日、保管している大阪市城東区の同社敷地からトラックで移送を始めたと明らかにした。台数は100台を超えるが、移送先は「明らかにできない」としている。",
-      "published": "2026/05/19 12:20",
+      "title": "GitHub、内部リポジトリへの不正アクセスを「調査中」　ハッカー集団「4000件窃取」と主張",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news085.html",
+      "summary": "ハッカー集団が、GitHubの内部リポジトリ約4000件を窃取したとダークウェブ上で主張。これを受けた対応とみられる。",
+      "published": "2026/05/20 12:29",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "予防接種手続きデジタル化　6月スタートへ公式ページ開設　スマホで予診票入力でき、管理効率化",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news074.html",
-      "summary": "厚生労働省は6月から始まる「予防接種事務のデジタル化」について広く周知するための公式ページを開設した。接種記録の管理、請求や支払い手続きの効率化などをはかることを目指し、全国の市区町村で順次、始められる。",
-      "published": "2026/05/19 12:16",
+      "title": "「なるほど、そういう動きか」――Adobe Premiereに追加された「カラーモード」で“カラグレ”を試す",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news078.html",
+      "summary": "映像編集ソフトAdobe Premiereの最新β版に、開発3年を費やした専用カラーグレーディング機能「カラーモード」が搭載された。波形やベクタースコープを直接触る感覚で色を追い込めるという独自UIは、DaVinci Resolveの牙城を崩せるのか。新機能を試してみる。",
+      "published": "2026/05/20 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ドコモで通信障害？　SNSでは「つながらない」の声あるも「設備故障は確認できない」　状況確認中",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news072.html",
-      "summary": "NTTドコモは5月19日、携帯電話サービスがつながりにくい可能性について状況確認を開始したと発表した。",
-      "published": "2026/05/19 12:00",
+      "title": "リコールを乗り越えたcheeroの回答　安全性に全振りした「準固体電池」モバイルバッテリーの使い勝手は？",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news079.html",
+      "summary": "「cheero」ブランドを展開するティ・アール・エイは過去にリコールを実施しています。その経験を経て、安全性を徹底的に追求した新製品「cheero PitaPower 5000mAh」を発売しました。",
+      "published": "2026/05/20 11:09",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "冷房稼働率、早くも20％突破　パナソニックのエアコンアプリ調査で判明",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news070.html",
-      "summary": "17日の冷房利用率は平年（12.5％）を8.0ポイント上回っており、例年より早いタイミングで冷房利用が進んだ。",
-      "published": "2026/05/19 11:54",
+      "title": "暗記のコツは「息を吐いている後半」に覚えること？　思い出す時も同じ呼吸タイミング　兵庫医科大などが研究発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news031.html",
+      "summary": "兵庫医科大学、関西学院大学、自然科学研究機構に所属する研究者ら国際学術誌「Scientific Reports」で発表した論文「Respiratory phase alignment across memory encoding and retrieval improves task efficiency」は、テストなどで答えを思い出すスピードが、内容を覚えたときの呼吸のタイミングと思い出すときの",
+      "published": "2026/05/20 08:00",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "エボラ出血熱、当初予想より急速に拡大か　WHO専門家が警告",
+      "url": "https://www.bbc.com/japanese/articles/cn8pjl70049o?at_medium=RSS&at_campaign=rss",
+      "summary": "コンゴ民主共和国（旧ザイール）で発生しているエボラ出血熱の大規模な流行で、世界保健機関（WHO）は19日、感染が当初考えられていたより急速に広がっている恐れがあると警告した。感染者が多い地域に住む人々は、BBCの取材で恐怖を口にした。",
+      "published": "2026/05/20 12:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/360e/live/e4843df0-53f9-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "中ロ首脳会談、習氏とプーチン氏は親友なのか？　2人の関係を特派員が分析",
+      "url": "https://www.bbc.com/japanese/articles/c4g9rlrwyj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "ロシアのプーチン大統領が20日、中国の習国家主席と会談するため、北京を訪れた。BBCのビッカー北京特派員とローゼンバーグ・ロシア担当編集長が、両首脳の関係を分析する。",
+      "published": "2026/05/20 13:12",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2ff/live/f8febba0-53f6-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "エストニア、領空内に飛来したドローンをNATO戦闘機が撃墜と発表",
+      "url": "https://www.bbc.com/japanese/articles/c1520g47vx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "ロシアと国境を接するエストニアは19日、ドローン1機が領空内に飛来し、北大西洋条約機構（NATO）の戦闘機が撃墜したと発表した。ロシアによる電子妨害で進路を外れたウクライナのドローンだった可能性があるとしている。",
+      "published": "2026/05/20 13:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a768/live/3109c770-53b0-11f1-b682-cf91850925ea.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,83 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "レバノン、イスラエルの空爆による死者3000人超に　レバノン当局が発表",
-      "url": "https://www.bbc.com/japanese/articles/c142v7g71xmo?at_medium=RSS&at_campaign=rss",
-      "summary": "レバノン保健省は18日、3月初めに激化したイスラエルとレバノンのイスラム教シーア派組織ヒズボラの紛争について、イスラエルの攻撃によるレバノン国内の死者が3000人を超えたと発表した。",
-      "published": "2026/05/19 13:10",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d38/live/7bd65990-52a6-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米サンディエゴのイスラム教礼拝所で銃撃、容疑者少年2人含む5人死亡",
-      "url": "https://www.bbc.com/japanese/articles/c98r97520d6o?at_medium=RSS&at_campaign=rss",
-      "summary": "米カリフォルニア州サンディエゴのイスラム教礼拝所で18日午前、発砲事件が発生した。警察によると、警備員1人を含む少なくとも3人の男性が死亡しているのが発見された。その後、近くの車内で容疑者とみられる10代の少年2人が死亡しているのが見つかった。少年2人の遺体には自ら撃ったと見られる銃創があったという。",
-      "published": "2026/05/19 13:07",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ac5/live/100307a0-5327-11f1-940a-813ca66f5a85.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "エボラ出血熱、コンゴ民主での死者100人以上に　当局が対策呼びかけ",
-      "url": "https://www.bbc.com/japanese/articles/cm2p810z3rro?at_medium=RSS&at_campaign=rss",
-      "summary": "コンゴ民主共和国（旧ザイール）で発生しているエボラ出血熱のアウトブレイク（大流行）において、少なくとも100人の死亡が報告されており、感染疑いが390件以上に上っていると、アフリカの疾病予防管理センター（CDC）のトップがBBCに述べた。世界保健機関（WHO）は17日、エボラウイルスの「ブンディブギョ株」によって引き起こされている今回の流行について、「国際的に懸念される公衆衛生上の緊急事態」に当た",
-      "published": "2026/05/19 12:49",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ニホンザル「パンチ」のサル山に侵入、アメリカ国籍の男性2人を逮捕",
-      "url": "https://www.bbc.com/japanese/articles/cx21pxxv984o?at_medium=RSS&at_campaign=rss",
-      "summary": "千葉県の市川市動植物園で17日、インターネットで有名になったニホンザルの「パンチ」が飼育されているサル山に侵入し、その様子を撮影したとして、アメリカ国籍の男性2人が逮捕された。市川警察署が発表した。",
-      "published": "2026/05/19 13:21",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a55c/live/2dd10fb0-52b5-11f1-8340-4151f348d713.jpg"
+      "title": "「僕の声を聞くのはこれが最後かもしれない」　イランで政治的処刑が急増、戦争開始後さらに",
+      "url": "https://www.bbc.com/japanese/articles/cp8p580g4zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "イランではこのところ、政治犯罪や治安関連の罪に問われた人々の処刑が加速している。アメリカとイスラエルが2月28日にイランを攻撃して以降、国連は少なくとも32人の政治犯の処刑を確認したとしている。人権擁護団体アムネスティ・インターナショナルによると、2025年の政治的動機による処刑は通年で45件にとどまっていた。",
+      "published": "2026/05/19 16:19",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b138/live/6fba9b00-5042-11f1-acce-79302838e29f.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢インスター｣784台の年間販売台数が｢少ない｣と言いきれないヒョンデの国内ブランド事情 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943985?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "5ナンバー枠に収まるコンパクトなEV､ヒョンデ｢インスター｣が､発売から1年で784台を販売したという。日本向けにローカライズされた気合いの入った1台だが､この数値は果たして成功なのか？",
-      "published": "2026/05/19 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/9/1200w/img_a954bcdf3b4eeceb0c8a9e35510980b8158429.jpg?nextgen=false"
+      "title": "強烈な逆風が吹くが…　インドが｢EV化｣を強引にでも進める理由　日本やアメリカとは異なる\"インドの実態\"とは | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944246?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "環境への配慮と家計の節約､両方のメリットがある自動車のEV化。しかし､国や産業､消費者の利害が複雑に絡み合い､世界的には導入が遅れがちです。そんな中､強引ともいえる政策でEV化に突き進むインドの現状…",
+      "published": "2026/05/20 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/e/1200w/img_aeeeaa8d7a3b6b43a4360fd7ae190973423094.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "16歳少年が20カ所刺す凄惨､｢栃木強盗殺人｣が映す現代の犯罪像…闇バイトで進む｢犯罪者の素人化｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944949?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "栃木県上三川町で発生した強盗殺人事件。16歳の少年たちが実行犯となり､指示役とみられる20代夫婦も逮捕されました。｢闇バイト｣と｢トクリュウ｣という新たな犯罪構造が浮かび上がる中､なぜ未成年が凶行に…",
-      "published": "2026/05/19 12:40",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/2/1200w/img_82db7c558192e78077aaab7ccfb875df256123.jpg?nextgen=false"
+      "title": "｢歯石除去中に急死｣なぜ愛犬は死んだのか？　飼い主が執念の\"弁護士なし\"の本人訴訟で突き止めた《信じられない真実》 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944832?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "愛犬との突然の別れ。我が子同然だったトイプードルの死の真相を知りたくて､女性は独学で裁判に挑み､勝訴を勝ち取りました。彼女の思いと覚悟､そして残されたものとは──。",
+      "published": "2026/05/20 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/2/1200w/img_32b0395f6cb522deb0cfb1bd3c2c46be323261.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢不安が頭から離れない｣｢将来が心配で眠れない｣→こうした\"ネガティブ思考\"をやめ､｢今､ここ｣に集中する5つの方法 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942370?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "不安や心配が頭から離れず､眠れない――そんな｢負の思考ループ｣に悩んでいませんか？世界的ベストセラーから､考えすぎを手放す具体的な方法や心を落ち着ける秘訣を紹介します。心の平穏を取り戻す鍵とは何か､…",
-      "published": "2026/05/19 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/1/1200w/img_f1c0e15a898ef2cfeab69bfe14c3719c419493.jpg?nextgen=false"
+      "title": "日本の｢高品質｣が世界で通用しなくなった根本原因。｢自慢したい｣世界の富裕層と｢こだわり｣の日本人の決定的なズレ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944171?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本企業は高品質な製品さえあれば海外でも売れるという思い込みに陥りがちですが､世界の消費者は｢見せびらかしたい｣｢ワクワクしたい｣といった欲望に動かされています。なぜ日本発のマーケティングが世界で空…",
+      "published": "2026/05/20 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/7/1200w/img_b7d93325e5b5e7f62b548adaad1dad01313854.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "なぜアメリカは台湾を信用しないのか――防衛予算攻防に透ける米中台の本音とアメリカが台湾に求める自衛の覚悟 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944897?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "米中対立が激化するなか､台湾議会は巨額の防衛強化予算をめぐり激しく揺れ動きました。アメリカの支援の裏には､台湾への根深い不信や機密流出への懸念が隠されています。なぜアメリカは台湾を本当に信用できない…",
-      "published": "2026/05/19 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6a329135aea2c275577ec5155ac220b6622874.jpg?nextgen=false"
+      "title": "｢社会に出てから1人も恋人がいない｣35歳独身男性が\"ぼっち山登り\"に挑戦した結果→手作りおにぎりで知る｢幸福の本質｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943118?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ブラック企業での不当解雇や小説家の夢挫折を経て､ウーバー配達員として生きる35歳独身の筆者。恋人もいない\"前向きぼっち\"が選んだのは､ささやかな幸せを追求するミニマムライフと､登山の挑戦でした。孤独…",
+      "published": "2026/05/20 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/3/1200w/img_730e340900142c988b8c0f5d831ae31d460422.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢女子は東大を選ばない｣高偏差値女子が直面する\"キャリア中断\"への不安と進路の壁とは | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943832?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢頭がいい｣といわれる人の特徴になるような能力というのは､先天的に決められている部分があると考える人が多いのではないでしょうか。その考えを否定するのが､偏差値35から東大合格を果たした西岡壱誠氏です…",
-      "published": "2026/05/19 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/2/1200w/img_b22ddbc178e43e99ea21bcfdd7dfc4c8182683.jpg?nextgen=false"
+      "title": "iPhoneユーザーこそ知りたい｢RCS｣とは何か──Androidとのメッセージ料金問題を解消する | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944693?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "iOS 26.5で注目される｢エンドツーエンド暗号化RCSメッセージング｣が､iPhoneでも利用可能に。Androidユーザーとも電話番号だけで画像や長文を無料でやり取りできるこの新機能､実際にど…",
+      "published": "2026/05/20 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/e/1200w/img_5ede8f0a1b5cdf3e83f758d14eaac68d120147.jpg?nextgen=false"
     }
   ]
 }
