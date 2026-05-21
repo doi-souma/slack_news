@@ -1,50 +1,77 @@
 {
-  "generated_at": "2026-05-20T04:36:32.948310+00:00",
+  "generated_at": "2026-05-21T04:44:14.774821+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ファンティアの「修正・モザイク基準」改定にクリエイター悲鳴　「過去作も？」「時間なさすぎ」",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news087.html",
-      "summary": "クリエイター支援サービス「Fantia（ファンティア）」が19日に発表した「修正・モザイク基準に関するガイドライン改定」が波紋を広げている。あまりに時間的な猶予がないからだ。",
-      "published": "2026/05/20 13:08",
+      "title": "NHK会長、ネトフリでの配信は海外展開の「絶好の機会」　ローカライズ「対応してもらう」",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news093.html",
+      "summary": "NHKの井上樹彦会長は、20日に行われた会見でNetflixへのコンテンツ提供に触れ、「NHKの国際展開戦略上、大きな転換点となる取り組み」とした。",
+      "published": "2026/05/21 13:21",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "GitHub、内部リポジトリへの不正アクセスを「調査中」　ハッカー集団「4000件窃取」と主張",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news085.html",
-      "summary": "ハッカー集団が、GitHubの内部リポジトリ約4000件を窃取したとダークウェブ上で主張。これを受けた対応とみられる。",
-      "published": "2026/05/20 12:29",
+      "title": "Anthropic、SpaceXのクラウドに毎月2000億円弱を支払うと判明　「Claude」の計算リソース確保で",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news083.html",
+      "summary": "米SpaceXは5月20日（現地時間）、新規公開株式発行（IPO）に向けたFORM-S1（目論見書）で、AI企業Anthropicとのコンピュート・サービス契約を開示した。Anthropicは2026年5月から2029年5月まで、SpaceXのデータセンター利用に対して毎月12億5000万ドルを支払う。",
+      "published": "2026/05/21 13:05",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「なるほど、そういう動きか」――Adobe Premiereに追加された「カラーモード」で“カラグレ”を試す",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news078.html",
-      "summary": "映像編集ソフトAdobe Premiereの最新β版に、開発3年を費やした専用カラーグレーディング機能「カラーモード」が搭載された。波形やベクタースコープを直接触る感覚で色を追い込めるという独自UIは、DaVinci Resolveの牙城を崩せるのか。新機能を試してみる。",
-      "published": "2026/05/20 12:00",
+      "title": "民事訴訟全面IT化　訴えられても……確認遅れに注意　最高裁はシステム障害も想定",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news080.html",
+      "summary": "5月21日から始まる民事裁判手続きの全面デジタル化により、書面のやりとりを前提としてきた民事訴訟の実務は大きな転換点を迎える。迅速化・効率化が期待されるが、本格的な運用に当たってはオンラインによる手続きが義務付けられる法曹関係者の習熟やシステムトラブルなどへの対応も求められそうだ。",
+      "published": "2026/05/21 12:16",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "リコールを乗り越えたcheeroの回答　安全性に全振りした「準固体電池」モバイルバッテリーの使い勝手は？",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news079.html",
-      "summary": "「cheero」ブランドを展開するティ・アール・エイは過去にリコールを実施しています。その経験を経て、安全性を徹底的に追求した新製品「cheero PitaPower 5000mAh」を発売しました。",
-      "published": "2026/05/20 11:09",
+      "title": "SNSでの落書き動画拡散を受け……京都・伏見稲荷大社が騒動収束を狙い竹を伐採",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news079.html",
+      "summary": "人気の観光スポットとして知られる伏見稲荷大社（京都市伏見区）で、何者かが境内の竹に落書きをする様子が撮影された動画がSNSで拡散され、騒動を収めるため、神社側が竹を伐採したことが5月20日、関係者への取材で分かった。市内では他の観光地の竹林でも同様の被害が多発。伏見稲荷大社は公式サイトで参拝者に注意を呼びかけている。",
+      "published": "2026/05/21 12:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "暗記のコツは「息を吐いている後半」に覚えること？　思い出す時も同じ呼吸タイミング　兵庫医科大などが研究発表",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news031.html",
-      "summary": "兵庫医科大学、関西学院大学、自然科学研究機構に所属する研究者ら国際学術誌「Scientific Reports」で発表した論文「Respiratory phase alignment across memory encoding and retrieval improves task efficiency」は、テストなどで答えを思い出すスピードが、内容を覚えたときの呼吸のタイミングと思い出すときの",
-      "published": "2026/05/20 08:00",
+      "title": "Google、Gemini活用の新広告フォーマットをGoogle検索に導入、「AI Mode」向けの会話型広告も",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news071.html",
+      "summary": "Googleは、「Gemini」を活用した複数の新広告フォーマットを検索に導入すると発表した。「AI Mode」向けに生成AIが回答やお勧めリストに広告を組み込む形式を試験提供するほか、通常の検索向けには自動説明付きのショッピング広告やチャット型広告などを順次展開する。",
+      "published": "2026/05/21 10:43",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米司法省、キューバのカストロ元議長を殺人罪で起訴　1996年の航空機撃墜事件めぐり",
+      "url": "https://www.bbc.com/japanese/articles/cwy2ggdymjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカは20日、南部フロリダ州とキューバの間を飛行していた航空機2機が撃墜された1996年の事件をめぐり、キューバの最高指導者だったラウル・カストロ元国家評議会議長（94）を、アメリカ人殺害共謀などの罪で起訴したと発表した。",
+      "published": "2026/05/21 12:32",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a3b/live/b0a886b0-54be-11f1-b682-cf91850925ea.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "プーチン氏が訪中、習氏と会談　双方の関係は「かつてないほど高いレベル」と強調",
+      "url": "https://www.bbc.com/japanese/articles/czd2q434rjno?at_medium=RSS&at_campaign=rss",
+      "summary": "ロシアのプーチン大統領と中国の習国家主席が20日、北京で会談した。両国のメディアによると、習氏は双方が互いの発展と復興を支援すべきだと訴え、プーチン氏は両国の関係が「かつてないほど高いレベル」に達していると述べた。終了後に両首脳は、両国が戦略的連携をさらに強化し、「良き隣人としての友好協力関係を深化させる」とした共同声明に署名した。",
+      "published": "2026/05/20 17:46",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbb0/live/18f50c90-5422-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏とプーチン氏、中国で受けた待遇は同じ？",
+      "url": "https://www.bbc.com/japanese/articles/c5ye338k9yno?at_medium=RSS&at_campaign=rss",
+      "summary": "中国の習近平国家主席はこの1週間で、アメリカのトランプ大統領と、ロシアのプーチン大統領を北京で出迎え、ほぼ同様の歓迎式典を開いた。どのような意味合いがあるのか、BBCのローラ・ビッカー中国特派員が解説する。",
+      "published": "2026/05/21 11:46",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d13d/live/6c13d1a0-5449-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,83 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "中ロ首脳会談、習氏とプーチン氏は親友なのか？　2人の関係を特派員が分析",
-      "url": "https://www.bbc.com/japanese/articles/c4g9rlrwyj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアのプーチン大統領が20日、中国の習国家主席と会談するため、北京を訪れた。BBCのビッカー北京特派員とローゼンバーグ・ロシア担当編集長が、両首脳の関係を分析する。",
-      "published": "2026/05/20 13:12",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2ff/live/f8febba0-53f6-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "エストニア、領空内に飛来したドローンをNATO戦闘機が撃墜と発表",
-      "url": "https://www.bbc.com/japanese/articles/c1520g47vx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアと国境を接するエストニアは19日、ドローン1機が領空内に飛来し、北大西洋条約機構（NATO）の戦闘機が撃墜したと発表した。ロシアによる電子妨害で進路を外れたウクライナのドローンだった可能性があるとしている。",
-      "published": "2026/05/20 13:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a768/live/3109c770-53b0-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "トランプ氏、19日に予定していた対イラン攻撃を「見送り」　湾岸諸国の要請で",
-      "url": "https://www.bbc.com/japanese/articles/cwy2v32lx4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は18日、イランとの戦争について「現在、真剣な交渉が行われている」とし、湾岸諸国からの要請を受け、19日に予定していたイランへの軍事攻撃を見送ると発表した。",
-      "published": "2026/05/19 12:17",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65c4/live/93308b40-532a-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "「僕の声を聞くのはこれが最後かもしれない」　イランで政治的処刑が急増、戦争開始後さらに",
-      "url": "https://www.bbc.com/japanese/articles/cp8p580g4zzo?at_medium=RSS&at_campaign=rss",
-      "summary": "イランではこのところ、政治犯罪や治安関連の罪に問われた人々の処刑が加速している。アメリカとイスラエルが2月28日にイランを攻撃して以降、国連は少なくとも32人の政治犯の処刑を確認したとしている。人権擁護団体アムネスティ・インターナショナルによると、2025年の政治的動機による処刑は通年で45件にとどまっていた。",
-      "published": "2026/05/19 16:19",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b138/live/6fba9b00-5042-11f1-acce-79302838e29f.jpg"
+      "title": "イギリス、ロシア産石油への新規制を緩和へ　燃料価格の高騰受け",
+      "url": "https://www.bbc.com/japanese/articles/cdxp4z6xzwxo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリス政府は19日、第三国でディーゼルや航空機燃料に精製されたロシア産石油について予定される、新しい制裁の内容を緩和した。アメリカとイスラエルによるイランとの戦争開始以降、ホルムズ海峡の実質的な封鎖によって特定の燃料の供給懸念が高まっていることを受け、政府は今後、数カ月かけて新しい制裁を「段階的」に導入する方針。",
+      "published": "2026/05/20 22:40",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26bc/live/302c5ff0-53d5-11f1-8a2e-c1781efb369b.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "強烈な逆風が吹くが…　インドが｢EV化｣を強引にでも進める理由　日本やアメリカとは異なる\"インドの実態\"とは | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944246?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "環境への配慮と家計の節約､両方のメリットがある自動車のEV化。しかし､国や産業､消費者の利害が複雑に絡み合い､世界的には導入が遅れがちです。そんな中､強引ともいえる政策でEV化に突き進むインドの現状…",
-      "published": "2026/05/20 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/e/1200w/img_aeeeaa8d7a3b6b43a4360fd7ae190973423094.jpg?nextgen=false"
+      "title": "｢あなたはどう思う？｣｢あなたの意見は？｣AI時代に一番必要な\"思考の力\"を高める｢読み方スキル｣のスゴい効果 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944003?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "会議で突然｢あなたはどう思う？｣と聞かれ､言葉に詰まった経験はありませんか？実はその原因は､｢話す力｣ではなく｢読む力｣にあるかもしれません。教え子の5人に1人を東大合格へ導いた元国語教師が…",
+      "published": "2026/05/21 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/7/1200w/img_37571fda078835aa04d9368e9aa50fcb308851.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢歯石除去中に急死｣なぜ愛犬は死んだのか？　飼い主が執念の\"弁護士なし\"の本人訴訟で突き止めた《信じられない真実》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944832?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "愛犬との突然の別れ。我が子同然だったトイプードルの死の真相を知りたくて､女性は独学で裁判に挑み､勝訴を勝ち取りました。彼女の思いと覚悟､そして残されたものとは──。",
-      "published": "2026/05/20 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/2/1200w/img_32b0395f6cb522deb0cfb1bd3c2c46be323261.jpg?nextgen=false"
+      "title": "｢一流のプロフェッショナルは勝負にこう向き合う｣東大文学部卒が紹介する\"頭を良くするゲームの本\"3冊 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944554?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東大生に意外と多い｢ゲーム好き｣。麻雀や将棋､競技かるたなど､知的スポーツが彼らの思考力を鍛えてきた――その秘密や効用に迫りながら､勉強や仕事にも活きる\"勝てる人の頭の使い方\"を学べる3冊を紹介しま…",
+      "published": "2026/05/21 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/8/1200w/img_28a8762aa3bb2cda3eb36d847d7a96d3181575.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本の｢高品質｣が世界で通用しなくなった根本原因。｢自慢したい｣世界の富裕層と｢こだわり｣の日本人の決定的なズレ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944171?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本企業は高品質な製品さえあれば海外でも売れるという思い込みに陥りがちですが､世界の消費者は｢見せびらかしたい｣｢ワクワクしたい｣といった欲望に動かされています。なぜ日本発のマーケティングが世界で空…",
-      "published": "2026/05/20 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/7/1200w/img_b7d93325e5b5e7f62b548adaad1dad01313854.jpg?nextgen=false"
+      "title": "上司にまつわる\"欠席裁判\"黙って聞いているのはあまりに高リスク！会社員として最適な危機回避方法は？ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943171?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "職場での何気ない会話が思わぬトラブルに発展することも。軽い相づちや噂話が誤解を生み､人間関係に影響を与えてしまう危険性があります。円滑なコミュニケーションのコツや､職場で自分を守る立ち回り方を一緒に…",
+      "published": "2026/05/21 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/7/1200w/img_a723466b0efe74f04243cfe0eca86883326164.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢社会に出てから1人も恋人がいない｣35歳独身男性が\"ぼっち山登り\"に挑戦した結果→手作りおにぎりで知る｢幸福の本質｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943118?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ブラック企業での不当解雇や小説家の夢挫折を経て､ウーバー配達員として生きる35歳独身の筆者。恋人もいない\"前向きぼっち\"が選んだのは､ささやかな幸せを追求するミニマムライフと､登山の挑戦でした。孤独…",
-      "published": "2026/05/20 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/3/1200w/img_730e340900142c988b8c0f5d831ae31d460422.jpg?nextgen=false"
+      "title": "職場でうかつに\"株\"の話をしたことを激しく後悔…　プライベート開示の線引きが職場の平穏を保つカギ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943161?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "会社員生活に欠かせない｢同僚づきあい｣は､多様な価値観が交錯する職場ゆえ､悩みも尽きません。今回は､避けるべき危険な話題や､人間関係を円滑に保つ戦略を具体例と共に紹介。あなたは職場で無意識に虎の尾を…",
+      "published": "2026/05/21 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/6/1200w/img_f656bfaf7b0461d25642a224214d4c4d298070.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "iPhoneユーザーこそ知りたい｢RCS｣とは何か──Androidとのメッセージ料金問題を解消する | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944693?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "iOS 26.5で注目される｢エンドツーエンド暗号化RCSメッセージング｣が､iPhoneでも利用可能に。Androidユーザーとも電話番号だけで画像や長文を無料でやり取りできるこの新機能､実際にど…",
-      "published": "2026/05/20 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/e/1200w/img_5ede8f0a1b5cdf3e83f758d14eaac68d120147.jpg?nextgen=false"
+      "title": "心痛む猫の｢殺処分｣､ゼロへのカギは｢野良猫対策｣にあり！無責任な善意が招く課題とデータが示す｢TNR｣の重要性 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944845?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "犬猫の殺処分ゼロを目指した多様な活動が広がる一方､現実には野良猫が増え続け､保護や譲渡の努力だけでは追いつかない状況が続いています。なぜ不幸な野良猫がいなくならないのか――根本的な解決策を探るために…",
+      "published": "2026/05/21 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_7997f2f426dc8d32d5283d067c721c29311181.jpg?nextgen=false"
     }
   ]
 }
