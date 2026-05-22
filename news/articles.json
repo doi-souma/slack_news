@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-05-21T04:44:14.774821+00:00",
+  "generated_at": "2026-05-22T04:35:23.384771+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "NHK会長、ネトフリでの配信は海外展開の「絶好の機会」　ローカライズ「対応してもらう」",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news093.html",
-      "summary": "NHKの井上樹彦会長は、20日に行われた会見でNetflixへのコンテンツ提供に触れ、「NHKの国際展開戦略上、大きな転換点となる取り組み」とした。",
-      "published": "2026/05/21 13:21",
+      "title": "NHK技研、目が疲れにくいVRゴーグルを“薄型化”　厚みを79％削減した新しい光学系を開発",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/22/news074.html",
+      "summary": "",
+      "published": "2026/05/22 12:25",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropic、SpaceXのクラウドに毎月2000億円弱を支払うと判明　「Claude」の計算リソース確保で",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news083.html",
-      "summary": "米SpaceXは5月20日（現地時間）、新規公開株式発行（IPO）に向けたFORM-S1（目論見書）で、AI企業Anthropicとのコンピュート・サービス契約を開示した。Anthropicは2026年5月から2029年5月まで、SpaceXのデータセンター利用に対して毎月12億5000万ドルを支払う。",
-      "published": "2026/05/21 13:05",
+      "title": "物言う株主、KADOKAWA夏野CEO解任に賛同呼びかけ　在任5年で業績悪化、「ELDEN RING」「ニコニコ」への姿勢も疑問視",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/22/news086.html",
+      "summary": "業績悪化は夏野氏の事業戦略の失敗によるものだとし、出版事業の業績悪化の他、子会社フロム・ソフトの「ELDEN RING」の利益流出、「ニコニコ」の競争力低下も問題視している。",
+      "published": "2026/05/22 11:51",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "民事訴訟全面IT化　訴えられても……確認遅れに注意　最高裁はシステム障害も想定",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news080.html",
-      "summary": "5月21日から始まる民事裁判手続きの全面デジタル化により、書面のやりとりを前提としてきた民事訴訟の実務は大きな転換点を迎える。迅速化・効率化が期待されるが、本格的な運用に当たってはオンラインによる手続きが義務付けられる法曹関係者の習熟やシステムトラブルなどへの対応も求められそうだ。",
-      "published": "2026/05/21 12:16",
+      "title": "ソフトバンクが「みまもりGPS」で声明　「日々の位置情報を中国と共有することない」──SNS上の噂に対応か",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/22/news080.html",
+      "summary": "ソフトバンクは、子供の現在地を保護者などが確認できる「みまもりGPS」について、利用者の位置情報などを中国を含む第三者と共有することはないとする声明を発表した。",
+      "published": "2026/05/22 11:36",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "SNSでの落書き動画拡散を受け……京都・伏見稲荷大社が騒動収束を狙い竹を伐採",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news079.html",
-      "summary": "人気の観光スポットとして知られる伏見稲荷大社（京都市伏見区）で、何者かが境内の竹に落書きをする様子が撮影された動画がSNSで拡散され、騒動を収めるため、神社側が竹を伐採したことが5月20日、関係者への取材で分かった。市内では他の観光地の竹林でも同様の被害が多発。伏見稲荷大社は公式サイトで参拝者に注意を呼びかけている。",
-      "published": "2026/05/21 12:07",
+      "title": "「“誤爆”怖すぎ」　撮っただけで即送信、InstagramのBeReal的新機能「インスタント」　オフにする方法は",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/22/news073.html",
+      "summary": "写真を撮るとそのまま送信され、プレビューや編集画面も経由しないため、誤爆リスクが怖すぎるとSNSで話題になっている。",
+      "published": "2026/05/22 10:48",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Google、Gemini活用の新広告フォーマットをGoogle検索に導入、「AI Mode」向けの会話型広告も",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news071.html",
-      "summary": "Googleは、「Gemini」を活用した複数の新広告フォーマットを検索に導入すると発表した。「AI Mode」向けに生成AIが回答やお勧めリストに広告を組み込む形式を試験提供するほか、通常の検索向けには自動説明付きのショッピング広告やチャット型広告などを順次展開する。",
-      "published": "2026/05/21 10:43",
+      "title": "Flipper Devices、オープンLinuxデバイス「Flipper One」発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/22/news071.html",
+      "summary": "Flipper Devicesは、セキュリティ研究者向けガジェットの新製品「Flipper One」を発表した。Wi-Fiや5Gなどのネットワーク層を扱うオープンなLinuxプラットフォームとして設計されている。開発プロセスや内部ドキュメントを一般公開し、コミュニティからの貢献を募る。",
+      "published": "2026/05/22 10:35",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米司法省、キューバのカストロ元議長を殺人罪で起訴　1996年の航空機撃墜事件めぐり",
-      "url": "https://www.bbc.com/japanese/articles/cwy2ggdymjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカは20日、南部フロリダ州とキューバの間を飛行していた航空機2機が撃墜された1996年の事件をめぐり、キューバの最高指導者だったラウル・カストロ元国家評議会議長（94）を、アメリカ人殺害共謀などの罪で起訴したと発表した。",
-      "published": "2026/05/21 12:32",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a3b/live/b0a886b0-54be-11f1-b682-cf91850925ea.jpg"
+      "title": "ロシアと中国、キューバ元指導者を起訴した米国を非難　米長官はキューバは「安全保障上の脅威」",
+      "url": "https://www.bbc.com/japanese/articles/c93xjq4lzllo?at_medium=RSS&at_campaign=rss",
+      "summary": "中国とロシアは21日、キューバのカストロ元国家評議会議長を殺人共謀罪などで起訴したアメリカを非難した。他方、トランプ米大統領は「人道的」観点からのキューバ「支援」に意欲を示した。ルビオ米国務長官は、キューバはアメリカにとって「国家安全保障上の脅威」だとし、米政権は常に外交による平和的解決を優先するものの、キューバ相手にその可能性は「高くない」と記者団に述べた。",
+      "published": "2026/05/22 11:45",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cdec/live/58918d90-5573-11f1-89a3-d1f559421220.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "プーチン氏が訪中、習氏と会談　双方の関係は「かつてないほど高いレベル」と強調",
-      "url": "https://www.bbc.com/japanese/articles/czd2q434rjno?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアのプーチン大統領と中国の習国家主席が20日、北京で会談した。両国のメディアによると、習氏は双方が互いの発展と復興を支援すべきだと訴え、プーチン氏は両国の関係が「かつてないほど高いレベル」に達していると述べた。終了後に両首脳は、両国が戦略的連携をさらに強化し、「良き隣人としての友好協力関係を深化させる」とした共同声明に署名した。",
-      "published": "2026/05/20 17:46",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbb0/live/18f50c90-5422-11f1-89a3-d1f559421220.jpg"
+      "title": "エールフランスとエアバス、2009年の旅客機墜落事故で逆転有罪判決　過失致死罪で仏裁判所",
+      "url": "https://www.bbc.com/japanese/articles/ckgp818d328o?at_medium=RSS&at_campaign=rss",
+      "summary": "航空大手エールフランスと航空機製造大手エアバスは21日、228人が死亡した2009年の旅客機墜落事故をめぐり、フランスの控訴裁判所で過失致死罪で有罪判決を受けた。一審の無罪から逆転判決となった。",
+      "published": "2026/05/22 11:37",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8447/live/7d2975c0-5580-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏とプーチン氏、中国で受けた待遇は同じ？",
-      "url": "https://www.bbc.com/japanese/articles/c5ye338k9yno?at_medium=RSS&at_campaign=rss",
-      "summary": "中国の習近平国家主席はこの1週間で、アメリカのトランプ大統領と、ロシアのプーチン大統領を北京で出迎え、ほぼ同様の歓迎式典を開いた。どのような意味合いがあるのか、BBCのローラ・ビッカー中国特派員が解説する。",
-      "published": "2026/05/21 11:46",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d13d/live/6c13d1a0-5449-11f1-8b8c-6d33e1d5abb6.jpg"
+      "title": "牛乳や卵などの価格を引き下げるよう英政府が圧力、スーパー側は「上限」設定には反発",
+      "url": "https://www.bbc.com/japanese/articles/clyp5py0lepo?at_medium=RSS&at_campaign=rss",
+      "summary": "物価が高騰する中、消費者の負担を軽減しようと、イギリスの閣僚らがスーパーマーケット側に販売価格の引き下げを迫っている。ただ、卵やパン、牛乳といった基礎食品などの価格に上限を設定するよう強制することまでは踏み込まないとしている。",
+      "published": "2026/05/21 18:27",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c11d/live/c5cfe140-542e-11f1-89a3-d1f559421220.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "エボラ出血熱、当初予想より急速に拡大か　WHO専門家が警告",
-      "url": "https://www.bbc.com/japanese/articles/cn8pjl70049o?at_medium=RSS&at_campaign=rss",
-      "summary": "コンゴ民主共和国（旧ザイール）で発生しているエボラ出血熱の大規模な流行で、世界保健機関（WHO）は19日、感染が当初考えられていたより急速に広がっている恐れがあると警告した。感染者が多い地域に住む人々は、BBCの取材で恐怖を口にした。",
-      "published": "2026/05/20 12:52",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/360e/live/e4843df0-53f9-11f1-89a3-d1f559421220.jpg"
+      "title": "イスラエルの極右閣僚、拘束されたガザ支援船の活動家あざける　国内外で非難噴出",
+      "url": "https://www.bbc.com/japanese/articles/cx21k3lkvr4o?at_medium=RSS&at_campaign=rss",
+      "summary": "パレスチナ・ガザ地区に支援物資を届ける船に乗っていた親パレスチナ活動家らが、イスラエル海軍に拘束された。この活動家らに対してイスラエルの閣僚が見せた行動に、国際社会から非難の声が上がっている。",
+      "published": "2026/05/21 15:46",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8591/live/f0130fd0-54de-11f1-89a3-d1f559421220.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イギリス、ロシア産石油への新規制を緩和へ　燃料価格の高騰受け",
-      "url": "https://www.bbc.com/japanese/articles/cdxp4z6xzwxo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリス政府は19日、第三国でディーゼルや航空機燃料に精製されたロシア産石油について予定される、新しい制裁の内容を緩和した。アメリカとイスラエルによるイランとの戦争開始以降、ホルムズ海峡の実質的な封鎖によって特定の燃料の供給懸念が高まっていることを受け、政府は今後、数カ月かけて新しい制裁を「段階的」に導入する方針。",
-      "published": "2026/05/20 22:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26bc/live/302c5ff0-53d5-11f1-8a2e-c1781efb369b.jpg"
+      "title": "トランプ氏がIRSと和解、自らと家族などに対する税務調査を禁止する条項を追加",
+      "url": "https://www.bbc.com/japanese/articles/czj2g2p3krko?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの司法省は、トランプ大統領が自身の納税申告書の流出をめぐって起こしていた訴訟で、18日に前例のない和解が成立し、内国歳入庁（IRS）は今後、トランプ氏と家族、および関連企業の過去の納税申告を調査することが認められなくなったと発表した。",
+      "published": "2026/05/21 17:59",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e700/live/87bf67d0-54e8-11f1-89a3-d1f559421220.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢あなたはどう思う？｣｢あなたの意見は？｣AI時代に一番必要な\"思考の力\"を高める｢読み方スキル｣のスゴい効果 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944003?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "会議で突然｢あなたはどう思う？｣と聞かれ､言葉に詰まった経験はありませんか？実はその原因は､｢話す力｣ではなく｢読む力｣にあるかもしれません。教え子の5人に1人を東大合格へ導いた元国語教師が…",
-      "published": "2026/05/21 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/7/1200w/img_37571fda078835aa04d9368e9aa50fcb308851.jpg?nextgen=false"
+      "title": "転職･離脱はもはやリスクではない　｢辞めても声がかかる時代｣に知っておくべき\"辞めどき\"から考えるキャリア戦略 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941891?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "転職やアルムナイ採用が一般化し､組織を辞めることによるキャリア離脱のリスクは格段に下がりました。それでも大切なのは､計画的かつ柔軟な行動です。では､今どんな戦略が\"報われるキャリア\"を創るのか､考え…",
+      "published": "2026/05/22 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/3/1200w/img_43851f334bda0229aa70112ee7ac7f4c267542.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢一流のプロフェッショナルは勝負にこう向き合う｣東大文学部卒が紹介する\"頭を良くするゲームの本\"3冊 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944554?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東大生に意外と多い｢ゲーム好き｣。麻雀や将棋､競技かるたなど､知的スポーツが彼らの思考力を鍛えてきた――その秘密や効用に迫りながら､勉強や仕事にも活きる\"勝てる人の頭の使い方\"を学べる3冊を紹介しま…",
-      "published": "2026/05/21 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/8/1200w/img_28a8762aa3bb2cda3eb36d847d7a96d3181575.jpg?nextgen=false"
+      "title": "｢エプスタイン事件｣解明のカギを握る…1冊の黒い手帳が思い起こさせる､松本清張が描いた《昭和の傑作サスペンス》 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944260?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本の名作『黒革の手帖』と米国のエプスタイン事件——時代も場所も異なれど､秘密の｢ブラックブック｣が権力者を操る構図は驚くほど酷似しています。未公開文書の闇､大統領選を揺るがす真実､圧力に屈する政府…",
+      "published": "2026/05/22 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/e/1200w/img_3ebdc39a155b6b78a42310f4eda69ada588774.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "上司にまつわる\"欠席裁判\"黙って聞いているのはあまりに高リスク！会社員として最適な危機回避方法は？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943171?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "職場での何気ない会話が思わぬトラブルに発展することも。軽い相づちや噂話が誤解を生み､人間関係に影響を与えてしまう危険性があります。円滑なコミュニケーションのコツや､職場で自分を守る立ち回り方を一緒に…",
-      "published": "2026/05/21 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/7/1200w/img_a723466b0efe74f04243cfe0eca86883326164.jpg?nextgen=false"
+      "title": "｢おじさんのハーフパンツ姿｣を叩く､\"無自覚イジリ\"が危ういワケ…｢おばさんなら即炎上｣の非対称性がはびこる背景 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945414?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東京都が推進する｢東京クールビズ｣では､これまでのノージャケット･ノーネクタイに加え､ハーフパンツの着用が推奨されて話題を呼んでいます。しかし､ネット上では特に\"おじさんのハーフパンツ\"に否定的な声…",
+      "published": "2026/05/22 11:45",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/9/1200w/img_b964c570396d14f4a55bf2959b982ec0316370.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "職場でうかつに\"株\"の話をしたことを激しく後悔…　プライベート開示の線引きが職場の平穏を保つカギ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943161?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "会社員生活に欠かせない｢同僚づきあい｣は､多様な価値観が交錯する職場ゆえ､悩みも尽きません。今回は､避けるべき危険な話題や､人間関係を円滑に保つ戦略を具体例と共に紹介。あなたは職場で無意識に虎の尾を…",
-      "published": "2026/05/21 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/6/1200w/img_f656bfaf7b0461d25642a224214d4c4d298070.jpg?nextgen=false"
+      "title": "クルマと動物の衝突｢ロードキル｣で考える人間と野生動物が共生する｢高速道路｣の対応策 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944988?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "初夏を迎えて暖かくなって再び問題になっているのが､クマの出没だ。北海道ではヒグマ､本州ではツキノワグマが人里どころか街中にまで姿を見せて､多くの人を怯えさせている。野生動物と人間との共生は､…",
+      "published": "2026/05/22 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/9/1200w/img_5992fd1e6b6aa5269cd4fc7e287e5906130668.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "心痛む猫の｢殺処分｣､ゼロへのカギは｢野良猫対策｣にあり！無責任な善意が招く課題とデータが示す｢TNR｣の重要性 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944845?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "犬猫の殺処分ゼロを目指した多様な活動が広がる一方､現実には野良猫が増え続け､保護や譲渡の努力だけでは追いつかない状況が続いています。なぜ不幸な野良猫がいなくならないのか――根本的な解決策を探るために…",
-      "published": "2026/05/21 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_7997f2f426dc8d32d5283d067c721c29311181.jpg?nextgen=false"
+      "title": "｢あなたの番はいつか？｣…AIの代替で｢消える仕事･残る仕事｣と｢時間軸｣を見分ける8つの視点 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945229?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "今､ビジネスパーソンや就活生の最大の関心事は､｢自分の仕事は大丈夫か｣だ。AI失業に絡む誤解だらけの議論を8つの視点で整理する。",
+      "published": "2026/05/22 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/a/1200w/img_0ab49b1c0fe37efdd5ad36ea0e952c0917232.jpg?nextgen=false"
     }
   ]
 }
