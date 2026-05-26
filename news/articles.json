@@ -1,50 +1,59 @@
 {
-  "generated_at": "2026-05-25T04:51:52.779710+00:00",
+  "generated_at": "2026-05-26T04:34:18.210706+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "普通のキーボードを“勝手に”エルゴノミクスに変える「MX Tilter Kit」を買ってみた",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news086.html",
-      "summary": "普通のキーボードを（勝手に）エルゴノミクスに変えるパーツを買ってきた。スペーサー軸を作ってキーキャップを持ち上げることで立体化するというアプローチは、これまでありそうでなかった発想である。",
-      "published": "2026/05/25 13:00",
+      "title": "被害長女がChatGPTに相談→児相に通報か　巨人・阿部前監督の暴行事件",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/26/news081.html",
+      "summary": "女は暴行を受けた後、ChatGPTに対処法を尋ね、その回答をもとに児童相談所に連絡。児相が警視庁に110番通報したという。",
+      "published": "2026/05/26 12:37",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "金融庁・日銀、金融機関にAIサイバー攻撃の対策要請　対応の優先度決定など9項目",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news079.html",
-      "summary": "金融庁と日本銀行は5月22日、ChatGPTやClaudeなど「フロンティアAI」が脆弱性を短期間で大量発見できる脅威を受け、金融機関に9項目の短期的対応を要請した。",
-      "published": "2026/05/25 12:20",
+      "title": "KADOKAWA「ダ・ヴィンチ」休刊　創刊32年、紙からWebへ移行",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/26/news068.html",
+      "summary": "KADOKAWAは2026年3月期通期連結決算で出版・IP創出事業の営業利益が半減していた。休刊は、不採算媒体の整理の一環とみられる。",
+      "published": "2026/05/26 10:54",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "SNSにおける情報漏えい、企業の7割で社内ルール「なし」　企業規模の違いで対応に格差か",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news078.html",
-      "summary": "企業で働く従業員が日ごろ使っているSNSから本来であれば社内で厳しく守られ、管理されるべき情報が外部に漏えいするケースが後を絶たず、大きな社会問題になっている。それだけに、セキュリティをどう守るべきなのかがそれぞれの企業では問われている。だが、実際には多くの企業で社内ルールすら作られていないのが実態だ。",
-      "published": "2026/05/25 12:06",
+      "title": "Googleで「結婚して」と検索したら、丁寧に断られた　検索クエリを指令と勘違い？",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/26/news067.html",
+      "summary": "「突然のプロポーズ、ありがとうございます！　とても嬉しいですが、私はAIですので、人間と法律上の結婚をすることはできません」と現実を突きつけてくる。",
+      "published": "2026/05/26 10:34",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "SNSに潜む偽造証明書や闇バイト情報　隠語で「兵士」と呼ばれるベトナム人不法残留者",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news057.html",
-      "summary": "出入国在留管理庁が、不法残留・不法就労外国人の摘発強化に向け、SNS上の投稿を収集・分析するサイバーパトロールを強化する方針を明らかにした。監視強化に乗り出した背景には、日本で暮らす外国人にとって、SNSが母国語で同胞と直接、やり取りできるコミュニケーションツールになっているだけでなく、一部の不法残留者を結び付け、不法就労や闇バイトなど犯罪行為の温床となっている現状がある。",
-      "published": "2026/05/25 10:59",
+      "title": "考えるだけでPC操作・脳内発話も　中国がAI脳インプラント開発加速、一般販売も間近か　Nature報道",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
+      "summary": "Nature誌によると、中国のスタートアップ企業が、AIを活用したブレイン・コンピュータ・インタフェース（BCI）の開発と実用化を急ピッチで進めているという。",
+      "published": "2026/05/26 08:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "総務省、ふるさと納税で仲介サイト事業者に手数料引き下げを要請　8月末までに回答求める",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news056.html",
-      "summary": "総務省がふるさと納税の仲介サイト事業者などでつくる業界団体に対し、事務手数料の引き下げを要請した。各仲介サイト事業者に対し、8月末までに対応方針を書面で回答するよう求めた。多くの地方自治体は大手事業者が手数料の引き下げ交渉に応じない窮状を訴えており、事務費の圧縮を目指す。",
-      "published": "2026/05/25 10:51",
+      "title": "総額は同じなのに、なぜ「送料無料」を選ぶのか？　fMRIで脳をのぞいて解明　韓国チームが学術誌で発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news062.html",
+      "summary": "韓国のKorea Brain Research Institute（KBRI）などに所属する研究者らがPLOS Oneで発表した論文「Neural and behavioral evidence of free shipping on consumer decision making」は、人はなぜ送料無料に強く反応するのかを行動と脳活動から分析した研究報告だ。",
+      "published": "2026/05/26 08:00",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米軍、イラン南部を空爆　合意は「目前ではない」とイランが説明後",
+      "url": "https://www.bbc.com/japanese/articles/cj0pp7vezq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "米中央軍は25日、イラン南部で空爆を実施したと発表した。ミサイル基地や機雷敷設の関係船を標的にしたものだという。これより前には、イラン外務省は戦闘終結に向けたアメリカとの協議について、一定の進展はしているものの、合意は「目前ではない」と述べていた。",
+      "published": "2026/05/26 11:44",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a1e/live/02a16e40-58a8-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,74 +76,65 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "エボラ出血熱のリスク、WHOが「非常に高い」に引き上げ　コンゴ民主共和国について",
-      "url": "https://www.bbc.com/japanese/articles/c9wene4n1e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "コンゴ民主共和国（旧ザイール）で発生しているエボラ出血熱の流行をめぐり、世界保健機関（WHO）は22日、同国における公衆衛生上のリスクを「高い」から「非常に高い」に引き上げた。",
-      "published": "2026/05/23 13:41",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/77c6/live/d4891890-5646-11f1-b682-cf91850925ea.jpg"
+      "title": "パキスタンで列車を狙った爆発、少なくとも20人死亡　分離派組織が犯行声明",
+      "url": "https://www.bbc.com/japanese/articles/cvgzz32xwddo?at_medium=RSS&at_campaign=rss",
+      "summary": "パキスタン西部バルチスタン州で24日朝、軍関係者らが乗った列車を狙ったとみられる爆発があり、少なくとも20人が殺害され、70人が負傷した。目撃者らは、爆発物を積んだ車が列車に突っ込んだと話している。同州の分離を訴える組織が犯行声明を出した。",
+      "published": "2026/05/25 16:57",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3817/live/47502260-5809-11f1-89a3-d1f559421220.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、ポーランドに米兵追加配備すると発表　NATO会合の最中に",
-      "url": "https://www.bbc.com/japanese/articles/c5y0vz0pjelo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの北大西洋条約機構（NATO）同盟国への部隊配備について、混乱が生じている。トランプ大統領は22日、米兵の配備計画を中止するとしていたポーランドに米兵5000人を追加配備すると発言。ルビオ国務長官はその後、アメリカは部隊の駐留を絶えず再評価していると述べ、同盟国を安心させようと試みた。",
-      "published": "2026/05/23 13:47",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb4f/live/0b4bb9f0-55c0-11f1-99e4-4d92e48ba181.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米深夜番組「ザ・レイト・ショー」が終了　最後のゲストはマッカートニー氏",
-      "url": "https://www.bbc.com/japanese/articles/cn7p1nddl3do?at_medium=RSS&at_campaign=rss",
-      "summary": "米CBSテレビの深夜トーク番組「ザ・レイト・ショー」が21日、33年にわたる歴史に幕を下ろした。司会のスティーヴン・コルベア氏と特別ゲストのポール・マッカートニー氏が最終回を締めくくった。",
-      "published": "2026/05/23 14:12",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a224/live/4516deb0-565d-11f1-8b8c-6d33e1d5abb6.jpg"
+      "title": "日本で4月から離婚後の共同親権スタート、子の利益と安全への懸念のバランスに揺れる",
+      "url": "https://www.bbc.com/japanese/articles/c5y7915398yo?at_medium=RSS&at_campaign=rss",
+      "summary": "日本では4月1日に改正民法が施行され、離婚後も父母の双方が親権を持つ「共同親権」が初めて可能になった。",
+      "published": "2026/05/25 14:22",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d5f/live/e2904a70-542b-11f1-89a3-d1f559421220.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "成田悠輔の｢選挙不要論｣は正しかったのか？トランプ再選で露呈した､フェイクに溺れる民主主義の限界 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944902?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "SNSやメディアにあふれるフェイクニュースが､民主主義の根幹を揺るがす｢ポストトゥルース時代｣。人々はなぜ事実より信じたい物語を選ぶのか。選挙や民意のあり方はどう変わるのか――現代社会の危機と新たな…",
-      "published": "2026/05/25 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/1/1200w/img_8155cfc8214a709186f6a69abc9ce716300982.jpg?nextgen=false"
+      "title": "無料AI翻訳の時代でも､子どもに英語を学ばせる意味──｢トド英語｣開発責任者が語る\"親の役割\"とは | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945352?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIの進化で｢英語を学ぶ必要はない｣との声も聞こえる現代。しかし､本当にAIがあれば語学学習は不要なのか。韓国発の学習アプリを手がけるトップが語る､英語を学ぶ本質的な意味と､日韓で異なる親の教育…",
+      "published": "2026/05/26 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/7/1200w/img_07b9f9b1bc438679aacf7a7e717033b5111808.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈有料会員向けイベント開催〉6/19のTK-HUBは佐藤優氏が登壇。世界情勢を読み解く｢地政学｣のポイントを語る | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/942951?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東洋経済オンラインでは有料会員読者向けのリアルイベント「TK-HUB」を開催しています。東洋経済オンラインの人気連載執筆者やその連載テーマのキーパーソン、東洋経済の業界担当記者を招き、話題のテーマに…",
-      "published": "2026/05/25 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/1/1200w/img_4149107a72801d33a70d3c37254e2d6a357724.jpg?nextgen=false"
+      "title": "【注目銘柄】フジクラショックの真相…期待外れの業績見通しに対して失望売り､足元の業績に不安は潜んでいるのか | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945736?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "株式市場に熱気に満ちる中､5月14日に起きた｢フジクラショック｣が投資家に衝撃を与えました。2027年3月期の純益予想が｢微減益｣だったこともあり株価は急落。ではフジクラには変調があったといえるのか…",
+      "published": "2026/05/26 12:40",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/f/1200w/img_ef0b975a6291f73bb9e597607a67d34666330.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "イーロン･マスクはなぜ世界を振り回せるのか…巨大権力の源泉となった｢アテンション錬金術｣の正体 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945486?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "インターネットの発展が世界を変革する中､｢マスキズム｣と呼ばれる新たな支配構造がアメリカで台頭しています。その象徴となるイーロン･マスクは､ネットと国家インフラを巧みに利用し､圧倒的な権力を手中にし…",
-      "published": "2026/05/25 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/4/1200w/img_8488150defb16dc96a4506d0cca8f89f288333.jpg?nextgen=false"
+      "title": "世界一の富豪が1日60回も投稿する異常事態…イーロン･マスク大衆を巻き込む心理操作テクニック | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945494?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イーロン･マスクがインフラからSNSまでを支配する現象｢マスキズム｣。彼がネット上で絶大な影響力を持つ理由は､単なるビジネス戦略だけでなく､独自のユーモアにあった――。市場をも動かすツイートの裏側､…",
+      "published": "2026/05/26 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/1/1200w/img_91df17ee63eaf2c41aed8f5e09615721178582.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢高市応援団｣発足したばかりなのに\"2回目\"はない？ 大きくなりすぎた\"船\"の座礁を招きかねない｢大物議員｣の無理筋 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945574?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "自民党内で発足した｢国力研究会｣は､内外の事情や思惑が複雑に絡み合う状況となっています。大物議員たちの野心や不安､忠誠心が交錯する中､この巨大な\"船\"は果たしてどこに向かうのでしょうか？",
-      "published": "2026/05/25 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/9/1200w/img_c95856be8c991a4e26d77d9a9513ce5a94738.jpg?nextgen=false"
+      "title": "アップルが毎年｢すべての人が使えるiPhone｣を目指し続ける､意外な理由 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945308?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "個人にとっての使いやすさとは何か。家族の動画に自動で字幕がつく､レストランのメニューをiPhoneが読み上げる――今年秋､アップルが発表したアクセシビリティ新機能は､障がい者支援の枠を越え､誰もが日…",
+      "published": "2026/05/26 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/f/1200w/img_7f01de064c013b9a723697eb470cc64484942.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢アドバイスは不要｣｢生命力は信頼力｣…『マンガで体感！ 調和力で人を動かす トラストコーチング』（第1話） | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945024?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "Z世代の若者がアルバイト先のホテルで知り合ったのは、政治家も経営者も芸能人も誰もが頼りにするという「目標達成の神様」でした。「昨日と同じが安全は平和ボケ」「特別なオーラの正体は生命力である」……そん…",
-      "published": "2026/05/25 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/2/1200w/img_f22051717d145493251d4397f519c186617460.jpg?nextgen=false"
+      "title": "ソフトバンクが踏み込んだ国産バッテリー事業　通信会社が描く｢内需脱却｣の絵 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945353?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIデータセンター時代を見据え､日本初のギガワット時規模バッテリー事業に挑むソフトバンク。燃えない亜鉛-ハロゲン電池で国産化と安全性､エネルギー効率を両立。なぜ通信企業が電池製造まで踏み出すのか､そ…",
+      "published": "2026/05/26 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/0/1200w/img_c0db158399ef440c0f14bca794aa0049455137.jpg?nextgen=false"
     }
   ]
 }
