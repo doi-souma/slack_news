@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-05-27T04:48:46.421030+00:00",
+  "generated_at": "2026-05-28T04:39:38.822817+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ヒト型AIロボスタートアップのアトムが30億円調達　「日本のGDPを1％アップ」目指す",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news088.html",
-      "summary": "ヒューマノイドAIロボットを開発するアトム（東京都江東区）は5月27日、開発着手とあわせて、シードラウンドで総額30億円を調達したと発表した。製造業や物流・運輸の現場で使えるロボットを開発し、将来の量産化を目指す。",
-      "published": "2026/05/27 12:30",
+      "title": "Amazon、新幹線で商品輸送スタート　JR東「はこビュン」活用",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news107.html",
+      "summary": "数百万点の商品を、青森、函館、金沢の各エリアへ当日配送できるようになった。",
+      "published": "2026/05/28 13:19",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“未知の遺跡”をAIと地形データで発見──奈良文化財研究所　一般の人の取り組みにも期待",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news080.html",
-      "summary": "高精度な3次元の地形データを活用し、AIによる分析で古墳を発見する研究について、奈良文化財研究所の高田祐一主任研究員に話を聞いた。歴史研究を加速させ、文化財保護にもつながる取り組みだという。",
-      "published": "2026/05/27 12:20",
+      "title": "米Limeの電動自転車シェア、東京でスタート　座って乗れるシートボードと2機種に",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news106.html",
+      "summary": "同社は2024年8月に電動キックボードで日本に参入したが、26年3月に提供終了を発表。電動シートボード「Limeラクモ」に一本化していた。「LimeBike」導入で着座型の2車種体制になる。",
+      "published": "2026/05/28 13:01",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「レンタルスペースに来たらぐちゃぐちゃ」「諦めて退室したら半額請求」問題、スペースマーケットなど謝罪",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news085.html",
-      "summary": "前の利用者が残したバルーンやゴミが乱雑に放置され、床も濡れており利用できない状態で清掃を求められ、利用せず退室したところ半額が請求されたという。",
-      "published": "2026/05/27 12:03",
+      "title": "「Steam Deck」が約44％の大幅値上げ　512GBは789ドルに、メモリとストレージのコスト上昇で",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news102.html",
+      "summary": "米Valveが「Steam Deck OLED」の再入荷と価格改定を発表した。改定後の価格は512GBモデルは789ドル、1TBモデルは949ドルとなり、メモリとストレージのコスト上昇が理由としている。日本国内向けの価格改定は告知していない。",
+      "published": "2026/05/28 12:40",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Google、Workspaceアプリのアイコン刷新　Gmail、カレンダーなど一斉にデザイン変更",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news079.html",
-      "summary": "米Googleは5月26日（現地時間）、Google Workspaceアプリのアイコンデザイン刷新を発表した。GmailやGoogleカレンダー、Google Meetなどの主要アプリが対象。",
-      "published": "2026/05/27 11:55",
+      "title": "40周年「ドラクエの日」翌日にスクエニ株下落の“なぜ？”",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news098.html",
+      "summary": "スクウェア・エニックスは27日、人気ゲームシリーズの最新作「ドラクエXII」の概要を発表した。しかし一夜明けた28日、株価は、前日終値から150円も下落した。",
+      "published": "2026/05/28 12:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "選挙の公正確保を　“虚偽”SNS対策が判明、AI生成動画像に改変表示義務付け　与野党案",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news072.html",
-      "summary": "選挙期間中のSNSでの偽・誤情報拡散対策として、与野党による選挙運動に関する協議会で検討が進められていた関連法改正案の骨子の全容が5月26日、分かった。",
-      "published": "2026/05/27 10:39",
+      "title": "Docker専用のAIエージェント「Gordon」が正式リリース　無料アカウントでも利用可能",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
+      "summary": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
+      "published": "2026/05/28 12:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米NASA、月面基地建設計画を発表　中国との宇宙開発競争のなか",
-      "url": "https://www.bbc.com/japanese/articles/c8r82lve85ko?at_medium=RSS&at_campaign=rss",
-      "summary": "米航空宇宙局（NASA）は26日、月面基地建設に向けた計画スケジュールを発表し、月に送る予定のロボット着陸機、跳躍型ドローン、月面走行車などの詳細を明らかにした。宇宙開発の分野では現在、人類を月面に再び送ることをめぐって、アメリカと中国が争っている。そのためNASAには、この新たな競争で優位に立っていると見られるよう圧力がかかっている。",
-      "published": "2026/05/27 13:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a099/live/f5f41ba0-5944-11f1-af8d-3f91c4027c92.jpg"
+      "title": "イスラエル、レバノン南部の広範囲に避難命令",
+      "url": "https://www.bbc.com/japanese/articles/c86d2e3068zo?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエル国防軍（IDF）は27日、レバノン南部の広い範囲を対象に避難命令を出した。同国のイスラム教シーア派組織ヒズボラへの新たな攻撃を前に、「戦闘地域」を設定した格好だ。",
+      "published": "2026/05/28 11:34",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e9bc/live/a220b670-5a37-11f1-b682-cf91850925ea.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イラン、アメリカの空爆を非難　停戦合意への「重大な違反」と",
-      "url": "https://www.bbc.com/japanese/articles/c3d2yvm1enno?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカがイランに対し新たな空爆を実施したのを受け、イランは26日、アメリカが停戦合意に対して「重大な違反」を犯したと非難した。",
-      "published": "2026/05/27 11:26",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4671/live/973dd2a0-596b-11f1-89a3-d1f559421220.jpg"
+      "title": "トランプ氏、イランと交渉中の合意条件に「満足していない」",
+      "url": "https://www.bbc.com/japanese/articles/crrp8p0dz15o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は27日、イランと交渉中の紛争終結に向けた合意の条件について「まだ満足していない」と述べた。",
+      "published": "2026/05/28 13:09",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b406/live/4cceef20-59ec-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米軍、イラン南部を空爆　合意は「目前ではない」とイランが説明後",
-      "url": "https://www.bbc.com/japanese/articles/cj0pp7vezq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "米中央軍は25日、イラン南部で空爆を実施したと発表した。ミサイル基地や機雷敷設の関係船を標的にしたものだという。これより前には、イラン外務省は戦闘終結に向けたアメリカとの協議について、一定の進展はしているものの、合意は「目前ではない」と述べていた。",
-      "published": "2026/05/26 17:32",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a1e/live/02a16e40-58a8-11f1-8b8c-6d33e1d5abb6.jpg"
+      "title": "アメリカ、イランを再び空爆　3日間で2回目",
+      "url": "https://www.bbc.com/japanese/articles/ce8pkpnzl2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "米軍は27日、イラン南部の戦略的な港湾都市バンダル・アッバスを新たに空爆した。軍事拠点を標的にしたとしている。アメリカがイラン国内を攻撃したのは、この3日間で2回目。",
+      "published": "2026/05/28 13:15",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d468/live/2691b590-5a46-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "教皇、AIの「武装解除」訴え　初の回勅は先端技術による搾取に焦点",
-      "url": "https://www.bbc.com/japanese/articles/c70vvrvyxqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "キリスト教カトリック教会の指導者、ローマ教皇レオ14世は25日、就任後初の回勅を公布し、人工知能（AI）は「武装解除」される必要があると警告した。回勅の中で教皇は、AIがもたらす「脅威」を抑制する責任を、権力者に厳しく直接的に訴えた。",
-      "published": "2026/05/26 14:07",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ec4/live/89add830-5847-11f1-9fcc-95002e18ab8a.jpg"
+      "title": "ロシア兵約50万人がウクライナでの戦争で死亡と英情報当局",
+      "url": "https://www.bbc.com/japanese/articles/c1l2y7pyez9o?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリス最大のスパイ機関によると、ロシアが2022年2月にウクライナへの全面侵攻を開始して以来、約50万人のロシア兵が死亡した。英政府通信本部（GCHQ）のアン・キースト＝バトラー長官が27日、就任後の初の公開演説でそうした分析を明らかにした。",
+      "published": "2026/05/28 11:37",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a337/live/08099510-59e3-11f1-ad45-03463f64a221.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イギリスで5月の最高気温を更新、ロンドンで34度を超える",
-      "url": "https://www.bbc.com/japanese/articles/c7v99jdv1jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "ロンドンの一部地域で25日、気温が34.8度に達した。イギリスの5月の気温の最高記録を更新した。",
-      "published": "2026/05/26 16:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4cda/live/25d348e0-58d8-11f1-90e2-edf2febf1e9d.jpg"
+      "title": "イギリス、年内にも子どものSNS利用に関する規制を導入へ　首相は行動を約束",
+      "url": "https://www.bbc.com/japanese/articles/ce3pe0nl23xo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのキア・スターマー首相は26日、ソーシャルメディアが子どもに与える影響に対処するため、「決定的な」行動を取ると述べた。英政府は年内にも16歳未満を対象としたソーシャルメディア利用に関する新たな措置を導入する予定で、この日、一連の協議を終了した。検討されている措置の中には、オーストラリアで昨年から実施されたような、ソーシャルメディアの使用禁止なども含まれている。",
+      "published": "2026/05/28 12:58",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/242e/live/81acfdf0-59a5-11f1-b088-1bced8e5ea68.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "\"骨抜き\"物価高対策に｢中傷動画｣疑惑が追い打ち､長かった\"ハネムーン\"も終焉？ ついにはじけ始めた｢高市バブル｣の泡音 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945910?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "高市内閣の支持率が発足以来の最低水準を更新。支持率の中身にも変化が表れ始めています。長かった｢ハネムーン期｣を終わらせようとしている要因は何なのか､解きほぐしていきます。",
-      "published": "2026/05/27 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/3/1200w/img_83a80132182b9fb9e8da31d2651e9070224982.jpg?nextgen=false"
+      "title": "｢お金さえ増えれば幸せになれる｣は幻想…10兆円運用のファンドマネジャーが語る《幸せな投資》の3つの要諦とは | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944986?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢お金さえ増えれば幸せになれる｣――そう信じていた著者が金融業界の最前線でつかんだ現実は､想像とは異なるものでした。ストレスと葛藤を乗り越え辿りついた｢投資と幸せの本質｣とは。お金と心は､どこで交わ…",
+      "published": "2026/05/28 13:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/4/1200w/img_345da3e976c8f69ff3018d49ce35fffa385942.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "チャッピーに相談した結果､失職…？巨人･阿部前監督｢娘に暴行で逮捕→電撃辞任｣に見る生成AI活用の\"重大論点\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945895?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "前巨人監督･阿部慎之助氏の逮捕が波紋を広げています。18歳の長女がAIに悩みを相談し､AIの助言通り児相に連絡したことで警察沙汰となった今回の事件。その背後にはAIと人間関係の断絶､過剰な安全思想と…",
-      "published": "2026/05/27 13:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/9/1200w/img_19807fd9aa2b2e6a5e4803d5d31fc9c2100545.jpg?nextgen=false"
+      "title": "【6月1日スタート】｢地銀決算ランキング2026｣を続々配信…｢勝ち組｣と｢負け組｣の構造的な二極化が加速 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946015?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "長期的な超低金利時代が終わり､地方銀行の業績に明暗がくっきりと現れ始めています。金利上昇で多くの地銀が増益を達成する一方､その裏では経営力の差が一段と際立つ結果に。詳細ランキングで実態に迫る特集が6…",
+      "published": "2026/05/28 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/2/1200w/img_a2fe3043db20702c4669507c4672c2af445249.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《トランプの発言から本音を見抜く》情報のプロが語る､武器としての｢インテリジェンス･リテラシー｣鉄則7選 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945208?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "情報が溢れる現代､特にイラン戦争のような動乱では､私たちは嫌でも｢情報戦｣に巻き込まれます。SNSやAIの普及によって情報がますます錯綜するなか､どうすれば翻弄されず正しい判断ができるのか。情報を見…",
-      "published": "2026/05/27 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/2/1200w/img_92bcc919f5661edbe25d9265dd0ede58389937.jpg?nextgen=false"
+      "title": "ロシアの教科書｢ウクライナ侵略は人類の文明を救う行為｣世界の歴史教科書を比較してわかった\"国の価値観と政治的意図\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945370?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界各国の歴史教科書を比べると､国家の価値観や政治的意図が色濃く反映されていることが見えてきます。ロシアの最新教科書が物議を醸す一方､イギリスやオーストリア､日本ではどのような｢選択｣がなされている…",
+      "published": "2026/05/28 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/d/1200w/img_5db38ca83570d6f14b40b83ed850d9ca186123.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢際限のない婚活｣｢DV･モラハラの被害｣…結婚をめぐる《自己責任論》が見落としがちな､当たり前すぎる2つの視点 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945135?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢自分磨き｣をすれば恋愛や結婚が叶う――そんな社会の通念は､本当に真実なのでしょうか。努力と結果を結び付ける考え方が広がる一方で､恋愛や結婚は偶然や環境が大きく作用します。あなたは｢努力＝幸せ｣の罠…",
-      "published": "2026/05/27 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/7/1200w/img_b721263c798985e164c4ddca2624b9c5221054.jpg?nextgen=false"
+      "title": "防水性能\"IP68\"でも保証されない？ iPhoneをお風呂や海で使う前に知っておくべきこと | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945642?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢防水仕様｣と聞くと､つい安心してしまいがちなデジタル機器。しかし実際には､その耐水性には限界があり､保証されないことも多い。防水規格の正体や壊れるリスク､正しい扱い方について詳しく解説。",
+      "published": "2026/05/28 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/f/1200w/img_8ff4504dfeb9f53b492ad65b0857d5ce344322.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "開業10年｢バスタ新宿｣は今どうなっているのか？ 高速バスの一大施設が果たしてきた功績 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945607?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2016年に開業した東京における高速バスの一大ターミナル｢バスタ新宿｣が､この春で開業10周年を迎えた。正式名称は｢新宿南口交通ターミナル｣。所在地は新宿区ではなく渋谷区千駄ヶ谷だが…",
-      "published": "2026/05/27 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/4/1200w/img_a49f76b61ab475d400045bdd4e605c3d353654.jpg?nextgen=false"
+      "title": "技術革新によって感情の研究が大きく進み､感情の｢シフター（変換装置）｣には多くの種類があることがわかってきた | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/941391?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "私たちの人生を彩る感情。しかし､不安や恐怖に振り回されて苦しむことも少なくありません。最新の科学が明かす｢感情の仕組み｣とは？感情を自在にシフトし､心を整えるための実践的なテクニックに迫ります。（こ…",
+      "published": "2026/05/28 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/6/1200w/img_f601c575a4e90f35df85fa15847121fd225438.jpg?nextgen=false"
     }
   ]
 }
