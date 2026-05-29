@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-05-28T04:39:38.822817+00:00",
+  "generated_at": "2026-05-29T04:42:53.188400+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Amazon、新幹線で商品輸送スタート　JR東「はこビュン」活用",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news107.html",
-      "summary": "数百万点の商品を、青森、函館、金沢の各エリアへ当日配送できるようになった。",
-      "published": "2026/05/28 13:19",
+      "title": "データセンター会社の偉い人に「自分だけのDCを作れるゲーム」遊んでもらった　プロ目線でガチレビュー",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news018.html",
+      "summary": "データセンター事業を手掛ける企業の幹部による「自分だけのDCを作れるゲーム」のプレイを見学できることに。",
+      "published": "2026/05/29 11:45",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "米Limeの電動自転車シェア、東京でスタート　座って乗れるシートボードと2機種に",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news106.html",
-      "summary": "同社は2024年8月に電動キックボードで日本に参入したが、26年3月に提供終了を発表。電動シートボード「Limeラクモ」に一本化していた。「LimeBike」導入で着座型の2車種体制になる。",
-      "published": "2026/05/28 13:01",
+      "title": "富士通、約4万5000人分の物資をリアルタイム管理するシステムを海上自衛隊に提供",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news088.html",
+      "summary": "富士通が海上自衛隊向けに全物資情報をリアルタイムで管理する基幹業務システムを構築し、5月に提供した。システムのベースには、SAPジャパンのERPソリューション（基幹業務を統合管理するシステム）「S/4HANA」を採用する。",
+      "published": "2026/05/29 11:40",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「Steam Deck」が約44％の大幅値上げ　512GBは789ドルに、メモリとストレージのコスト上昇で",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news102.html",
-      "summary": "米Valveが「Steam Deck OLED」の再入荷と価格改定を発表した。改定後の価格は512GBモデルは789ドル、1TBモデルは949ドルとなり、メモリとストレージのコスト上昇が理由としている。日本国内向けの価格改定は告知していない。",
-      "published": "2026/05/28 12:40",
+      "title": "それで、メモリ不足はいつまで続くの？　なかなか終わらない狂騒のウラ側",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news041.html",
+      "summary": "長引くメモリ不足。いつ安く購入できるようになるのか……。",
+      "published": "2026/05/29 10:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "40周年「ドラクエの日」翌日にスクエニ株下落の“なぜ？”",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news098.html",
-      "summary": "スクウェア・エニックスは27日、人気ゲームシリーズの最新作「ドラクエXII」の概要を発表した。しかし一夜明けた28日、株価は、前日終値から150円も下落した。",
-      "published": "2026/05/28 12:15",
+      "title": "「Mythos級モデル」一般提供、数週間以内に　米Anthropic「Opus 4.8」リリース",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news084.html",
+      "summary": "より強力な安全策を講じた上で、数週間以内に全顧客に提供するとの見通しだという。",
+      "published": "2026/05/29 09:55",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Docker専用のAIエージェント「Gordon」が正式リリース　無料アカウントでも利用可能",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
-      "summary": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
-      "published": "2026/05/28 12:00",
+      "title": "YouTube PremiumにPodcast向け新機能　AIによる再生速度の自動調整など3機能",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news082.html",
+      "summary": "YouTubeは、YouTube Premiumユーザー向けにPodcast関連の3つの新機能を発表した。外出先での操作を快適にする「On-the-go mode」、AIが再生速度を自動調整する「Auto speed」、対話型AIでお勧めを探せる「Ask Music」（日本はまだ）のPodcast対応を導入し、リスナーの体験向上を図る。",
+      "published": "2026/05/29 09:42",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "アメリカとイラン、合意に「まだ達していない」が「非常に近づいている」と米副大統領",
+      "url": "https://www.bbc.com/japanese/articles/cy52dryzx2lo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのヴァンス副大統領は28日、イランとの戦争をめぐる協議について、合意には「まだ達していないが、非常に近づいている」としたうえで、両国は依然として、合意に向けていくつかの隔たりを解決する必要があると述べた。",
+      "published": "2026/05/29 12:19",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d0cd/live/13cf4080-5aeb-11f1-b8b0-e75ba6be4215.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 米国とイランは和平に近づいているのか、再び戦争へ向かっているのか",
+      "url": "https://www.bbc.com/japanese/articles/clyp51v0dp9o?at_medium=RSS&at_campaign=rss",
+      "summary": "「首の皮一枚」の停戦、「進展を見せている」外交、「満足していない」大統領、湾岸地域一帯に響き渡る爆発音――。混乱状態にある現在のアメリカとイラン関係から、何が読み取れるのか。和平は近いのか。それとも再び戦争に向かっているのか。",
+      "published": "2026/05/29 12:26",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eecc/live/cf356e00-5b07-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【分析】 トランプ氏とSNS、数千件の投稿から分かること",
+      "url": "https://www.bbc.com/japanese/articles/cwy2dl19z88o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領によるソーシャルメディアの使用は、今年に入ってさらに活発になっている。投稿頻度が最も高かった日や、投稿が最も集中する時間帯はいつなのか。どのようなコンテンツを共有しているのか。BBCのロズ・アトキンス分析担当編集長が説明する。",
+      "published": "2026/05/29 11:53",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a12/live/a82caa90-5a02-11f1-8b8c-6d33e1d5abb6.png"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【写真で見る】イギリス南部の空で劇的な雷と稲妻　記録的な高気温の後",
+      "url": "https://www.bbc.com/japanese/articles/c626vqye343o?at_medium=RSS&at_campaign=rss",
+      "summary": "記録的な高気温が続いた英イングランド南部で27日夜から28日にかけて、各地で劇的な雷と稲妻が観測された。",
+      "published": "2026/05/29 12:21",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/847e/live/efc65380-5a7d-11f1-8954-638c887fc9b3.png"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e9bc/live/a220b670-5a37-11f1-b682-cf91850925ea.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "トランプ氏、イランと交渉中の合意条件に「満足していない」",
-      "url": "https://www.bbc.com/japanese/articles/crrp8p0dz15o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は27日、イランと交渉中の紛争終結に向けた合意の条件について「まだ満足していない」と述べた。",
-      "published": "2026/05/28 13:09",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b406/live/4cceef20-59ec-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "アメリカ、イランを再び空爆　3日間で2回目",
-      "url": "https://www.bbc.com/japanese/articles/ce8pkpnzl2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "米軍は27日、イラン南部の戦略的な港湾都市バンダル・アッバスを新たに空爆した。軍事拠点を標的にしたとしている。アメリカがイラン国内を攻撃したのは、この3日間で2回目。",
-      "published": "2026/05/28 13:15",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d468/live/2691b590-5a46-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ロシア兵約50万人がウクライナでの戦争で死亡と英情報当局",
-      "url": "https://www.bbc.com/japanese/articles/c1l2y7pyez9o?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリス最大のスパイ機関によると、ロシアが2022年2月にウクライナへの全面侵攻を開始して以来、約50万人のロシア兵が死亡した。英政府通信本部（GCHQ）のアン・キースト＝バトラー長官が27日、就任後の初の公開演説でそうした分析を明らかにした。",
-      "published": "2026/05/28 11:37",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a337/live/08099510-59e3-11f1-ad45-03463f64a221.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イギリス、年内にも子どものSNS利用に関する規制を導入へ　首相は行動を約束",
-      "url": "https://www.bbc.com/japanese/articles/ce3pe0nl23xo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのキア・スターマー首相は26日、ソーシャルメディアが子どもに与える影響に対処するため、「決定的な」行動を取ると述べた。英政府は年内にも16歳未満を対象としたソーシャルメディア利用に関する新たな措置を導入する予定で、この日、一連の協議を終了した。検討されている措置の中には、オーストラリアで昨年から実施されたような、ソーシャルメディアの使用禁止なども含まれている。",
-      "published": "2026/05/28 12:58",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/242e/live/81acfdf0-59a5-11f1-b088-1bced8e5ea68.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢何度も外交問題に｣日本の教科書に向けられる諸国からの視線\"歴史認識の巨大な溝\"の背景を東大合格者が解説 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945373?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本の歴史教科書はたびたび外交問題を引き起こし､隣国から厳しい批判を浴びてきました。｢侵略｣か｢進出｣か､慰安婦や南京事件の記述をめぐる論争。各国の教科書を比較することで見えてくる\"歴史認識ギャップ…",
+      "published": "2026/05/29 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/b/1200w/img_2b88bc6b23d46e143b4289ff5fa7eab0193050.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢お金さえ増えれば幸せになれる｣は幻想…10兆円運用のファンドマネジャーが語る《幸せな投資》の3つの要諦とは | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944986?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢お金さえ増えれば幸せになれる｣――そう信じていた著者が金融業界の最前線でつかんだ現実は､想像とは異なるものでした。ストレスと葛藤を乗り越え辿りついた｢投資と幸せの本質｣とは。お金と心は､どこで交わ…",
-      "published": "2026/05/28 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/4/1200w/img_345da3e976c8f69ff3018d49ce35fffa385942.jpg?nextgen=false"
+      "title": "空腹で絶対判断してはいけない！？株価は意外なほど人間の身体的コンディションに左右されている――その驚愕の背景 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944619?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢判断力｣は生まれつきや才能の問題と思われがちですが､実は眠気や空腹､疲労など､ちょっとした体調変化が大きく左右します。投資や日常の大切な決断も､コンディションしだいで結果が変わる――その驚きの理由…",
+      "published": "2026/05/29 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/f/1200w/img_af6de60053e45a85dbd4acd581622e48211736.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【6月1日スタート】｢地銀決算ランキング2026｣を続々配信…｢勝ち組｣と｢負け組｣の構造的な二極化が加速 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946015?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "長期的な超低金利時代が終わり､地方銀行の業績に明暗がくっきりと現れ始めています。金利上昇で多くの地銀が増益を達成する一方､その裏では経営力の差が一段と際立つ結果に。詳細ランキングで実態に迫る特集が6…",
-      "published": "2026/05/28 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/2/1200w/img_a2fe3043db20702c4669507c4672c2af445249.jpg?nextgen=false"
+      "title": "ブランドロイヤルティを高める｢ランボルギーニ･アレーナ｣という一大イベントの見どころ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945558?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イタリア･イモラサーキットで開催された｢ランボルギーニ･アレーナ2026｣。歴代の名車が一堂に会し､最新テクノロジーやブランドの多彩なコラボレーションも披露されました。熱気あふれるイベントの舞台裏や…",
+      "published": "2026/05/29 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/3/1200w/img_9365395588118e2dd182cfb2e2798ae7437291.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ロシアの教科書｢ウクライナ侵略は人類の文明を救う行為｣世界の歴史教科書を比較してわかった\"国の価値観と政治的意図\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945370?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "世界各国の歴史教科書を比べると､国家の価値観や政治的意図が色濃く反映されていることが見えてきます。ロシアの最新教科書が物議を醸す一方､イギリスやオーストリア､日本ではどのような｢選択｣がなされている…",
-      "published": "2026/05/28 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/d/1200w/img_5db38ca83570d6f14b40b83ed850d9ca186123.jpg?nextgen=false"
+      "title": "巨人･阿部前監督｢即辞任｣が騒動を長引かせた｢善意のパラドックス｣という皮肉…13万人が署名も《復帰は困難》なワケ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946155?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "巨人･阿部慎之助前監督が長女への暴行容疑で現行犯逮捕､即日辞任を決断した一連の事件は､家庭内の問題から社会全体を巻き込む論争へと発展しました。復帰を望む声は大きいものの､その道のりは困難であると言え…",
+      "published": "2026/05/29 11:20",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/7/1200w/img_877ff38e2a082a488bc66fbe0c9ee96b304019.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "防水性能\"IP68\"でも保証されない？ iPhoneをお風呂や海で使う前に知っておくべきこと | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945642?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢防水仕様｣と聞くと､つい安心してしまいがちなデジタル機器。しかし実際には､その耐水性には限界があり､保証されないことも多い。防水規格の正体や壊れるリスク､正しい扱い方について詳しく解説。",
-      "published": "2026/05/28 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/f/1200w/img_8ff4504dfeb9f53b492ad65b0857d5ce344322.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "技術革新によって感情の研究が大きく進み､感情の｢シフター（変換装置）｣には多くの種類があることがわかってきた | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/941391?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "私たちの人生を彩る感情。しかし､不安や恐怖に振り回されて苦しむことも少なくありません。最新の科学が明かす｢感情の仕組み｣とは？感情を自在にシフトし､心を整えるための実践的なテクニックに迫ります。（こ…",
-      "published": "2026/05/28 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/6/1200w/img_f601c575a4e90f35df85fa15847121fd225438.jpg?nextgen=false"
+      "title": "口を開けば｢もっと具体的な案を!｣…コロナ禍があぶり出した《本当は仕事ができていなかった人》の思考パターン | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/944870?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢うまくいかない原因は本当に環境のせいでしょうか？｣と自問することから始まる本記事。コロナ禍を経て大きく変わった社会や働き方のもとで､\"当たり前\"を疑い､自分で考え行動することが求められる今､あなた…",
+      "published": "2026/05/29 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/a/1200w/img_1a71d0e91ff508233a45ac60a607f69d172937.jpg?nextgen=false"
     }
   ]
 }
