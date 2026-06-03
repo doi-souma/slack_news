@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-06-02T05:00:11.127335+00:00",
+  "generated_at": "2026-06-03T05:16:56.001180+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "女性向け転職サイトで3万8000件の不正ログイン　「女の転職type」にリスト型攻撃",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news077.html",
-      "summary": "キャリアデザインセンターは、転職サイト「女の転職type」のスマホアプリが不正アクセスを受け、最大1万8253人分の会員情報を第三者が閲覧したおそれがあると発表した。外部で入手したIDとパスワードを悪用するリスト型攻撃を受けた可能性があるという。",
-      "published": "2026/06/02 12:20",
+      "title": "サイバーセキュリティクラウドで働くみんなのデスク環境　上場セキュリティ企業を支える机をチェック",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news032.html",
+      "summary": "IT関連企業で働く人のデスク環境を写真や本人のコメント付きで紹介。社員がどんな環境で働いているかチェックする。今回は、Webセキュリティサービスを展開するサイバーセキュリティクラウドで働く人たちのデスク環境を探る。",
+      "published": "2026/06/03 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AWS、他クラウドと500Mbpsまでの接続が無料に 「AWS Interconnect - multicloud」に無料枠が登場",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news085.html",
-      "summary": "米Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、500Mbpsの無料枠を設けたことを発表しました。",
-      "published": "2026/06/02 12:06",
+      "title": "Microsoft、次世代量子チップ「Majorana 2」披露　実用化目標を2029年に前倒し",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news087.html",
+      "summary": "Microsoftは「Build 2026」で、次世代トポロジカル量子チップ「Majorana 2」を発表した。先代比で量子ビットの信頼性が1000倍に向上し、最長1分間の量子状態維持を達成。エージェント型AIの活用で開発が劇的に加速したとし、商用量子コンピュータの実現目標を2029年へと大幅に前倒しした。",
+      "published": "2026/06/03 11:47",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ソニーとシャオミ、その対照的なスマートフォン戦略　炎上した「AIカメラアシスタント」の実際は？",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news083.html",
-      "summary": "ソニー「Xperia 1 VIII」とシャオミの「Xiaomi 17T Pro」および「Xiaomi 17T」。フラッグシップとハイエンドでは単純に比較できないが、双方を実際に触ってみたところ、両社の市場戦略を知る良い材料になった。",
-      "published": "2026/06/02 12:05",
+      "title": "デザイン書の老舗・MdNが消滅へ　インプレスに吸収合併",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news081.html",
+      "summary": "デザイン誌「MdN」で知られた出版社・エムディエヌコーポレーションが7月1日付でインプレスに吸収合併され、法人として消滅する。",
+      "published": "2026/06/03 11:14",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "日本郵便、「熱中症特別警戒アラート」で配達休止に　6月から──サングラス着用や小まめな休憩も",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news078.html",
-      "summary": "日本郵便は6月1日、熱中症対策を強化すると発表した。「熱中症特別警戒アラート」が出た地域では二輪車などによる配達を原則休止するなど、配達業務の運用を見直す。",
-      "published": "2026/06/02 11:50",
+      "title": "Microsoft、自社開発した7つのAIモデル発表　画像編集や音声認識も",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html",
+      "summary": "米Microsoftが自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。",
+      "published": "2026/06/03 11:03",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "メルカリ、AIと人事の責任者を1人に統合　「組織ごとAI前提に」",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news073.html",
-      "summary": "CTOの木村俊也氏がCHROとCAIOを兼任。人と組織の運営基盤をAI前提で再設計する。",
-      "published": "2026/06/02 11:26",
+      "title": "Microsoft、AIエージェント用のカスタマイズ可能な分離環境「Microsoft Execution Containers」発表　OpenClawも動作",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news074.html",
+      "summary": "米MicrosoftがAIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers」（MXC）を発表しました。",
+      "published": "2026/06/03 11:02",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米国とイラン、新たに互いを攻撃　停戦交渉が行き詰まるなか",
+      "url": "https://www.bbc.com/japanese/articles/cvgz29gdgz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "米軍は2日、イランに対して「自衛」のための攻撃を実施し、船舶や湾岸諸国に向けて発射された弾道ミサイルやドローンを撃墜したと発表した。一方、イラン側も米軍基地などを攻撃したとした。",
+      "published": "2026/06/03 13:47",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d54/live/b9483610-5ef2-11f1-b682-cf91850925ea.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ロシアがウクライナ首都など大規模空爆、少なくとも22人死亡",
+      "url": "https://www.bbc.com/japanese/articles/cg7pxylrr4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナの首都キーウなど各地の都市で2日にかけ、ロシアによる大規模な夜間攻撃があり、合わせて少なくとも22人が殺害され、100人以上が負傷した。",
+      "published": "2026/06/03 10:21",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1eda/live/9b185410-5e55-11f1-a8d1-c3a6936cb189.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】イギリスの首相であり続けるのは、今やかつてないほど難しいのか",
+      "url": "https://www.bbc.com/japanese/articles/c4g885231r0o?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリス政治に混乱が続き、国民の間では主要政党や政治関係者への不満が高まっている。イギリスは「統治不能」な国になってしまったのか。",
+      "published": "2026/06/02 17:32",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edfd/live/b4133310-5057-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 トランプ氏には終戦が必要、しかしイランは引かず……BBC国際編集長",
+      "url": "https://www.bbc.com/japanese/articles/cvgzxn99904o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカは世論や湾岸同盟国からの圧力を受け、イランとの間で戦闘終結に向けた合意を推し進めたい考えだ。一方で、イランは徹底抗戦の構えを崩していない。簡単に勝てると思い込んで戦争を始めるという自らの失策がもたらした事態に、トランプ米大統領はがんじがらめになっていると、BBCの国際編集長が解説する。",
+      "published": "2026/06/02 14:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08db/live/a5895d30-5db6-11f1-8b6d-5b89cbb85786.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "英政府、前駐米大使の任命めぐる文書公開　複数の閣僚と共に首相を批判",
-      "url": "https://www.bbc.com/japanese/articles/c332x8yykl6o?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリス政府は1日、与党・労働党の重鎮だったピーター・マンデルソン卿の駐米大使任命に関する政府資料を公開した。1500ページにわたる文書からはマンデルソン卿と閣僚らの間でやり取りされたメッセージが明らかになったが、その中でマンデルソン卿らが、キア・スターマー首相や首相官邸、そして労働党議員らを強く批判していたことが判明した。あるメッセージでマンデルソン卿は、首相官邸を「苦境に立たされ、打ちひしがれ",
-      "published": "2026/06/02 13:18",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92ac/live/92909580-5e11-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "小泉防衛相、日本の軍国主義を否定　中国の兵器「大量保有」を批判",
-      "url": "https://www.bbc.com/japanese/articles/cqxpvxj1dr3o?at_medium=RSS&at_campaign=rss",
-      "summary": "小泉進次郎防衛相は31日、シンガポールで開かれていた「アジア安全保障会議（シャングリラ・ダイアローグ）」で、日本が「新型軍国主義」に取り組んでいるという中国の主張に反論した。同時に、中国の軍事力拡大と透明性の欠如を批判した。",
-      "published": "2026/06/01 13:31",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b97/live/59436640-5d67-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "「紛争下の性暴力」リスト、イスラエルとロシアを追加　国連",
-      "url": "https://www.bbc.com/japanese/articles/cn7p3rllxllo?at_medium=RSS&at_campaign=rss",
-      "summary": "国連は5月29日、「紛争関連の性暴力」の年次報告書を公表し、紛争地域で性暴力を行っている国のリストに、イスラエルとロシアを初めて追加した。",
-      "published": "2026/06/01 16:51",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c91/live/2bc0a5f0-5b6b-11f1-a914-b7de1b16af02.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イスラエル、レバノンで地上戦を拡大　南部の城塞を制圧",
-      "url": "https://www.bbc.com/japanese/articles/czx2l6e9yq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "イスラエル軍は5月31日、レバノン南部の戦略的要衝であるボーフォート城を制圧したと発表した。イスラエルのネタニヤフ首相はこれを、レバノンのイスラム教シーア派組織ヒズボラに対する攻撃における「決定的な転換点」だと述べた。",
-      "published": "2026/06/01 13:03",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "人手不足のホテル業界で｢支配人AI｣が注目される理由　深夜の緊急対応の電話を月30回から3回に減らしたすごい仕組み | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946178?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIがホテル業界にも革新をもたらす中､川六ホテルグループが導入した｢支配人AI｣は､表に出る接客ではなく､バックヤードの業務効率化を追求。支配人やスタッフの負担軽減と顧客対応力向上を実現しています。…",
+      "published": "2026/06/03 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/d/1200w/img_7d8e8739ab1aa2ef455cfad4d7ddddaf364462.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "売り上げ低迷に悩むカフェ店主が見誤っていた｢本当の課題｣と､その後の客足を伸ばした｢目からウロコ｣の改善点 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944391?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢仕事を生む｣とは､ゼロからの発明ではなく､身近な｢困った｣を見つけることから始まります。他人や自分の日常の違和感に目を向け､問いを立てて核心を見極める力こそが､本質的な価値を生み出す――その秘密に…",
-      "published": "2026/06/02 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/f/1200w/img_df4ab699de886a93faebbd3ade29f039222565.jpg?nextgen=false"
+      "title": "嵐｢CMジャック｣の立役者？\"伝説のジャニーズJr.\"の驚く現在…広告代理店での無双ぶりが｢コネのおかげ｣と言えないワケ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946642?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "人気アイドル｢嵐｣のラストライブで､ある｢伝説のジャニーズJr.｣が話題となり､反響を呼んでいます。芸能界引退後､華麗なキャリア転換で､嵐の大規模プロジェクトにも関わったという､その軌跡とは……。芸…",
+      "published": "2026/06/03 12:10",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/1/1200w/img_b141881ee5a0c74ebf6fce8dc34bdddc416882.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "シャオミが最新スマホを異例の前倒し投入､｢ライカカメラ｣を10万円前後で広げる戦略の真意 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946164?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "シャオミが最新スマートフォン｢Xiaomi 17T｣シリーズを日本市場に投入。注目は､ライカと共同開発した高性能カメラやFeliCa対応など､日本独自仕様を重視した点だ。なぜ今､発売時期を前倒しした…",
-      "published": "2026/06/02 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/4/1200w/img_2407cdfa54d2423ac6be8e7808f955a769648.jpg?nextgen=false"
+      "title": "違法だと分かっていながら､つい報酬につられ…《闇バイト》の勧誘の手に落ちてしまう若者が絶えない根本原因 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945142?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "闇バイトや災害被害について｢自己責任｣が強調されがちですが､本当にそれだけが原因なのでしょうか。経済的困窮や社会的孤立､備えの難しさなど､個人だけではどうにもならない事情が背景に潜んでいます。問題の…",
+      "published": "2026/06/03 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/4/1200w/img_243dc90e2ddb07d59d36b25ea6673f42222903.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "民間は巨額課徴金で､首都高には｢改善措置要求｣だけ　利用者を食い物にする官製談合には甘すぎる公取委の対応 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946136?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "首都高速道路の清掃業務や北海道新幹線延伸工事を巡る入札談合事件は､企業間だけでなく発注者側職員も関与した｢官製談合｣でした。なぜ公共インフラの競争原理が歪められたのでしょうか。",
-      "published": "2026/06/02 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/a/1200w/img_daf477bdb500ee74f8f11ac34e138042643875.jpg?nextgen=false"
+      "title": "【独自】ニデック岸田社長に直撃｢取締役候補の人選に永守氏の意向が働いたか｣｢刑事告発も視野に入れているのか｣ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946664?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ニデックの岸田光哉社長が東洋経済の取材に応じました。創業者･永守重信氏の責任や､内部管理体制､刑事告発の可能性まで焦点部分を直撃しました。",
+      "published": "2026/06/03 11:40",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/5/1200w/img_5584401978b66e9f6c9b8c5550153fae68785.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本の\"思春期教育\"は時代遅れといわれる訳…校則で縛る仕組みは｢刑務所と同じ｣　AI時代に必要な｢3つの教育｣とは | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945650?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "校則で縛る構造は刑務所と同じ､受験勉強のプレッシャーをかけるだけ――これが日本の思春期教育の実態だと､アメリカの教育機関で多くの子どもを指導してきた筆者は指摘する。AI時代に子どもに本当に必要な教育…",
-      "published": "2026/06/02 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/f/1200w/img_efde49d6e35e495f1571187c45cea983224895.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "｢慰安婦問題はなぜ終わらないのか？｣Z世代が抱く素朴な疑問に答える。澤田克己×みたらし加奈対談（後編） | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945511?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "激動する世界情勢の中､戦争の記憶が薄れゆく日本で､｢慰安婦問題｣はなぜいまだに終わらないのか。政治と個人､外交と人権､世代を超えて続く苦悩――私たちは過去の歴史とどう向き合えばよいのか。今､考えるべ…",
-      "published": "2026/06/02 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/8/1200w/img_c88fde6d857ade22649209d13bb48253148694.jpg?nextgen=false"
+      "title": "61歳で世界一周してわかった､旅の計画プロセスがビジネスパーソンの｢管理力｣を鍛える理由 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946182?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢無計画さが魅力｣と思われがちなバックパッカーの旅。しかし､忙しいビジネスパーソンにとっては綿密な計画が欠かせません。その過程はまさにプロジェクト･マネジメントの実践。旅と仕事､両方に活きる計画力の…",
+      "published": "2026/06/03 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/c/1200w/img_fcaf8854b87221ad1f40a186d249092d822072.jpg?nextgen=false"
     }
   ]
 }
