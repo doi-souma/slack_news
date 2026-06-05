@@ -1,50 +1,77 @@
 {
-  "generated_at": "2026-06-04T05:04:53.642524+00:00",
+  "generated_at": "2026-06-05T04:46:50.615636+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Meta、24時間顧客対応するAIエージェント「Meta Business Agent」をInstagramなどでグローバル展開",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/04/news092.html",
-      "summary": "Metaは、企業向けAIエージェント「Meta Business Agent」のグローバル提供を発表した。InstagramやMessengerを通じた顧客対応、レコメンド、成約までを24時間自動化する。Shopify等の外部システムと連携して独自エージェントを構築できるプラットフォームも用意し、先行提供とウェイトリスト登録を開始した。",
-      "published": "2026/06/04 13:22",
+      "title": "ChatGPTの“記憶”を刷新　メモリ機能の新基盤展開、無料ユーザーへも順次",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html",
+      "summary": "米OpenAIは6月4日（現地時間）、ChatGPTのメモリ機能を強化したと発表した。新基盤「Dreaming V3」により、過去の会話から得た文脈を正確に引き継ぐだけでなく、時間の経過にも自動で追従する。",
+      "published": "2026/06/05 12:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "モバイルバッテリーが製品群別の事故発生数トップに　NITEが25年度の事故情報収集報告書を発表",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/04/news089.html",
-      "summary": "NITEは4日、2025年度に収集した事故情報を取りまとめた報告書を公開した。「充電器」（主にモバイルバッテリー）による事故が「バッテリー類」（主にリチウムイオンバッテリー）を上回った。",
-      "published": "2026/06/04 13:16",
+      "title": "「PayPay改悪」話題　本人確認しないと付与ゼロ、“ポイント利用でポイント付与\"は終了",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/05/news089.html",
+      "summary": "本人確認（eKYC）が未完了だとポイント付与の対象外になったほか、ポイントで支払った分へのポイント還元も廃止されるなど、ユーザーに不利な変更が目立つ。",
+      "published": "2026/06/05 11:55",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ヤマダHDとエディオン、経営統合を検討中　「明日の取締役会で決議する」",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/04/news081.html",
-      "summary": "家電量販チェーンを展開するヤマダホールディングスとエディオンは4日、一部新聞で報じられた両社の経営統合について、検討中であり5日の取締役会で決議すると公表した。",
-      "published": "2026/06/04 11:28",
+      "title": "Meta、「Instagram Plus」を世界展開　月額3.99ドル（日本は319円）で",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/05/news085.html",
+      "summary": "Metaは、Instagramの有料サブスクリプション「Instagram Plus」の提供を世界で開始した。月額3.99ドル（日本では319円）で、ストーリーズの優先表示や48時間への延長、再視聴インサイトなどの限定機能が利用できる。同社は今後、これらの有料サービスを「Meta One」ブランドへ統合していく方針だ。",
+      "published": "2026/06/05 11:17",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "開始5日で障害、気象庁「線状降水帯直前予測」復旧　ソフトウェア不具合が原因",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/04/news074.html",
-      "summary": "原因は、システムを構成するソフトウェアの一部に不具合があり、情報を作成する処理が正常に行われなかったことだった。",
-      "published": "2026/06/04 10:55",
+      "title": "「FILCO」のダイヤテックは「忸怩たる破産」だった　TSR「背景に為替デリバティブの失敗と需要減」",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/05/news083.html",
+      "summary": "経営陣は、従業員や商取引債権者への被害を最小限に抑えようと奔走しており、TSRはその責任感を評価している。",
+      "published": "2026/06/05 10:58",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "日本政府、AI「Mythos」アクセス権を取得　サイバー防衛強化に活用",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/04/news073.html",
-      "summary": "三菱UFJ銀行、三井住友銀行、みずほ銀行もアクセス権を得たとみられている。",
-      "published": "2026/06/04 10:27",
+      "title": "サム・アルトマン氏らIT著名人が\"人狼\"で対決　Founders Fundがゲームショー公開",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/05/news077.html",
+      "summary": "VCのFounders Fundは、IT業界の著名人が集結するゲームショー「Mafia」のエピソード1を公開した。サム・アルトマン氏やパルマー・ラッキー氏らが参加し、人狼ゲームの原型である欺瞞ゲーム「Mafia」に挑む。かつてPayPalマフィアの集合写真が撮影された縁の地で収録された。",
+      "published": "2026/06/05 10:24",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ゼレンスキー氏、プーチン氏に直接会談を提案　公開書簡で",
+      "url": "https://www.bbc.com/japanese/articles/c7949eg3yyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナのゼレンスキー大統領は4日、ロシアのプーチン大統領に対し、戦争終結のために直接会談を呼びかけたと明らかにした。プーチン氏に宛てた公開書簡を発表した。",
+      "published": "2026/06/05 11:51",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a9/live/23206070-6084-11f1-b682-cf91850925ea.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ヒズボラ、イスラエルとレバノンが合意した停戦を拒否",
+      "url": "https://www.bbc.com/japanese/articles/crrpr7lk725o?at_medium=RSS&at_campaign=rss",
+      "summary": "レバノンのイスラム教シーア派組織ヒズボラは4日、イスラエルとレバノンの間の停戦条件を強く拒否した。この停戦合意はアメリカが支援しているもの。イランが支援するヒズボラの最高指導者ナイム・カセム師は声明で、これまでの交渉はレバノンにとって「無駄」で「屈辱的」なもので、「レバノン国民の幅広い層」はこれを断固として拒否していると、強い表現で述べた。",
+      "published": "2026/06/05 12:09",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "英首相、マスク氏やファラージ氏が「分断をあおっている」と非難　ノヴァクさん殺害事件めぐり",
+      "url": "https://www.bbc.com/japanese/articles/ceqpq7zrxvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "昨年12月に英サウサンプトンの学生ヘンリー・ノヴァクさん（18）が刃物で刺された後、駆けつけた警察官に被害を訴えたにもかかわらず手錠をかけられ、その後に死亡した事件をめぐり、キア・スターマー首相は4日、ノヴァクさんの遺族と面会した。また、この件について発言を続けている米富豪イーロン・マスク氏や野党リフォームUKのナイジェル・ファラージ党首について、「分断をあおろうとしている」と非難した。",
+      "published": "2026/06/05 13:37",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2399/live/e07d73e0-5f4b-11f1-ae51-c396b5163a64.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,83 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ政権、「反武器化基金」を断念　与党の一部も強く抵抗",
-      "url": "https://www.bbc.com/japanese/articles/ckgpr8vl3gko?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ政権が「反武器化基金」の設立を断念した。ブランチ司法長官代行が2日、明らかにした。この基金は、政府によって不当に標的にされたり捜査の対象にされたりしたと主張する人々への補償を目的としたもので、18億ドル（約2870億円）規模となる計画だった。野党に加え与党の一部議員からも、強い反対の声が出ていた。",
-      "published": "2026/06/04 13:27",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04c1/live/755eb170-5fb7-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】 プーチン氏、ウクライナでの戦争で妥協を拒み続ける　ロシアの世論はどうなのか",
-      "url": "https://www.bbc.com/japanese/articles/cwy2067jjpro?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアがウクライナへの攻撃を激化させている。だがロシア国内では、プーチン大統領の支持者の間でも、4年以上続く戦争への懸念が高まっている。",
-      "published": "2026/06/03 19:16",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a79/live/ddbe4530-5e8d-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "英警察の反人種差別の取り組みに疑問の声　殺人事件のボディーカメラ映像公開で",
-      "url": "https://www.bbc.com/japanese/articles/c0k265l6kveo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスで2日、10代の若者が殺害された事件における警察官らの対応を記録したボディーカメラ映像が公開され、物議をかもしている。映像では、刃物で刺されて被害を訴える若者を警察官が地面に押し倒し、手錠をかけている。一方で、犯人はすぐそばで、自分は人種差別的な攻撃の被害者だと警察官に虚偽の説明をしていた。スターマー首相は、「警察に対する重大な疑問がある」と述べた。",
-      "published": "2026/06/03 16:36",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cdc8/live/65b77950-5e9f-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【検証】 「刺された」と訴える被害者に手錠……英警察のボディーカメラ映像から分かること",
-      "url": "https://www.bbc.com/japanese/articles/cjwpj2nz8jvo?at_medium=RSS&at_campaign=rss",
-      "summary": "英サウサンプトンの学生ヘンリー・ノヴァクさん（18）は昨年12月、ヴィクラム・ディグワ受刑者（23）に刺され、駆けつけた警察官に瀕死（ひんし）の状態で被害を訴えたにもかかわらず、手錠をかけられた。一方で、現場にいたディグワ受刑者は警察官に対し、自分は人種差別的な攻撃の被害者だと虚偽の主張をしていた。BBCヴェリファイ（検証チーム）は、警察が公開したボディカメラの映像を分析し、ノヴァクさんが死亡する",
-      "published": "2026/06/03 17:55",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2220/live/efa0cf90-5eae-11f1-8b8c-6d33e1d5abb6.png"
+      "title": "アメリカ、日本など60カ国・地域に最大12.5％の追加関税を検討　強制労働への懸念を理由に",
+      "url": "https://www.bbc.com/japanese/articles/cpwp490194po?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカは2日、日本を含む60カ国・地域を対象に、強制労働によって製造された製品の取引を抑制する取り組みが不十分だとして、10～12.5％の追加関税を課す案を発表した。アメリカの輸入は対象の国・地域からのものでほぼ全量を占める。",
+      "published": "2026/06/04 14:48",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8644/live/78de3db0-5f27-11f1-9da4-8b99067aa239.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "死体解剖は\"医療器具\"だけではできない…おたま､スプーン､電動ノコまで使う法医学現場のリアル | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946250?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "死体解剖に使われる器具は､医療専用からキッチン用品まで多種多様。おたまやざる､電動ノコまで登場し､作業のリアルな現場が垣間見えます。法医学教授が明かす解剖の裏側､医師のこだわりとは？驚きの器具リスト…",
-      "published": "2026/06/04 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/4/1200w/img_74c8eb9b47f5e7a5c6d0250ffc1f465f273738.jpg?nextgen=false"
+      "title": "｢慌ててつじつま合わせを…｣仕事に生きた筑紫哲也が､ボロボロの体で家族と向き合った濃密な最期 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945675?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "重い病との闘いのなかで家族と過ごした最後の日々､限界まで続けたキャスターとしての職務､そして視聴者に遺した｢最後の言葉｣。筑紫哲也さんが歩んだその濃密な時間とは？",
+      "published": "2026/06/05 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/a/1200w/img_0add72a4ad0024462c3c4418e0a91802628152.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢開きっぱなしのタブだらけ｣になっている現代人の脳に…《意識のスイッチ》を上手にオフにしてくれる3つの\"神ツボ\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944420?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "現代社会では､スマホや仕事のストレスで脳が｢開きっぱなしのタブだらけ｣の状態になりがちです。頭の重さや眠れない夜､すっきりしない朝――それは脳の\"熱暴走\"が原因かもしれません。自分でも気づきにくい不…",
-      "published": "2026/06/04 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/6/1200w/img_76386f63324cd1367dae5e5d779ac72e325914.jpg?nextgen=false"
+      "title": "なぜ80代女性は｢顔が浸からない風呂｣で溺死したのか…遺族の疑問を解いた法医解剖医が語る\"入浴中の事故死\"の怖さ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945466?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "高齢者の入浴中事故死は､交通事故の7倍にものぼります。本来水位が低く溺死するはずがない80代女性の不可解な死の真相とは。法医解剖医が死体検案でたどり着いた驚きの結論､そして日本独自の解剖制度の実情に…",
+      "published": "2026/06/05 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/7/1200w/img_77835861cb3a50486fa5c2c26aa5c0d4309201.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ルンバは中国企業傘下でどう変わったのか？ 日本発の新製品が世界展開される再建の現在地 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946307?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "経営再建を経て中国企業傘下で再始動したiRobotの日本法人が､立て続けに独自企画のロボット掃除機を展開しています。爆発的に売れたルンバ ミニに続き､注目の新モデル｢ルンバ Plus 515｣を発売…",
-      "published": "2026/06/04 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/7/1200w/img_d77f36cede7e0f65b2fa937bbe960894394155.jpg?nextgen=false"
+      "title": "撤退できないプロジェクト､別れられない相手､あきらめきれない心が判断を狂わせる｢サンクコスト効果｣の落とし穴 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945040?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "何かを成し遂げるには時間と努力が必要——そう信じて積み重ねた経験が､時に判断を狂わせることがあります。手放す勇気を持てず､過去に費やしたものに執着していませんか？｢サンクコスト効果｣の落とし穴と､賢…",
+      "published": "2026/06/05 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/f/1200w/img_3fb05034dbc8b4e2fdb3a4dd08a48773304084.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "若手｢メモを取ったら社長にイラつかれた｣一生懸命メモを取るビジネスマンが三流で終わる納得の理由 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944547?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "働き方改革とリモートワークが進むいま､短時間で深い信頼関係を築く術が求められています。日常のメモの取り方ひとつも､相手への配慮が信頼構築のカギになるといいます。",
-      "published": "2026/06/04 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/f/1200w/img_cfad7baf96a4f3970c8a21c0269840e864288.jpg?nextgen=false"
+      "title": "｢誰のための探究学習か｣を問い直す 高校生が\"評価する側\"に回って見えたこと | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/942857?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "河合塾が開発した｢ミライの選択｣は､高校生が自らの価値観で未来を切り拓く新しい進路選択プログラムです。生徒たち自身が｢リスクとワクワク｣を基準にロールモデルを選び､その判断過程が中学生のキャリア教育…",
+      "published": "2026/06/05 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/f/1200w/img_1f56e1e7cf9a00f80e38e5efbc2d4a24396031.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "非イケメン界隈の希望の星～明治一オモロイ経営者･朝吹英二①『明治実業家の知識･見識･胆識』特別編 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944192?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "明治時代､三菱と三井の両財閥で大活躍し人材育成でも名を馳せた朝吹英二。実はかつて福沢諭吉を斬ろうとした過去を持ち､奇抜なエピソードや抜群の人間的魅力で多くの人に愛されてきました。なぜ彼は知る人ぞ知る…",
-      "published": "2026/06/04 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/5/1200w/img_95df1d469e1598a59029b10a824c34da556599.jpg?nextgen=false"
+      "title": "イーロン･マスクが本当に守りたいのは｢人類｣ではない…｢子どもを増やせ｣と訴え続ける\"14人の子の父\"に潜む危うい思想 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946558?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イーロン･マスクは､インフラ支配者としての表向きの顔の裏で､白人のみの存続に固執する驚愕の思想を持つと話題書『マスキズム』は指摘します。出生率や教育施設の自社化､巧妙なメッセージ戦略の狙いとは一体何…",
+      "published": "2026/06/05 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/d/1200w/img_0dd9db6addc20a5e05e37fe03d74c813275272.jpg?nextgen=false"
     }
   ]
 }
