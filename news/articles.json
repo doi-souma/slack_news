@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-06-07T04:55:47.356285+00:00",
+  "generated_at": "2026-06-08T05:01:17.165697+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
-      "summary": "SpaceXがGoogleにAIコンピューティング能力を提供する契約を結んだことが、SECへの提出文書で明らかになった。NVIDIA製GPUなどを月額9億2000万ドルで利用する。SpaceXにとって5月のAnthropicに続く大型インフラ契約となる。",
-      "published": "2026/06/07 09:46",
+      "title": "LINEのAIエージェントにメモリ機能　ツンデレや執事など“口調”も変更可能に",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/08/news100.html",
+      "summary": "LINEヤフーは6月5日、AIエージェントサービス「Agent i」の機能を拡大したと発表した。応答のトーン設定や会話内容の記憶を含む「パーソナライズ機能」のほか、画像生成機能を追加。領域エージェントも全15領域（β版含む）に広げた。",
+      "published": "2026/06/08 13:45",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ChatGPTに「ロックダウンモード」　プロンプトインジェクションによる情報漏えい対策",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
-      "summary": "OpenAIは、ChatGPTに新たなセキュリティ機能「ロックダウンモード」の提供を開始した。プロンプトインジェクション攻撃によるデータ流出リスクを抑えるためのオプションで、有効にするとWebブラウジングや外部サービスへの接続機能が制限される。機密データを扱い、厳格な保護を求める個人や組織を想定している。",
-      "published": "2026/06/07 07:22",
+      "title": "ビジュアルアーティストの“作風”を保護する米国「CREATOR法案」とは？　その建て付けと生成AI時代の課題",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/08/news101.html",
+      "summary": "米国で、これまで保護の対象外だったビジュアルの「作風」に新たな権利を定義する法案「CREATOR法」が、超党派の議員たちにより合衆国議会に提出された。法案の中身も公開されているので、一体どういう建て付けになっているのか、詳しく検討してみたい。",
+      "published": "2026/06/08 13:11",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "パトレイバー大好きマンガ家が新作「EZY」を見たら、フィジカルAIな近未来にノスタルジーを感じた件",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/07/news016.html",
-      "summary": "「機動警察パトレイバー」の最新シリーズ「機動警察パトレイバー EZY（イズィー）」の「File 1」が5月15日より劇場公開中です。ボクも子供の頃から大好きだった作品。さっそく見に行ってきました。",
-      "published": "2026/06/07 07:14",
+      "title": "OpenAI、上場前にChatGPTの「スーパーアプリ」化を計画　海外報道",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/08/news094.html",
+      "summary": "米OpenAIが過去最大となるChatGPTの刷新を計画している。コーディングツールやAIエージェントを備えた「スーパーアプリ」に変え、株式市場への上場を前に収益を押し上げる狙いがあると、6月7日、英Financial Timesが報じた。",
+      "published": "2026/06/08 12:35",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "moomoo証券、監視委が処分勧告　NISA対象外を「対象」と虚偽説明　顧客対応も「著しく杜撰」",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/05/news124.html",
-      "summary": "証券取引等監視委員会は6月5日、moomoo証券に行政処分を行うよう金融庁に勧告した。NISA対象外の米国ETF・ETN計78銘柄を「対象商品」と偽って販売したほか、株式の出庫申請の一律拒否など複数の不備を指摘。投資者保護上重大な問題があると判断した。",
-      "published": "2026/06/05 20:20",
+      "title": "IPA、英語名とロゴ変更　Pは「Promotion」（振興）から「Platform」（基盤）に",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/08/news092.html",
+      "summary": "ロゴはゴシック体からセリフ体に変更。ロゴのPとAは小文字にした。略称は大文字IPAのままだ。",
+      "published": "2026/06/08 11:58",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "新「マイナアプリ」アイコン公開　松本デジタル相「マイナちゃんが消えてしまうわけではない」",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/05/news123.html",
-      "summary": "デジタル庁の松本尚デジタル相は6月5日、夏ごろ提供開始予定の「マイナアプリ」のアプリアイコンを公開した。",
-      "published": "2026/06/05 20:20",
+      "title": "三菱UFJ銀、“PPAP”原則廃止　メール本文にダウンロードURL記載へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/08/news086.html",
+      "summary": "PPAPはファイルを暗号化するため、メール受信時にマルウェアのチェックが困難な上、パスワード付きZIPファイルを悪用したサイバー攻撃の事例も。",
+      "published": "2026/06/08 11:29",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イスラエル、イランによるミサイル攻撃に報復",
+      "url": "https://www.bbc.com/japanese/articles/ckg8nv9npgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "イランは7日、イスラエル北部に向けて数回にわたりミサイルを発射した。イランがイスラエルにミサイルを発射したのは、両国およびアメリカとの間で停戦が発効した4月以来初めて。その後、イスラエル空軍はイラン中部および西部の軍事施設を空爆したと発表した。イラン国営テレビは、首都テヘラン、タブリーズ、イスファハンの3都市で爆発があったと報じた。",
+      "published": "2026/06/08 12:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6929/live/3de186f0-62e1-11f1-9a4b-dd5933001427.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "フィリピン南部沖で地震、沿岸部で複数の建物倒壊　日本でも津波注意報",
+      "url": "https://www.bbc.com/japanese/articles/cpv32zl301yo?at_medium=RSS&at_campaign=rss",
+      "summary": "フィリピン南部ミンダナオ島の沖合で午前7時37分（日本時間同8時37分）ごろ、強い地震が発生した。警察は、少なくとも3人の死亡と5人の負傷を確認したと発表した。日本では気象庁が同日午前9時過ぎ、この地震について茨城から沖縄諸島まで日本の太平洋側の各地に津波注意報を発令した。",
+      "published": "2026/06/08 13:42",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c620/live/304b2cc0-62e2-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ウクライナ支える英仏独首脳、ロシアとの和平協議に5条件示す",
+      "url": "https://www.bbc.com/japanese/articles/c87200pd34lo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナを支援するイギリス、フランス、ドイツの首脳は7日、イギリスの首相官邸でウクライナのゼレンスキー大統領を交えて会談し、ウクライナとロシアの戦争を終わらせて「公正かつ永続的な平和」に達するための交渉の前提として、5条件を提示した。",
+      "published": "2026/06/08 12:14",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f788/live/0a7317e0-62df-11f1-852d-d9cd278e00c2.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】米株式市場はAIバブルの中にあるのか　崩壊の可能性は？",
+      "url": "https://www.bbc.com/japanese/articles/cwy0lx2242lo?at_medium=RSS&at_campaign=rss",
+      "summary": "イランとの戦争、インフレの加速、政府債務の増加への懸念にもかかわらず、アメリカの株式市場は今年、史上最高値を更新し続けている。その主な要因は、人工知能（AI）への投資が急拡大していることにある。",
+      "published": "2026/06/08 13:44",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3047/live/39bcce30-6049-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米軍、イランのドローンとレーダー施設を攻撃と発表",
-      "url": "https://www.bbc.com/japanese/articles/cz020ke38e8o?at_medium=RSS&at_campaign=rss",
-      "summary": "米軍は5日、ホルムズ海峡に向けて発射されたイランの「片道攻撃用ドローン」4機を撃墜したと発表した。「地域の海上交通に差し迫った脅威をもたらしていた」と主張している。",
-      "published": "2026/06/06 13:09",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1197/live/605a8c10-6154-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "習氏、7年ぶりに北朝鮮を訪れ金氏と会談へ　どんなことが話し合われるのか",
-      "url": "https://www.bbc.com/japanese/articles/ckgpg7g1151o?at_medium=RSS&at_campaign=rss",
-      "summary": "中国の習国家主席が8～9日に北朝鮮を訪問し、金総書記と会談する。両国の国営メディアが5日、報じた。習氏の訪朝は約7年ぶり。",
-      "published": "2026/06/06 12:53",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3667/live/298719b0-614a-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ゼレンスキー氏、プーチン氏に直接会談を提案　公開書簡で",
-      "url": "https://www.bbc.com/japanese/articles/c7949eg3yyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのゼレンスキー大統領は4日、ロシアのプーチン大統領に対し、戦争終結のために直接会談を呼びかけたと明らかにした。プーチン氏に宛てた公開書簡を発表した。",
-      "published": "2026/06/05 11:51",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a9/live/23206070-6084-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ヒズボラ、イスラエルとレバノンが合意した停戦を拒否",
-      "url": "https://www.bbc.com/japanese/articles/crrpr7lk725o?at_medium=RSS&at_campaign=rss",
-      "summary": "レバノンのイスラム教シーア派組織ヒズボラは4日、イスラエルとレバノンの間の停戦条件を強く拒否した。この停戦合意はアメリカが支援しているもの。イランが支援するヒズボラの最高指導者ナイム・カセム師は声明で、これまでの交渉はレバノンにとって「無駄」で「屈辱的」なもので、「レバノン国民の幅広い層」はこれを断固として拒否していると、強い表現で述べた。",
-      "published": "2026/06/05 12:09",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "スペイン､チリ､南極まで…世界中の愛好者を呼び寄せる｢皆既日食｣。気象予報士の森田さんもその大ファンだった | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945505?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢メガネをかければ大丈夫｣と思いがちな近視。しかし放置すれば､将来失明リスクを高める深刻な眼疾患の原因にもなります。近年ますます注目される\"日食\"に魅せられた気象予報士･森田正光さんとの対談から､目…",
+      "published": "2026/06/08 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/1/1200w/img_d12d7ae31d9ce010f34119fc9b3343f9253735.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢男子ゴルフは宝の山！｣——ポテンシャルを活かせていなかった男子ツアー､投資ファンド主導で株式会社化へ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946525?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "男子ゴルフツアーが長年の低迷から脱却を図り､新会社J-Tourによる運営体制へと大きく舵を切ります。巨額投資やデジタル戦略など､商業価値を最大化する改革の全貌と､その成否を左右するポイントとは？",
-      "published": "2026/06/07 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/b/1200w/img_2b3ceba016bbe4c8996378856a4a2d30504063.jpg?nextgen=false"
+      "title": "｢批判媒体にはお金を払わない｣の定型文では逃げ切れない… 若年層離れの高市首相に問われる\"師\"が説いた｢責任感｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947213?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢サナエトークン｣や｢誹謗中傷動画｣に関する問題で､高市首相の人気が急速に陰りつつあります。首相はどう向き合うのでしょうか。",
+      "published": "2026/06/08 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/7/1200w/img_57ab3246c01b5b6b9a554ff4043fd6a4124610.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "実はインフレに弱いFIRE､労働は｢インフレ高耐性資産｣ 『働く人が減っていく国でこれから起きること』河田皓史氏に聞く | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946837?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『働く人が減っていく国でこれから起きること』の著者､みずほ総合研究所 調査部 主席エコノミストの河田晧史氏に話を聞きました。FIRE…",
-      "published": "2026/06/07 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/d/1200w/img_fd8b48d9d48b9f0c66f04aa4c23e3571265641.jpg?nextgen=false"
+      "title": "〈AIの成果物への評価〉若者｢100点満点｣､上司｢何か足りない｣――価値観ギャップの背景にあるものとは | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946077?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIが職場に浸透する現代､若者の思考力低下や人間に残された役割への不安が高まっています。AI時代､人はどこに価値を見出し､どう個性を発揮できるのか。金間大介教授と島青志氏が､若者とAIのリアルな関係…",
+      "published": "2026/06/08 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/e/1200w/img_3e3663b2bfbc336f174ac82a5317709f255056.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "55%が｢YouTube｣を利用も､いまだ｢ブラウザ検索｣が強い《新車を買う時》の情報収集の仕方 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "クルマ選びでも､動画の影響力は確実に強まっている。だが､その存在感は実際のところどの程度なのか。市場調査会社のインテージが昨年実施した調査をもとに､新車購入の検討時におけるYouTubeアプ…",
-      "published": "2026/06/07 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/c/1200w/img_3c4df725b6ed19b4c453c82ed08d362a79839.jpg?nextgen=false"
+      "title": "〈AIが揺らす銀行の雇用〉近づく｢大規模人員削減｣の足音､学生や現場の不安は増すばかり | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947197?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "急速に進化するAI技術は､金融業界の雇用環境を激変させています。経営陣さえも､将来の職をAIに奪われるリスクを認識し､学生や現場の不安は増すばかり。一方で､AI導入と人間らしい成長の両立は可能なのか…",
+      "published": "2026/06/08 10:46",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/5/1200w/img_b56bb6ca3aa14603a04c05726634431c316414.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "中国で広がる｢陪伴（付き添い）経済｣､登山から外食まで有料で相手サービス…学生や若いギグワーカーが担い手に | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947173?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "中国で今､登山や旅行､食事まで｢付き添い｣を有料で提供するサービスが急拡大しています。",
-      "published": "2026/06/07 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/8/1200w/img_b8cbd52f939c0ed6c84c6adb672d23af441771.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "部下の｢たたき台｣を見てフィードバックが空回りする上司が知らないこと。優秀な上司が見極める｢4つのレベル｣とは | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946949?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "多様な職場での経験を重ねた萩原雅裕氏が提唱する｢叩かれるたたき台｣理論。部下の未完成なアウトプットをどう受け止め､成長につなげるべきか——。上司が見極めるべき4つのレベルとは？フィードバックの本質を…",
-      "published": "2026/06/07 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/7/1200w/img_57c60fd32e41a5b1eca3a46204946068229413.jpg?nextgen=false"
+      "title": "【日経平均株価が大幅下落】前週末にアメリカ市場でテクノロジー株を中心に売り込まれた流れが波及 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947224?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカの予想を大きく上回る雇用統計を受け､利上げ観測が強まった影響で､日本市場は株･債券ともに大幅安へ。半導体やAI関連株を中心に売りが加速し､円も対ドルで安値圏に沈みました。世界情勢の不透明さが…",
+      "published": "2026/06/08 10:40",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/5/1200w/img_451d5ca7219c16f584b4336c278191ea769201.jpg?nextgen=false"
     }
   ]
 }
