@@ -1,59 +1,86 @@
 {
-  "generated_at": "2026-06-11T04:58:48.616490+00:00",
+  "generated_at": "2026-06-12T05:03:36.557600+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "セブン店舗の購買データを広告に反映　電通・サイバーエージェントと合弁会社",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news096.html",
-      "summary": "セブン-イレブンの全国約2万2000店舗と、約2800万人のアプリ会員基盤を活用し、店舗サイネージやアプリでの広告配信から購買効果の検証までを一体で提供する。",
-      "published": "2026/06/11 13:39",
+      "title": "ANA、国内線リニューアルの混乱で「お詫び」　Xではオーバーブッキング巡る臆測も",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news100.html",
+      "summary": "全日本空輸（ANA）は6月11日、国内線サービスのリニューアルに伴い利用者に不便と心配をかけているとして、公式サイトにお詫びを掲載した。",
+      "published": "2026/06/12 13:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「キングスライム目薬」は出品禁止物　ヤフオク！など注意喚起",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news095.html",
-      "summary": "LINEヤフーは10日、Yahoo!オークションとYahoo!フリマで「ロートジー × ドラゴンクエストコラボモデルの目薬」の出品が複数確認されたとして注意喚起した。",
-      "published": "2026/06/11 13:33",
+      "title": "Starlink対抗の衛星ネット「Amazon Leo」　NTTが国内提供へ　災害時や離島でも“つながる回線”に",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news095.html",
+      "summary": "NTTは6月11日、グループ3社が米Amazonの衛星ブロードバンド通信サービス「Amazon Leo」の再販事業者契約を締結したと発表した。今後は技術検証などを進め、国内の法人・官公庁向けに提供体制を構築する。",
+      "published": "2026/06/12 12:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "dカード、iPhoneの“マイナカード”で本人確認OKに　オンライン入会で",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news093.html",
-      "summary": "NTTドコモは6月11日、クレジットカード「dカード」のオンライン入会手続きの本人確認で、iPhoneに登録したマイナンバーカードを利用できるようにしたと発表した。dカードアプリ上で本人確認を完結できる。",
-      "published": "2026/06/11 13:30",
+      "title": "公取委、KADOKAWAに勧告　フリーランス法違反、ライターなどに取引条件示さず",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news085.html",
+      "summary": "月刊誌などの制作を委託したフリーランスのライターやイラストレーターなど113人に対し、取引条件を書面で明示しなかったことなどがフリーランス法に違反するとして、是正を求める勧告を出した。",
+      "published": "2026/06/12 10:46",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "死亡事故率3.4倍、ハンズフリーに潜む罠　厳罰化でも減らぬ「スマホながら運転」の現実",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news089.html",
-      "summary": "三重県亀山市の新名神高速道路で3月に起きた6人死亡の大型トラック追突事故の初公判で、自動車運転処罰法違反（過失致死）の罪に問われた元トラック運転手が、事故直前に料理の動画のスクリーンショットを試み、前方から13秒ほど目を離していた可能性が浮上した。走行中にスマートフォンなどを使用する「ながら運転」による死亡・重傷事故が増加傾向にあり、警察当局が危機感を強めている。",
-      "published": "2026/06/11 12:33",
+      "title": "DAZNに批判殺到　W杯「月980円」、実は年2万6340円……「騙された」「ダークパターン」",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news081.html",
+      "summary": "980円に見えるプランは最低でも2万6340円かかるため、「新手の詐欺」といった投稿が相次いでいる。",
+      "published": "2026/06/12 09:44",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Steam、物理版のギフトカード販売終了へ　詐欺対策で　デジタル版は継続",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news088.html",
-      "summary": "米Valveは6月11日までに、コンビニなどで販売してきた物理版「Steamギフトカード」について、小売店向けの在庫補充を停止する方針を発表した。2026年末までに全小売店で在庫がなくなる見込みとしている。",
-      "published": "2026/06/11 11:50",
+      "title": "SIM挿すだけで量子安全、ドコモビジネスが開発中　迫る「Q-Day」でIoT機器にも“耐量子”の必要性",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news058.html",
+      "summary": "開催中の「Interop Tokyo 2026」で、NTTドコモビジネスが量子コンピュータでも解読できない暗号通信と相互認証をSIMカードに実装したシステムを展示している。物理SIMを挿すだけで、IoTデバイスも“量子安全”にできるのが特徴だ。なぜエッジデバイスの耐量子にSIMカードを使うのか、ブースで聞いた。",
+      "published": "2026/06/12 09:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米国がイランに新たな攻撃　イランはホルムズ海峡で船舶を攻撃と発表",
-      "url": "https://www.bbc.com/japanese/articles/cr47l9qw7xno?at_medium=RSS&at_campaign=rss",
-      "summary": "米軍は10日、イランに対して新たな攻撃を開始した。その後、イランのイスラム革命防衛隊（IRGC）は、ホルムズ海峡で船舶を攻撃したと発表した。両国はこのところ、軍事施設や監視拠点を標的とした攻撃の応酬を激化させており、4月に合意した脆弱（ぜいじゃく）な停戦の維持が危ぶまれている。",
-      "published": "2026/06/11 10:33",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e696/live/6c460b30-651e-11f1-ac28-17d6b833da1d.jpg"
+      "title": "トランプ氏、戦争終結の合意に近づいていると表明　対イラン攻撃の中止を発表後",
+      "url": "https://www.bbc.com/japanese/articles/cd0me7n73lmo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は11日、イランとの戦争終結に向けた協議について、初期合意に近づいていると述べた。これに先立ちトランプ氏は同日、予定していた対イラン攻撃を中止したと、ソーシャルメディアに投稿した。",
+      "published": "2026/06/12 12:38",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9a2/live/86015ec0-65ec-11f1-a50e-ade503189b0b.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "英国防相が辞任、防衛費めぐり政府内で対立　スターマー氏の指導力に新たな打撃",
+      "url": "https://www.bbc.com/japanese/articles/c802vgk0k08o?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのヒーリー国防相が11日、辞任した。遅れていた軍事支出計画をめぐる政府内での対立を受けての辞任で、スターマー首相には大きな打撃となる。スターマー氏に宛てた辞意表明の書簡の中でヒーリー氏は、防衛投資計画（DIP）の決着として提示された内容が、「この危険な時期において、防衛と国家に必要とされる水準を大きく下回っている」と述べた。",
+      "published": "2026/06/12 13:51",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6fb/live/ff786170-65a3-11f1-b0b4-ff7d574215ed.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【2026年サッカー男子W杯】 メキシコで開幕、いきなり3人退場の波乱　色鮮やかな開会式も",
+      "url": "https://www.bbc.com/japanese/articles/c992xmexljeo?at_medium=RSS&at_campaign=rss",
+      "summary": "サッカー男子2026年ワールドカップ（W杯）が11日（日本時間12日未明）、メキシコの首都メキシコ市で開幕した。同国、アメリカ、カナダの北中米3カ国の共同開催で、来月19日まで続く。この日は開会式と開幕試合があった。初戦から異例の展開となった。",
+      "published": "2026/06/12 12:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a056/live/074d4490-6605-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【検証】 北アイルランドで暴力と混乱　ベルファストでの刺傷事件きっかけに",
+      "url": "https://www.bbc.com/japanese/articles/c4gy213z17zo?at_medium=RSS&at_campaign=rss",
+      "summary": "英・北アイルランドの中心都市ベルファストで9日、前夜にあった刺傷事件を発端とした抗議行動があり、一部が暴力的な行動に出て混乱が発生した。刺傷事件で拘束された容疑者の出身地をめぐる推測をもとに、極右活動家などがインターネット上で抗議行動を呼び掛けていた。規模は小さくなったものの、混乱は10日夜も続き、警察は抗議の集団を解散させようと放水銃を使った。BBCヴェリファイ（検証チーム）は、刺傷事件から暴力",
+      "published": "2026/06/11 16:37",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b803/live/057c2ec0-64ec-11f1-8e1d-bbbb1017d210.png"
     },
     {
       "category": "政治・国際情勢",
@@ -65,76 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/449b/live/777968f0-653a-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】 誰のためのW杯か……米政府の入国禁止とビザ制限にファンの怒り",
-      "url": "https://www.bbc.com/japanese/articles/cn59wq63ye4o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ政府の入国禁止措置とビザ規制により、多くの国のファンが、自分たちはワールドカップから除外されているように思うと怒っている。",
-      "published": "2026/06/11 12:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a53b/live/533fd390-602e-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "「ナルト」や「遊戯王」、「ポケモン」も……日本発のキャラクターをトランプ氏がSNS投稿に使用、反発高まる",
-      "url": "https://www.bbc.com/japanese/articles/c2ly98x5y9po?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領やホワイトハウスが、日本の人気アニメや漫画のキャラクターを使用した動画や画像をソーシャルメディアに度々投稿している。このことに、日本では反発が高まっている。",
-      "published": "2026/06/11 13:42",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eced/live/0e440c60-64a8-11f1-9c89-85486d952f7c.png"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】米・イスラエル首脳は中東再編を目指した……が、今や終わらない紛争の危機に　BBC国際編集長",
-      "url": "https://www.bbc.com/japanese/articles/c20y641yd07o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのドナルド・トランプ大統領とイスラエルのベンヤミン・ネタニヤフ首相は、イランに勝利することで中東を再編すると信じていた。確かに中東地域は再編されつつある。しかし、米・イスラエルの両首脳が期待していたような形にではない。ジェレミー・ボウエンBBC国際編集長が現状を解説する。",
-      "published": "2026/06/10 13:38",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d65c/live/1bb30f40-6435-11f1-8546-8f19e4fe30f4.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "WBCは再び地上波の\"バラエティ番組\"に逆戻りするのか…？Netflix独占配信を悪者にする人が見落とす本質 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947747?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界的なスポーツイベントの放映権を巡り､｢誰もが無料で観戦できる機会｣が脅かされています。WBCがNetflix独占となったことで巻き起こる視聴の格差､ユニバーサル･アクセス権の必要性､そして国内ス…",
+      "published": "2026/06/12 13:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200w/img_fe000a83019b9dfad4cf8beaf3576e79419690.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本的温情経営の祖～明治一オモロイ経営者･朝吹英二②『明治実業家の知識･見識･胆識』特別編 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/944193?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "明治時代､日本最大級の財閥･三菱と三井で幹部を歴任し､200百億円相当の負債をも背負いながら数々の危機を乗り越えた朝吹英二。その大胆な現場主義と人心掌握術によって､多くの逸材を輩出し､日本経済の近代…",
-      "published": "2026/06/11 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/f/1200w/img_4fe4e11c9a5c2e87f4191011e9e260cc416231.jpg?nextgen=false"
+      "title": "旅行に関する\"すべて\"が入っているiPhoneが､海外で突如､使えなくなってしまったら？ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947346?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "海外旅行の必需品となったスマートフォン。しかし､それが突然使えなくなったら――航空券､宿泊先､交通手段､支払い､情報収集まで頼り切りの現代旅行者はどうすべきなのか？ 体験談をもとに､トラブル時の対処…",
+      "published": "2026/06/12 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/5/1200w/img_257886bf15c584dd0ffbc3a8149a795a119617.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "リスクを《回避したつもり》になっていませんか?　｢分散投資｣の意味を勘違いしている人が背負う大きなリスク | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945001?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "資産運用で大切なのは｢銘柄選び｣よりも｢資産配分｣。多くの金融商品を持つだけではリスク回避できません。異なる動きをする資産をどう組み合わせるかが鍵です。失敗も成長の糧にできるのか――成功する投資の本…",
-      "published": "2026/06/11 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/e/1200w/img_6e1743c5c1045301df1fbca823a446f5315492.jpg?nextgen=false"
+      "title": "移民が増え､多文化的な教育が広がる令和の歴史教育のあり方は？ スイスに見習う\"前提を共有しない教室\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946879?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "各国の歴史教科書には大きな違いがありますが､特にスイスでは統一教科書が存在せず､多様な立場や記憶を重視した授業が行われています。なぜ｢正解を教え込まない｣教育が多文化社会で重要なのでしょうか。その問…",
+      "published": "2026/06/12 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/4/1200w/img_24303f0a4add95bd22e2132d249a4072689141.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "中国と亡命チベットの教科書\"1959年\"扱いの違い チベットでは｢歴史を分けた節目｣でも中国では｢記載さえされない｣背景 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946874?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "歴史教科書の記述は､私たちの世界観にどれほど影響を与えるのでしょうか。本記事では､チベット亡命社会と中国本土､それぞれの歴史教材が1959年のチベット蜂起をどう描いたのかを比較し､教育現場が抱える背…",
-      "published": "2026/06/11 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/6/1200w/img_26accb036aec20bf86cc7c2174cd5ed3748245.jpg?nextgen=false"
+      "title": "三井住友海上･海山社長｢30年度に修正利益2800億円｣｢あいおいとの合併を機に事業構造を変革する｣ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947765?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "4月に三井住友海上火災保険の社長に就任した海山裕氏。2027年には､あいおいニッセイ同和損害保険と合併して誕生する新会社のトップに就く予定だ。どのように合併の相乗効果を出して収益力を高めていくのか。…",
+      "published": "2026/06/12 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/a/1200w/img_eaacbc4cf4b318f17d9a8dfdade5157e158063.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【村田製作所にAIの追い風】株価は半年で3倍、時価総額20兆円が目前／世界シェア首位「極小の電子部品」に引き合い／需要の“倍々ゲーム”は2〜3年続く？／増産投資にアクセル／競合の太陽誘電も株価が急伸 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947744?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "村田製作所の株価が急上昇し、AI銘柄としてにわかに注目を集めている。背景には、AIサーバー向けに引き合いが強まる世界シェア4割の電子部品「MLCC」の存在がある。増産投資に動く村田製作所の業績はどこ…",
-      "published": "2026/06/11 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_230c4e6424a9243e7178c0eb61b88a28195748.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "｢部下15名･45歳･営業部長｣→自分の市場価値をAIに聞いたら…精神的ダメージを受けそうな\"ド正論\"が返ってきた | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946259?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AIの急速な進化により､ビジネスの意思決定も革新が求められる時代。上岡正明氏は一人で複数の専門家視点をAIに演じさせる｢複眼思考｣の重要性を提唱します。なぜ1つの視点では不十分なのか？成功する発想法…",
-      "published": "2026/06/11 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/f/1200w/img_6fe2d515af318ea323d12822f78bdf74311552.jpg?nextgen=false"
+      "title": "オイルショック､災害､疫病､戦争……意外と頻繁に起こる｢未曾有の事態｣､損失を抑えて生き延びるお金持ちの判断基準 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945052?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "未来は予測不能。｢一寸先は闇｣と言われるように､誰もが｢まさか｣に直面する可能性を秘めています。金融市場のリスクも例外ではありません。想定外の事態に備えて､夜も安心して眠れるレベルの用心深さとは？そ…",
+      "published": "2026/06/12 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/2/1200w/img_523bb3a517d50f3297d24718e195ef47243195.jpg?nextgen=false"
     }
   ]
 }
