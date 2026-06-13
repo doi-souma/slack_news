@@ -1,59 +1,77 @@
 {
-  "generated_at": "2026-06-12T05:03:36.557600+00:00",
+  "generated_at": "2026-06-13T04:51:37.200950+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ANA、国内線リニューアルの混乱で「お詫び」　Xではオーバーブッキング巡る臆測も",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news100.html",
-      "summary": "全日本空輸（ANA）は6月11日、国内線サービスのリニューアルに伴い利用者に不便と心配をかけているとして、公式サイトにお詫びを掲載した。",
-      "published": "2026/06/12 13:30",
+      "title": "“最小のインスタントカメラ”はポラロイドの撮影体験をどう変えたか　「Polaroid Go Gen 3」レビュー",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/13/news028.html",
+      "summary": "「Polaroid Go Gen 3」は、まさに第3世代と呼ぶにふさわしい完成度。旅先やイベントで、友人や家族と一緒にサッと自撮りをするのが、これまでにないほど実用的で楽しくなりました。",
+      "published": "2026/06/13 12:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Starlink対抗の衛星ネット「Amazon Leo」　NTTが国内提供へ　災害時や離島でも“つながる回線”に",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news095.html",
-      "summary": "NTTは6月11日、グループ3社が米Amazonの衛星ブロードバンド通信サービス「Amazon Leo」の再販事業者契約を締結したと発表した。今後は技術検証などを進め、国内の法人・官公庁向けに提供体制を構築する。",
-      "published": "2026/06/12 12:15",
+      "title": "「Claude Fable 5」「Mythos 5」全面停止　米政府の指令により　Anthropicは早期復旧を宣言",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
+      "summary": "米Anthropicは6月12日、最上位AIモデル「Claude Fable 5」「Claude Mythos 5」の提供を全ユーザーで停止すると発表した。米政府が安全保障を理由に、外国籍者のアクセス全面停止を命じる輸出規制指令を出したため。同社は指令に従う一方「誤解だ」として早期の復旧を目指すとしている。他のモデルへの影響はない。",
+      "published": "2026/06/13 10:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "公取委、KADOKAWAに勧告　フリーランス法違反、ライターなどに取引条件示さず",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news085.html",
-      "summary": "月刊誌などの制作を委託したフリーランスのライターやイラストレーターなど113人に対し、取引条件を書面で明示しなかったことなどがフリーランス法に違反するとして、是正を求める勧告を出した。",
-      "published": "2026/06/12 10:46",
+      "title": "最新AI「Fable 5」でYouTube動画作ってみた　想像以上の出来に驚愕、ただし大きな弱点も",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news113.html",
+      "summary": "SNSも“動画隆盛”な昨今。AIを動画制作に活用する例も多いが、最新AI「Fable 5」だとどんなものができるだろうか。早速試してみた。",
+      "published": "2026/06/13 10:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "DAZNに批判殺到　W杯「月980円」、実は年2万6340円……「騙された」「ダークパターン」",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news081.html",
-      "summary": "980円に見えるプランは最低でも2万6340円かかるため、「新手の詐欺」といった投稿が相次いでいる。",
-      "published": "2026/06/12 09:44",
+      "title": "SpaceX、NASDAQに上場――公開価格135ドル、初日終値は約19％高で約12兆円調達",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/13/news024.html",
+      "summary": "SpaceXは、ナスダック市場に新規株式公開した。公開価格ベースで約750億ドル（約12兆円）を調達し、初日の終値時点で時価総額は約2兆1000億ドルに達した。サウジアラムコを上回る史上最大規模の新規上場となった。",
+      "published": "2026/06/13 06:34",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "SIM挿すだけで量子安全、ドコモビジネスが開発中　迫る「Q-Day」でIoT機器にも“耐量子”の必要性",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news058.html",
-      "summary": "開催中の「Interop Tokyo 2026」で、NTTドコモビジネスが量子コンピュータでも解読できない暗号通信と相互認証をSIMカードに実装したシステムを展示している。物理SIMを挿すだけで、IoTデバイスも“量子安全”にできるのが特徴だ。なぜエッジデバイスの耐量子にSIMカードを使うのか、ブースで聞いた。",
-      "published": "2026/06/12 09:00",
+      "title": "厚労省、Teamsチャット2年10カ月分が消失　東芝が作業ミス　一部は復元困難",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news129.html",
+      "summary": "厚生労働省が2023年1月4日から25年10月29日年に送信された「Microsoft Teams」のチャットが消失したと発表した。原因はシステム運用を委託していた東芝の作業ミス。消えたデータのうち、行政文書が含まれる一部チャットは復元が困難という。",
+      "published": "2026/06/12 23:14",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、戦争終結の合意に近づいていると表明　対イラン攻撃の中止を発表後",
-      "url": "https://www.bbc.com/japanese/articles/cd0me7n73lmo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は11日、イランとの戦争終結に向けた協議について、初期合意に近づいていると述べた。これに先立ちトランプ氏は同日、予定していた対イラン攻撃を中止したと、ソーシャルメディアに投稿した。",
-      "published": "2026/06/12 12:38",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9a2/live/86015ec0-65ec-11f1-a50e-ade503189b0b.jpg"
+      "title": "イラン、戦闘終結で合意ならホルムズ海峡は再開と",
+      "url": "https://www.bbc.com/japanese/articles/cx2jp2vyv4zo?at_medium=RSS&at_campaign=rss",
+      "summary": "イランのアラグチ外相は12日、戦闘終結に向けたアメリカとの合意が間近で、その内容にはホルムズ海峡の再開が含まれていると述べた。アメリカ側も、同様の説明をしている。",
+      "published": "2026/06/13 11:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/374b/live/a7cde650-66c7-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "マスク氏が世界初の「トリリオネア」に　スペースXの株式公開で資産1兆ドル超え",
+      "url": "https://www.bbc.com/japanese/articles/ced4n16v681o?at_medium=RSS&at_campaign=rss",
+      "summary": "イーロン・マスク氏は12日、所有する宇宙開発企業スペースXの株価が、過去最大規模の株式公開で急騰したことを受け、世界初のトリリオネア（資産1兆ドル＝約160兆円＝以上の富豪）となった。ロケット、通信、人工知能（AI）関連企業であるスペースXはこの日、ナスダックに上場。評価額は2兆2000億ドル（約330兆円）に上った。これにより、同氏の総純資産は1兆1100億ドル（約166兆5000億円）に達した",
+      "published": "2026/06/13 13:21",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "韓国・尹前大統領、さらに懲役30年の判決　北朝鮮にドローン飛ばすよう指示",
+      "url": "https://www.bbc.com/japanese/articles/cn0v12nl4dro?at_medium=RSS&at_campaign=rss",
+      "summary": "韓国・ソウル中央地裁は12日、尹前大統領に対し、北朝鮮へドローンを飛ばすよう指示した一般利敵罪で有罪とし、懲役30年の判決を言い渡した。",
+      "published": "2026/06/13 13:12",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b52/live/6a8aa930-66d7-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,74 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】 メキシコで開幕、いきなり3人退場の波乱　色鮮やかな開会式も",
-      "url": "https://www.bbc.com/japanese/articles/c992xmexljeo?at_medium=RSS&at_campaign=rss",
-      "summary": "サッカー男子2026年ワールドカップ（W杯）が11日（日本時間12日未明）、メキシコの首都メキシコ市で開幕した。同国、アメリカ、カナダの北中米3カ国の共同開催で、来月19日まで続く。この日は開会式と開幕試合があった。初戦から異例の展開となった。",
-      "published": "2026/06/12 12:54",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a056/live/074d4490-6605-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【検証】 北アイルランドで暴力と混乱　ベルファストでの刺傷事件きっかけに",
-      "url": "https://www.bbc.com/japanese/articles/c4gy213z17zo?at_medium=RSS&at_campaign=rss",
-      "summary": "英・北アイルランドの中心都市ベルファストで9日、前夜にあった刺傷事件を発端とした抗議行動があり、一部が暴力的な行動に出て混乱が発生した。刺傷事件で拘束された容疑者の出身地をめぐる推測をもとに、極右活動家などがインターネット上で抗議行動を呼び掛けていた。規模は小さくなったものの、混乱は10日夜も続き、警察は抗議の集団を解散させようと放水銃を使った。BBCヴェリファイ（検証チーム）は、刺傷事件から暴力",
-      "published": "2026/06/11 16:37",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b803/live/057c2ec0-64ec-11f1-8e1d-bbbb1017d210.png"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米軍、オマーン湾でタンカーを攻撃と発表　インド人船員3人が行方不明",
-      "url": "https://www.bbc.com/japanese/articles/cx26lzvgxzvo?at_medium=RSS&at_campaign=rss",
-      "summary": "米中央軍（CENTCOM）は10日、中東のオマーン湾で石油タンカーを攻撃し航行不能にしたと発表した。タンカーについて、「イランから石油を輸送しようとし」、アメリカの海上封鎖に違反したと説明した。インド政府は、この攻撃でインド人船員3人が行方不明となり、21人が救助されたと発表した。",
-      "published": "2026/06/11 11:41",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/449b/live/777968f0-653a-11f1-8e1d-bbbb1017d210.jpg"
+      "title": "【解説】 英国防相の辞任、スターマー政権と防衛計画にどんな影響があるのか",
+      "url": "https://www.bbc.com/japanese/articles/cy5v3qnqlp9o?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのヒーリー国防相の辞任により、スターマー首相の立場はさらに危ういものになった。BBCの政治編集長と防衛担当編集委員が、それぞれの分野から解説する",
+      "published": "2026/06/12 16:45",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59c5/live/da43c0e0-6592-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "WBCは再び地上波の\"バラエティ番組\"に逆戻りするのか…？Netflix独占配信を悪者にする人が見落とす本質 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947747?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "世界的なスポーツイベントの放映権を巡り､｢誰もが無料で観戦できる機会｣が脅かされています。WBCがNetflix独占となったことで巻き起こる視聴の格差､ユニバーサル･アクセス権の必要性､そして国内ス…",
-      "published": "2026/06/12 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200w/img_fe000a83019b9dfad4cf8beaf3576e79419690.jpg?nextgen=false"
+      "title": "住宅地そばの巨大データセンター建設は｢新しい公害｣か？ 都市部で相次ぐ\"摩擦\"､浮かぶ情報開示と法整備の課題 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947513?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIの需要拡大を背景に､都市部で進む巨大データセンター建設。しかし利便性の裏で住民は環境や景観悪化､情報開示不足に不安を募らせ訴訟や審査請求も。AI時代のインフラ受容､どんなルールや対話が求めら…",
+      "published": "2026/06/13 13:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/f/1200w/img_3ff7546594233e2dc000f4bfc8674ad1778182.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "旅行に関する\"すべて\"が入っているiPhoneが､海外で突如､使えなくなってしまったら？ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947346?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "海外旅行の必需品となったスマートフォン。しかし､それが突然使えなくなったら――航空券､宿泊先､交通手段､支払い､情報収集まで頼り切りの現代旅行者はどうすべきなのか？ 体験談をもとに､トラブル時の対処…",
-      "published": "2026/06/12 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/5/1200w/img_257886bf15c584dd0ffbc3a8149a795a119617.jpg?nextgen=false"
+      "title": "NHK夜ドラで注目のラジオ｢臨時災害放送局｣とは？ ラジオへの関心高まるが20代の保有率はたった5.6％という課題 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947203?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "地震や豪雨で混乱する町を舞台に､NHK夜ドラ｢ラジオスター｣が描いた臨時災害放送局。その存在は､地域密着の情報伝達の重要性に改めて光を当てます。しかし､若い世代のラジオ離れが進む今､その普及は大きな…",
+      "published": "2026/06/13 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/f/1200w/img_0f26c2de5ece49e049410283f96e4329208797.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "移民が増え､多文化的な教育が広がる令和の歴史教育のあり方は？ スイスに見習う\"前提を共有しない教室\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946879?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "各国の歴史教科書には大きな違いがありますが､特にスイスでは統一教科書が存在せず､多様な立場や記憶を重視した授業が行われています。なぜ｢正解を教え込まない｣教育が多文化社会で重要なのでしょうか。その問…",
-      "published": "2026/06/12 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/4/1200w/img_24303f0a4add95bd22e2132d249a4072689141.jpg?nextgen=false"
+      "title": "サッカーアナリストが予想｢日本の勝敗スコア｣　優勝は｢背番号7｣擁する\"欧州の雄\"？　森保ジャパンは優勝争いに絡めるか | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947284?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "出場国が48に増え､規模も格式も新次元へ突入する2026年W杯。森保ジャパンが世界の強豪とどう戦うのか､戦術と勝敗予想をデータアナリスト･ノーミルク佐藤氏が徹底解説。新たな｢奪う｣戦術で日本代表は歴…",
+      "published": "2026/06/13 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/7/1200w/img_1781a900384a7a2e86186973f093ecf3279986.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "三井住友海上･海山社長｢30年度に修正利益2800億円｣｢あいおいとの合併を機に事業構造を変革する｣ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947765?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "4月に三井住友海上火災保険の社長に就任した海山裕氏。2027年には､あいおいニッセイ同和損害保険と合併して誕生する新会社のトップに就く予定だ。どのように合併の相乗効果を出して収益力を高めていくのか。…",
-      "published": "2026/06/12 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/a/1200w/img_eaacbc4cf4b318f17d9a8dfdade5157e158063.jpg?nextgen=false"
+      "title": "長友佑都は単なる｢メンター枠｣ではない　守田や藤田が選外の中…長友が｢W杯メンバー｣に選ばれた\"納得の理由\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947283?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年ワールドカップ日本代表メンバー発表で､5大会連続出場となる長友佑都選手の選出が大きな話題を呼んでいます。｢メンター枠｣というだけでは語り尽くせない､彼が持つ戦術的価値と現役としての実力とは…",
+      "published": "2026/06/13 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/2/1200w/img_c2e981e464a604e0fd0dd2658e3c4830462861.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "オイルショック､災害､疫病､戦争……意外と頻繁に起こる｢未曾有の事態｣､損失を抑えて生き延びるお金持ちの判断基準 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945052?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "未来は予測不能。｢一寸先は闇｣と言われるように､誰もが｢まさか｣に直面する可能性を秘めています。金融市場のリスクも例外ではありません。想定外の事態に備えて､夜も安心して眠れるレベルの用心深さとは？そ…",
-      "published": "2026/06/12 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/2/1200w/img_523bb3a517d50f3297d24718e195ef47243195.jpg?nextgen=false"
+      "title": "\"戦後最長の景気拡大局面\"ですら日本は｢豊かさ｣を享受できていなかった　齊藤誠『競争の作法』を読む（上） | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947541?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "『競争の作法――いかに働き､投資するか』を唐鎌大輔氏が読み解きます（上編）。\"戦後最長の景気拡大局面\"とされる｢いざなみ景気｣は､本当に日本の人々に豊かさをもたらしたのか。本書は質実剛健な分析を…",
+      "published": "2026/06/13 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/d/1200w/img_2df5d94f900e76c7697e346aa1dd39d0139808.jpg?nextgen=false"
     }
   ]
 }
