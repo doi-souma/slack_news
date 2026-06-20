@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-06-19T05:24:34.184470+00:00",
+  "generated_at": "2026-06-20T04:40:38.922249+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news098.html",
-      "summary": "ダイソンから初めてのポータブルハンディファン「Dyson HushJet Mini Coolファン」が登場した。一目で従来のハンディファンとは違うと思わせる羽根のないスリムな外観が特徴だ。",
-      "published": "2026/06/19 13:32",
+      "title": "新たな高級コンパクト、LUMIX「L10」は画作り自在なスナップカメラだった　明るいズームやメカっぽい操作感も好感",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/20/news022.html",
+      "summary": "パナソニックから「LUMIX25周年記念モデル」として、全く新しい高級コンパクトカメラが誕生した。四角いトラディショナルなボディを持つ「DC-L10」だ。",
+      "published": "2026/06/20 08:29",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "東北大、4月の不正アクセスで続報　連絡取れない元入院患者・治験医師に申し出呼びかけ",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news092.html",
-      "summary": "東北大学は6月17日、4月に明らかになった同大学サーバへの不正アクセスについて続報を発表した。東北大学病院の治験業務関連資料を保管するNASからも患者などの個人情報が漏えいした可能性があり、連絡が取れていない元患者や元治験分担医師に対し、専用窓口への申し出を呼びかけている。",
-      "published": "2026/06/19 13:00",
+      "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明　金融庁",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news137.html",
+      "summary": "金融庁と関東財務局は6月19日、moomoo証券に対し、6月19日から9月18日まで新規口座開設の勧誘・受付業務を停止する命令などの行政処分を出した。NISA対象外の商品を「対象」と偽って販売したほか、システム管理態勢の不備など複数の問題を認定した。",
+      "published": "2026/06/19 20:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "画像生成AIのMidjourneyが医療参入、超音波全身スキャナとサウナ融合の「Midjourney Spa」構想を発表",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news090.html",
-      "summary": "Midjourneyは、超音波を使った全身スキャナと、それを組み込んだ温浴施設「Midjourney Spa」を展開する新事業を立ち上げ、医療分野に参入すると発表した。60秒以内で高精度な立体スキャンを行う技術を開発。当面は体組成マップの提供から始め、将来的には世界で5万台以上のスキャン能力を目指す。",
-      "published": "2026/06/19 12:15",
+      "title": "アクロバットで話題の人型ロボ「H1」「G1」、GMO子会社が国内販売へ　中国Unitreeと代理店契約",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news118.html",
+      "summary": "GMO AI＆ロボティクス商事は6月19日、中国の人型ロボットメーカー Unitree Roboticsと国内正規代理店契約を結んだと発表した。同日から人型ロボット「G1」「H1」や四足歩行ロボット「Go2」「B2」などの販売を始める。",
+      "published": "2026/06/19 19:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "筋トレの健康効果、週○分で頭打ち　適正時間は？　米ハーバード大などが14万人を調査",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news045.html",
-      "summary": "米ハーバード大学などに所属する研究者らが医学分野の学術誌British Journal of Sports Medicineで発表した論文「Long-term resistance training with all-cause and cause-specific mortality: assessing dose-response and joint associations with aer",
-      "published": "2026/06/19 12:00",
+      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場　出力は「Premiere」「DaVinci」でも読み込み可",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
+      "summary": "米Palmierは6月18日（現地時間）、AIコーディング支援ツール「Claude Code」などとの対話を通して動画を編集できる映像ソフト「Palmier Pro」をオープンソース（GPLv3）で公開した。",
+      "published": "2026/06/19 18:20",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Waymo、ロボタクシーの高速道路走行を制限　工事区間に進入する不具合でリコール届け出",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news082.html",
-      "summary": "Google系の自動運転企業Waymoは、ロボタクシーに搭載する自動運転システムに高速道路の工事区間に進入する恐れがあるとして、米交通当局に3871台のリコールを届け出た。恒久的な改善策の開発中は、暫定措置として高速道路での走行を制限する。",
-      "published": "2026/06/19 10:36",
+      "title": "Photoshopなど「Adobe Creative Cloud」にAIエージェント、アドビが全面導入　ChatGPTやClaudeとも連携",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
+      "summary": "米Adobeは6月18日（現地時間）、「Adobe Creative Cloud」の各アプリにAIエージェント機能を全面導入したと発表した。ChatGPTやClaudeなど外部AIプラットフォームからもクリエイティブ機能を呼び出せる。",
+      "published": "2026/06/19 15:45",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イスラエルとヒズボラ、停戦で合意とアメリカが発表　発効後もレバノンでは空爆の報告相次ぐ",
+      "url": "https://www.bbc.com/japanese/articles/c0eypn4z0l4o?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエルとレバノンのイスラム教シーア派組織ヒズボラが、現地時間19日午後4時からの停戦で合意した。アメリカの当局者が19日に明らかにした。これに先立ち、イスラエルは同日、レバノンで展開するイスラエル兵4人がヒズボラの攻撃で殺害されたと発表し、レバノン南部を激しく空爆。この空爆では47人が死亡した。",
+      "published": "2026/06/20 12:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イタリア首相、トランプ氏が自分について「でまかせ」と反発　単発的な口論ではなく",
+      "url": "https://www.bbc.com/japanese/articles/cwy0qlxl7zeo?at_medium=RSS&at_campaign=rss",
+      "summary": "イタリアのメローニ首相は19日、トランプ米大統領がイタリアのテレビ局に対し、メローニ首相が自分との写真撮影を「懇願した」と発言したことについて、まったくの「でまかせ」だと反発し、「私もイタリアも、決して懇願などしない」と述べた。タヤーニ外相は同日、週明けに予定していた訪米を急きょ中止した。この表立ってのいさかいは、ただの口論では済まされない。アメリカと欧州諸国の間の、一つの潮流を示すものだ。",
+      "published": "2026/06/20 12:46",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/b8c74c90-6bf3-11f1-b1db-af71d47507d6.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イングランド中部で旅客列車同士が衝突　運転士1人死亡、89人負傷",
+      "url": "https://www.bbc.com/japanese/articles/c5yzg3nlq12o?at_medium=RSS&at_campaign=rss",
+      "summary": "英国夏時間午後5時15分頃に発生したこの事故で、約90人が負傷した。",
+      "published": "2026/06/20 13:13",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eebb/live/0a725c90-6c4b-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】　いったい何のための戦争だったのか……米・イラン合意で浮かぶ避けがたい疑問　BBC国際編集長",
+      "url": "https://www.bbc.com/japanese/articles/c4gy3ex76geo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとイスラエルが今年2月28日にイスラエルを攻撃すると決めた結果、どういう政治的、軍事的、経済的な結果につながったのか。イランとレバノンでは、数千人が殺害された。アメリカと、そしてひいてはイスラエルは、戦略的に敗北した。そして、イランの政権はただ生き残っただけではなく、力を増した。BBCのジェレミー・ボウエン国際編集長が解説する。",
+      "published": "2026/06/20 12:28",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/21ae/live/f54e76a0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b003/live/59a4cac0-6b4a-11f1-bc34-19faf070d2ff.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】 米・イランは共に合意を「勝利」と主張、実際はどうなのか",
-      "url": "https://www.bbc.com/japanese/articles/c5yz5qp0w13o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカとイランは、戦争終結に向けた合意の締結を、それぞれ自国民に勝利として売り込んだ。だが、どちらも国民を完全に納得させられておらず、国内の批判勢力は譲歩し過ぎだと主張している。BBCのペルシャ語ニュース編集長と、ホワイトハウス担当記者が、両国の状況を解説する。",
-      "published": "2026/06/19 13:53",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5277/live/e2c02aa0-6b01-11f1-8317-e1f912f75a64.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ウクライナ、モスクワに最大規模の攻撃で製油所直撃　地面や服に黒い染みと住民",
-      "url": "https://www.bbc.com/japanese/articles/c1myg80gdxyo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナは18日にかけ、ロシアの首都モスクワに向けてドローン200機近くを発射した。一部は石油精製所を直撃し、モスクワの一部地域で黒い油の粒が降り注いだ。ウクライナによる攻撃としては、ロシアと全面戦争となって以降で最大のものとなった。",
-      "published": "2026/06/19 12:26",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0dd5/live/8aff47f0-6b8e-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ウクライナ、モスクワ近郊の製油所をドローン攻撃　タンクのふた吹き飛ぶ",
-      "url": "https://www.bbc.com/japanese/articles/cp3xqd451pvo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナが18日、長距離ドローンでモスクワ近郊の製油所を攻撃するなか、石油タンクが爆発し、ふたが空中に吹き飛んだ。モスクワ中心部から南東17キロにある石油精製所と、その周辺は燃え続けた。",
-      "published": "2026/06/19 11:48",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb4e/live/24620050-6b89-11f1-8546-8f19e4fe30f4.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】元オランダ代表ファン・デル・ファールト氏、日本代表への差別発言を謝罪",
-      "url": "https://www.bbc.com/japanese/articles/c6218eq389do?at_medium=RSS&at_campaign=rss",
-      "summary": "サッカー元オランダ代表のラファエル・ファン・デル・ファールト氏は18日、サッカー男子ワールドカップ（W杯）北中米大会で14日にオランダと日本が2-2で引き分けた試合の中で、日本代表は「みんな同じように見える」と発言したことを謝罪した。",
-      "published": "2026/06/19 11:16",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6f6/live/767725c0-6b7d-11f1-8e1d-bbbb1017d210.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "台湾で急拡大する｢ゾンビたばこ｣問題　事故多発で進む規制強化と厳罰化､その背景にある社会と政治の現実 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948302?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "台湾で急増する｢ゾンビたばこ｣こと違法薬物エトミデートの乱用。そしてそれに起因する重大な交通事故の多発―。政府は薬物規制と交通違反罰則の劇的な強化に動き出しました。その裏にある社会事情や政治的思惑と…",
+      "published": "2026/06/20 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/0/1200w/img_a0d0b69d0648b87d2a7ff7b7f9ef16b4235827.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "アメリカとイランが14項目の覚書に署名→戦争は終結しサプライチェーンは回復できるか？丸紅経済研の今村卓社長に聞く | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948711?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アメリカとイランが覚書に署名し､中東情勢が大きく動き始めました。ホルムズ海峡や原油市場の行方､そして日本への影響はどうなるのでしょうか。専門家が徹底分析します。",
-      "published": "2026/06/19 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/d/1200w/img_fd490cce030a80185705f781c471b086158664.jpg?nextgen=false"
+      "title": "｢しつこめに｣｢便器が高い｣…NHKらしからぬ｢本田圭佑｣オランダ戦の\"居酒屋解説\"はなぜ批判されなかったのか | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948390?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本代表がオランダと劇的なドローを演じた北中米W杯初戦。その裏側で､NHK解説者･本田圭佑の\"居酒屋解説\"が再び話題沸騰。自由奔放なコメントやプロならではの鋭い洞察がSNSを席巻しました。",
+      "published": "2026/06/20 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/a/1200w/img_fa04c2829dce97200c80ed1c7afd5a23424921.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "創業300年超でもまだ伸びる…縮小する工芸品市場で｢中川政七商店｣が売上高100億円を突破したすごい仕組み | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948478?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "老舗｢中川政七商店｣が初の売上100億円超えを達成し､工芸業界の再生を牽引しています。伝統技術を現代生活に合わせて磨き上げ､製造から販売までを一貫する独自モデルとは？成功の秘密と事業の舞台裏に迫りま…",
-      "published": "2026/06/19 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/c/1200w/img_9cccdd40ec426d50050722966cfdbc55339732.jpg?nextgen=false"
+      "title": "｢まるで3歳児の50歳｣｢銀河一可愛い｣…アメリカで\"厳しめ評価\"の《グローグー》が､日本で\"人気爆発\"してる理由 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948586?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "\"ちびヨーダ\"ことグローグーが映画『スター･ウォーズ／マンダロリアン･アンド･グローグー』で大人気。日本とアメリカで評価が大きく分かれる背景には､｢カワイイ｣の捉え方や物語構造の違いが大きく影響して…",
+      "published": "2026/06/20 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/4/1200w/img_e4b8c0a47e99af82e8789bad0a5e92ce303624.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "奈良･平群町のメガソーラー開発許可を取り消す判決…住民が異例の逆転勝訴に至った経緯 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948630?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "奈良県平群町のメガソーラー開発を巡り､住民が林地開発許可の違法性を訴えた裁判で､大阪高裁は開発許可の取り消しを命じました。住民側が逆転勝訴。ここに至った経緯とは。",
-      "published": "2026/06/19 13:10",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/0/1200w/img_406340b6d8d00787fc2df70b1e47bd23442354.jpg?nextgen=false"
+      "title": "｢っるせぇっ‼　親子ごっこはこれまでだ｣　娘を邪険にした\"父\"の真意　漫画｢ヴィンテージ･トーキョー｣（第3集 第15話） | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946255?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "西暦2024年──“慶応160年”、江戸。徳川の治世が終わらず、閉ざされたままの日本は異能の力を持つ12の家系に支配されていた――。この抑圧された社会で生きる青年・ハムくんは、12の家系同士の殺し合…",
+      "published": "2026/06/20 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/4/1200w/img_74a6ba07e960e34d9f6e01bbf3f219ec247440.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "登録者数約160万人｢バイリンガール｣吉田ちかさんが家族でアメリカ横断を決めた理由——5週間･1万キロのロードトリップ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947671?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "登録者数約160万人のYouTubeチャンネル｢バイリンガール英会話—Bilingirl Chika｣で知られる吉田ちかさんが､家族と共に5週間かけてアメリカ大陸横断に挑戦。かつて夫婦で叶えた夢を､…",
-      "published": "2026/06/19 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/f/1200w/img_ef8f7b4d785e05d611fdabfa1756fbb5915358.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "結局｢金利｣がなぜ大事？お金持ちが資産を増やすために｢1％の差｣に神経をとがらせ､動向を注視し続ける納得の理由 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945827?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "金利はお金の価値を決め､その変動が私たちの生活や経済に大きな影響を与えています。かつて高金利の口座を手放した著者の体験を通じ､金利の重要性や､国際的な金融政策が暮らしに及ぼす波及効果に迫ります。あな…",
-      "published": "2026/06/19 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/1/1200w/img_21af6f3e9ea77bbdf271959d85d048a8180088.jpg?nextgen=false"
+      "title": "｢口にしたら意識がふわふわする感覚に…｣　大麻成分\"CBN\"はなぜ今､指定薬物に指定されたのか【6月1日から規制】 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948267?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢グミ食べる？｣と勧められ口にしたら､意識がふわふわする感覚に――。｢合法だから安全｣とSNSを中心に広まっていた大麻成分｢CBN｣。今年6月1日から指定薬物となり､取り締まりの対象になりました。規…",
+      "published": "2026/06/20 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/b/1200w/img_2be1be60bb6a7f7778de79e6b0700162352993.jpg?nextgen=false"
     }
   ]
 }
