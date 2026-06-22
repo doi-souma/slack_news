@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-06-21T05:18:22.752814+00:00",
+  "generated_at": "2026-06-22T05:30:42.905429+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "DAZN「980円問題」の本質　何に謝って、何に沈黙したのか　長期ユーザーのマンガ家が考察",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/21/news015.html",
-      "summary": "DAZNのサッカー専用プランへの批判が続いています。同社は「月額プランと受け取れる記載」がされていた期間があったとして謝罪しましたが、実はどんな記載があったのかは明らかにしていません。",
-      "published": "2026/06/21 07:14",
+      "title": "「投票して」→アカウント乗っ取り　LINEが注意喚起　本人になりすましてPayPay送金など要求",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news091.html",
+      "summary": "LINEは6月18日、フィッシングサイトでアカウントを乗っ取り、家族や友人を装ってPayPayでの送金を求める詐欺が相次いでいるとして、公式SNSで注意を呼びかけた。",
+      "published": "2026/06/22 13:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "新たな高級コンパクト、LUMIX「L10」は画作り自在なスナップカメラだった　明るいズームやメカっぽい操作感も好感",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/20/news022.html",
-      "summary": "パナソニックから「LUMIX25周年記念モデル」として、全く新しい高級コンパクトカメラが誕生した。四角いトラディショナルなボディを持つ「DC-L10」だ。",
-      "published": "2026/06/20 08:29",
+      "title": "「児童を取材しないで」小学校火災、北区が強く要請　SNSでの憶測拡散も「配慮を」",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news087.html",
+      "summary": "SNSでの情報発信についても、「憶測や不確かな内容の拡散」について配慮するよう求めている。",
+      "published": "2026/06/22 12:57",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明　金融庁",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news137.html",
-      "summary": "金融庁と関東財務局は6月19日、moomoo証券に対し、6月19日から9月18日まで新規口座開設の勧誘・受付業務を停止する命令などの行政処分を出した。NISA対象外の商品を「対象」と偽って販売したほか、システム管理態勢の不備など複数の問題を認定した。",
-      "published": "2026/06/19 20:30",
+      "title": "「SaaSの死」は起こっていない？　2つの調査から見えてきたAIで代替できない、代替すべきではない業務",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news086.html",
+      "summary": "米AnthropicがClaudeベースの業務エージェント機能を発表したことで、SaaSのユーザーが激減する、いわゆる「SaaSの死」が起こるのだという説が息を吹き返した。では実際にそのような変化は起こっているのか。最近こうしたことを調査した例が2件ある。",
+      "published": "2026/06/22 12:55",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "アクロバットで話題の人型ロボ「H1」「G1」、GMO子会社が国内販売へ　中国Unitreeと代理店契約",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news118.html",
-      "summary": "GMO AI＆ロボティクス商事は6月19日、中国の人型ロボットメーカー Unitree Roboticsと国内正規代理店契約を結んだと発表した。同日から人型ロボット「G1」「H1」や四足歩行ロボット「Go2」「B2」などの販売を始める。",
-      "published": "2026/06/19 19:00",
+      "title": "「ChatGPTにうちの会社が出てこない」──採用担当を悩ます“AI就活時代”の容赦なき実態",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news020.html",
+      "summary": "採用やHRの界隈で、じわじわと語られ始めている問題意識がある。就活生、それも優秀な層ほど、キャリア相談をLLMにするようになった。その結果、Web上での露出が乏しくLLMO対策をしていない企業は、学生から“見つけてもらえなく”なってきている――というものだ。",
+      "published": "2026/06/22 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場　出力は「Premiere」「DaVinci」でも読み込み可",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
-      "summary": "米Palmierは6月18日（現地時間）、AIコーディング支援ツール「Claude Code」などとの対話を通して動画を編集できる映像ソフト「Palmier Pro」をオープンソース（GPLv3）で公開した。",
-      "published": "2026/06/19 18:20",
+      "title": "自民・山田太郎氏語る知財／無形資産活用　「技術作るだけでは勝てない」日本の勝ち筋は＜前編＞",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news066.html",
+      "summary": "山田太郎参院議員が、知財・無形資産の活用を通じて企業価値の向上や日本経済の活性化を目指す一般社団法人「知財・無形資産ガバナンス協会」（菊地修理事長）の設立1周年式典で記念特別講演に臨んだ。力強い日本を作るには、「成長戦略、知財戦略、国際標準戦略の3つについて、どれも欠けてはいけない」と強調した。",
+      "published": "2026/06/22 10:42",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イランがホルムズ海峡の再封鎖を発表、イスラエルによるレバノン攻撃が理由と　米軍は封鎖を否定",
-      "url": "https://www.bbc.com/japanese/articles/ce3e7gvw9vzo?at_medium=RSS&at_campaign=rss",
-      "summary": "イラン軍は20日、ホルムズ海峡を封鎖するとの声明を出した。イスラエルがレバノン南部への攻撃を続けていることを、理由にしている。一方、アメリカ軍は海峡封鎖を否定した。同日にはこの後、J・D・ヴァンス米副大統領がスイスで行うイランとの直接交渉のため、ワシントンを出発した。",
-      "published": "2026/06/21 11:25",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/102a/live/6d9cc250-6d05-11f1-b622-5db122690c78.jpg"
+      "title": "アメリカとイランの直接協議、「前向きな進展」で第1ラウンド終了と仲介国が発表",
+      "url": "https://www.bbc.com/japanese/articles/c78yzeggwzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとイランの戦争終結の最終合意を目指す協議が21日、スイス・ルツェルン州のリゾート地ビュルゲンシュトックで始まり、仲介役を務めるカタールとパキスタンは日本時間22日午前、交渉の第1ラウンドが「前向きな進展」をもって終了したと発表した。",
+      "published": "2026/06/22 13:07",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1182/live/780f61b0-6ddd-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】　いったい何のための戦争だったのか……米・イラン合意で浮かぶ避けがたい疑問　BBC国際編集長",
-      "url": "https://www.bbc.com/japanese/articles/c4gy3ex76geo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカとイスラエルが今年2月28日にイランを攻撃すると決めた結果、どういう政治的、軍事的、経済的な結果につながったのか。イランとレバノンでは、数千人が殺害された。アメリカと、そしてひいてはイスラエルは、戦略的に敗北した。そして、イランの政権はただ生き残っただけではなく、力を増した。BBCのジェレミー・ボウエン国際編集長が解説する。",
-      "published": "2026/06/20 12:28",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/21ae/live/f54e76a0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg"
+      "title": "「平和」の約束は破られ、家は破壊され……レバノン南部のイスラエル占領地域をBBCが取材",
+      "url": "https://www.bbc.com/japanese/articles/czxqpy1pr12o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBCはこのほど、イスラエルとレバノンのイスラム教シーア派組織ヒズボラとの戦争で、イスラエルに占領されたレバノン南部の一部地域を取材する貴重な機会を得た。戦争によって孤立したキリスト教徒が暮らす村々に、支援物資を届けるマルタ騎士団の人道支援隊に同行した。",
+      "published": "2026/06/22 14:02",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3bb/live/848ad050-6cbb-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英与党の内部、スターマー首相に退任予定示すよう圧力高まる　閣僚や議員から",
-      "url": "https://www.bbc.com/japanese/articles/c5yzpgryy6xo?at_medium=RSS&at_campaign=rss",
-      "summary": "英与党・労働党のアンディ・バーナム氏が18日に投開票されたイングランド北部メイカーフィールド選挙区の下院補欠選挙で圧勝し、下院議員として党首選の実施を求める道が開かれたことを受け、キア・スターマー首相に退任時期を明確にするよう求める声が党内で高まっている。",
-      "published": "2026/06/20 13:39",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ecc6/live/b618c600-6c01-11f1-817c-d96159ef580f.jpg"
+      "title": "スターマー英首相に辞任圧力高まる　政治家としての今後を検討と",
+      "url": "https://www.bbc.com/japanese/articles/cp8lzv12zvmo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのスターマー首相は、与党・労働党内で辞任圧力が高まるなか、自分の政治的将来について検討している。首相を支持する盟友のカイル通商相は21日朝、BBC番組で首相が「今の政治的現実」を検討していると発言した。",
+      "published": "2026/06/22 11:35",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e35/live/5efea8c0-6d8d-11f1-bb4a-cbaa8225a98f.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イスラエルとヒズボラ、停戦で合意とアメリカが発表　発効後もレバノンでは空爆の報告相次ぐ",
-      "url": "https://www.bbc.com/japanese/articles/c0eypn4z0l4o?at_medium=RSS&at_campaign=rss",
-      "summary": "イスラエルとレバノンのイスラム教シーア派組織ヒズボラが、現地時間19日午後4時からの停戦で合意した。アメリカの当局者が19日に明らかにした。これに先立ち、イスラエルは同日、レバノンで展開するイスラエル兵4人がヒズボラの攻撃で殺害されたと発表し、レバノン南部を激しく空爆。この空爆では47人が死亡した。",
-      "published": "2026/06/20 12:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg"
+      "title": "豪州でH5N1型鳥インフルエンザ感染例を初確認　すべての大陸に広がる",
+      "url": "https://www.bbc.com/japanese/articles/c3dypk3vm8go?at_medium=RSS&at_campaign=rss",
+      "summary": "オーストラリア農業省は、国内で初めて鳥インフルエンザのH5N1型が確認されたと20日、明らかにした。これにより、感染力の極めて強いこの変異株がすべての大陸に広がったことになる。",
+      "published": "2026/06/22 13:34",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a52/live/0828d840-6dec-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イタリア首相、トランプ氏が自分について「でまかせ」と反発　単発的な口論ではなく",
-      "url": "https://www.bbc.com/japanese/articles/cwy0qlxl7zeo?at_medium=RSS&at_campaign=rss",
-      "summary": "イタリアのメローニ首相は19日、トランプ米大統領がイタリアのテレビ局に対し、メローニ首相が自分との写真撮影を「懇願した」と発言したことについて、まったくの「でまかせ」だと反発し、「私もイタリアも、決して懇願などしない」と述べた。タヤーニ外相は同日、週明けに予定していた訪米を急きょ中止した。この表立ってのいさかいは、ただの口論では済まされない。アメリカと欧州諸国の間の、一つの潮流を示すものだ。",
-      "published": "2026/06/20 12:46",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/b8c74c90-6bf3-11f1-b1db-af71d47507d6.jpg"
+      "title": "ロシア占領下のクリミア半島で一般向け燃料販売が停止、ウクライナの石油施設攻撃で",
+      "url": "https://www.bbc.com/japanese/articles/c4gy0474gygo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナがこのところ、ロシアに一方的に併合されたウクライナ南部クリミア半島への攻撃を続けている。こうした事態を受け、ロシアの支援を受ける地元当局は21日、一般向けの燃料販売を停止した。",
+      "published": "2026/06/22 12:09",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f7d6/live/27920bd0-6d50-11f1-b1db-af71d47507d6.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ノーベル化学賞受賞者ジョン･ジャンパー氏がグーグル･ディープマインドからアンソロピックへ移籍 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948811?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2024年ノーベル化学賞受賞者ジョン･ジャンパー氏がグーグル･ディープマインドからアンソロピックへ移籍。なぜ今､彼は新天地を選んだのでしょうか？",
-      "published": "2026/06/21 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/7/1200w/img_a756dc5261edf5fd745d26c0b5e35fa7211077.jpg?nextgen=false"
+      "title": "日本最大の私鉄｢近鉄｣はなぜ阪急･東急より巨大になれたのか　新幹線に勝てないなら\"2時間を快適に\"の逆転発想 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947930?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "路線距離501キロ､286駅､保有車両1874両――。日本最大の私鉄でありながら阪急や東急ほど知名度が高くない｢近鉄｣。しかし新幹線開業後も｢2時間を快適にすればいい｣と発想を転換し､独自の進化を遂…",
+      "published": "2026/06/22 14:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/f/1200w/img_3f1bfb20da8ceb74e6eacab6c9c9e2c5607394.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "伊藤博文を暗殺した｢安重根の遺墨｣を探せ！ 映画化で高まる関心､日本に残る遺墨､億円単位で落札も | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948431?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本では伊藤博文を暗殺した｢テロリスト｣として有名ですが､日本統治下の朝鮮で独立運動家として名を刻んだ安重根。その遺墨が空前の高値で競り落とされ､日韓を越えた争奪戦が繰り広げられています。とくに｢獨…",
-      "published": "2026/06/21 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/4/1200w/img_a4aa2cff67eebdcb184050c4d2bc143d162219.jpg?nextgen=false"
+      "title": "｢大事なのはどう立ち上がるか｣——一家4人でアメリカ横断キャンピングカー旅､ハプニングで気づいた家族の形 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947738?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "YouTubeチャンネル｢バイリンガール英会話—Bilingirl Chika｣で知られる吉田ちかさんは､2025年夏､家族4人でアメリカ大陸を横断しました。キャンピングカー旅で起きたトラブルや､グ…",
+      "published": "2026/06/22 13:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/5/1200w/img_95593d48457e16962495e64cb35414d7956117.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "W杯チュニジア戦｢ブラジルと引き分けた難敵｣の本当の強さ…日本が｢3位でグループリーグ突破｣では\"絶対にダメ\"な理由 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948702?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2026年FIFAワールドカップで日本代表が対戦するチュニジア。その堅実な守備と成長著しい戦力は､必勝が望まれる相手ながらも油断ならない存在です。森保ジャパンが勝利するためのカギ､そしてその先に待つ…",
-      "published": "2026/06/21 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/b/1200w/img_ab9231873e5c8765dc4d9fce26dc4845600778.jpg?nextgen=false"
+      "title": "ヨーロッパ首脳はなぜトランプ氏を持ち上げたのか､緩衝役を買って出た高市首相､ウクライナ･イラン･中国で揺れるG7 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948691?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "フランス･マクロン大統領がG7サミットでアメリカのトランプ大統領を最後まで巧みに引き留め､ウクライナ支援やロシア制裁強化という外交的成果を得た舞台裏とは。中国やイランを巡る動揺する国際情勢の中､西側…",
+      "published": "2026/06/22 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/2/1200w/img_5251a6fd91b5c37b9b2ebc3f5e26970d745507.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ロナウドを獲得､次はW杯…FIFA会長とも\"特別な関係\"　サウジアラビアが2034年W杯開催権を｢独占｣できた驚愕の真相 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945658?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ロナウドを呼び寄せ､F1を誘致し､ついにW杯まで――。サウジアラビアはなぜ｢競合相手ゼロ｣という異例の状況で2034年W杯開催権をモノにできたのでしょうか。FIFA会長との\"特別な関係\"や､ルールす…",
-      "published": "2026/06/21 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/b/1200w/img_4b7caabdb23265320291808d33cd8431260546.jpg?nextgen=false"
+      "title": "天皇陛下が異例の\"ご発言\"､｢令和の藤原氏｣誕生の懸念も？ ｢皇室典範改正｣をめぐる動きがここまでこじれる根本理由 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948890?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "皇室典範改正案をめぐって国会が紛糾しています。なぜ事態はここまで複雑化してしまったのでしょうか？ 長年､永田町を渡り歩いてきたベテラン記者が解説します。",
+      "published": "2026/06/22 12:45",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/8/1200w/img_18c98fb5bbeb4455196d3f120643dd0095069.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本人にはお馴染みの《前方後円墳》はなぜあの形なのか？　最新研究でわかってきた\"意外と合理的\"な2つの理由 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946509?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本独自の巨大古墳｢前方後円墳｣は､なぜ鍵穴のような形をしているのでしょうか。その形状の意味や築造目的には未だ多くの謎がありますが､墳丘の高さや形のパターンが王権の所属や権威を示す重要な役割を担って…",
-      "published": "2026/06/21 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/f/1200w/img_5f48e1fe1fe77208f43505a92b0516c3818202.jpg?nextgen=false"
+      "title": "【ホンダ社長続投の舞台裏】有力OBが社長に退任勧告／大赤字転落で社長への風当たり／謝罪でも「社員の心に響かないのでは」／次期社長の最有力候補／40代“キーマン”の手腕／株主総会で賛同を得られる？ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948900?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "EV展開の誤算から大幅な戦略修正を迫られ、2026年3月期に上場来初の赤字に転落したホンダ。厳しい局面に立たされる中、「早期に止血をしながら将来の成長に結びつける」と三部敏宏社長は陣頭指揮に意欲を示…",
+      "published": "2026/06/22 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/0/1200w/img_40e2a8c6b718b09a387c6a86d390e377182898.jpg?nextgen=false"
     }
   ]
 }
