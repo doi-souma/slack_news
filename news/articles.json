@@ -1,59 +1,77 @@
 {
-  "generated_at": "2026-06-22T05:30:42.905429+00:00",
+  "generated_at": "2026-06-23T04:20:09.535502+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「投票して」→アカウント乗っ取り　LINEが注意喚起　本人になりすましてPayPay送金など要求",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news091.html",
-      "summary": "LINEは6月18日、フィッシングサイトでアカウントを乗っ取り、家族や友人を装ってPayPayでの送金を求める詐欺が相次いでいるとして、公式SNSで注意を呼びかけた。",
-      "published": "2026/06/22 13:50",
+      "title": "“全編AI制作”でコスト9割減を実現したViglooに聞く韓国ショートドラマ事情　「視聴者は制作方法で作品を選ばない」",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news137.html",
+      "summary": "SFXは100％、音響効果は85％──。韓国のショートドラマ配信「Vigloo」は制作のほぼ全工程に生成AIを取り入れ、費用を9割超・期間を3分の1に圧縮した。AIディレクターへの取材と、配信中のフルAI作品を実際に観て見えてきた“現在地”とは。",
+      "published": "2026/06/23 12:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「児童を取材しないで」小学校火災、北区が強く要請　SNSでの憶測拡散も「配慮を」",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news087.html",
-      "summary": "SNSでの情報発信についても、「憶測や不確かな内容の拡散」について配慮するよう求めている。",
-      "published": "2026/06/22 12:57",
+      "title": "あなたは解ける？　IPAが新試験「データマネジメント試験」のサンプル問題を初公開　実施は27年度から",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news092.html",
+      "summary": "IPAは6月22日、2027年度から始まる情報処理技術者試験の新試験制度で新設する「データマネジメント試験」（仮称）のサンプル問題を公開した。",
+      "published": "2026/06/23 12:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「SaaSの死」は起こっていない？　2つの調査から見えてきたAIで代替できない、代替すべきではない業務",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news086.html",
-      "summary": "米AnthropicがClaudeベースの業務エージェント機能を発表したことで、SaaSのユーザーが激減する、いわゆる「SaaSの死」が起こるのだという説が息を吹き返した。では実際にそのような変化は起こっているのか。最近こうしたことを調査した例が2件ある。",
-      "published": "2026/06/22 12:55",
+      "title": "「Steam Machine」発売、国内では約19万円から　2TB版は約25万円",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news090.html",
+      "summary": "KOMODOは23日、米Valveのゲームコンソール「Steam Machine」を日本でも販売すると発表した。価格は512GB版の18万9980円から。",
+      "published": "2026/06/23 11:49",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「ChatGPTにうちの会社が出てこない」──採用担当を悩ます“AI就活時代”の容赦なき実態",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news020.html",
-      "summary": "採用やHRの界隈で、じわじわと語られ始めている問題意識がある。就活生、それも優秀な層ほど、キャリア相談をLLMにするようになった。その結果、Web上での露出が乏しくLLMO対策をしていない企業は、学生から“見つけてもらえなく”なってきている――というものだ。",
-      "published": "2026/06/22 12:00",
+      "title": "「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news087.html",
+      "summary": "「家に不在の時、『明日、家におらん』と言うことがありますか？」「ノートを使い切った時、『ノートが詰まった』と言うことがありますか？」",
+      "published": "2026/06/23 11:36",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "自民・山田太郎氏語る知財／無形資産活用　「技術作るだけでは勝てない」日本の勝ち筋は＜前編＞",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/22/news066.html",
-      "summary": "山田太郎参院議員が、知財・無形資産の活用を通じて企業価値の向上や日本経済の活性化を目指す一般社団法人「知財・無形資産ガバナンス協会」（菊地修理事長）の設立1周年式典で記念特別講演に臨んだ。力強い日本を作るには、「成長戦略、知財戦略、国際標準戦略の3つについて、どれも欠けてはいけない」と強調した。",
-      "published": "2026/06/22 10:42",
+      "title": "とある「銅化合物」が脳の“ゴミ掃除ポンプ”を修繕、マウス実験で記憶力が約44%向上　アルツハイマー病治療に期待",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news028.html",
+      "summary": "オーストラリアのモナシュ大学などに所属する研究者らが査読付きの学術誌ACS Chemical Neuroscienceに発表した論文「Cu(ATSM) Restores Blood-Brain Barrier Abundance of P-Glycoprotein and Improves Cognitive Function in the APP/PS1 Mouse Model of Alzhe",
+      "published": "2026/06/23 11:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカとイランの直接協議、「前向きな進展」で第1ラウンド終了と仲介国が発表",
-      "url": "https://www.bbc.com/japanese/articles/c78yzeggwzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカとイランの戦争終結の最終合意を目指す協議が21日、スイス・ルツェルン州のリゾート地ビュルゲンシュトックで始まり、仲介役を務めるカタールとパキスタンは日本時間22日午前、交渉の第1ラウンドが「前向きな進展」をもって終了したと発表した。",
-      "published": "2026/06/22 13:07",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1182/live/780f61b0-6ddd-11f1-8546-8f19e4fe30f4.jpg"
+      "title": "アメリカ、対イラン石油制裁を一時停止　核査察受け入れに同意したと主張するもイランは否定",
+      "url": "https://www.bbc.com/japanese/articles/czxqpz7ydvzo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのヴァンス米副大統領は22日、イランとの戦争終結に向けた協議後、イランが核査察の受け入れに同意したとし、国際原子力機関（IAEA）との協議が「早ければ22日中にも」行われると述べた。しかしイラン側は、核査察官を再び受け入れることには同意していないと否定した。",
+      "published": "2026/06/23 11:36",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8a5/live/4c851ec0-6e8e-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "スターマー英首相、辞任発表　次の与党党首が決まるまでは留任",
+      "url": "https://www.bbc.com/japanese/articles/cddl33p9dp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "5月初めの英地方選で与党・労働党が大敗したのを機に党内で辞任圧力が高まっていたイギリスのスターマー首相は、現地時間22日午前9時半過ぎ、労働党の党首を辞任すると発表した。首相としては、次の党首が決まるまで留任するという。チャールズ国王とはすでに話をしたと明らかにした。党首選がある場合は、議会が夏季休会を終えて再開する9月までに次の党首が決まるよう、党の執行委員会に求めると述べた。",
+      "published": "2026/06/22 23:33",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/97bc/live/74267f60-6e38-11f1-9fdc-51e252bb92b4.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【全訳】スターマー氏の辞任演説　次の総選挙へ向けた「党の答えを聞いた」",
+      "url": "https://www.bbc.com/japanese/articles/ckg7d6zkv6po?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのスターマー首相は22日朝、首相と与党・労働党党首を辞任する意向を表明した。官邸前で演説したスターマー氏は、次の総選挙に向けて党を率いるのに自分が最も適任なのかという問いに対する党の「答えを聞いた」とし、「その答えを潔く受け入れる」と話し、党首を辞任する考えを示した。",
+      "published": "2026/06/22 23:18",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b7e4/live/1ba47730-6e23-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,74 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "スターマー英首相に辞任圧力高まる　政治家としての今後を検討と",
-      "url": "https://www.bbc.com/japanese/articles/cp8lzv12zvmo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのスターマー首相は、与党・労働党内で辞任圧力が高まるなか、自分の政治的将来について検討している。首相を支持する盟友のカイル通商相は21日朝、BBC番組で首相が「今の政治的現実」を検討していると発言した。",
-      "published": "2026/06/22 11:35",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e35/live/5efea8c0-6d8d-11f1-bb4a-cbaa8225a98f.png"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "豪州でH5N1型鳥インフルエンザ感染例を初確認　すべての大陸に広がる",
-      "url": "https://www.bbc.com/japanese/articles/c3dypk3vm8go?at_medium=RSS&at_campaign=rss",
-      "summary": "オーストラリア農業省は、国内で初めて鳥インフルエンザのH5N1型が確認されたと20日、明らかにした。これにより、感染力の極めて強いこの変異株がすべての大陸に広がったことになる。",
-      "published": "2026/06/22 13:34",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a52/live/0828d840-6dec-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ロシア占領下のクリミア半島で一般向け燃料販売が停止、ウクライナの石油施設攻撃で",
-      "url": "https://www.bbc.com/japanese/articles/c4gy0474gygo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナがこのところ、ロシアに一方的に併合されたウクライナ南部クリミア半島への攻撃を続けている。こうした事態を受け、ロシアの支援を受ける地元当局は21日、一般向けの燃料販売を停止した。",
-      "published": "2026/06/22 12:09",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f7d6/live/27920bd0-6d50-11f1-b1db-af71d47507d6.jpg"
+      "title": "ゼレンスキー氏、ポーランド最高勲章を返上　剥奪すると言われ",
+      "url": "https://www.bbc.com/japanese/articles/c4gy02wj858o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナのゼレンスキー大統領は20日、ポーランド最高位の勲章を返上したと明らかにした。ポーランドのナヴロツキ大統領が前日、ゼレンスキー氏から勲章を剥奪すると表明していた。きっかけは、ウクライナ軍部隊の改名だった。",
+      "published": "2026/06/22 15:50",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d989/live/836b78f0-6e00-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本最大の私鉄｢近鉄｣はなぜ阪急･東急より巨大になれたのか　新幹線に勝てないなら\"2時間を快適に\"の逆転発想 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947930?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "路線距離501キロ､286駅､保有車両1874両――。日本最大の私鉄でありながら阪急や東急ほど知名度が高くない｢近鉄｣。しかし新幹線開業後も｢2時間を快適にすればいい｣と発想を転換し､独自の進化を遂…",
-      "published": "2026/06/22 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/f/1200w/img_3f1bfb20da8ceb74e6eacab6c9c9e2c5607394.jpg?nextgen=false"
+      "title": "大谷翔平｢第2子誕生｣の裏で過熱する《年子論争》…真美子夫人を勝手に心配する人々が陥った｢脳のバグ｣の正体 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949010?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ大リーグ･ドジャースの大谷翔平選手夫妻の第2子誕生がSNSで祝福される一方､｢年子｣出産への賛否が大論争を呼んでいます。なぜそこまで他人の出産事情に白熱するのか。本稿では､科学的見地から読み…",
+      "published": "2026/06/23 13:15",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/d/1200w/img_5d855e8e0da80a368aa72cbbfae507c0512503.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢大事なのはどう立ち上がるか｣——一家4人でアメリカ横断キャンピングカー旅､ハプニングで気づいた家族の形 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947738?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "YouTubeチャンネル｢バイリンガール英会話—Bilingirl Chika｣で知られる吉田ちかさんは､2025年夏､家族4人でアメリカ大陸を横断しました。キャンピングカー旅で起きたトラブルや､グ…",
-      "published": "2026/06/22 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/5/1200w/img_95593d48457e16962495e64cb35414d7956117.jpg?nextgen=false"
+      "title": "30年以上仕事が途切れないフリーランスが指摘｢好きなことを仕事にする｣が\"危うい\"理由 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948198?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "フリーランスとして30年以上活躍し続ける上阪徹氏は､｢人の役に立つこと｣こそ仕事の本質だと語ります。やりたいことだけにこだわらず､求められることに全力で向き合うことで予想外の成功が訪れる､その理由と…",
+      "published": "2026/06/23 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/d/1200w/img_5dcb19f5aad20a69df3bcf6d907254de649389.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ヨーロッパ首脳はなぜトランプ氏を持ち上げたのか､緩衝役を買って出た高市首相､ウクライナ･イラン･中国で揺れるG7 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948691?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "フランス･マクロン大統領がG7サミットでアメリカのトランプ大統領を最後まで巧みに引き留め､ウクライナ支援やロシア制裁強化という外交的成果を得た舞台裏とは。中国やイランを巡る動揺する国際情勢の中､西側…",
-      "published": "2026/06/22 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/2/1200w/img_5251a6fd91b5c37b9b2ebc3f5e26970d745507.jpg?nextgen=false"
+      "title": "国債で｢国民一人当たり1100万円の借金｣とマスコミは煽るが…実は間違い？データで検証する｢日本の財務｣の真実 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947804?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢日本の財政危機説｣は本当なのか。巨額の国債発行や国民一人当たりの借金額がメディアで繰り返し報じられ､不安を抱く人も多いはず。しかし､国の資産や日銀を含めた\"統合政府\"のバランスシート､IMFの最新…",
+      "published": "2026/06/23 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200w/img_fe081be9b1e3894141f9f8936629f180273868.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "天皇陛下が異例の\"ご発言\"､｢令和の藤原氏｣誕生の懸念も？ ｢皇室典範改正｣をめぐる動きがここまでこじれる根本理由 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948890?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "皇室典範改正案をめぐって国会が紛糾しています。なぜ事態はここまで複雑化してしまったのでしょうか？ 長年､永田町を渡り歩いてきたベテラン記者が解説します。",
-      "published": "2026/06/22 12:45",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/8/1200w/img_18c98fb5bbeb4455196d3f120643dd0095069.jpg?nextgen=false"
+      "title": "中小型の厳選注目株④農薬大手の北興化学は半導体フォトレジスト原料の需要急増でもPER割安､配当は10年で5倍 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948887?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "キオクシアホールディングスやソフトバンクグループといった大型株の株価上昇が目立つ今､注目しておきたい中小型株はどこか。配当金収入が年800万円を超える｢増配割安株投資家｣のRicky氏が厳選しました。",
+      "published": "2026/06/23 11:05",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/2/1200w/img_729be9599e8864a756a2fd8f79ce3535139173.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【ホンダ社長続投の舞台裏】有力OBが社長に退任勧告／大赤字転落で社長への風当たり／謝罪でも「社員の心に響かないのでは」／次期社長の最有力候補／40代“キーマン”の手腕／株主総会で賛同を得られる？ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948900?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "EV展開の誤算から大幅な戦略修正を迫られ、2026年3月期に上場来初の赤字に転落したホンダ。厳しい局面に立たされる中、「早期に止血をしながら将来の成長に結びつける」と三部敏宏社長は陣頭指揮に意欲を示…",
-      "published": "2026/06/22 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/0/1200w/img_40e2a8c6b718b09a387c6a86d390e377182898.jpg?nextgen=false"
+      "title": "中小型の厳選注目株③ルタオ､フランセ…土産菓子最大手｢寿スピリッツ｣､中国からのインバウンド減でも連続最高益 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948880?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "キオクシアホールディングスやソフトバンクグループといった大型株の株価上昇が目立つ今､注目しておきたい中小型株はどこか。目利きに定評のある経済ジャーナリスト･和島英樹氏が厳選しました。",
+      "published": "2026/06/23 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/2/1200w/img_729f398377c07b2f2f1d194915eaa0c096375.jpg?nextgen=false"
     }
   ]
 }
