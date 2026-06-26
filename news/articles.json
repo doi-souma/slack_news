@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-06-25T04:33:57.522515+00:00",
+  "generated_at": "2026-06-26T04:39:40.313312+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "6代目「アイボ」、販売終了へ　サポートなどは継続",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news086.html",
-      "summary": "ソニーグループは6月25日、犬型ロボット「aibo」（アイボ）シリーズの現行モデル「ERS1000/W」の国内販売を、在庫がなくなり次第終了すると発表した。ERS-1000は、6代目「aibo」として2018年に登場した。",
-      "published": "2026/06/25 12:30",
+      "title": "「Mac」「iPad」突如値上げの理由は？　アップル「かつてない上昇幅」　海外報道",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news086.html",
+      "summary": "米Appleは6月25日、ノートPC「MacBook」とタブレット「iPad」などを値上げした。メモリやストレージ向け半導体の価格高騰が理由。同社は「これほど急激かつ大幅な部品価格の上昇はかつてなかった」と説明している。",
+      "published": "2026/06/26 12:25",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "MicrosoftとEuropol、情報窃取マルウェア「StealC」「Amadey」の基盤を一斉摘発　C2サーバ200台超を停止",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news084.html",
-      "summary": "MicrosoftとEuropolは、情報窃取型マルウェア「StealC」と、これを送り込むローダ「Amadey」の基盤を一斉に停止させたと発表した。国際的な取り締まり活動「Operation Endgame」の一環で、Microsoftは200を超えるC2サーバを停止し、被害端末約1万8000台を特定、保護した。両マルウェアは盗んだ認証情報を介してランサムウェア攻撃の起点になるため、企業側の警戒",
-      "published": "2026/06/25 12:10",
+      "title": "お湯が固形化したみたい？　「STTA テックオシボリ」担当者に聞いた新素材の特性と“気持ち良さ”の秘密",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news081.html",
+      "summary": "「テックオシボリ」は、オシボリを再解釈したリフレッシュのためのガジェット。水やお湯を多く保持しつつ肌触りが良い。夏にはかなり重宝しそうな製品なのだ。",
+      "published": "2026/06/26 11:54",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "@nifty、ログイン通知メール一時停止　「負荷集中」のため",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news076.html",
-      "summary": "「@niftyメール」の「メールパスワード」が漏えいした可能性がある問題を受け、パスワード変更を求められた顧客によるアクセスが集中し、負荷が高まっているためとみられる。",
-      "published": "2026/06/25 11:26",
+      "title": "「NURO光」に行政指導　契約書交付に不備　見守りGPSでは5年超",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news077.html",
+      "summary": "光回線のマンション向けプランなどで契約書面が適切に交付されていなかったほか、見守りGPSサービス「amue link」（アミューリンク）では、約5年2カ月にわたり、書面交付の仕組み自体が存在しなかったという。",
+      "published": "2026/06/26 11:39",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Qualcomm、AIデータセンター向けCPU「Dragonfly C1000」発表　Metaが次世代サーバに採用、2028年後半に生産へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news075.html",
-      "summary": "Qualcommは、AIデータセンター向けの新たな製品群を発表した。中核はサーバ向けCPU「Qualcomm Dragonfly C1000」で、独自の「Oryon CPU」コアを採用し、競合の最新サーバ向けCPUと比べて2倍以上の電力効率を謳う。Metaが次世代サーバ群への採用を決め、2028年後半に生産を始める。",
-      "published": "2026/06/25 11:17",
+      "title": "LINEヤフーグループ、自己都合退職急増　前年度比65％増の2791人",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news070.html",
+      "summary": "自己都合退職率は、6.9％から9.9％に上昇した。",
+      "published": "2026/06/26 10:24",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "OpenAI、「GPT-5.5 Instant」をアップデート　会話の文脈維持や箇条書き減など「読みやすさ」を改善",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news062.html",
-      "summary": "OpenAIは、ChatGPTで最も広く利用されているモデル「GPT-5.5 Instant」のアップデートを発表した。新機能の追加ではなく、日常的な会話の品質向上が中心。質問の意図を的確に捉えて文脈を維持する能力が向上するほか、テンプレート的な回答が減り、位置情報を活用した地域のビジネス検索などもより洗練されるとしている。",
-      "published": "2026/06/25 09:23",
+      "title": "YouTube、「ショート動画」を2倍速で再生可能に　「低評価」ボタンは廃止",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news069.html",
+      "summary": "YouTubeは、「ショート動画」のプレーヤーに複数の新機能を導入すると発表した。アイコンやテキストを一時的に非表示にする「Clear Screen」モードや、長押しによる2倍速再生機能を追加。さらに、従来の低評価ボタンを廃止し、「興味なし」などのより精密な操作でフィードをカスタマイズする仕様へ刷新する。",
+      "published": "2026/06/26 09:53",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "IAEA、イラン核施設を査察すると　合意に基づき実施予定と事務局長",
-      "url": "https://www.bbc.com/japanese/articles/c9d2xden324o?at_medium=RSS&at_campaign=rss",
-      "summary": "国際原子力機関（IAEA）のグロッシ事務局長は24日、イランで核施設の査察を実施すると発表した。同国とアメリカの暫定的な和平合意に基づくものだとしている。",
-      "published": "2026/06/25 13:14",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fcc8/live/65f531e0-6ff3-11f1-8e1d-bbbb1017d210.jpg"
+      "title": "【2026年サッカー男子W杯】 日本、スウェーデンと引き分け決勝T進出　ベスト32戦はブラジルと",
+      "url": "https://www.bbc.com/japanese/articles/cn4d0275848o?at_medium=RSS&at_campaign=rss",
+      "summary": "サッカー男子ワールドカップ（W杯）北中米大会は25日夜（日本時間26日朝）、グループステージ（1次リーグ）の試合があり、米ダラス・スタジアムで第3戦に臨んだ日本は1-1でスウェーデンと引き分けた。これで日本は1次リーグ2位となり、ノックアウトステージ（決勝トーナメント）進出が決まった。",
+      "published": "2026/06/26 12:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5d8/live/8f6b8a30-7109-11f1-b0f8-9f1cd6279b8b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "南米ヴェネズエラで強い地震が2度発生　マグニチュード7超",
-      "url": "https://www.bbc.com/japanese/articles/cx2j4xg9xeeo?at_medium=RSS&at_campaign=rss",
-      "summary": "﻿﻿南米ヴェネズエラで24日夕、マグニチュード（M）7.2と7.5の強い地震が立て続けに発生した。BBCの記者や協力者が撮影した映像には、地震が発生した瞬間や、建物が倒壊した被災後の様子が映っている。",
-      "published": "2026/06/25 12:41",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5cb2/live/9b492900-7025-11f1-8e1d-bbbb1017d210.jpg"
+      "title": "ヴェネズエラでM7超の大規模地震、死者少なくとも235人　救助活動続く",
+      "url": "https://www.bbc.com/japanese/articles/cz75pjng45po?at_medium=RSS&at_campaign=rss",
+      "summary": "南米ヴェネズエラで24日夕（日本時間25日朝）、マグニチュード（M）7超の強い地震が2度立て続けに発生した。首都カラカスなどで、大きな揺れが数十秒の間を置いて起きた。2度目の地震はM7.5で、同国で過去100年間に発生した最大規模の地震となった。 多数の死傷者が出ているもよう。",
+      "published": "2026/06/26 09:08",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ed3/live/79f27620-70e9-11f1-b357-5d973c9b7b8f.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イスラエル、レバノン南部で2人殺害　停戦後で初の死者",
-      "url": "https://www.bbc.com/japanese/articles/cewqn41glj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "レバノン保健省は23日、イスラエル軍がレバノン南部で男性2人を射殺したと発表した。イスラエルとレバノンのイスラム教シーア派組織ヒズボラとの紛争で死者が出たのは、両者が19日に停戦に合意して以降で初めて。イスラエル軍は、この2人はヒズボラの工作員だと主張しているが、ヒズボラは停戦違反だと非難している。",
-      "published": "2026/06/24 15:45",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f126/live/8b76c460-6f1c-11f1-8546-8f19e4fe30f4.jpg"
+      "title": "国連、ホルムズ海峡で足止めの船員退避計画を一時停止　貨物船への攻撃受け",
+      "url": "https://www.bbc.com/japanese/articles/c24ylgdjjpno?at_medium=RSS&at_campaign=rss",
+      "summary": "国連の国際海事機関（IMO）は25日、アメリカとイスラエルによる対イラン戦争の影響でホルムズ海峡で足止めされている船員1万1000人超を退避させる計画を一時停止した。同海峡を通過中の貨物船1隻が攻撃されたことを受けた措置。",
+      "published": "2026/06/26 11:37",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e8e8/live/eed0f000-70c3-11f1-b607-85b4e4066ca8.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "国連、ホルムズ海峡で足止めの船員を退避させると　米国務長官は通行料設定に対し警告",
-      "url": "https://www.bbc.com/japanese/articles/c5yzqqpnwq6o?at_medium=RSS&at_campaign=rss",
-      "summary": "国連の国際海事機関（IMO）は23日、アメリカとイスラエルによる対イラン戦争の影響でペルシャ湾内で足止めされている船員1万1000人超を退避させる方針を明らかにした。",
-      "published": "2026/06/24 12:53",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e62d/live/0661c170-6f2c-11f1-8b65-27158411943c.jpg"
+      "title": "イギリスで今年最高気温の36.7度に　「赤色」高温警報が続く",
+      "url": "https://www.bbc.com/japanese/articles/cx2wdg3gywko?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスで25日午後に36.7度という記録的な気温が観測された。イギリス気象庁によると、6月の記録上の最高気温を2日連続で更新した。気象庁は、命への危険を警告する異例の「赤色」高温警報の期間を3日連続で延長した。",
+      "published": "2026/06/26 11:31",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d756/live/636a2380-709e-11f1-86cf-0fd142c2b6fb.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "スターマー英首相、バーナム氏と会談　「秩序のとれた」権力移行を模索するなか",
-      "url": "https://www.bbc.com/japanese/articles/c2dynnp24z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのスターマー首相は23日、与党・労働党のバーナム議員と会談した。22日に辞任を表明したスターマー氏は会談に先立ち、次の労働党党首の候補者らが政府運営に備えて公務員と事前協議することを認めた。現時点で次の首相候補に浮上しているのはバーナム氏のみ。対抗馬が現れなければ、同氏は早ければ7月17日にも次のイギリス首相に就任する可能性がある。",
-      "published": "2026/06/24 16:20",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a17c/live/99969e10-6f14-11f1-8e1d-bbbb1017d210.png"
+      "title": "チャールズ英国王が納税額を公表、君主として初　昨年度は約27億円",
+      "url": "https://www.bbc.com/japanese/articles/cj4g1znv5kwo?at_medium=RSS&at_campaign=rss",
+      "summary": "英国王チャールズ3世は25日、財務報告書を公開し、2024〜2025年度に1290万ポンド（約27億5000万円）の税金を支払ったことを明らかにした。イギリスの君主が納税額を公表したのは今回が初めてで、チャールズ国王はイギリスの納税者の上位100人に入る。",
+      "published": "2026/06/26 13:29",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00de/live/80d2ab60-70ce-11f1-b217-6f3746be3039.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢178万円の壁｣はナゼ\"178万円\"という数字になったのか？　元大蔵官僚が解説する｢納得の根拠｣ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947806?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "可処分所得を増やすには単なる賃上げだけでなく､社会保険料や税負担の見直しが重要です。長年据え置かれてきた｢103万円の壁｣は､経済政策や政権交代､最低賃金の上昇により大きく動き出しました。果たして\"…",
-      "published": "2026/06/25 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/5/1200w/img_f5eb0a370b672bf723b3db5d9aeaf553279313.jpg?nextgen=false"
+      "title": "｢中学英語｣でつまずく子の\"初歩的だが意外な盲点\"…　英語と日本語の｢仕組み｣の違いを理解することがカギ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948780?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "小学校の｢楽しい英語｣から中学校の本格的な英文法へ――ここで多くの子どもがつまずく理由をご存じですか？日本語と英語､文の組み立ての根本的な違いを知れば英語はぐっと身近になります。読み進めるほど発見が…",
+      "published": "2026/06/26 13:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/7/1200w/img_57c82c5141dbb46f2a3d7e77115f5819226357.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "思考をなんでも生成AIに外注できる時代…｢自分とは何者か｣を探るために｢自分の脳｣の役割を検証してみたら | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947114?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AIが急速に進化し､私たちの思考や判断さえも外注できる時代が到来しました。そんな今､私たち｢自分という存在｣の本当の価値はどこにあるのでしょうか。人間の意識や内面世界の神秘に迫り､あなたの中の\"本当…",
-      "published": "2026/06/25 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/1/1200w/img_0158b5fe9c4369194b34ea14504f8d69454867.jpg?nextgen=false"
+      "title": "【ナフサ】日本の代替調達はアメリカ頼みが鮮明に…全体に占める割合が3割超､湾岸8カ国からの調達は9％まで低下 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949470?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "米国頼みが強まる中､安定供給と調達先の多様化が急務です。",
+      "published": "2026/06/26 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/2/1200w/img_c270bf042d5a9004408b26f7080b080a227671.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "W杯グループ最終戦｢対スウェーデン｣は\"ミラーゲーム\"でハメる…怪物FWヨケレスを封じる森保ジャパンの緻密な計算 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949194?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本代表が圧巻の勝利を収めたチュニジア戦を経て､いよいよグループ最終戦･スウェーデン戦が迫ります。相手の強さや注目のストライカー､そして森保ジャパンの戦略は？　勝ち抜くためのカギとW杯での本質的な戦…",
-      "published": "2026/06/25 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/6/1200w/img_e6033e8a04877b0e9f2ab285e154e589249869.jpg?nextgen=false"
+      "title": "中小型の厳選注目株⑧売上1兆円が視野…水産大手ニッスイは陸上養殖の先駆､連続最高益でも｢伸びしろあり｣と見る理由 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949304?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "キオクシアホールディングスやソフトバンクグループといった大型株の株価上昇が目立つ今､注目しておきたい中小型株はどこか。目利きに定評のある経済ジャーナリスト･和島英樹氏が厳選しました。",
+      "published": "2026/06/26 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/3/1200w/img_f3f27e2252d130c11f2d0cc3c7dd7e2c50754.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "Geminiと声で話す生活へ…停滞するスマートスピーカー市場に｢Google Home スピーカー｣が吹き込む\"新たな価値\" | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949177?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ChatGPTやGeminiの普及でAIが身近になった現代､グーグルの新スマートスピーカー｢Google Home スピーカー｣は､AIを\"スマホの外\"へ連れ出す画期的な存在として登場しました。生活…",
-      "published": "2026/06/25 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/9/1200w/img_c9a4e0d52b72acff168b402f8b3eb04f147709.jpg?nextgen=false"
+      "title": "肩こり･腰痛対策に､認知症リスク低減効果まで…体の不調を同時に解決？本当に正しい｢ラジオ体操｣のやり方 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947898?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "毎日何気なく続けているラジオ体操。でも､正しいやり方を意識するだけで肩こりや腰痛､呼吸の浅さが劇的に改善されることをご存じでしたか？今回､体操3〜6番の科学的効果とコツを解説。明日の体の変化に､あな…",
+      "published": "2026/06/26 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/9/1200w/img_89afc337be40939e906215678c12b262252212.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "20年で｢W杯常連国｣になった日本サッカー　小野､高原､稲本…黄金世代が｢1回数百万円の海外遠征に何度も行けた｣ワケ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945656?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "小野伸二､高原直泰､稲本潤一――。1990年代､彼らはなぜ｢1回数百万円｣もかかる海外遠征に何度も行けたのでしょうか。その答えは､意外にも2002年W杯招致活動にありました。日本サッカーのレベルを押…",
-      "published": "2026/06/25 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/9/1200w/img_3904d9ee49909be18311f279d80e9e0a249611.jpg?nextgen=false"
+      "title": "｢お金持ち＝幸せのゴールじゃない！｣10歳で新聞配達を始めたパックンが語る｢子どもに本当に教えたいお金の力｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948625?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢投資＝お金を増やす｣だけではない——子どもたちに本当に伝えたいのは､自立し自由に生きるための力。子どもの頃､新聞配達でお金を稼いだ経験から学んだ\"パックン\"。彼が実践する親子のマネー教育とは？",
+      "published": "2026/06/26 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/b/1200w/img_cba5d3295dc0c5ad3e0cd27bcf150e7d457749.jpg?nextgen=false"
     }
   ]
 }
