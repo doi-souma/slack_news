@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-06-28T04:50:42.061259+00:00",
+  "generated_at": "2026-06-29T04:59:42.719987+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「HTTPステータスコード百人一首」や“社長として情報漏えいを防ぐゲーム”も　日本屈指のボードゲーム即売会で見つけた“IT卓ゲ”たち",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/28/news013.html",
-      "summary": "アナログゲーム事業を手掛けるアークライトが5月23～24日にかけて開催したボードゲームの展示即売会「ゲームマーケット2026春」でIT系アナログゲームを探してきた。",
-      "published": "2026/06/28 12:00",
+      "title": "集英社「ナツコミ」開始前から混乱　メルカリやEbayに“フライング出品”、「200枚155万円」など……書店も対応に追われる",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/29/news088.html",
+      "summary": "メルカリでは「ONE PIECE」のカードが200枚155万円で購入されるなど大量出品も目立つ他、Ebayを通じて海外向けにも転売されており、“フライング出品”が高額で流通している状態だ。",
+      "published": "2026/06/29 12:35",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "OpenAI、次世代AI「GPT-5.6」を限定プレビュー──米政府の要請で全面公開見送り「恒久的な標準にすべきでない」",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
-      "summary": "OpenAIは、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」など3モデルで構成する。提供形態を巡って米連邦政府の要請を受け、信頼できる少数のパートナーから提供を開始する。こうした政府による事前確認のプロセスが「恒久的な標準になるべきではない」と主張した。",
-      "published": "2026/06/28 08:20",
+      "title": "「うずしお」では受注できなかった──社名を「BEMAC」に変えた電気設備企業に起きたこと",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/29/news018.html",
+      "summary": "グローバルニッチは高い技術力を持つ一方で、知名度が実力に比べて劣り、ITを駆使して海外でのブランディングや販売に生かしていることも多い。この連載では、こうした企業のIT戦略をインタビューで深堀りする。今回は船舶用の電気設備などを提供するBEMAC（愛媛県今治市）を取り上げる。",
+      "published": "2026/06/29 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/28/news019.html",
-      "summary": "Anthropicは、輸出規制で6月12日から全面停止していたAIモデル「Claude Mythos 5」について、一部の米国組織への再展開を米政府が認めたと発表した。一方、「Claude Fable 5」は引き続き停止されたままで、一般提供の再開に向けた協議が続いている。",
-      "published": "2026/06/28 07:15",
+      "title": "AIの進化は、スマートスピーカーへの“失望感”を挽回できるか？　Gemini対応の新型を試す",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/29/news077.html",
+      "summary": "過去のスマートスピーカーは受け答えがあまりスマートではなかったが、25日にGemini for Home対応の新型「Google Home Speaker」の出荷が開始された。使って見ると、洗練された受け答えに進化していたが、まだ完璧ではない。",
+      "published": "2026/06/29 11:32",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "大人気の「めっちゃカメレオン」にプロのマンガ家が参戦！　自慢のお絵かきスキルで無双できたのか？",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/28/news012.html",
-      "summary": "かくれんぼを題材にしたインディゲーム「めっちゃカメレオン」が人気です。隠れる側がペイントツールで自分の体に絵を描くことで、周囲の景色と同化できるのがポイント。でもプロのマンガ家なのに最初からつまづいてしましました。",
-      "published": "2026/06/28 07:14",
+      "title": "大人気「めっちゃカメレオン」小学生にはオススメできない理由　ただの“かくれんぼ”と思いきや……",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/29/news070.html",
+      "summary": "お絵かきもかくれんぼも、小学生の遊びの定番だが、「めっちゃカメレオン」を小学生にはオススメできない理由がある。",
+      "published": "2026/06/29 11:13",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ソニー「α7R VI」は弱点が見当たらない高画質モデル　ディテールの描写力と正確なAFは「さすが」の一言",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/27/news006.html",
-      "summary": "ソニーから、α7シリーズの高画素モデルの最新機「α7R VI」が登場した。新型センサーの搭載により、読み出し速度はα7R V比で最大5.6倍に向上した。この速度向上が一番のウリ。でもそれだけじゃない。",
-      "published": "2026/06/27 08:31",
+      "title": "カインズが画像AIで売上UP模索、店頭でのインテリア“試着”をテスト　立ちはだかる「正確性と効率」の壁",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news114.html",
+      "summary": "カインズが画像生成AIを活用し、部屋のインテリアを疑似的に置き換えられる店頭サイネージ「CAINZ Fitting Room」を開発。その効果や利便性を検証している。",
+      "published": "2026/06/29 10:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ドイツで史上最高気温、イベントも中止に……欧州で熱波の影響続く",
-      "url": "https://www.bbc.com/japanese/articles/c1my85111vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "熱波で高温が続いている欧州で26日、ドイツとベルギー、オランダで6月の最高気温が更新された。また、スペインとフランスでは熱波による死者が増加した。各国当局は、健康上のリスクを理由に、コンサートなどの公共イベントを中止している。",
-      "published": "2026/06/27 13:07",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ef7/live/9635ade0-7187-11f1-bcec-7f8ed2660388.jpg"
+      "title": "ヴェネズエラ地震、死者1400人超す　週末に33人救出",
+      "url": "https://www.bbc.com/japanese/articles/cr5j7d98115o?at_medium=RSS&at_campaign=rss",
+      "summary": "南米ヴェネズエラの大規模連続地震で、生存者を見つけるのに重要とされる72時間が経過した。当局は28日、死者が少なくとも1450人に上ったと発表した。救助隊員が懸命の活動を続けるなか、奇跡的な生存者の救出もみられている。",
+      "published": "2026/06/29 12:05",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米軍がイランの標的を攻撃、貨物船へのドローン攻撃に対応と",
-      "url": "https://www.bbc.com/japanese/articles/cx2xev2gd84o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ軍は26日、イランの標的に対する攻撃を実施した。この前日にはホルムズ海峡で貨物船が攻撃され、ドナルド・トランプ米大統領が停戦に対する「愚かな違反」だとイランを非難していた。",
-      "published": "2026/06/27 11:53",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg"
+      "title": "アメリカとイランが攻撃の応酬、停戦に違反したと互いに非難",
+      "url": "https://www.bbc.com/japanese/articles/cz75yl3q3nlo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカは27日、ホルムズ海峡でパナマ船籍のタンカー1隻がドローンで攻撃されたことを受け、イランに対して新たな空爆を実施した。一方でイランは、中東地域にある米関連インフラに報復攻撃を仕掛けたと発表した。",
+      "published": "2026/06/29 11:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "南米ヴェネズエラ地震、死者増える　余震200回以上",
-      "url": "https://www.bbc.com/japanese/articles/cvgm1665edmo?at_medium=RSS&at_campaign=rss",
-      "summary": "24日にマグニチュード（M）7.2と7.5の強い地震が立て続けに発生した南米ヴェネズエラで26日、死者が920人に上ったと、ヴェネズエラ国民議会のホルヘ・ロドリゲス議長が国営テレビで話した。負傷者は3360人で、少なくとも172人がまだがれきの下に閉じ込められている様子という。",
-      "published": "2026/06/27 13:21",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg"
+      "title": "フランス東部で小型機が墜落、スカイダイビング参加者ら11人死亡",
+      "url": "https://www.bbc.com/japanese/articles/c04y1rl7p34o?at_medium=RSS&at_campaign=rss",
+      "summary": "フランス東部の町トンブレーヌで26日、スカイダイビングの参加者らを乗せた民間の小型機が墜落し、搭乗していた11人全員が死亡した。地元当局が明らかにした。",
+      "published": "2026/06/29 13:45",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f645/live/c3ce2a40-72ed-11f1-a52b-4f9c73b26afb.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ボルトン元米大統領補佐官、機密文書の扱いで有罪認める　政権解任後に批判に転じる",
-      "url": "https://www.bbc.com/japanese/articles/ce8k65eze3ro?at_medium=RSS&at_campaign=rss",
-      "summary": "第1次ドナルド・トランプ政権で大統領補佐官（国家安全保障担当）を務めた後、トランプ大統領を強く批判するようになったジョン・ボルトン被告が16日、機密文書の扱いをめぐる連邦法違反について有罪を認めた。著作のための資料収集の一環として、機密情報を違法に扱ったという。",
-      "published": "2026/06/27 13:10",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bcea/live/a513f030-716c-11f1-a4f8-ed826651ef10.jpg"
+      "title": "ヴェネズエラ地震、がれきの下から男性が救出された瞬間",
+      "url": "https://www.bbc.com/japanese/articles/c4gy3eel771o?at_medium=RSS&at_campaign=rss",
+      "summary": "スペイン軍の緊急部隊は27日、南米ヴェネズエラの大地震で甚大な被害を受けた北部沿岸のマイケティアで、建物のがれきの下から男性を救出した際の映像を公開した。",
+      "published": "2026/06/29 11:12",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b317/live/2dd1a8e0-7357-11f1-a834-75aa9c4a7b4b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "チャールズ英国王が納税額を公表、君主として初　昨年度は約27億円",
-      "url": "https://www.bbc.com/japanese/articles/cj4g1znv5kwo?at_medium=RSS&at_campaign=rss",
-      "summary": "英国王チャールズ3世は25日、財務報告書を公開し、2024〜2025年度に1290万ポンド（約27億5000万円）の税金を支払ったことを明らかにした。イギリスの君主が納税額を公表したのは今回が初めてで、チャールズ国王はイギリスの納税者の上位100人に入る。",
-      "published": "2026/06/26 13:29",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00de/live/80d2ab60-70ce-11f1-b217-6f3746be3039.jpg"
+      "title": "ヴェネズエラ地震、11歳の男の子をがれきの下から救出",
+      "url": "https://www.bbc.com/japanese/articles/ce37enwjel0o?at_medium=RSS&at_campaign=rss",
+      "summary": "コロンビアの国家災害リスク管理局（UNGRD）は27日、南米ヴェネズエラの大地震で甚大な被害を受けた北部沿岸のラ・グアイラで、建物のがれきの下から11歳の男の子を救出した際の映像を公開した。",
+      "published": "2026/06/29 13:22",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afc6/live/f71e0e00-7361-11f1-b1db-af71d47507d6.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "イラン停戦合意が映し出すアメリカ覇権の限界､\"平和の使者\"を自称してきたトランプ外交の現実と世界秩序の危うい行方 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949364?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2026年6月､イランとアメリカの突然の停戦合意が世界を驚かせました。しかし､その背後には軍事的膠着とアメリカの衰退､強靱な新世代イランの台頭､そして国際社会のパワーバランス崩壊が横たわっています。…",
-      "published": "2026/06/28 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/e/1200w/img_8ef309d45171ba1a107886a54e41bdc2600554.jpg?nextgen=false"
+      "title": "左派を骨抜きにした｢アイデンティティ政治｣の罠　CIAや大企業にも消費される｢多様性｣と｢被害者｣ポジション争奪戦 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/946903?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "格差や貧困が深刻化する現代､分断や被害者意識の強調が｢左派｣の連帯を蝕んでいます。アイデンティティ政治やSNS文化が､本来の社会変革を阻む現状を捉え､真の連帯を取り戻すための問題提起と提言を探ります…",
+      "published": "2026/06/29 13:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/6/1200w/img_d6519b216768cb66dbcd6e925b76687c415830.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "毎朝3分！｢本当のラジオ体操｣で不調を解決しよう　スキマ時間でできる｢ちょいラジ｣の\"知られざる健康効果\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947907?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "肩こりや腰の重だるさ､足の冷えやむくみなど､日常の不調を感じていませんか？　実はラジオ体操の動きを取り入れることで､こうした悩みを手軽にリセットできるのです。不調ごとの具体的な｢ちょいラジ｣活用術を…",
-      "published": "2026/06/28 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/7/1200w/img_c731f4b4af7d8e1b8da2fcf3ab89ee1b63576.jpg?nextgen=false"
+      "title": "謙虚さを忘れるとしっぺ返しがあるかも……気象予報士の森田さん｢自然はただコントロールすればいいものではない｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/945514?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢近視は単なる視力低下｣と捉えがちですが､実は失明リスクを高める深刻な疾患です。本記事では､気象予報士･森田正光さんと眼科医･窪田良氏による対談を通じ､気候変動や自然､そして私たちの体が持つ\"システ…",
+      "published": "2026/06/29 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/1/1200w/img_d12d7ae31d9ce010f34119fc9b3343f9253735.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ふつうの女性も定年を迎える 育成の蚊帳の外のままでいいのか 『女性たちの定年後』坊美生子氏に聞く | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949290?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『女性たちの定年後 お金･仕事･暮らしのリアル』の著者､ニッセイ基礎研究所 准主任研究員の坊美生子氏に話を聞きました。多様な背景や経…",
-      "published": "2026/06/28 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/c/1200w/img_0cf6986eb6278348d9960463a47d3af4235330.jpg?nextgen=false"
+      "title": "小渕優子氏の税調離脱が示唆する自民党の内紛､｢おにいちゃん｣と高市首相の関係悪化が招きかねない政権崩壊の予兆 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949624?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "自民党の税調幹部を辞任する意向が判明した小渕優子氏。彼女の税調離脱の背後には､高市政権の今後を大きく揺るがしかねない\"内乱\"の予兆が潜んでいました。",
+      "published": "2026/06/29 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/7/1200w/img_e7332d213715d449dcafd9a3ceecc60959303.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "\"本能寺の変\"前夜､出世の階段を駆け上がっていた男の正体 冷徹な信長が二度も裏切った弟の子を重用したワケ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949068?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢二度の謀反人の遺児｣として本来なら粛清されてもおかしくなかった織田信澄。しかし織田信長は彼を重用し､重要な任務を次々と託しました。なぜ信長は実力を評価し､信澄を厚遇したのか。その背景に迫ります。",
-      "published": "2026/06/28 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/0/1200w/img_d077b5faf2ea6621d0af7611627d6644750311.jpg?nextgen=false"
+      "title": "｢この先の桜がきれいなんですよ｣　501キロ･286駅･日本最大私鉄｢近鉄｣の社員が口にする言葉に見る\"人間味と強さ\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/947931?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "この先の桜がきれいなんですよ――。マニュアルではなく､日々その地に立ち､地域の人とともに歩んできたからこそ自然と口をついて出る言葉。501キロ･286駅を誇る日本最大の私鉄･近鉄の強さの根底にあるの…",
+      "published": "2026/06/29 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/1/1200w/img_f1bb23d0970cb5b5ac839643ca64e540570928.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "中国人のフォアグラ熱が沸騰…一攫千金を狙う農家が大幅増産､世界首位のフランスを追い抜く勢いに | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949574?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "かつて高級食材として知られたフォアグラが､中国で手頃な価格の人気商品へと変貌し､生産量が急増しています。フランスを追い抜く勢いに業界も警戒を強める中､中国産フォアグラの輸出が世界市場をどこまで席巻す…",
-      "published": "2026/06/28 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/f/1200w/img_9fed7d6ec3514db034be6bba4d0e8d01262997.jpg?nextgen=false"
+      "title": "｢若者を強制的に徴兵し人間の盾疑惑も｣ベネチア3冠の映画が描く\"世界で最も迫害されている民族\"の過酷な現実 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943191?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "実在するロヒンギャ難民姉弟が主演する映画『LOST LAND』は､過酷な現実と希望を映し出し､国際映画祭で高い評価を受けました。移民問題が世界的に注目される中｢人間として､私たちは何ができるのか？｣…",
+      "published": "2026/06/29 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/d/1200w/img_edb35de8371930273773f2f41213d0db368104.jpg?nextgen=false"
     }
   ]
 }
