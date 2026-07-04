@@ -1,50 +1,77 @@
 {
-  "generated_at": "2026-07-03T04:09:00.874883+00:00",
+  "generated_at": "2026-07-04T04:01:38.691284+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Cloudflare、AIクローラー制御を全顧客に開放──「検索」「エージェント」「学習」の3分類で管理可能に",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news087.html",
-      "summary": "Cloudflareは、Webサイト運営者がAI関連のクローラーを「検索」「エージェント」「学習」の用途別に管理できる新機能を発表した。従来の単純な一括ブロックに代わり、挙動ベースでの制御を可能にする。また、AIの回答にコンテンツが使われた回数に応じて課金する仕組み「Pay Per Use」の実証実験なども発表した。",
-      "published": "2026/07/03 10:55",
+      "title": "ビッカメもヤマダもかなわんわ――開店ホヤホヤの「ヨドバシ池袋店」に潜入　元地元民が感じた“圧倒的な強み”とは",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news105.html",
+      "summary": "新たにオープンした「ヨドバシカメラ マルチメディア池袋」。すでにSNSなどでも大いに話題だが、元地元民から見ると……",
+      "published": "2026/07/04 11:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Amazonの衛星ブロードバンド「Leo」、打ち上げ300基突破で世界3位の規模に",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news083.html",
-      "summary": "Amazonは、低軌道衛星ブロードバンド事業「Amazon Leo」の公式ブログを更新し、300基以上の衛星を打ち上げて軌道上世界3位の規模になったと発表した。今後は打ち上げ頻度をさらに引き上げる方針だ。一方、競合のSpaceXが展開する「Starlink」は、約9600基の衛星を運用し契約者数は約1030万人に達している。",
-      "published": "2026/07/03 10:29",
+      "title": "GoPro復活ののろしか　“シネマ”を打ち出した「MISSION 1 PRO」レビュー",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/04/news019.html",
+      "summary": "アクションカメラのシネマカメラ化が進む中に登場した「GoPro MISSION 1」ここ数年、競争激化によるシェア減やリコール、リストラなど暗い話題が続いていたGoPro社だが、新シリーズは復活ののろしとなるのか。",
+      "published": "2026/07/04 07:14",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "KADOKAWAの早期退職に154人が応募　年約17億円の人件費削減へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news082.html",
-      "summary": "45歳以上の社員を対象に募集していた早期退職に154人が応募。年間約17億円の人件費削減効果を見込む。",
-      "published": "2026/07/03 10:09",
+      "title": "講談社、「はたらく細胞」著者に謝罪　監修体制や作画環境「適切に履行できず」　本人のX投稿受け",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news139.html",
+      "summary": "講談社は7月3日、漫画「はたらく細胞」の作者・清水茜さんがX上で公表した連載当時の編集部対応などの指摘について謝罪文を掲載し、医療監修体制や作画環境の整備を「適切に履行することができませんでした」と認めた。",
+      "published": "2026/07/03 21:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "NVIDIA、AIインフラ調達の新ビジネスモデル発表　収益分配で新興企業を支援",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news077.html",
-      "summary": "NVIDIAは、AI関連企業がGPU搭載インフラへ容易にアクセスできるようにする新たなビジネスモデルを発表した。クラウド事業者と収益分配や資金調達支援を組み合わせた仕組みを構築し、新興企業の計算資源調達を後押しする。すでにSharon AIなどがこの枠組みの下で大規模なAIファクトリーの構築を進めている。",
-      "published": "2026/07/03 09:39",
+      "title": "ゆうパック、平均約10％値上げ　ゆうパケットは一律360円に　10月から",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news136.html",
+      "summary": "日本郵便は7月3日、「ゆうパック」と「ゆうパケット」の基本運賃などを10月1日に改定すると発表した。ゆうパックの平均改定率は約10％で、ゆうパケットは厚さ別の料金を廃止し一律360円にする。",
+      "published": "2026/07/03 19:24",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "書店特典のはずが……集英社「メタキラ」eBayで爆売れ　900枚以上売った出品者も  強い海外ニーズ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news076.html",
-      "summary": "1つの出品だけで962点が売れた例もあった。価格は徐々に下がってきているものの、書店での混乱の背景には、海外コレクターの需要もありそうだ。",
-      "published": "2026/07/03 09:25",
+      "title": "防衛省のLUUP導入で小泉大臣がコメント　「情報保全上の問題ない」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news128.html",
+      "summary": "防衛省市ヶ谷庁舎への電動モビリティシェアサービス「LUUP」導入を巡り、SNSでは位置情報の取り扱いを不安視する声が広がっていた。小泉防衛相が7月3日の閣議後会見で、導入の背景とセキュリティ上の懸念に対する見解をコメントした。",
+      "published": "2026/07/03 18:15",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ポーランド首相、ロシアの脅威を念頭に警告　「今後数カ月が極めて重要」になり得ると",
+      "url": "https://www.bbc.com/japanese/articles/cqj1pd5815xo?at_medium=RSS&at_campaign=rss",
+      "summary": "ポーランドのドナルド・トゥスク首相は3日、ロシアの脅威を念頭に、ポーランドが「さまざまな」シナリオに備えており、今後数カ月が「極めて重要」な時期になる可能性があると述べた。",
+      "published": "2026/07/04 12:13",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95a8/live/639effc0-76ec-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イラン前最高指導者ハメネイ師の弔問開始",
+      "url": "https://www.bbc.com/japanese/articles/cy732x5n1ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとイスラエルによる空爆で殺害されたイランの前最高指導者、故アリ・ハメネイ師の弔問が3日、首都テヘランで始まった。死後4カ月以上を経て、国民的な追悼と葬儀が4日から行われる。さまざまな式典が国内各地や隣国イラクを含め、40日間続く予定。ハメネイ師の後を継いだ息子のモジタバ師が葬儀に参列するのかが、注目されている。",
+      "published": "2026/07/04 12:26",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ea1/live/5e786890-76df-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イラン前最高指導者ハメネイ師の遺体を安置、アメリカとの不安定な停戦の中",
+      "url": "https://www.bbc.com/japanese/articles/cvgjzpv3m65o?at_medium=RSS&at_campaign=rss",
+      "summary": "イラン・テヘランで3日、2月末のアメリカとイスラエルによる攻撃で殺害された前最高指導者アリ・ハメネイ師の遺体が宗教施設「グランド・モサラ」に安置された。死後4カ月以上を経て、国民的な追悼と葬儀が4日から行われる。",
+      "published": "2026/07/04 12:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/71a7/live/ff4e1ce0-7759-11f1-9510-1546718f668b.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,83 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロシアのキーウ空爆、死者27人に　「最大規模の攻撃」と市長",
+      "title": "ロシアのキーウ空爆、死者少なくとも30人に　「最大規模の攻撃」と市長",
       "url": "https://www.bbc.com/japanese/articles/cgqjkp84758o?at_medium=RSS&at_campaign=rss",
       "summary": "ロシア軍が1日夜から2日にかけて行った、ウクライナの首都キーウへのドローンとミサイルによる大規模攻撃の死者が、27人に上った。キーウに対する「最大規模の攻撃」だと、ヴィタリー・クリチコ市長は述べた。",
-      "published": "2026/07/03 12:20",
+      "published": "2026/07/03 14:45",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c3d6/live/75f02480-768b-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "北京・最高層ビルの小型機衝突、操縦者の「個人的理由」が原因と　中国当局が発表",
-      "url": "https://www.bbc.com/japanese/articles/cx2je89p20zo?at_medium=RSS&at_campaign=rss",
-      "summary": "中国・北京で先週、市内最高層のビルに小型飛行機が衝突したことについて、当局は2日、死亡したパイロットが「慢性的な不眠症と不安症」を患っていたとし、「個人的な理由」で衝突を起こしたと発表した。",
-      "published": "2026/07/03 10:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0be4/live/5d268880-7600-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "コウモリに顔に乗られ、狂犬病で死亡　カナダの11歳少年",
-      "url": "https://www.bbc.com/japanese/articles/cy491mj1w7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "カナダで、家族とコテージを訪れていた少年（11）が就寝中、鼻や口の付近にコウモリに乗られ、その後に狂犬病で死亡した。カナダ医師会誌（CMAJ）に報告が掲載された。",
-      "published": "2026/07/03 09:04",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d1e/live/3d2797f0-75c8-11f1-9106-bb5823bc9ead.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "アメリカ、北米貿易協定の16年延長を拒否　現在の内容では応じないと",
-      "url": "https://www.bbc.com/japanese/articles/cly09dw31l5o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカは1日、北米3カ国で構成される貿易協定「米・メキシコ・カナダ協定（USMCA）」について、現行の形では応じられないとして、16年間の延長を見送った。米政府高官が明らかにした。",
-      "published": "2026/07/02 12:09",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4da/live/64317d10-757e-11f1-b1b0-0d044d289b5c.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢知を誰が管理するのか｣ AI時代における切実な問い　ウンベルト･エーコ『薔薇の名前』を読む（上） | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950087?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "『薔薇の名前』を衣川理花氏が読み解きます（上編）。中世イタリアの修道院を舞台とする知的ミステリー『薔薇の名前』は､世界的な記号学者ウンベルト･エーコによる空前絶後のアカデミック小説でもあります。…",
+      "published": "2026/07/04 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/2/1200w/img_427c42e808de9257169cd0dc96259fb8209890.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢厳しくすればハラスメント､配慮すればぬるい｣といわれ…若手の育成に悩むリーダーが怠っている《たった1つのこと》 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948592?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "近年､過度な配慮が生む｢ゆるブラック｣やキャリア成長を望まない｢静かな退職｣など､職場に新たな問題が浮上しています。多様な価値観の中で若手を育てる難しさに､経営者はどう向き合うべきなのでしょうか。人…",
-      "published": "2026/07/03 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/5/1200w/img_854ee2ce9d61ed243210a7e55fbaf7e8273243.jpg?nextgen=false"
+      "title": "〈書評〉『盗まれた誇り 喪失と恥と右派の躍進』『悲嘆の脳科学』『｢蒲団｣の時代 自然主義とは何だったのか』 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950086?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『盗まれた誇り 喪失と恥と右派の躍進』（A･R･ホックシールド 著）､『悲嘆の脳科学 最愛の人を失ったとき脳では何が起きているのか』（マリー…",
+      "published": "2026/07/04 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/c/1200w/img_2c0308da336734058e47c87e8f4ae21f315390.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "子供の話をすると､まさに\"おじいちゃん\"の顔に…元･娘婿のサイモンが見届けたアントニオ猪木の《安らかな最期》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948313?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アントニオ猪木が旗揚げしたIGFは､華々しいスタートから内紛､分裂と波乱に満ちた道を辿りました。妻･田鶴子夫人の介入や身近な人々との関係断絶､そしてカリスマとしての孤独。激動の晩年､猪木を本当に支え…",
-      "published": "2026/07/03 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/7/1200w/img_c720eb780c43985fa4dc51ba66ec98b1390317.jpg?nextgen=false"
+      "title": "｢明智光秀と共謀して信長を討った｣ウソの噂で疑われ…織田信長が可愛がった甥･織田信澄の悲劇的な最期 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949701?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "戦国時代､織田信長の甥であり光秀の娘婿でもあった織田信澄。彼は壮絶な一揆討伐や信長からの厚遇を受け活躍しましたが､本能寺の変後､無実の罪で悲劇的な最期を遂げます。信澄の運命の真実とは？",
+      "published": "2026/07/04 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/4/1200w/img_74af21bae8c40a10e69d699667bde924706466.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "メイクも落とさず床に寝転ぶ夜…やる気が出ない原因｢気象病｣に救われたジェーン･スーの\"自分を責めない生き方\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947442?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "天気が悪い日に限って､やる気が出ない。だるい。眠い。気分も沈む……｢怠け者だから？｣と自分を責めていたジェーン･スーを救ったのが｢気象病｣という言葉でした。名前がつくだけで､こんなにも心が軽くなるも…",
-      "published": "2026/07/03 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200w/img_fe01012b8e7d044a7a46f3e9f2e4f1ef55043.jpg?nextgen=false"
+      "title": "人生を｢最短ルートのRTA｣と思い込む東大生たち　初の挫折がうつ病の致命傷になる\"全勝の落とし穴\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948611?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東大生の休学率が急増する中で､なぜ彼らが｢うつ｣や適応障害に苦しむのか。その背景には｢成功者ゆえの不幸｣が潜んでいます。全勝で人生を駆け抜けてきた彼らは､初めて経験する\"挫折\"にどのように向き合うべ…",
+      "published": "2026/07/04 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/8/1200w/img_b88f700a3658a69c5ef68a65ff7ee0a239476.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢ゆっくり走るほど健康になる！？｣…70代からでも始められる《体にいいランニング》3つの新常識…睡眠改善効果も | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949473?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ランニングを楽しく長く続けるためには\"頑張らない\"コツが鍵となります。初心者からシニア世代まで実践できる｢3つのゴールデンルール｣を解説します。",
-      "published": "2026/07/03 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/2/1200w/img_4283161aea40b9b10aedc0351ac4bf46238884.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "〈1年で株価8倍〉AIデータセンター需要で様変わり､MLCC大手の太陽誘電｢30年度に向けインダクターも拡大する｣ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950212?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AIサーバーの需要急増を背景に､太陽誘電の株価が1年で8倍へと跳ね上がっています。サーバーに不可欠なMLCCの高い技術力､事業構造転換を進める中期計画､さらにはインダクター拡大戦略も明らかにしました…",
-      "published": "2026/07/03 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/b/1200w/img_1b8eb72de4a3504c91341ff2bcbfee41660466.jpg?nextgen=false"
+      "title": "技術力は世界一なのになぜ儲からない？ 10兆円規模の美容産業を国策で牽引する｢J-Beauty｣戦略の全貌 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950276?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "10兆円の市場規模と1000万人の雇用を抱える美容業界。ただ､国際競争では中国や韓国に対して後れを取る状況となっています。こうした状況を変えるべく､官民共同のプロジェクトが進行中。そのキーパーソンに…",
+      "published": "2026/07/04 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/1/1200w/img_f1111c5200ddc91230f10d706e879cee150496.jpg?nextgen=false"
     }
   ]
 }
