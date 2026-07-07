@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-07-06T04:38:43.898185+00:00",
+  "generated_at": "2026-07-07T04:16:24.868005+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「ChatGPTで不正プログラム自作」　バンダイチャンネル4万6800人を勝手に退会させた疑い、15歳を再逮捕　報道",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news075.html",
-      "summary": "動画配信サービス「バンダイチャンネル」の会員約4万6800人を無断で退会させ、運営会社の業務を妨害したとして、警視庁は埼玉県所沢市の男子高校生（15）を偽計業務妨害の疑いで再逮捕した。生成AIの「ChatGPT」を使って不正なプログラムを自作したと供述しているという。",
-      "published": "2026/07/06 12:18",
+      "title": "「iPhone Air」が2万円引き　「プライムデー先行セール」開始、Apple製品が安い",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news112.html",
+      "summary": "日本のプライムデーに初めて登場した「iPhone Air」（256GB／SIMフリー版）は、参考価格の15万9800円から2万円引き（13％オフ）の13万9800円で販売している。",
+      "published": "2026/07/07 12:26",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ブロードコムによるVMware製品抱き合わせ販売疑惑、独占禁止法違反と認定されず　公取委の調査終了",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news062.html",
-      "summary": "公正取引委員会は、ブロードコムに対する独占禁止法違反の調査を、違反に認定するに足る事実が認められなかったとして終了すると発表しました。",
-      "published": "2026/07/06 10:50",
+      "title": "欧州のSwitch 2、バッテリー交換式へ　EU新バッテリー規制に対応　初代Switchファミリーは販売終了",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news106.html",
+      "summary": "任天堂の欧州法人Nintendo of Europeは7月6日（現地時間）、欧州で2027年2月中旬に施行されるバッテリー規制の変更に備え、「Nintendo Switch 2」本体や周辺機器を、ユーザー自身でバッテリーを交換できる改訂版へ26年夏から順次切り替えると発表した。初代「Nintendo Switch」ファミリーは改訂の対象外とし、27年2月中旬に販売を終える。",
+      "published": "2026/07/07 12:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AIサーバで稼ぐシャープ　2030年度の新規事業売上高の8割強目指す　鴻海と連携",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news060.html",
-      "summary": "シャープの河村哲治社長は7月3日、大阪市内で報道陣の取材に応じ、目標とする2030年度の新規事業の年間売上高2000億～3000億円のうち、8割強はAI向けサーバ関連を想定していると明らかにした。親会社の鴻海（ホンハイ）精密工業の調達・製造力を活用し、シャープが国内販売や保守を担う方向で調整を進める。",
-      "published": "2026/07/06 10:35",
+      "title": "SpaceX、xAIの正式名称を「SpaceXAI」に　新ロゴも公開",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news084.html",
+      "summary": "SpaceXは、傘下のAI部門であるxAIの正式名称をSpaceXAIに変更し、新しいロゴを発表した。新ロゴはSpaceXの「X」の部分に「AI」が隠れるようなデザイン。今回の名称変更と統合により、衛星通信網Starlinkや大型ロケットStarshipの運用にxAIの技術を直接活用していく方針だ。",
+      "published": "2026/07/07 10:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "キオクシア、新型メモリのサンプル出荷開始　岩手の工場の最先端設備活用",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news059.html",
-      "summary": "半導体大手キオクシアホールディングスが、大容量で低消費電力の新型メモリのサンプル品の出荷を開始したと発表した。北上工場（岩手県北上市）第2製造棟の最先端設備を活用して生産する。",
-      "published": "2026/07/06 10:22",
+      "title": "月初襲ったPASMO障害「定期買えず払った運賃」補償へ　申請→個別調査で「時間かかる」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news079.html",
+      "summary": "6月30日～7月1日は月末月初で定期券更新のタイミングと重なっており、定期券購入を諦めてPASMOやSuicaの残高などから支払った乗客も多かったとみられる。",
+      "published": "2026/07/07 10:11",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「Amazon Mechanical Turk」、7月30日で新規受付終了──2005年開始のAWSのクラウドソーシング",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news052.html",
-      "summary": "AWSのクラウドソーシングサービス「Amazon Mechanical Turk」が7月30日で新規顧客の受け付けを終了する。2005年開始の同サービスは、人間にしかできない細かい作業を世界中のクラウドワーカーに委託できるマーケットプレイスの草分け。AWSは「慎重な検討」の結果で、既存顧客は従来通り利用できるが新機能は追加しないとしている。",
-      "published": "2026/07/06 07:07",
+      "title": "佃煮の日「クソダサポスター」ホントにAIに作れない？　GeminiとChatGPTに挑戦させてみた結果",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news053.html",
+      "summary": "農林水産省の公式Xが6月29日に投稿した「佃煮の日」ポスターが、良い意味で“クソダサい”と話題になった。コメント欄には「AIには出せない温かみがあって好き」「AI使わないところがほんと良い」という声が目立ったという。……でも待ってほしい。今のAIなら、こういう雰囲気も作れるのでは？　というわけで、AIにチャレンジさせてみた。",
+      "published": "2026/07/07 10:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イラン前最高指導者の葬儀に息子モジタバ師は不在　高官らは参列",
-      "url": "https://www.bbc.com/japanese/articles/czj88kz3wk8o?at_medium=RSS&at_campaign=rss",
-      "summary": "イランの故アリ・ハメネイ前最高指導者の葬儀が4日、テヘランで始まり、5日には政府高官など数千人が参列したが、息子で後任のモジタバ・ハメネイ師は姿を見せなかった。",
-      "published": "2026/07/06 11:19",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c0a/live/9a22cb90-78a3-11f1-a627-714adb4eed6e.jpg"
+      "title": "【2026年サッカー男子W杯】 トランプ氏、FIFAに米選手の出場停止見直し求めたと認める　試合はベルギーが勝利",
+      "url": "https://www.bbc.com/japanese/articles/c932231p880o?at_medium=RSS&at_campaign=rss",
+      "summary": "サッカー男子ワールドカップ（W杯）北中米大会で、アメリカ代表FWバログンが受けた1試合の出場停止処分が猶予されたことをめぐり、アメリカのトランプ大統領は6日、国際サッカー連盟（FIFA）に処分の再検討を要請したことを認めた。その後にあったアメリカ対ベルギーの試合には、バログンが先発出場。ベルギーが4-1でアメリカを破り、ベスト8入りを果たした。",
+      "published": "2026/07/07 12:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【2026 年ウィンブルドン】 大坂、世界1位のサバレンカ破る　初の準々決勝進出",
-      "url": "https://www.bbc.com/japanese/articles/c9822wr613no?at_medium=RSS&at_campaign=rss",
-      "summary": "テニスの4大大会の一つ、ウィンブルドンの女子シングルス4回戦が5日、ロンドン郊外のオール・イングランド・クラブであり、復活を遂げた大坂なおみが見事なパフォーマンスで第1シードのアリーナ・サバレンカを破り、初めて準々決勝に進出した。",
-      "published": "2026/07/06 12:29",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6f3/live/ecfb12f0-78e4-11f1-a627-714adb4eed6e.jpg"
+      "title": "日本の女性市長が産休取得を発表、全国的な議論呼ぶ",
+      "url": "https://www.bbc.com/japanese/articles/ckg0pkxe55xo?at_medium=RSS&at_campaign=rss",
+      "summary": "西日本の小さな市のトップが5月下旬、今夏から産休を取得すると明らかにした。この発表に眉をひそめる人はそれなりにいるだろうと、女性市長は当時考えていた。しかし、世間からの実際の反応は、京都府八幡市の川田翔子市長（35）が予想していたよりもはるかに激しいもので、賛否両論が巻き起こった。",
+      "published": "2026/07/07 10:30",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af7a/live/762965f0-7628-11f1-9510-1546718f668b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカ建国250年、花火や記念飛行でお祝い　異常気象で行事に影響も",
-      "url": "https://www.bbc.com/japanese/articles/c4gyy2v4438o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカは4日、建国250年を迎えた。花火が打ち上げられ、軍の記念飛行が実施されるなど、祝賀ムードに包まれた。こうした中、全米各地で行われた祝賀行事が、異常気象の影響を受ける場面もあった。",
-      "published": "2026/07/06 13:15",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2948/live/320af570-78ec-11f1-b976-0b9c15b0ccfc.jpg"
+      "title": "中国、太平洋でミサイル発射実験　豪州とフィジーが同盟条約に署名した直後",
+      "url": "https://www.bbc.com/japanese/articles/cwy00w5rrz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "中国は6日、潜水艦から模擬弾頭を搭載した弾道ミサイルを太平洋に向けて発射する実験を行ったと発表した。",
+      "published": "2026/07/06 16:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/43a6/live/f67a3630-78ee-11f1-b5ef-67aee6df60e2.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ポーランド首相、ロシアの脅威を念頭に警告　「今後数カ月が極めて重要」になり得ると",
-      "url": "https://www.bbc.com/japanese/articles/cqj1pd5815xo?at_medium=RSS&at_campaign=rss",
-      "summary": "ポーランドのドナルド・トゥスク首相は3日、ロシアの脅威を念頭に、ポーランドが「さまざまな」シナリオに備えており、今後数カ月が「極めて重要」な時期になる可能性があると述べた。",
-      "published": "2026/07/04 12:13",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95a8/live/639effc0-76ec-11f1-b976-0b9c15b0ccfc.jpg"
+      "title": "女性活躍と家庭の両立「事例が増えれば」　産休取得を発表した京都・八幡市の川田市長インタビュー",
+      "url": "https://www.bbc.com/japanese/articles/c621103q8nzo?at_medium=RSS&at_campaign=rss",
+      "summary": "京都府八幡市の川田翔子市長（35）が5月下旬、今夏から産休を取得すると明らかにした。期間は、9月中旬の出産予定日の2カ月前から、産後2カ月までの4カ月間だ。日本で現職の首長が産休を取得するのは初めてで、歴史的な出来事となる。BBCの森来実（もり・くるみ）東京特派員が川田市長に話を聞いた。",
+      "published": "2026/07/07 10:31",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3ee/live/98314ca0-7923-11f1-a627-714adb4eed6e.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イラン前最高指導者ハメネイ師の葬儀始まる",
-      "url": "https://www.bbc.com/japanese/articles/cy732x5n1ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカとイスラエルによる空爆で殺害されたイランの前最高指導者、故アリ・ハメネイ師の弔問が3日、首都テヘランで始まり、4日朝には国民的な追悼と葬儀が始まった。さまざまな式典が国内各地や隣国イラクを含め、40日間続く予定。ハメネイ師の後を継いだ息子のモジタバ師が葬儀に参列するのかが、注目されている。",
-      "published": "2026/07/04 20:04",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2f0/live/a4784af0-7797-11f1-9510-1546718f668b.jpg"
+      "title": "【2026年サッカー男子W杯】 FIFA、アメリカFWバログンの出場停止処分を猶予　トランプ氏が処分の再考求めたか",
+      "url": "https://www.bbc.com/japanese/articles/crkvv77gmpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "サッカー男子ワールドカップ（W杯）北中米大会のノックアウトステージ（決勝トーナメント）1回戦（ラウンド32）アメリカ対ボスニア・ヘルツェゴヴィナの試合で、アメリカ代表FWバログン（25）がレッドカードを受けて1試合の出場停止処分となった。これについて、国際サッカー連盟（FIFA）は5日、処分を1年間猶予すると発表した。トランプ米大統領が、処分を再考するよう介入したとされる。これにより、バログンは6",
+      "published": "2026/07/06 17:10",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0bf1/live/3ab6d9e0-7898-11f1-9510-1546718f668b.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "怒りをカネにするメディアの｢終わらない炎上｣　ささいな出来事が文化戦争にすり替わる｢アテンション･エコノミー｣の罠 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/946904?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "SNSとメディアが結託し､ささいな出来事を\"炎上\"させる現代。怒りをあおる情報環境の裏で､私たちの注意力や感情はどう利用されているのか。大局が見えなくなる構造的変化の実態と､今この瞬間も加速する｢マ…",
-      "published": "2026/07/06 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/d/1200w/img_6d2104f9e17a0f7673f0946b7a39409a158265.jpg?nextgen=false"
+      "title": "〈有料会員向けイベント開催〉7/29のTK-HUBは｢大学 大予測｣大学再編･淘汰から入試までを語り尽くす | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950364?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東洋経済オンラインでは有料会員読者向けのリアルイベント「TK-HUB」を開催しています。東洋経済オンラインの人気連載執筆者やその連載テーマのキーパーソンの方などを招き、リアルな空間で、話題のテーマに…",
+      "published": "2026/07/07 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/9/1200w/img_09fb2c9e7fc72bb6ecffbcd3832f41d3368158.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "首相の笑顔は政権末期の\"カラ元気\"か？ \"内側\"から崩れ始めた高市内閣の現状を浮き彫りにする2人の｢重要人物｣の離反 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950465?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "インド訪問を終え笑顔で帰国した高市早苗首相。しかし､国会では重要法案をめぐる与野党の対立や与党内の軋轢が続き､政権運営の前途は多難です。信頼すべきキーパーソンたちも距離を取り始める中､首相はどのよう…",
-      "published": "2026/07/06 12:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/6/1200w/img_b6f322d2ff414436c4c9e7681b318f6b85784.jpg?nextgen=false"
+      "title": "【独自】プルデンシャル生命の元営業社員が顧客資料を持ち出し600人の情報が漏洩､不正競争防止法違反の可能性も | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950639?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "外資系大手･プルデンシャル生命保険で､さらなる顧客情報の漏洩が判明しました。判明した経緯はかなりお粗末なものでした。",
+      "published": "2026/07/07 12:46",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/a/1200w/img_9a77ba259c4ed3b5fa3f4f6bc39d81c6169394.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈AIの落とし穴〉生産性アップのためにAIを導入したはずなのにコスト爆増に陥って慌てる企業が続出している理由 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949707?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "生産性向上のため導入されたAIが､逆にコスト爆増を招き､マネジメントの在り方を根底から揺るがしています。AI活用と人材育成､両立の鍵はどこにあるのでしょうか。",
-      "published": "2026/07/06 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/0/1200w/img_904ef504fd5d76bbf9066bf97f561e8c318822.jpg?nextgen=false"
+      "title": "【詳報】プルデンシャル生命で600人の顧客情報が漏洩､元社員が顧客資料を持ち出し､不正競争防止法違反の可能性も | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950627?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "外資系大手･プルデンシャル生命保険で､さらなる顧客情報の漏洩が判明しました。元営業社員が高速道路のサービスエリアに立ち寄った際に顧客資料を紛失したようです。",
+      "published": "2026/07/07 12:45",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6a38f0b40427b76d9ccf1d1066d82cc5192093.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【再配信】佐藤二朗さん公表｢強迫性障害｣の人が抱える苦悩 SNSで｢沢山の励まし､ありがとう｣と感謝つづる | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950457?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "俳優･佐藤二朗さんに対し､ドラマの撮影現場でのトラブルが一部メディアで報じられました。佐藤さんは報道内容を否定しており､真偽は不明です。一方､佐藤さんは以前､｢強迫性障害｣を告白していました。無意識…",
-      "published": "2026/07/06 10:45",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/f/1200w/img_2f068dc7d9a56b6761bb58ecb257f54858186.jpg?nextgen=false"
+      "title": "SNSの｢いいね｣に振り回される人と､自分軸で動く人は何が違うのか　哲学者が解く｢自己肯定感｣と｢承認欲求｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949206?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "私たちはなぜSNSの｢いいね｣の数に一喜一憂してしまうのでしょう。承認欲求に振り回されず､自分の軸を持って生きるにはどうすればいい？　サルトル､ニーチェら哲学者の知見をもとに､｢自己肯定感｣と｢承認…",
+      "published": "2026/07/07 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/9/1200w/img_3925cad456bf07ae22a86feb4491ca9f201777.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢あまりにも他人事すぎでは？｣文春の\"佐藤二朗ハラスメント報道\"延焼を広げた《フジテレビ声明文》への強烈な違和感 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950437?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "フジテレビ｢夫婦別姓刑事｣の現場で佐藤二朗と橋本愛の間に発生したハラスメントトラブルが大炎上。事務所やテレビ局の対応は食い違い､混乱は収束の兆しを見せません。組織の内部事情はなぜ外部に漏れ､ここまで…",
-      "published": "2026/07/06 10:43",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/4/1200w/img_b4a2030cfd037b4f6f6fe839de81901a772127.jpg?nextgen=false"
+      "title": "タダで使えるLINEが｢買い物アプリ｣へ大転換､ショッピング･課金･PayPayで1億人を囲い込む戦略 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950251?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "月間1億人が利用するLINEが､従来の広告･企業課金モデルからユーザー自身の消費に収益源を拡大し始めました。ショッピングタブや新機能の有料化､PayPay連携と進化を続ける中､私たちの\"日常\"がどう…",
+      "published": "2026/07/07 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/5/1200w/img_c5bb3f71ab8002c90e0ffe02f576e3e9293954.jpg?nextgen=false"
     }
   ]
 }
