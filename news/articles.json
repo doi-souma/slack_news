@@ -1,59 +1,86 @@
 {
-  "generated_at": "2026-07-08T03:44:16.297460+00:00",
+  "generated_at": "2026-07-09T04:13:30.813199+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "BOOTH、0円出品で「セールはこちら」きょうから禁止　新着通知を使った“宣伝ハック”に終止符",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/08/news089.html",
-      "summary": "「0円」の商品ページなどを新規公開しながら、実際には商品を販売せず、新商品の告知のみを行う「誘導・告知を主目的とする商品」が禁止商品に。",
-      "published": "2026/07/08 12:07",
+      "title": "首相官邸、“本物そっくり”の偽サイト出現で注意喚起　正しいURLか「アクセスする前に確認を」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/09/news097.html",
+      "summary": "首相官邸サイトのトップページを模倣した偽サイトについて、公式Xが注意喚起を行った。首相官邸は正しくURLであるかどうかの確認を呼びかけている。",
+      "published": "2026/07/09 12:40",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "女性声優にXの“青バッジ”を勝手に送り付ける怪事案が相次ぐ　津田美波さん、黒木ほの香さん、土屋李央さんなど",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/08/news088.html",
-      "summary": "日本の女性声優から「何者かにXの有料サブスクリプションを送り付けられた」との報告が相次いでいる。意図は不明だが「アカウント乗っ取りの布石では」との声もあり、送り付けられたユーザー間で困惑が広がっている。",
-      "published": "2026/07/08 12:03",
+      "title": "破産した「全東信」　最大債権者は近畿産業信組の219億円　地銀やノンバンクにも影響大",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/09/news096.html",
+      "summary": "民間信用調査会社の東京商工リサーチ（TSR）が、破産手続き開始決定を受けたクレジットカード決済代行会社、全東信（大阪市中央区）の最大の債権者は、近畿産業信用組合の219億円だとする調査結果を発表した。",
+      "published": "2026/07/09 12:19",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Metaの新AI「Muse Image」公開に伴う注意点　Instagram公開アカウントのコンテンツ再利用を防ぐには",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/08/news087.html",
-      "summary": "Metaが画像生成AI「Muse Image」を公開したことに伴い、Instagramの公開アカウントで投稿した写真や動画を、他者がAI機能で再利用あるいは改変する可能性が浮上している。この再利用設定は初期状態で有効になっているが、設定で無効化できる。ただし、設定変更前に生成されたAIコンテンツは遡及して削除されない。",
-      "published": "2026/07/08 12:00",
+      "title": "1.2万人削減のパナソニックの反転　痛み伴う改革からの成長戦略　旗印は「松下幸之助」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/09/news095.html",
+      "summary": "1万2000人の人員削減など構造改革に区切りをつけたパナソニックホールディングス（HD）が反転攻勢に出る。旗印として前面に押し出したのは創業者、松下幸之助だ。現在の社会課題をエネルギーの有効活用と現場労働力不足の解消と位置づけ、AIインフラと社会オペレーションを支える2つの事業がその解決に役立つと成長の柱にすえた。",
+      "published": "2026/07/09 12:12",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "テスラ車が住宅に突っ込み高齢女性が死亡　遺族は「運転支援システムに欠陥」と訴えも、マスク氏らは反論　米国",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news031.html",
-      "summary": "米テキサス州で米Teslaの車が住宅に突っ込んで、家の中にいた76歳の女性が死亡する事故があった。自動運転支援システムを使用中だったというドライバーの証言に対してTesla側は、ドライバーの運転に原因があったと反論している。",
-      "published": "2026/07/08 12:00",
+      "title": "Meta、AIグラスの「盗撮改造」対策を強化──録画ランプ破壊で撮影不能に",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/09/news085.html",
+      "summary": "Metaは、AIグラス「Ray-Ban Meta」などのプライバシー対策に関する公式ブログを公開した。周囲に撮影中であることを知らせる白色LEDへの妨害や破壊行為を検出した場合、カメラ機能を強制的に無効化するアップデートを実施する。また、LEDを除去する改造サービスの出品削除や、販売業者への法的措置も進める方針だ。",
+      "published": "2026/07/09 11:01",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "スクエニ、ECサイトが1週間以上使えず　決済など重要機能の不具合でメンテ長期化",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/08/news086.html",
-      "summary": "スクウェア・エニックスは、通販サイト「スクウェア・エニックスe-STORE」のリニューアルに伴うシステムメンテナンスについて、終了のめどが立っていないと明らかにした。7月1日午前0時ごろの開始から1週間以上、全サービスを利用できない状態が続いている。",
-      "published": "2026/07/08 11:55",
+      "title": "クールジャパンの失敗は生かされず？　経産省肝いりで始まった後釜施策「IP360」の“光と影”",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/04/news032.html",
+      "summary": "2033年までにコンテンツの海外売上20兆円──政府がコンテンツ大型支援策「IP360」を始動させた。だがDeNAへの15億円補助が報じられるや、SNSは「勝ち組へのばらまき」と批判が殺到。同じころ、国立映画アーカイブはクラファンに踏み切る。稼ぐ企業に補助、文化基盤はクラファン。その対比の手前で、いま何が問われているのか。",
+      "published": "2026/07/09 11:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米軍、イランを再び攻撃と発表　イランによるタンカー攻撃に対応と",
-      "url": "https://www.bbc.com/japanese/articles/cg53l1917r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "米中央軍は7日、イランに対して「一連の強力な攻撃」を開始したと発表した。イランが、ホルムズ海峡を通航していた商船3隻を攻撃したことへの対応だとしている。",
-      "published": "2026/07/08 09:19",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg"
+      "title": "米中央軍、イランを追加攻撃　「強力にたたいた」とトランプ氏",
+      "url": "https://www.bbc.com/japanese/articles/c5yz4mzjxejo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ中央軍は8日（日本時間9日朝）、「最高司令官の指示により、ホルムズ海峡における航行の自由を脅かすイランの能力をさらに低下させるため」、イランに対する追加攻撃を実施していると発表した。トランプ米大統領はこの後、イランを「強力にたたいた」と記者団に述べた。",
+      "published": "2026/07/09 10:02",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf38/live/7372a430-7b27-11f1-a52f-dd669ddb448b.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏、ウクライナに「パトリオット」ミサイルのライセンス生産容認",
+      "url": "https://www.bbc.com/japanese/articles/c75y0l5ll9qo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は8日、ウクライナに対し、迎撃ミサイル「パトリオット」の生産権を与えると表明した。ウクライナにとっては、ロシアの弾道ミサイルによる攻撃への防衛強化につながる。",
+      "published": "2026/07/09 12:19",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/573c/live/df3b5970-7b43-11f1-8a90-1908b2950e9a.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏、NATO首脳会議でスペインを「相手にするだけ無駄」と批判　グリーンランド領有めぐる主張も再燃",
+      "url": "https://www.bbc.com/japanese/articles/c8e23d32jelo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は8日、トルコ・アンカラで開かれた大西洋条約機構（NATO）首脳会議に出席し、軍事協力などをめぐり対立が続くスペインを改めて厳しく批判した。また、グリーンランドを領有する意欲を再び示した。",
+      "published": "2026/07/09 12:58",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e08/live/31618d80-7b46-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "中国のタピオカティー・チェーン、ルイ・ヴィトンの商標権侵害で2.4億円賠償命令　ネットで議論に",
+      "url": "https://www.bbc.com/japanese/articles/c3vy0pkq043o?at_medium=RSS&at_campaign=rss",
+      "summary": "中国で人気のタピオカティー・チェーン「モリーティー」は、ロゴがルイ・ヴィトンの商標権を侵害していると同国の裁判所に判断され、1030万元（約2億4000万円）の損害賠償金を支払うよう命じられた。この判決を受けて、知的財産権の保護についてインターネット上で議論が起きている。",
+      "published": "2026/07/09 12:05",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/178e/live/55854630-78d9-11f1-973f-bf9fc4805cda.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -65,76 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/98f2/live/e43e2690-7a40-11f1-bc29-738b6960c215.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "英野党リフォームUKのファラージ党首、議員辞職し補選に出ると表明　政治資金問題の渦中",
-      "url": "https://www.bbc.com/japanese/articles/cql1xke13peo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスの野党リフォームUKを率いるファラージ党首は7日、支持者から自分が受け取った資金や便宜をめぐり厳しく追及されている事態を受け、イングランド南東部クラクトン選出の下院議員をいったん辞任し、それに伴い行われる補欠選挙にあらためて出馬すると表明した。しかし、他の主要政党は、このような形で補選が行われた場合には、対立候補を擁立しないと反発している。",
-      "published": "2026/07/08 12:16",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c70/live/8a9d72b0-7a51-11f1-b726-3d305a892bc6.png"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】 トランプ氏、FIFAに米選手の出場停止見直し求めたと認める　試合はベルギーが勝利",
-      "url": "https://www.bbc.com/japanese/articles/c932231p880o?at_medium=RSS&at_campaign=rss",
-      "summary": "サッカー男子ワールドカップ（W杯）北中米大会で、アメリカ代表FWバログンが受けた1試合の出場停止処分が猶予されたことをめぐり、アメリカのトランプ大統領は6日、国際サッカー連盟（FIFA）に処分の再検討を要請したことを認めた。その後にあったアメリカ対ベルギーの試合には、バログンが先発出場。ベルギーが4-1でアメリカを破り、ベスト8入りを果たした。",
-      "published": "2026/07/07 12:52",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】 スターマー氏、試合開始時間めぐりFIFAへの働きかけ指示　イングランド対メキシコ戦で",
-      "url": "https://www.bbc.com/japanese/articles/cjegj3x3vkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "サッカー男子ワールドカップ（W杯）北中米大会で、アメリカ代表選手の出場停止処分をめぐるトランプ米大統領の介入が問題視されるなか、イギリスのスターマー首相もイングランド代表の試合開始時間に関して、国際サッカー連盟（FIFA）への働きかけを指示していたことが判明した。",
-      "published": "2026/07/07 15:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/34a3/live/096701d0-7956-11f1-9988-0351319ba973.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢やりたいことがわからない｣｢自分に自信が持てない｣はマイナスじゃない　精神科医が｢ごく自然な状態｣と語る\"根拠\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948200?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢本当にやりたいことがわからない｣｢自分に自信が持てない｣――そう感じたとき､多くの人は自分を責めてしまうもの。けれども､精神科医Tomy氏は｢それはごく自然な状態｣と話します。停滞感の正体と､前に…",
+      "published": "2026/07/09 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/4/1200w/img_3482823abf9a76706dc2225753b9f94477386.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢頑張れ｣より効果的？　周囲も自分も疲れない｢感じのいい人｣が自然とやっている心地よい人間関係のコツ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950172?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日常の小さな選択や他者への眼差しを変えるだけで､周りも自分も驚くほど生きやすくなる｢感じのいい人｣の習慣とは？",
-      "published": "2026/07/08 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/5/1200w/img_b5a2c0e254ebbd07a8e5e1116c58f331140769.jpg?nextgen=false"
+      "title": "中国による｢国際的な経済的威圧｣はどれほど実効性があり､どのくらい続くのか…論文から浮かび上がる意外な事実 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950965?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国による\"対日制裁\"や国際的な経済的威圧はどれほど実効性があり､どのくらい続くのか―。中国の｢怒り｣の影響を論文データや事例に基づいて徹底分析します。",
+      "published": "2026/07/09 12:33",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/b/1200w/img_cb2905816216a935f4ae2396f07bf3df915861.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【今さら聞けないAI半導体】ブームはいつまで？／価格の高騰はバブル？／エヌビディアが作る“頭脳”の半導体／キオクシアが注目を浴びる理由／AIブームが招く製品値上げ／ガジェットの買いどきはいつ？ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950798?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アップル製品をはじめとするガジェット類の値上げニュースが話題となっている 。今後、価格改定が他社のPCやタブレット、スマホにも波及していく可能性がある。背景にあるのが「AI半導体」の世界的な争奪戦だ…",
-      "published": "2026/07/08 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/3/1200w/img_a30c5ac3f1baddf957e21e0e083e16a3186491.jpg?nextgen=false"
+      "title": "試合数減･地上波から消え…低迷する男子ゴルフに\"150億円\"投資の勝算　ファンドトップが語る｢プロ200人の活かし方｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949706?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "試合数は減り､地上波からもほぼ姿を消しつつある男子プロゴルフツアー。賞金総額でも女子に大きく水をあけられるなか､投資ファンドが150億円規模の出資を決めた。｢ツアーには200人のプロがいる。知られて…",
+      "published": "2026/07/09 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/c/1200w/img_9c26116d74b41337c803a33fae19786b230721.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢値上げは負担だが､広告付きはイヤだ｣　データで判明した定額制動画配信サービスの利用実態　満足度の高いサービスは？ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950391?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "国内の定額制動画配信サービス市場が成長を続けるなか､各社が熾烈な競争を繰り広げています。世代ごとに視聴傾向がどう変わるのか､料金改定や広告プランへの反応は？",
-      "published": "2026/07/08 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/6/1200w/img_36e006231a1b00dc4f93fff082cadef9392212.jpg?nextgen=false"
+      "title": "疑惑段階でも最悪｢失職｣のリスクが…ハラスメント報道で猛バッシングの佐藤二朗に見る､芸能人が抱える\"巨大なリスク\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950878?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ドラマ『夫婦別姓刑事』の撮影現場で起きたハラスメント騒動…佐藤二朗さんに猛バッシングが続いていますが､芸能人が抱えるリスクは､一般人とは大きく異なると言えるでしょう。",
+      "published": "2026/07/09 12:25",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/6/1200w/img_a6afd828ba4d62888247f6436285f656127938.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢佐藤二朗と橋本愛､どちらも被害者｣ハラスメント騒動を深刻化させた\"本当の戦犯\"…フジの報告書から何が読み取れたか | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950777?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "フジテレビのドラマ撮影現場で発生した､佐藤二朗さんと橋本愛さんを巡る｢ハラスメント騒動｣は､それぞれの声明やフジテレビの報告書によって事態が錯綜しています。はたして本質的な責任はどこにあるのでしょう…",
-      "published": "2026/07/08 11:35",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/f/1200w/img_efb01c1576366cb508e8be5b6d4c08d4428525.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "70代でも｢働いていただきたい｣と会社が慰留…高齢労働者ほど強気に出られる《リタイア･シフト》時代が来た！ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950401?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "会社が働く人の引退時期を決める時代は終わり､自らのリタイアのタイミングを自分で選択する｢リタイア･シフト｣の時代が始まっています。高齢者雇用や年金制度の変化､社会全体の構造的転換について､リタイアメ…",
-      "published": "2026/07/08 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/e/1200w/img_8ecae4bfdb1e917cc99963eea606fb0f266882.jpg?nextgen=false"
+      "title": "容姿を褒めるのはNG?　部下や子供に｢かわいいね｣､悪気ないその一言が\"正解の押し付け\"になる瞬間 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949871?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢かわいい｣と褒める一言にも､ルッキズムやハラスメントの議論が高まる現代。推し活において｢容姿が好き｣と言うのは本当に悪なのか――個人の好みの尊重と他者への配慮。その線引きはどこにあるのでしょうか。",
+      "published": "2026/07/09 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/a/1200w/img_5aa67fbcfa653535faaa0525352959f1411094.jpg?nextgen=false"
     }
   ]
 }
