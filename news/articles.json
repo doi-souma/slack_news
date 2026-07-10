@@ -1,59 +1,68 @@
 {
-  "generated_at": "2026-07-09T04:13:30.813199+00:00",
+  "generated_at": "2026-07-10T04:14:37.092492+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "首相官邸、“本物そっくり”の偽サイト出現で注意喚起　正しいURLか「アクセスする前に確認を」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/09/news097.html",
-      "summary": "首相官邸サイトのトップページを模倣した偽サイトについて、公式Xが注意喚起を行った。首相官邸は正しくURLであるかどうかの確認を呼びかけている。",
-      "published": "2026/07/09 12:40",
+      "title": "ソニー、光学25倍ズーム搭載の「RX10 V」発売　1型センサーの高倍率機に9年ぶり新製品",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news090.html",
+      "summary": "ソニーは9日、1.0型CMOSセンサーと35mm判換算で24～600mm相当の光学25倍ズームレンズを搭載したレンズ一体型デジタルカメラ「RX10 V」を発表した。",
+      "published": "2026/07/10 11:10",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "破産した「全東信」　最大債権者は近畿産業信組の219億円　地銀やノンバンクにも影響大",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/09/news096.html",
-      "summary": "民間信用調査会社の東京商工リサーチ（TSR）が、破産手続き開始決定を受けたクレジットカード決済代行会社、全東信（大阪市中央区）の最大の債権者は、近畿産業信用組合の219億円だとする調査結果を発表した。",
-      "published": "2026/07/09 12:19",
+      "title": "相手を嫌いになる脳の仕組み、東京大が解明　光でマウスの感情操作に成功　うつ病治療に期待",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news089.html",
+      "summary": "特定の相手を嫌いになる脳の仕組みを、東京大の研究チームがマウス実験で解明した。光の刺激で神経細胞の活動を操作する「光遺伝学」の技術を使い、相手を嫌う感情の生成や消去に成功した。米科学誌Scienceで7月10日に報告する。",
+      "published": "2026/07/10 11:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "1.2万人削減のパナソニックの反転　痛み伴う改革からの成長戦略　旗印は「松下幸之助」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/09/news095.html",
-      "summary": "1万2000人の人員削減など構造改革に区切りをつけたパナソニックホールディングス（HD）が反転攻勢に出る。旗印として前面に押し出したのは創業者、松下幸之助だ。現在の社会課題をエネルギーの有効活用と現場労働力不足の解消と位置づけ、AIインフラと社会オペレーションを支える2つの事業がその解決に役立つと成長の柱にすえた。",
-      "published": "2026/07/09 12:12",
+      "title": "Anthropic、Claudeの使い方を振り返る新機能「reflect」（振り返り）追加──AIとの付き合い方を見直すために",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news086.html",
+      "summary": "Anthropicは、AIアシスタント「Claude」の使い方を振り返るための新機能「reflect」(日本では「振り返り」）をβ版で公開した。過去のチャット活動をトピックや利用パターンごとに可視化し、AIの利用が自分の目標に沿っているかを見直せるようにする。休憩を促すナッジなどの機能も備える。",
+      "published": "2026/07/10 10:24",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Meta、AIグラスの「盗撮改造」対策を強化──録画ランプ破壊で撮影不能に",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/09/news085.html",
-      "summary": "Metaは、AIグラス「Ray-Ban Meta」などのプライバシー対策に関する公式ブログを公開した。周囲に撮影中であることを知らせる白色LEDへの妨害や破壊行為を検出した場合、カメラ機能を強制的に無効化するアップデートを実施する。また、LEDを除去する改造サービスの出品削除や、販売業者への法的措置も進める方針だ。",
-      "published": "2026/07/09 11:01",
+      "title": "「全東信」破産　経団連会長も言及　カード決済の環境整備強調　「事業者は健全経営を」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news085.html",
+      "summary": "クレジットカード決済代行会社「全東信」（大阪市中央区）の破産手続きをめぐり、経団連の筒井義信会長は、大阪市内で開いた記者会見で「決済を扱う事業者は健全経営を徹底すべきだ」と述べた。キャッシュレス決済の普及が進む中、店舗や消費者が安心して利用できる環境づくりの重要性も強調した。",
+      "published": "2026/07/10 10:16",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "クールジャパンの失敗は生かされず？　経産省肝いりで始まった後釜施策「IP360」の“光と影”",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/04/news032.html",
-      "summary": "2033年までにコンテンツの海外売上20兆円──政府がコンテンツ大型支援策「IP360」を始動させた。だがDeNAへの15億円補助が報じられるや、SNSは「勝ち組へのばらまき」と批判が殺到。同じころ、国立映画アーカイブはクラファンに踏み切る。稼ぐ企業に補助、文化基盤はクラファン。その対比の手前で、いま何が問われているのか。",
-      "published": "2026/07/09 11:00",
+      "title": "OpenAIのフィジ・シモ氏、フルタイムの役職を退任――慢性疾患の療養に専念",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news079.html",
+      "summary": "OpenAIでAGI導入担当CEOを務めるフィジ・シモ氏が、フルタイムの役職を退き、パートタイムのアドバイザーに移行すると自身のXで明らかにした。7年前から抱える慢性疾患の療養に専念するためで、今後はAIによる疾病の治療などに取り組むという。アルトマンCEOは「本当に悲しい」とコメントした。",
+      "published": "2026/07/10 09:31",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米中央軍、イランを追加攻撃　「強力にたたいた」とトランプ氏",
-      "url": "https://www.bbc.com/japanese/articles/c5yz4mzjxejo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ中央軍は8日（日本時間9日朝）、「最高司令官の指示により、ホルムズ海峡における航行の自由を脅かすイランの能力をさらに低下させるため」、イランに対する追加攻撃を実施していると発表した。トランプ米大統領はこの後、イランを「強力にたたいた」と記者団に述べた。",
-      "published": "2026/07/09 10:02",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf38/live/7372a430-7b27-11f1-a52f-dd669ddb448b.jpg"
+      "title": "バーナム氏、次のイギリス首相になる見通し　労働党議員322人が党首指名投票で支持",
+      "url": "https://www.bbc.com/japanese/articles/cgmdrpdjw41o?at_medium=RSS&at_campaign=rss",
+      "summary": "英与党・労働党の大多数の下院議員が9日、次の党首にアンディ・バーナム下院議員を指名した。これにより、バーナム氏は次の党首および次の首相への道をさらに一歩進んだ。予想されている通りほかに立候補者がいなければ、バーナム氏は来週、労働党党首に選出され、7月20日に首相に就任する。",
+      "published": "2026/07/10 11:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2eca/live/3d36d150-7bf6-11f1-b5ce-7d0a3779e31e.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "アメリカとイラン、攻撃の応酬続く　ハメネイ師の葬儀は最終日",
+      "url": "https://www.bbc.com/japanese/articles/cgmdrp2v1ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "再燃しているアメリカとイランの攻撃の応酬は9日も続いた。イランでは、今回の戦争初日に殺害された前最高指導者ハメネイ師の葬儀が最終日を迎えた。こうしたなか、ホルムズ海峡を航行する船の「劇的な」減少が報告されている。",
+      "published": "2026/07/10 11:36",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/efad/live/35077a10-7c01-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,15 +76,6 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、NATO首脳会議でスペインを「相手にするだけ無駄」と批判　グリーンランド領有めぐる主張も再燃",
-      "url": "https://www.bbc.com/japanese/articles/c8e23d32jelo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は8日、トルコ・アンカラで開かれた大西洋条約機構（NATO）首脳会議に出席し、軍事協力などをめぐり対立が続くスペインを改めて厳しく批判した。また、グリーンランドを領有する意欲を再び示した。",
-      "published": "2026/07/09 12:58",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e08/live/31618d80-7b46-11f1-bee8-53ce494e1abc.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
       "title": "中国のタピオカティー・チェーン、ルイ・ヴィトンの商標権侵害で2.4億円賠償命令　ネットで議論に",
       "url": "https://www.bbc.com/japanese/articles/c3vy0pkq043o?at_medium=RSS&at_campaign=rss",
       "summary": "中国で人気のタピオカティー・チェーン「モリーティー」は、ロゴがルイ・ヴィトンの商標権を侵害していると同国の裁判所に判断され、1030万元（約2億4000万円）の損害賠償金を支払うよう命じられた。この判決を受けて、知的財産権の保護についてインターネット上で議論が起きている。",
@@ -85,56 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "右翼ル・ペン氏、仏大統領選への立候補を表明　有罪判決について上告の意向",
-      "url": "https://www.bbc.com/japanese/articles/c70yg9777jeo?at_medium=RSS&at_campaign=rss",
-      "summary": "フランスの右翼政党「国民連合（RN）」指導者のル・ペン前党首は7日、来年の大統領選挙に立候補する意向を表明した。また、自身に監視用の電子ブレスレットの1年間装着を義務付けた公金不正流用の有罪判決がこの日、控訴裁判所によって維持されたことについて、最高裁に上告する考えも示した。",
-      "published": "2026/07/08 12:20",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/98f2/live/e43e2690-7a40-11f1-bc29-738b6960c215.jpg"
+      "title": "トランプ氏、NATO首脳会議でスペインを「相手にするだけ無駄」と批判　グリーンランド領有めぐる主張も再燃",
+      "url": "https://www.bbc.com/japanese/articles/c8e23d32jelo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は8日、トルコ・アンカラで開かれた大西洋条約機構（NATO）首脳会議に出席し、軍事協力などをめぐり対立が続くスペインを改めて厳しく批判した。また、グリーンランドを領有する意欲を再び示した。",
+      "published": "2026/07/09 12:58",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e08/live/31618d80-7b46-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢やりたいことがわからない｣｢自分に自信が持てない｣はマイナスじゃない　精神科医が｢ごく自然な状態｣と語る\"根拠\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948200?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢本当にやりたいことがわからない｣｢自分に自信が持てない｣――そう感じたとき､多くの人は自分を責めてしまうもの。けれども､精神科医Tomy氏は｢それはごく自然な状態｣と話します。停滞感の正体と､前に…",
-      "published": "2026/07/09 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/4/1200w/img_3482823abf9a76706dc2225753b9f94477386.jpg?nextgen=false"
+      "title": "Pixel Foldのような｢折りたたみiPhone｣は登場するのか…？　最新の\"アメリカ現地イベント\"で示された｢重要なヒント｣ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950530?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢折りたたみiPhoneは本当に登場するのか？｣—グーグルやサムスンが先行する中､アップルはどう動くのでしょうか。",
+      "published": "2026/07/10 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/c/1200w/img_ec7ad370b3c27e1b74c4ddabf1e26f73131801.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "中国による｢国際的な経済的威圧｣はどれほど実効性があり､どのくらい続くのか…論文から浮かび上がる意外な事実 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950965?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "中国による\"対日制裁\"や国際的な経済的威圧はどれほど実効性があり､どのくらい続くのか―。中国の｢怒り｣の影響を論文データや事例に基づいて徹底分析します。",
-      "published": "2026/07/09 12:33",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/b/1200w/img_cb2905816216a935f4ae2396f07bf3df915861.jpg?nextgen=false"
+      "title": "口を開けば｢それって意味なくね?｣と切り捨ててしまう若者たちが､実は仕事に求めている\"至極ごもっとも\"な本音 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948605?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "若手人材の採用･定着には､曖昧な｢自己成長｣への期待や､合理性を重視する価値観への理解が不可欠です。彼らが納得し､親にも説明できる具体的なキャリアや評価体制の提示が求められる時代。今､企業に必要な｢…",
+      "published": "2026/07/10 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/8/1200w/img_98fc98593d02885a72d0bea06756db4d361901.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "試合数減･地上波から消え…低迷する男子ゴルフに\"150億円\"投資の勝算　ファンドトップが語る｢プロ200人の活かし方｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949706?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "試合数は減り､地上波からもほぼ姿を消しつつある男子プロゴルフツアー。賞金総額でも女子に大きく水をあけられるなか､投資ファンドが150億円規模の出資を決めた。｢ツアーには200人のプロがいる。知られて…",
-      "published": "2026/07/09 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/c/1200w/img_9c26116d74b41337c803a33fae19786b230721.jpg?nextgen=false"
+      "title": "アップルが激推しする｢Siri AI｣は\"ChatGPTへの対抗\"ではない…　Siri AIが持つ\"独自の強み\"とは | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950533?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップルがWWDC26で最も強調したのは､新OSではなく｢Siri AI｣でした。無料で使える\"生活インフラAI\"は､新たな日常をどう変えるのか？",
+      "published": "2026/07/10 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/a/1200w/img_9a1396e128cda884e7e5ae690136945567498.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "疑惑段階でも最悪｢失職｣のリスクが…ハラスメント報道で猛バッシングの佐藤二朗に見る､芸能人が抱える\"巨大なリスク\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950878?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ドラマ『夫婦別姓刑事』の撮影現場で起きたハラスメント騒動…佐藤二朗さんに猛バッシングが続いていますが､芸能人が抱えるリスクは､一般人とは大きく異なると言えるでしょう。",
-      "published": "2026/07/09 12:25",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/6/1200w/img_a6afd828ba4d62888247f6436285f656127938.jpg?nextgen=false"
+      "title": "維新の最重要政策｢定数削減｣見送りでついに露呈した｢高市･維新連合｣の限界と強烈な巻き返しを見せる\"もう1つの権力軸\" | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951083?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "自民党と維新が推進した衆院定数削減法案の今国会成立が見送りに。今後の展開次第では､政権の\"権力軸\"が大きく動きかねません。終盤国会の裏側で何が起きているのでしょうか？",
+      "published": "2026/07/10 11:45",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/9/1200w/img_6914068af143d53a1d08611bf934befa62760.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "容姿を褒めるのはNG?　部下や子供に｢かわいいね｣､悪気ないその一言が\"正解の押し付け\"になる瞬間 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949871?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢かわいい｣と褒める一言にも､ルッキズムやハラスメントの議論が高まる現代。推し活において｢容姿が好き｣と言うのは本当に悪なのか――個人の好みの尊重と他者への配慮。その線引きはどこにあるのでしょうか。",
-      "published": "2026/07/09 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/a/1200w/img_5aa67fbcfa653535faaa0525352959f1411094.jpg?nextgen=false"
+      "title": "なぜ仕事が時間通りに終わらないのか…原因は｢計画性のなさ｣ではなかった　誰もがつい陥るタスク遅延の\"元凶\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949798?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢今日も仕事が終わらなかった｣。そんな悩みを抱えるビジネスパーソンは少なくないでしょう。しかし､その原因は計画性のなさではないかもしれません。仕事が時間通りに終わらない本当の元凶とは？　タスク遅延を…",
+      "published": "2026/07/10 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/d/1200w/img_2d38081006d9fc48b2ac3f92a2238fbf123859.jpg?nextgen=false"
     }
   ]
 }
