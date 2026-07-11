@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-07-10T04:14:37.092492+00:00",
+  "generated_at": "2026-07-11T03:42:28.279423+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ソニー、光学25倍ズーム搭載の「RX10 V」発売　1型センサーの高倍率機に9年ぶり新製品",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news090.html",
-      "summary": "ソニーは9日、1.0型CMOSセンサーと35mm判換算で24～600mm相当の光学25倍ズームレンズを搭載したレンズ一体型デジタルカメラ「RX10 V」を発表した。",
-      "published": "2026/07/10 11:10",
+      "title": "“防爆シェルター”を3Dプリントする技術　日本のスタートアップが開発　海外イベントの防衛装備庁ブースで展示へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html",
+      "summary": "3Dプリント住宅を手掛けるセレンディクス（兵庫県西宮市）が、3Dプリンタで建築した防爆シェルターやドローン基地を英国の防衛産業展示会で展示する。既存の建築手法に対して形状や建設立地の自由度で勝るといい、防衛装備庁が出展するブース内で実物を展示する予定だ。",
+      "published": "2026/07/11 11:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "相手を嫌いになる脳の仕組み、東京大が解明　光でマウスの感情操作に成功　うつ病治療に期待",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news089.html",
-      "summary": "特定の相手を嫌いになる脳の仕組みを、東京大の研究チームがマウス実験で解明した。光の刺激で神経細胞の活動を操作する「光遺伝学」の技術を使い、相手を嫌う感情の生成や消去に成功した。米科学誌Scienceで7月10日に報告する。",
-      "published": "2026/07/10 11:07",
+      "title": "Apple、OpenAIと元従業員2人を提訴　「iPhoneの機密を盗んだ」と主張",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html",
+      "summary": "Appleは、自社の営業秘密を不正に取得したとして、元従業員2人とOpenAIおよびその傘下企業を提訴した。iPhoneなどの開発情報がハードウェア参入を進めるOpenAIに流出したと主張。面接での機密情報の聞き出しや組織的な引き抜きを指摘し、損害賠償などを求めている。なお、AI機能での提携とは無関係としている。",
+      "published": "2026/07/11 08:12",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropic、Claudeの使い方を振り返る新機能「reflect」（振り返り）追加──AIとの付き合い方を見直すために",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news086.html",
-      "summary": "Anthropicは、AIアシスタント「Claude」の使い方を振り返るための新機能「reflect」(日本では「振り返り」）をβ版で公開した。過去のチャット活動をトピックや利用パターンごとに可視化し、AIの利用が自分の目標に沿っているかを見直せるようにする。休憩を促すナッジなどの機能も備える。",
-      "published": "2026/07/10 10:24",
+      "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
+      "summary": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
+      "published": "2026/07/10 21:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「全東信」破産　経団連会長も言及　カード決済の環境整備強調　「事業者は健全経営を」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news085.html",
-      "summary": "クレジットカード決済代行会社「全東信」（大阪市中央区）の破産手続きをめぐり、経団連の筒井義信会長は、大阪市内で開いた記者会見で「決済を扱う事業者は健全経営を徹底すべきだ」と述べた。キャッシュレス決済の普及が進む中、店舗や消費者が安心して利用できる環境づくりの重要性も強調した。",
-      "published": "2026/07/10 10:16",
+      "title": "2日連続の「モバイルSuica」障害、JR東が原因を公表　別途負担の運賃は払い戻しへ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news149.html",
+      "summary": "JR東日本は7月10日、6月30日と7月1日に発生した「モバイルSuica」のシステム障害について、原因と対策を発表した。また、その影響で定期券やSuicaグリーン券などを利用できなかったユーザーに対し、別途負担した運賃等の補償を実施する。",
+      "published": "2026/07/10 20:05",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "OpenAIのフィジ・シモ氏、フルタイムの役職を退任――慢性疾患の療養に専念",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news079.html",
-      "summary": "OpenAIでAGI導入担当CEOを務めるフィジ・シモ氏が、フルタイムの役職を退き、パートタイムのアドバイザーに移行すると自身のXで明らかにした。7年前から抱える慢性疾患の療養に専念するためで、今後はAIによる疾病の治療などに取り組むという。アルトマンCEOは「本当に悲しい」とコメントした。",
-      "published": "2026/07/10 09:31",
+      "title": "安いエアコンが消える？　「エアコン2027年問題」でメーカーは来年どう動くのか、ダイキンに聞いた",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news130.html",
+      "summary": "安いエアコンが売り場から消えるのではないかと話題になっている、いわゆる「エアコン2027年問題」。最近はテレビのニュースなどにもなっているが、メーカーはどう考えているのか。",
+      "published": "2026/07/10 18:17",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米移民当局ICE、テキサスで出勤途中の男性を射殺　取締作戦の対象者ではなかったと国土安全保障省",
+      "url": "https://www.bbc.com/japanese/articles/c20y31m3r61o?at_medium=RSS&at_campaign=rss",
+      "summary": "米テキサス州ヒューストンで7日、移民当局の職員が出勤途中の男性を路上で射殺した。これについて国土安全保障省（DHS）は10日、職員が射殺した男性は、意図した取締対象者ではなかったと述べた。",
+      "published": "2026/07/11 12:28",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cff1/live/a2c80e40-7c4a-11f1-b92f-f7be89c06628.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【2026年サッカー男子W杯】 スペイン、ベルギー破りベスト4　メリノが土壇場決勝ゴール",
+      "url": "https://www.bbc.com/japanese/articles/c3dyj1km1e0o?at_medium=RSS&at_campaign=rss",
+      "summary": "サッカー男子ワールドカップ（W杯）北中米大会は10日（日本時間11日）、アメリカのロサンゼルス・スタジアムで準々決勝があり、スペインが2-1でベルギーに勝ち、準決勝に進出した。スペインのベスト4入りは、優勝した2010年大会以来。",
+      "published": "2026/07/11 12:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/518e/live/efaabff0-7cd1-11f1-803d-2b87d5c6a587.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "スペイン、山火事で12人死亡　南欧で熱波続く",
+      "url": "https://www.bbc.com/japanese/articles/cwy0zzvpdgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "スペイン南部アンダルシア州のアルメリア県ロス・ガジャルドスで発生した山火事で、10日までに少なくとも12人が死亡し、6人が負傷した。州政府が発表した。",
+      "published": "2026/07/10 15:18",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0de1/live/cb2200c0-7c05-11f1-9510-1546718f668b.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ウクライナ、クリミア沖で燃料輸送中のロシア船を攻撃　燃料供給網への攻撃強化",
+      "url": "https://www.bbc.com/japanese/articles/cp8l0ej28ggo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナ軍はこのところ、ロシアが2014年に違法に併合した南部クリミア半島周辺での攻撃を激化させている。クリミア半島につながるロシアの陸上回廊のほか、海上の補給路も標的にしている。",
+      "published": "2026/07/10 13:27",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db10/live/4259e690-7ac5-11f1-b541-536d253827b8.png"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2eca/live/3d36d150-7bf6-11f1-b5ce-7d0a3779e31e.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "アメリカとイラン、攻撃の応酬続く　ハメネイ師の葬儀は最終日",
-      "url": "https://www.bbc.com/japanese/articles/cgmdrp2v1ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "再燃しているアメリカとイランの攻撃の応酬は9日も続いた。イランでは、今回の戦争初日に殺害された前最高指導者ハメネイ師の葬儀が最終日を迎えた。こうしたなか、ホルムズ海峡を航行する船の「劇的な」減少が報告されている。",
-      "published": "2026/07/10 11:36",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/efad/live/35077a10-7c01-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "トランプ氏、ウクライナに「パトリオット」ミサイルのライセンス生産容認",
-      "url": "https://www.bbc.com/japanese/articles/c75y0l5ll9qo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は8日、ウクライナに対し、迎撃ミサイル「パトリオット」の生産権を与えると表明した。ウクライナにとっては、ロシアの弾道ミサイルによる攻撃への防衛強化につながる。",
-      "published": "2026/07/09 12:19",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/573c/live/df3b5970-7b43-11f1-8a90-1908b2950e9a.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "中国のタピオカティー・チェーン、ルイ・ヴィトンの商標権侵害で2.4億円賠償命令　ネットで議論に",
-      "url": "https://www.bbc.com/japanese/articles/c3vy0pkq043o?at_medium=RSS&at_campaign=rss",
-      "summary": "中国で人気のタピオカティー・チェーン「モリーティー」は、ロゴがルイ・ヴィトンの商標権を侵害していると同国の裁判所に判断され、1030万元（約2億4000万円）の損害賠償金を支払うよう命じられた。この判決を受けて、知的財産権の保護についてインターネット上で議論が起きている。",
-      "published": "2026/07/09 12:05",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/178e/live/55854630-78d9-11f1-973f-bf9fc4805cda.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "トランプ氏、NATO首脳会議でスペインを「相手にするだけ無駄」と批判　グリーンランド領有めぐる主張も再燃",
-      "url": "https://www.bbc.com/japanese/articles/c8e23d32jelo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は8日、トルコ・アンカラで開かれた大西洋条約機構（NATO）首脳会議に出席し、軍事協力などをめぐり対立が続くスペインを改めて厳しく批判した。また、グリーンランドを領有する意欲を再び示した。",
-      "published": "2026/07/09 12:58",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e08/live/31618d80-7b46-11f1-bee8-53ce494e1abc.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "知性は言葉や記号だけで成り立つか､身体なきAIに真実は宿るのか　ウンベルト･エーコ『薔薇の名前』を読む（下） | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950928?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『薔薇の名前』を衣川理花氏が読み解きます（下編）。",
+      "published": "2026/07/11 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/6/1200w/img_26153792a5ecbf6a12778337e469eafd209890.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "Pixel Foldのような｢折りたたみiPhone｣は登場するのか…？　最新の\"アメリカ現地イベント\"で示された｢重要なヒント｣ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950530?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢折りたたみiPhoneは本当に登場するのか？｣—グーグルやサムスンが先行する中､アップルはどう動くのでしょうか。",
-      "published": "2026/07/10 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/c/1200w/img_ec7ad370b3c27e1b74c4ddabf1e26f73131801.jpg?nextgen=false"
+      "title": "｢10人に1人が通信制高校に進学する｣時代に､親はなにをすべきか？ 海外ではなく｢国内に留学｣する選択肢も | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950002?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "高校進学の選択肢が急速に多様化しています。通信制高校を選ぶ生徒は10人に1人､高専や地域留学なども拡大中です。子どもたちは何を基準に自分に合う進学先を探すのか。人生最初の大きな｢決断｣は､どんな未来…",
+      "published": "2026/07/11 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/a/1200w/img_ea0e6ca561cb2006e2d82b63e93e08c4213779.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "口を開けば｢それって意味なくね?｣と切り捨ててしまう若者たちが､実は仕事に求めている\"至極ごもっとも\"な本音 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948605?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "若手人材の採用･定着には､曖昧な｢自己成長｣への期待や､合理性を重視する価値観への理解が不可欠です。彼らが納得し､親にも説明できる具体的なキャリアや評価体制の提示が求められる時代。今､企業に必要な｢…",
-      "published": "2026/07/10 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/8/1200w/img_98fc98593d02885a72d0bea06756db4d361901.jpg?nextgen=false"
+      "title": "｢文字も書けない｣｢チンパンジー｣…エムバペへの侮辱に大統領や国連まで総出で激怒するフランスの\"切実な裏事情\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951116?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "サッカーワールドカップで起きた人種差別発言をめぐり､フランス代表主将エムバペ選手に国境を超えた支援の声が集まっています。その背景には何があるのでしょうか。",
+      "published": "2026/07/11 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/c/1200w/img_3c6301e28c4dddf3fedeb089e1bc1e60922639.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "アップルが激推しする｢Siri AI｣は\"ChatGPTへの対抗\"ではない…　Siri AIが持つ\"独自の強み\"とは | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950533?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アップルがWWDC26で最も強調したのは､新OSではなく｢Siri AI｣でした。無料で使える\"生活インフラAI\"は､新たな日常をどう変えるのか？",
-      "published": "2026/07/10 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/a/1200w/img_9a1396e128cda884e7e5ae690136945567498.jpg?nextgen=false"
+      "title": "夏の自炊を劇的にラクにする！ 加熱ムラを防ぎつつ肉をふっくら蒸し上げる絶品｢豚肉のしょうが蒸し｣極上レンジ調理術 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950971?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "暑い夏､キッチンに立つのが億劫なときも､電子レンジがあれば手軽においしい料理が作れます。火を使わない手軽さがありながら､素材のうま味が引き立つふっくらとした仕上がりを楽しめる､絶品｢豚肉のしょうが蒸…",
+      "published": "2026/07/11 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1c30651698b355efa69e423045cdd97f120870.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "維新の最重要政策｢定数削減｣見送りでついに露呈した｢高市･維新連合｣の限界と強烈な巻き返しを見せる\"もう1つの権力軸\" | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951083?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "自民党と維新が推進した衆院定数削減法案の今国会成立が見送りに。今後の展開次第では､政権の\"権力軸\"が大きく動きかねません。終盤国会の裏側で何が起きているのでしょうか？",
-      "published": "2026/07/10 11:45",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/9/1200w/img_6914068af143d53a1d08611bf934befa62760.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "なぜ仕事が時間通りに終わらないのか…原因は｢計画性のなさ｣ではなかった　誰もがつい陥るタスク遅延の\"元凶\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949798?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢今日も仕事が終わらなかった｣。そんな悩みを抱えるビジネスパーソンは少なくないでしょう。しかし､その原因は計画性のなさではないかもしれません。仕事が時間通りに終わらない本当の元凶とは？　タスク遅延を…",
-      "published": "2026/07/10 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/d/1200w/img_2d38081006d9fc48b2ac3f92a2238fbf123859.jpg?nextgen=false"
+      "title": "〈書評〉『交通革命と日本 グローバル世界の成立と開国･開港』『サッカーと地政学』『総力戦研究所の真実』 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950927?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『交通革命と日本 グローバル世界の成立と開国･開港』（小風秀雅 著）､『サッカーと地政学 ゴールの先に世界が見える』（木崎伸也 著）､『総力…",
+      "published": "2026/07/11 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/3/1200w/img_d3e6d7b6cf2bdf74d2b56da465658b6c486316.jpg?nextgen=false"
     }
   ]
 }
