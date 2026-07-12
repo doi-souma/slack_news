@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-11T03:42:28.279423+00:00",
+  "generated_at": "2026-07-12T03:57:15.087470+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "なんでPSのディスク版ゲームがなくなるの？　不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/12/news013.html",
+      "summary": "ソニーが2028年の1月にPlayStationのゲームタイトルにおける物理ディスクの生産を終了すると発表しました。ボク個人もディスク版を残してほしいと思う1人ですが、実はあまり行動は伴っていないのでした。",
+      "published": "2026/07/12 07:14",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -38,13 +47,22 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "安いエアコンが消える？　「エアコン2027年問題」でメーカーは来年どう動くのか、ダイキンに聞いた",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news130.html",
-      "summary": "安いエアコンが売り場から消えるのではないかと話題になっている、いわゆる「エアコン2027年問題」。最近はテレビのニュースなどにもなっているが、メーカーはどう考えているのか。",
-      "published": "2026/07/10 18:17",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "アメリカが新たにイラン攻撃、イランはホルムズ海峡を当面閉じると発表",
+      "url": "https://www.bbc.com/japanese/articles/cvgqxyldpp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ中央軍は12日、「今週3度目」のイラン攻撃を実施したと発表した。イランがキプロス船籍の船を「公然と攻撃」したことを理由としている。これに先立ちイランのイスラム革命防衛隊（IRGC）は同日未明、「この地域におけるアメリカの介入が終わるまで」ホルムズ海峡を当面封鎖すると発表した。",
+      "published": "2026/07/12 12:01",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc1d/live/dcbed4a0-7d9c-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【2026年サッカー男子W杯】イングランド、ノルウェーに逆転勝ちでベスト4　ベリンガム2得点",
+      "url": "https://www.bbc.com/japanese/articles/cvgmddr889mo?at_medium=RSS&at_campaign=rss",
+      "summary": "サッカー男子ワールドカップ（W杯）北中米大会の準々決勝、ノルウェー対イングランドの試合が米フロリダ州のマイアミスタジアムで11日午後5時（日本時間12日午前6時）すぎに始まった。延長戦の末にイングランドが2-1で競り勝ち、2大会ぶりの準決勝進出を決めた。MFジュード・ベリンガムが2得点を決め、今大会通算得点を6点にした。イングランドは、この試合の後に行われたアルゼンチン対スイス戦に3-1で勝ったア",
+      "published": "2026/07/12 12:48",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5fdd/live/b50bc360-7d87-11f1-af15-993761ceb5ac.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,6 +76,15 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
+      "title": "アメリカ、ホルムズ海峡での船舶攻撃の停止を誓うようイランに要求",
+      "url": "https://www.bbc.com/japanese/articles/cgjx9gp5xx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとイランの交渉が11日に予定されるなか、アメリカはイランに対し、ホルムズ海峡の開放を公に表明し、商船への砲撃を停止することを公に誓うよう求めている。",
+      "published": "2026/07/11 13:01",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
       "title": "【2026年サッカー男子W杯】 スペイン、ベルギー破りベスト4　メリノが土壇場決勝ゴール",
       "url": "https://www.bbc.com/japanese/articles/c3dyj1km1e0o?at_medium=RSS&at_campaign=rss",
       "summary": "サッカー男子ワールドカップ（W杯）北中米大会は10日（日本時間11日）、アメリカのロサンゼルス・スタジアムで準々決勝があり、スペインが2-1でベルギーに勝ち、準決勝に進出した。スペインのベスト4入りは、優勝した2010年大会以来。",
@@ -65,76 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/518e/live/efaabff0-7cd1-11f1-803d-2b87d5c6a587.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "スペイン、山火事で12人死亡　南欧で熱波続く",
-      "url": "https://www.bbc.com/japanese/articles/cwy0zzvpdgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "スペイン南部アンダルシア州のアルメリア県ロス・ガジャルドスで発生した山火事で、10日までに少なくとも12人が死亡し、6人が負傷した。州政府が発表した。",
-      "published": "2026/07/10 15:18",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0de1/live/cb2200c0-7c05-11f1-9510-1546718f668b.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ウクライナ、クリミア沖で燃料輸送中のロシア船を攻撃　燃料供給網への攻撃強化",
-      "url": "https://www.bbc.com/japanese/articles/cp8l0ej28ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナ軍はこのところ、ロシアが2014年に違法に併合した南部クリミア半島周辺での攻撃を激化させている。クリミア半島につながるロシアの陸上回廊のほか、海上の補給路も標的にしている。",
-      "published": "2026/07/10 13:27",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db10/live/4259e690-7ac5-11f1-b541-536d253827b8.png"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "バーナム氏、次のイギリス首相になる見通し　労働党議員322人が党首指名投票で支持",
-      "url": "https://www.bbc.com/japanese/articles/cgmdrpdjw41o?at_medium=RSS&at_campaign=rss",
-      "summary": "英与党・労働党の大多数の下院議員が9日、次の党首にアンディ・バーナム下院議員を指名した。これにより、バーナム氏は次の党首および次の首相への道をさらに一歩進んだ。予想されている通りほかに立候補者がいなければ、バーナム氏は来週、労働党党首に選出され、7月20日に首相に就任する。",
-      "published": "2026/07/10 11:52",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2eca/live/3d36d150-7bf6-11f1-b5ce-7d0a3779e31e.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢台湾にいると日本のことを考え続けさせられる｣。日本の植民地だと知らなかった俳優･岩澤侑生子が見た台湾演劇の熱量 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951024?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "京都で子役として歩み始め､日本と台湾で活躍する俳優の岩澤侑生子さんは､台湾が日本の植民地だったことも知らなかったそうです。台湾で演劇をさらに学び､歴史やアイデンティティを見つめ直す軌跡を追います。",
+      "published": "2026/07/12 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/6/1200w/img_26034e54de28bf08ad8e5af72d7d5afb56420.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "知性は言葉や記号だけで成り立つか､身体なきAIに真実は宿るのか　ウンベルト･エーコ『薔薇の名前』を読む（下） | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950928?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『薔薇の名前』を衣川理花氏が読み解きます（下編）。",
-      "published": "2026/07/11 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/6/1200w/img_26153792a5ecbf6a12778337e469eafd209890.jpg?nextgen=false"
+      "title": "トランプ再選後に悪化した ビッグテックへの権力集中 『テクノ･クーデター』マリエッチェ･スハーケ氏に聞く | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950926?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は､三極委員会で来日していた『テクノ･クーデター 民主主義崩壊とシリコンバレーの野望』の著者､米スタンフォード大学 サイバー政策センター …",
+      "published": "2026/07/12 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/2/1200w/img_52120c350e4d0ece4a3d3ba73ad57bdb193485.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢10人に1人が通信制高校に進学する｣時代に､親はなにをすべきか？ 海外ではなく｢国内に留学｣する選択肢も | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950002?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "高校進学の選択肢が急速に多様化しています。通信制高校を選ぶ生徒は10人に1人､高専や地域留学なども拡大中です。子どもたちは何を基準に自分に合う進学先を探すのか。人生最初の大きな｢決断｣は､どんな未来…",
-      "published": "2026/07/11 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/a/1200w/img_ea0e6ca561cb2006e2d82b63e93e08c4213779.jpg?nextgen=false"
+      "title": "【超難関･東大理Ⅲ合格者の教え】問題を解いたあとは｢まずぼーっとする｣　じつは最強の勉強法だった | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949031?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢頭がいい人｣は､何もしていない\"ぼーっとする時間\"にこそ､真に知識を自分のものにしています。東大理Ⅲ合格者たちが実践する｢問題を解いた後に何も見ず考える｣勉強法とは？今すぐ実践できる意外な頭の鍛え…",
+      "published": "2026/07/12 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/0/1200w/img_d025b9283d83362d7be476194ad3d596112283.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢文字も書けない｣｢チンパンジー｣…エムバペへの侮辱に大統領や国連まで総出で激怒するフランスの\"切実な裏事情\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951116?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "サッカーワールドカップで起きた人種差別発言をめぐり､フランス代表主将エムバペ選手に国境を超えた支援の声が集まっています。その背景には何があるのでしょうか。",
-      "published": "2026/07/11 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/c/1200w/img_3c6301e28c4dddf3fedeb089e1bc1e60922639.jpg?nextgen=false"
+      "title": "｢大河ではあんなにお調子者なのに…｣ドラマではまだ描かれていない《豊臣秀吉》の\"あまりに残虐すぎる\"一面 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950688?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大河では｢気が優しくてお調子者｣として描かれている豊臣秀吉。その一方で史実では残虐な一面も持ち合わせていました。秀吉の\"闇の部分\"に迫ります。",
+      "published": "2026/07/12 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_23d1ea8c914693838e4856abe77eef67791917.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "夏の自炊を劇的にラクにする！ 加熱ムラを防ぎつつ肉をふっくら蒸し上げる絶品｢豚肉のしょうが蒸し｣極上レンジ調理術 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950971?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "暑い夏､キッチンに立つのが億劫なときも､電子レンジがあれば手軽においしい料理が作れます。火を使わない手軽さがありながら､素材のうま味が引き立つふっくらとした仕上がりを楽しめる､絶品｢豚肉のしょうが蒸…",
-      "published": "2026/07/11 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1c30651698b355efa69e423045cdd97f120870.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "〈書評〉『交通革命と日本 グローバル世界の成立と開国･開港』『サッカーと地政学』『総力戦研究所の真実』 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950927?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『交通革命と日本 グローバル世界の成立と開国･開港』（小風秀雅 著）､『サッカーと地政学 ゴールの先に世界が見える』（木崎伸也 著）､『総力…",
-      "published": "2026/07/11 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/3/1200w/img_d3e6d7b6cf2bdf74d2b56da465658b6c486316.jpg?nextgen=false"
+      "title": "｢どうして真剣交際を申し込まないんですか｣と尻を叩かれ…恋愛経験ゼロの49歳理系男性が､9歳年下と交際5カ月婚 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950902?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "仕事一筋だった理系男性が､結婚相談所を通じて人生を大きく変えた軌跡をご紹介します。家事や家計管理､価値観の擦り合わせなど､派手さはないけれど､穏やかで堅実な晩婚の実態とは。",
+      "published": "2026/07/12 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/c/1200w/img_ecab1778d9ee5e0f284454ba9afacdc5621531.jpg?nextgen=false"
     }
   ]
 }
