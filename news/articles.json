@@ -1,59 +1,68 @@
 {
-  "generated_at": "2026-07-12T03:57:15.087470+00:00",
+  "generated_at": "2026-07-13T03:59:36.033155+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "なんでPSのディスク版ゲームがなくなるの？　不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/12/news013.html",
-      "summary": "ソニーが2028年の1月にPlayStationのゲームタイトルにおける物理ディスクの生産を終了すると発表しました。ボク個人もディスク版を残してほしいと思う1人ですが、実はあまり行動は伴っていないのでした。",
-      "published": "2026/07/12 07:14",
+      "title": "Anthropic、「Fable 5」またも延長　追加費用なしで7月19日まで利用可能に　「GPT-5.6」に対抗？",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news081.html",
+      "summary": "米Anthropicは7月12日（現地時間）、AIモデル「Claude Fable 5」を有料プランで追加料金なしに使える提供期間を、7月19日まで延長すると発表した。開発支援ツール「Claude Code」の週次利用制限を通常より50％引き上げる措置も、同じく19日まで続く。",
+      "published": "2026/07/13 12:27",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“防爆シェルター”を3Dプリントする技術　日本のスタートアップが開発　海外イベントの防衛装備庁ブースで展示へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html",
-      "summary": "3Dプリント住宅を手掛けるセレンディクス（兵庫県西宮市）が、3Dプリンタで建築した防爆シェルターやドローン基地を英国の防衛産業展示会で展示する。既存の建築手法に対して形状や建設立地の自由度で勝るといい、防衛装備庁が出展するブース内で実物を展示する予定だ。",
-      "published": "2026/07/11 11:00",
+      "title": "「GPT-Liveが“まるで人間”」ってホンマ？　出汁を「でじる」、トーストを「素焼き」て言うてたけど……",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news068.html",
+      "summary": "AIは、何も塗らないトーストを「素焼き」と呼び、出汁を「でじる」と言い出した。",
+      "published": "2026/07/13 11:59",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Apple、OpenAIと元従業員2人を提訴　「iPhoneの機密を盗んだ」と主張",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html",
-      "summary": "Appleは、自社の営業秘密を不正に取得したとして、元従業員2人とOpenAIおよびその傘下企業を提訴した。iPhoneなどの開発情報がハードウェア参入を進めるOpenAIに流出したと主張。面接での機密情報の聞き出しや組織的な引き抜きを指摘し、損害賠償などを求めている。なお、AI機能での提携とは無関係としている。",
-      "published": "2026/07/11 08:12",
+      "title": "AIグラスへの不安感は、盗撮問題に集中しすぎると問題を見誤るのではないか",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news063.html",
+      "summary": "ディスプレイ搭載AIグラス市場で世界首位とされる中国「Rokid」が日本市場へ本格参入した。以前から「盗撮」の道具となる可能性を指摘されているAIグラスだが、発表会に参加して、もっと別のことに対して不安になった。",
+      "published": "2026/07/13 11:12",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
-      "summary": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
-      "published": "2026/07/10 21:15",
+      "title": "公開中の新作「トイ・ストーリー5」　Xに全編流出　150万再生で”6億円”相当の被害か",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news065.html",
+      "summary": "7月3日に国内で劇場公開されたディズニー＆ピクサーの米アニメ映画「トイ・ストーリー5」の全編映像が、X上で一時、拡散されていたことが分かった。映画館で盗撮されたような粗悪な動画ではなく、高画質な映像データそのものが流出した可能性が高く、すでにアカウントは削除されたが、投稿から約7時間半で約150万回再生されたとみられる。",
+      "published": "2026/07/13 10:32",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "2日連続の「モバイルSuica」障害、JR東が原因を公表　別途負担の運賃は払い戻しへ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news149.html",
-      "summary": "JR東日本は7月10日、6月30日と7月1日に発生した「モバイルSuica」のシステム障害について、原因と対策を発表した。また、その影響で定期券やSuicaグリーン券などを利用できなかったユーザーに対し、別途負担した運賃等の補償を実施する。",
-      "published": "2026/07/10 20:05",
+      "title": "Instagram、他人の公開写真からAI動画を自動生成する機能を無効化　フィードバック受け",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news059.html",
+      "summary": "Metaは、画像生成モデル「Muse Image」に関連してInstagramに導入したAI動画の自動生成機能を無効化したと発表した。この機能は、公開アカウントの写真や動画を他のユーザーが本人の許諾なくAI動画の素材として再利用できる仕様だったが、プライバシーへの懸念や批判のフィードバックを受けて提供を停止した。",
+      "published": "2026/07/13 08:59",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカが新たにイラン攻撃、イランはホルムズ海峡を当面閉じると発表",
-      "url": "https://www.bbc.com/japanese/articles/cvgqxyldpp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ中央軍は12日、「今週3度目」のイラン攻撃を実施したと発表した。イランがキプロス船籍の船を「公然と攻撃」したことを理由としている。これに先立ちイランのイスラム革命防衛隊（IRGC）は同日未明、「この地域におけるアメリカの介入が終わるまで」ホルムズ海峡を当面封鎖すると発表した。",
-      "published": "2026/07/12 12:01",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc1d/live/dcbed4a0-7d9c-11f1-bee8-53ce494e1abc.jpg"
+      "title": "アメリカ軍、イラン攻撃続ける　ホルムズ海峡は開かれていると主張",
+      "url": "https://www.bbc.com/japanese/articles/cg74ldg4z39o?at_medium=RSS&at_campaign=rss",
+      "summary": "イラン軍は先に、海峡を封鎖したと発表し、同地域の米国の同盟国や基地に対して広範囲にわたる攻撃を開始した。",
+      "published": "2026/07/13 09:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【2026年サッカー男子W杯】 アルゼンチン、スイス下す　ベスト4が出そろう",
+      "url": "https://www.bbc.com/japanese/articles/cd6e171plpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "サッカー男子ワールドカップ（W杯）北中米大会は11日（日本時間12日）、アメリカのカンザスシティー・スタジアムで準々決勝があり、アルゼンチンが3-1でスイスに勝ち、準決勝に進出した。これでベスト4が出そろった。",
+      "published": "2026/07/13 11:49",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f3f/live/4cf4fc40-7e60-11f1-a165-8904f95d4210.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,6 +76,15 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
+      "title": "アメリカが新たにイラン攻撃、イランはホルムズ海峡を当面閉じると発表",
+      "url": "https://www.bbc.com/japanese/articles/cvgqxyldpp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ中央軍は米東部時間11日夜、「今週3度目」のイラン攻撃を実施したと発表した。イランがキプロス船籍の船を「公然と攻撃」したことを理由としている。これに先立ちイランのイスラム革命防衛隊（IRGC）は12日未明、「この地域におけるアメリカの介入が終わるまで」ホルムズ海峡を当面封鎖すると発表した。",
+      "published": "2026/07/12 12:01",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc1d/live/dcbed4a0-7d9c-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
       "title": "米移民当局ICE、テキサスで出勤途中の男性を射殺　取締作戦の対象者ではなかったと国土安全保障省",
       "url": "https://www.bbc.com/japanese/articles/c20y31m3r61o?at_medium=RSS&at_campaign=rss",
       "summary": "米テキサス州ヒューストンで7日、移民当局の職員が出勤途中の男性を路上で射殺した。これについて国土安全保障省（DHS）は10日、職員が射殺した男性は、意図した取締対象者ではなかったと述べた。",
@@ -74,67 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cff1/live/a2c80e40-7c4a-11f1-b92f-f7be89c06628.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "アメリカ、ホルムズ海峡での船舶攻撃の停止を誓うようイランに要求",
-      "url": "https://www.bbc.com/japanese/articles/cgjx9gp5xx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカとイランの交渉が11日に予定されるなか、アメリカはイランに対し、ホルムズ海峡の開放を公に表明し、商船への砲撃を停止することを公に誓うよう求めている。",
-      "published": "2026/07/11 13:01",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】 スペイン、ベルギー破りベスト4　メリノが土壇場決勝ゴール",
-      "url": "https://www.bbc.com/japanese/articles/c3dyj1km1e0o?at_medium=RSS&at_campaign=rss",
-      "summary": "サッカー男子ワールドカップ（W杯）北中米大会は10日（日本時間11日）、アメリカのロサンゼルス・スタジアムで準々決勝があり、スペインが2-1でベルギーに勝ち、準決勝に進出した。スペインのベスト4入りは、優勝した2010年大会以来。",
-      "published": "2026/07/11 12:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/518e/live/efaabff0-7cd1-11f1-803d-2b87d5c6a587.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "テクノロジーが支えるW杯の舞台裏､AI審判や戦術分析はサッカーをどこまで進化させたのか | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950883?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "史上初の3ヵ国開催で盛り上がる2026年サッカーワールドカップ。会場運営や判定の要所で､レノボやAIなど最新テクノロジーが欠かせない存在となっている。運営施設を支える驚異のシステム､そして全チームに…",
+      "published": "2026/07/13 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/d/1200w/img_8d1e52861fb7b5c0633e986ea8bd20e7760082.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢台湾にいると日本のことを考え続けさせられる｣。日本の植民地だと知らなかった俳優･岩澤侑生子が見た台湾演劇の熱量 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951024?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "京都で子役として歩み始め､日本と台湾で活躍する俳優の岩澤侑生子さんは､台湾が日本の植民地だったことも知らなかったそうです。台湾で演劇をさらに学び､歴史やアイデンティティを見つめ直す軌跡を追います。",
-      "published": "2026/07/12 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/6/1200w/img_26034e54de28bf08ad8e5af72d7d5afb56420.jpg?nextgen=false"
+      "title": "｢若い皆さんはオルカン一択ですよ｣は本当か? 《家計の資産分散》を考えるときに押さえておくべき10の切り口 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950676?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢オルカン一択｣と語られる若者向け投資。しかし､NISAの限られた選択肢や本来あるべき多様な分散投資の重要性､リスク商品の取り扱い方には見落とされがちな課題があります。資産形成は本当にこのままでいい…",
+      "published": "2026/07/13 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/c/1200w/img_5c8b26d1194600ee21d83c719c2aa488204329.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "トランプ再選後に悪化した ビッグテックへの権力集中 『テクノ･クーデター』マリエッチェ･スハーケ氏に聞く | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950926?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は､三極委員会で来日していた『テクノ･クーデター 民主主義崩壊とシリコンバレーの野望』の著者､米スタンフォード大学 サイバー政策センター …",
-      "published": "2026/07/12 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/2/1200w/img_52120c350e4d0ece4a3d3ba73ad57bdb193485.jpg?nextgen=false"
+      "title": "ゲームソフトを個人で所有する時代は過去のものに？ プレイステーション｢ディスク生産終了｣の衝撃 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ソニーが2028年以降､PlayStation向け新作ゲームのディスク版生産を終了すると発表。8割以上がデジタル購入となった現代ならではの大胆な決断だが､利便性の裏に隠れたリスクや｢所有権｣の概念は…",
+      "published": "2026/07/13 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/f/1200w/img_6f095a9e9cd35da0588164a3127165a1374002.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【超難関･東大理Ⅲ合格者の教え】問題を解いたあとは｢まずぼーっとする｣　じつは最強の勉強法だった | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949031?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢頭がいい人｣は､何もしていない\"ぼーっとする時間\"にこそ､真に知識を自分のものにしています。東大理Ⅲ合格者たちが実践する｢問題を解いた後に何も見ず考える｣勉強法とは？今すぐ実践できる意外な頭の鍛え…",
-      "published": "2026/07/12 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/0/1200w/img_d025b9283d83362d7be476194ad3d596112283.jpg?nextgen=false"
+      "title": "｢前頭葉が縮んでいます｣医師の一言で人生一変､｢外国語学習｣にやる気を見せた67歳が実感した驚くべき脳への効果 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950814?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "脳ドックをきっかけに前頭葉の萎縮を指摘された著者は､脳の老化を少しでも遅らせるため外国語学習に再挑戦します。多言語学習が認知機能の維持や認知症リスクの低減に効果的とする最新研究も紹介。言葉を学ぶ楽し…",
+      "published": "2026/07/13 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/6/1200w/img_3632f03129652fda514420e8adf274da84339.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢大河ではあんなにお調子者なのに…｣ドラマではまだ描かれていない《豊臣秀吉》の\"あまりに残虐すぎる\"一面 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950688?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "大河では｢気が優しくてお調子者｣として描かれている豊臣秀吉。その一方で史実では残虐な一面も持ち合わせていました。秀吉の\"闇の部分\"に迫ります。",
-      "published": "2026/07/12 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_23d1ea8c914693838e4856abe77eef67791917.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "｢どうして真剣交際を申し込まないんですか｣と尻を叩かれ…恋愛経験ゼロの49歳理系男性が､9歳年下と交際5カ月婚 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950902?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "仕事一筋だった理系男性が､結婚相談所を通じて人生を大きく変えた軌跡をご紹介します。家事や家計管理､価値観の擦り合わせなど､派手さはないけれど､穏やかで堅実な晩婚の実態とは。",
-      "published": "2026/07/12 09:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/c/1200w/img_ecab1778d9ee5e0f284454ba9afacdc5621531.jpg?nextgen=false"
+      "title": "日本ペイントHD､アクゾの装飾用塗料部門に約1.4兆円で買収提案…今年の日本企業による海外企業買収としては最大規模 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951287?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本ペイントホールディングスはこの1カ月の間に､オランダの同業アクゾノーベルの装飾用塗料事業に対し複数回の買収提案を行った。事情に詳しい複数の関係者が明らかにした。関係者によると､日本ペイントHDは…",
+      "published": "2026/07/13 10:40",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/f/1200w/img_6f106c6b523686931c42cf69df8ab7531118129.jpg?nextgen=false"
     }
   ]
 }
