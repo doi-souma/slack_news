@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-07-13T03:59:36.033155+00:00",
+  "generated_at": "2026-07-14T03:33:40.110553+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropic、「Fable 5」またも延長　追加費用なしで7月19日まで利用可能に　「GPT-5.6」に対抗？",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news081.html",
-      "summary": "米Anthropicは7月12日（現地時間）、AIモデル「Claude Fable 5」を有料プランで追加料金なしに使える提供期間を、7月19日まで延長すると発表した。開発支援ツール「Claude Code」の週次利用制限を通常より50％引き上げる措置も、同じく19日まで続く。",
-      "published": "2026/07/13 12:27",
+      "title": "GMO、在宅勤務を完全廃止　コロナ禍以降続けてきた週1日の「推奨」も終了",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news074.html",
+      "summary": "GMOインターネットグループの熊谷正寿代表は7月14日、グループとして推奨してきた在宅勤務を13日付で完全廃止したとXで明らかにした。コロナ禍を機に始めた在宅勤務は約6年半で区切りを迎える。",
+      "published": "2026/07/14 11:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「GPT-Liveが“まるで人間”」ってホンマ？　出汁を「でじる」、トーストを「素焼き」て言うてたけど……",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news068.html",
-      "summary": "AIは、何も塗らないトーストを「素焼き」と呼び、出汁を「でじる」と言い出した。",
-      "published": "2026/07/13 11:59",
+      "title": "マネフォ上方修正、売上最大623億円に　GitHub不正アクセス影響は「限定的」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news070.html",
+      "summary": "不正アクセス関連の補償で最大1.5億円の売上影響を見込むが「好調な売上高とコストコントロールにより、通期予想への影響は限定的」。",
+      "published": "2026/07/14 11:11",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AIグラスへの不安感は、盗撮問題に集中しすぎると問題を見誤るのではないか",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news063.html",
-      "summary": "ディスプレイ搭載AIグラス市場で世界首位とされる中国「Rokid」が日本市場へ本格参入した。以前から「盗撮」の道具となる可能性を指摘されているAIグラスだが、発表会に参加して、もっと別のことに対して不安になった。",
-      "published": "2026/07/13 11:12",
+      "title": "EU、子供のSNS「利用開始年齢」設定へ──フォン・デア・ライエン委員長「SNSはおもちゃではない」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news069.html",
+      "summary": "欧州委員会のフォン・デア・ライエン委員長は、子供のオンライン安全に関する特別パネルから報告書を受け取り、「SNSはおもちゃではない」として、SNSの利用開始年齢の設定や年齢層ごとの段階的アクセスの検討が必要と主張した。欧州委は10日、MetaのInstagramとFacebookの「依存性のある設計」がDSA違反に当たるとの予備的見解も発表している。",
+      "published": "2026/07/14 11:01",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "公開中の新作「トイ・ストーリー5」　Xに全編流出　150万再生で”6億円”相当の被害か",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news065.html",
-      "summary": "7月3日に国内で劇場公開されたディズニー＆ピクサーの米アニメ映画「トイ・ストーリー5」の全編映像が、X上で一時、拡散されていたことが分かった。映画館で盗撮されたような粗悪な動画ではなく、高画質な映像データそのものが流出した可能性が高く、すでにアカウントは削除されたが、投稿から約7時間半で約150万回再生されたとみられる。",
-      "published": "2026/07/13 10:32",
+      "title": "Sansan急成長、利益2.4倍で過去最高　名刺も請求書も好調、来期も利益成長5割超へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/14/news067.html",
+      "summary": "名刺管理で手堅く稼ぎつつ、経理向けクラウドサービス「Bill One」の急成長が利益を大きく押し上げた。",
+      "published": "2026/07/14 10:17",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Instagram、他人の公開写真からAI動画を自動生成する機能を無効化　フィードバック受け",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news059.html",
-      "summary": "Metaは、画像生成モデル「Muse Image」に関連してInstagramに導入したAI動画の自動生成機能を無効化したと発表した。この機能は、公開アカウントの写真や動画を他のユーザーが本人の許諾なくAI動画の素材として再利用できる仕様だったが、プライバシーへの懸念や批判のフィードバックを受けて提供を停止した。",
-      "published": "2026/07/13 08:59",
+      "title": "空から数千機、24時間365日の攻撃──ウクライナ防空副司令官が語る”安いドローン”の脅威　島国・日本は耐えられるか",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/08/news027.html",
+      "summary": "国際関係が緊張するいま、日本はドローンの特徴をどう把握し、どう対策する必要があるのか。ウクライナ軍防空副司令官のオレクサンドル・ジャン・ヴォロビヨフ氏らの見解を聞いた。",
+      "published": "2026/07/14 08:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカ軍、イラン攻撃続ける　ホルムズ海峡は開かれていると主張",
-      "url": "https://www.bbc.com/japanese/articles/cg74ldg4z39o?at_medium=RSS&at_campaign=rss",
-      "summary": "イラン軍は先に、海峡を封鎖したと発表し、同地域の米国の同盟国や基地に対して広範囲にわたる攻撃を開始した。",
-      "published": "2026/07/13 09:52",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg"
+      "title": "トランプ氏、対イラン海上封鎖再開と海峡通る貨物の対価20％徴収を表明　攻撃の応酬続く",
+      "url": "https://www.bbc.com/japanese/articles/cdxdx6r3geqo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのドナルド・トランプ大統領は13日、ホルムズ海峡付近においてイランの港湾に出入りする船に対する海上封鎖を再開し、同海峡を通過するすべての貨物について20%の対価を受け取ると発表した。イランはこれに反発している。両国の間ではここ数日、攻撃の応酬が激しくなっており、米軍は同日、「イランに対する3夜連続の空爆を開始した」と発表。アラブ首長国連邦（UAE）は、イランが「公然と」海峡でタンカー2隻を",
+      "published": "2026/07/14 11:08",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】 アルゼンチン、スイス下す　ベスト4が出そろう",
-      "url": "https://www.bbc.com/japanese/articles/cd6e171plpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "サッカー男子ワールドカップ（W杯）北中米大会は11日（日本時間12日）、アメリカのカンザスシティー・スタジアムで準々決勝があり、アルゼンチンが3-1でスイスに勝ち、準決勝に進出した。これでベスト4が出そろった。",
-      "published": "2026/07/13 11:49",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f3f/live/4cf4fc40-7e60-11f1-a165-8904f95d4210.jpg"
+      "title": "米移民当局、北東部メイン州で男性を射殺　取締作戦中と説明",
+      "url": "https://www.bbc.com/japanese/articles/cy4e4y938wqo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ北東部メイン州で13日朝、連邦政府の移民税関捜査局（ICE）の職員が路上で男性を射殺した。ICEは7日にもテキサス州ヒューストンで、職員が出勤途中の男性を路上で射殺している。",
+      "published": "2026/07/14 11:19",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd4c/live/ca487820-7f0f-11f1-9dcd-8b0134df079b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】イングランド、ノルウェーに逆転勝ちでベスト4　ベリンガム2得点",
-      "url": "https://www.bbc.com/japanese/articles/cvgmddr889mo?at_medium=RSS&at_campaign=rss",
-      "summary": "サッカー男子ワールドカップ（W杯）北中米大会の準々決勝、ノルウェー対イングランドの試合が米フロリダ州のマイアミスタジアムで11日午後5時（日本時間12日午前6時）すぎに始まった。延長戦の末にイングランドが2-1で競り勝ち、2大会ぶりの準決勝進出を決めた。MFジュード・ベリンガムが2得点を決め、今大会通算得点を6点にした。イングランドは、この試合の後に行われたアルゼンチン対スイス戦に3-1で勝ったア",
-      "published": "2026/07/12 12:48",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5fdd/live/b50bc360-7d87-11f1-af15-993761ceb5ac.jpg"
+      "title": "バングラデシュで豪雨と鉄砲水、51人死亡",
+      "url": "https://www.bbc.com/japanese/articles/c98285rq7qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "バングラデシュで数日続く豪雨により、12日までに少なくとも51人が死亡し、100万人以上が被災した。首都ダッカを含む国内の広範囲で、鉄砲水や土砂崩れが発生し、大勢が家を失った。",
+      "published": "2026/07/14 09:26",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7648/live/b14e96a0-7e7f-11f1-bbf9-c34ca6867eac.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカが新たにイラン攻撃、イランはホルムズ海峡を当面閉じると発表",
-      "url": "https://www.bbc.com/japanese/articles/cvgqxyldpp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ中央軍は米東部時間11日夜、「今週3度目」のイラン攻撃を実施したと発表した。イランがキプロス船籍の船を「公然と攻撃」したことを理由としている。これに先立ちイランのイスラム革命防衛隊（IRGC）は12日未明、「この地域におけるアメリカの介入が終わるまで」ホルムズ海峡を当面封鎖すると発表した。",
-      "published": "2026/07/12 12:01",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc1d/live/dcbed4a0-7d9c-11f1-bee8-53ce494e1abc.jpg"
+      "title": "イギリス猛暑、5月と6月の熱波で2700人以上死亡の可能性　研究チームが推定",
+      "url": "https://www.bbc.com/japanese/articles/c5yz1dzp4m2o?at_medium=RSS&at_campaign=rss",
+      "summary": "5月と6月にイギリスを襲った異常な猛暑により、2700人以上が熱中症で死亡した可能性がある。 インペリアル・コレッジ・ロンドン、イギリス気象庁、ロンドン大学衛生熱帯医学大学院の研究チームが13日、推計を発表した。極端な暑さの危険性に関する、既知の情報に基づいているという。",
+      "published": "2026/07/13 16:49",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3908/live/2b02c5c0-7c3c-11f1-8ccc-df652c9169a7.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米移民当局ICE、テキサスで出勤途中の男性を射殺　取締作戦の対象者ではなかったと国土安全保障省",
-      "url": "https://www.bbc.com/japanese/articles/c20y31m3r61o?at_medium=RSS&at_campaign=rss",
-      "summary": "米テキサス州ヒューストンで7日、移民当局の職員が出勤途中の男性を路上で射殺した。これについて国土安全保障省（DHS）は10日、職員が射殺した男性は、意図した取締対象者ではなかったと述べた。",
-      "published": "2026/07/11 12:28",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cff1/live/a2c80e40-7c4a-11f1-b92f-f7be89c06628.jpg"
+      "title": "タイ首都のバーで火災、少なくとも28人死亡　重体25人含む70人超負傷",
+      "url": "https://www.bbc.com/japanese/articles/cp8l3dxejy6o?at_medium=RSS&at_campaign=rss",
+      "summary": "タイ首都バンコクの人気エリア、チャトチャック地区にあるバーで12日遅く、火災が発生し、少なくとも28人が死亡、重体25人を含む70人超が負傷した。13日夜の発表によると、14人が中程度の負傷、32人が軽傷。バーのオーナーも集中治療室で手当てを受けているという。",
+      "published": "2026/07/14 08:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d29c/live/5d8808f0-7e91-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "テクノロジーが支えるW杯の舞台裏､AI審判や戦術分析はサッカーをどこまで進化させたのか | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950883?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "史上初の3ヵ国開催で盛り上がる2026年サッカーワールドカップ。会場運営や判定の要所で､レノボやAIなど最新テクノロジーが欠かせない存在となっている。運営施設を支える驚異のシステム､そして全チームに…",
-      "published": "2026/07/13 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/d/1200w/img_8d1e52861fb7b5c0633e986ea8bd20e7760082.jpg?nextgen=false"
+      "title": "｢結局は人との縁ですよ｣軍政下のミャンマーでも和食店を閉めない78歳日本人店主の｢利益より家族を守る｣経営 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951147?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ミャンマー･ヤンゴンの静かな住宅街に佇む日本食店｢角 ホーン｣。40年の料理人人生を歩んだオーナー大舘さんの想いと､従業員や地元との深い絆が､クーデターや物価高騰といった逆風の中でも店を支え続けてい…",
+      "published": "2026/07/14 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/6/1200w/img_96c22f359a51184c83fdbf7d347470981032811.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢若い皆さんはオルカン一択ですよ｣は本当か? 《家計の資産分散》を考えるときに押さえておくべき10の切り口 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950676?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢オルカン一択｣と語られる若者向け投資。しかし､NISAの限られた選択肢や本来あるべき多様な分散投資の重要性､リスク商品の取り扱い方には見落とされがちな課題があります。資産形成は本当にこのままでいい…",
-      "published": "2026/07/13 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/c/1200w/img_5c8b26d1194600ee21d83c719c2aa488204329.jpg?nextgen=false"
+      "title": "結局､今日も何も決まらなかったな…悪気はないが､いつも《会議が迷走してしまう部長》に欠けている資質の正体 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948341?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "会議で｢結局何も決まらなかった｣と感じた経験はありませんか。その原因は､実は議論の出発点となる｢最初の質問｣にあります。質問の仕方1つで､会議の生産性や発言の質は大きく変わるのです。良い質問の力と､…",
+      "published": "2026/07/14 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/3/1200w/img_930f5a656cfbff13c9eeba6ac4065753427542.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ゲームソフトを個人で所有する時代は過去のものに？ プレイステーション｢ディスク生産終了｣の衝撃 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ソニーが2028年以降､PlayStation向け新作ゲームのディスク版生産を終了すると発表。8割以上がデジタル購入となった現代ならではの大胆な決断だが､利便性の裏に隠れたリスクや｢所有権｣の概念は…",
-      "published": "2026/07/13 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/f/1200w/img_6f095a9e9cd35da0588164a3127165a1374002.jpg?nextgen=false"
+      "title": "人生が100年あるならいつまで働くのが最適解か？　｢高齢者は低賃金｣は過去の常識！　安心な老後のための《引退戦略》 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950424?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "人生100年時代の到来と共に､日本では｢引退｣の概念が大きく変わろうとしています。定年や年金の常識が崩れ､働く期間や老後の過ごし方にも多様性が生まれる今､何歳まで､どう働くべきか。あなた自身のリタイ…",
+      "published": "2026/07/14 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/1/1200w/img_e1bc3065e6d474e5b1b5747041575dde296350.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢前頭葉が縮んでいます｣医師の一言で人生一変､｢外国語学習｣にやる気を見せた67歳が実感した驚くべき脳への効果 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950814?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "脳ドックをきっかけに前頭葉の萎縮を指摘された著者は､脳の老化を少しでも遅らせるため外国語学習に再挑戦します。多言語学習が認知機能の維持や認知症リスクの低減に効果的とする最新研究も紹介。言葉を学ぶ楽し…",
-      "published": "2026/07/13 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/6/1200w/img_3632f03129652fda514420e8adf274da84339.jpg?nextgen=false"
+      "title": "アップルに\"医師\"がいる理由､睡眠専門医が明かす､Apple Watchが病気を見つける仕組み | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951309?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "毎朝の睡眠スコア､その裏側にはどのような仕組みや思想が潜んでいるのか？ アップル社内の医師がエンジニアと協力し､Apple Watchで私たちの健康に\"最初の気づき\"を届ける舞台裏を解説。",
+      "published": "2026/07/14 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/a/1200w/img_8ae9b7afd01594934e8b1ed71e341c92134764.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本ペイントHD､アクゾの装飾用塗料部門に約1.4兆円で買収提案…今年の日本企業による海外企業買収としては最大規模 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951287?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本ペイントホールディングスはこの1カ月の間に､オランダの同業アクゾノーベルの装飾用塗料事業に対し複数回の買収提案を行った。事情に詳しい複数の関係者が明らかにした。関係者によると､日本ペイントHDは…",
-      "published": "2026/07/13 10:40",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/f/1200w/img_6f106c6b523686931c42cf69df8ab7531118129.jpg?nextgen=false"
+      "title": "オーストラリア人は古民家を｢6000万円｣で､中国人は廃旅館を…外国人に買い占められる日本の空き家という\"宝の山\" | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949216?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "地方に眠る古民家や廃旅館､スキー場の別荘が､日本人には｢無価値｣と見なされる一方､海外の投資家や観光客には｢宝の山｣に映っています。なぜ､外国人は空き家や中古物件を高額を惜しまず買い求めるのでしょう…",
+      "published": "2026/07/14 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/f/1200w/img_3f3f5311de5e04a330ff2e61b0056e9c449566.jpg?nextgen=false"
     }
   ]
 }
