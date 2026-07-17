@@ -1,59 +1,77 @@
 {
-  "generated_at": "2026-07-16T03:36:51.978033+00:00",
+  "generated_at": "2026-07-17T03:36:47.959175+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "朝のクレカ障害、復旧か　日本カードネットワーク「原因はうちじゃない」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news071.html",
-      "summary": "「障害の原因はCARDNETでは」との憶測も流れたが、日本カードネットワークの担当者によると「原因は当社ではない」という。",
-      "published": "2026/07/16 11:42",
+      "title": "かわんご氏「POPOPOに私財30億円突っ込んだ」が、それでも「ケチってしまった」と反省",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news073.html",
+      "summary": "会社の資金ではなく個人の資金だったために「だいぶケチってしまった」。",
+      "published": "2026/07/17 11:44",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "クレカ障害、全国で発生か　「カード払いできない」報告多数【復旧】",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
-      "summary": "Xでは、Visaブランドのカードや三井住友カードが使えなかったという報告が目立つが、他社カードも含めて影響が出ているようだ。",
-      "published": "2026/07/16 10:29",
+      "title": "Metaが「Meta AI」に新たな保護機能　10代の自殺・自傷に関する会話を保護者に通知",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news069.html",
+      "summary": "Metaは、10代のユーザーが「Meta AI」との会話で自殺や自傷をほのめかした場合、Instagramのペアレンタルコントロール機能を利用する保護者に通知する新機能を発表した。米、英、豪、加で提供を開始しており、年内にグローバルに拡大する計画。自殺の差し迫ったリスクがあると判断した場合に緊急サービスへ通報する仕組みも構築中としている。",
+      "published": "2026/07/17 11:14",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "X、フォロー相手の投稿表示拡大　リプ欄の“知らない人との戦場”化を改善へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news062.html",
+      "title": "キオクシア株、一時ストップ安　上場来高値から半値以下に",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
       "summary": "",
-      "published": "2026/07/16 09:41",
+      "published": "2026/07/17 10:14",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "服に響かない「下着扱いできる水冷服」をシャープが開発中　“涼しい顔”でおめかしできる？",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news042.html",
-      "summary": "シャープは「猛暑対策展」に開発中の「ウェアラブルクーラー」と「クーラーチェア」を参考出展した。ウェアラブルクーラーについては将来の一般向け販売も視野に入れている。",
-      "published": "2026/07/16 08:14",
+      "title": "Netflix「今年配信の約300作品で生成AI活用」　制作は2倍速で制作費は半額の実例も",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news065.html",
+      "summary": "Netflixは4～6月期決算発表で、コンテンツ制作におけるパートナーの生成AI活用が急速に拡大していると明らかにした。2026年には約300本で生成AIワークフローが使用される見込み。ポストプロダクション工程での活用が中心で、従来手法の2倍の速さ、半分のコストで制作できた事例もあり、制作への再投資に回す考えを示した。",
+      "published": "2026/07/17 10:06",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売　Apple提訴の渦中にある端末とは別物",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
-      "summary": "OpenAIは、コーディング支援AI「Codex」向けの専用キーパッド「Codex Micro」を発売した。キーボードメーカーのWork Louderと共同開発した同社初のハードウェア製品で、価格は230ドル。なお、Appleによる営業秘密不正取得訴訟の渦中にある、開発中のAIデバイスとは別物だ。",
-      "published": "2026/07/16 07:26",
+      "title": "欧州委員会、GoogleにAIアシスタントの相互運用と検索データ共有を命令──Googleは「安全性を損なう」と反発",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news063.html",
+      "summary": "欧州委員会は、DMA（デジタル市場法）に基づき、Googleに対し2件の法的拘束力のある決定を下した。Android上で競合AIアシスタントにGemini同等のアクセスを認めることと、匿名化した検索データを第三者の検索エンジンに提供することを義務付ける。Googleは「欧州市民のプライバシーとセキュリティを損なうリスクがある」と反発した。",
+      "published": "2026/07/17 08:57",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、イランに「行儀良くしろ」と警告　米軍は攻撃続ける",
-      "url": "https://www.bbc.com/japanese/articles/cre4d8wdy7qo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの中央軍は15日、イランへの攻撃と海上封鎖を続け、イランのカーグ島へ接近する空荷のタンカーを航行不能にしたと発表した。トランプ米大統領は同日、イランは「行儀良くした方がいい」と発言。大統領は前日には、イランが交渉に戻らないなら、イランの橋や発電所を来週にも空爆すると脅していた。対するイランのイスラム革命防衛隊（IRGC）は15日、米軍による海上封鎖再開を受け、アメリカの他の石油・ガス輸出ル",
-      "published": "2026/07/16 10:22",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg"
+      "title": "米軍、イランを新たに攻撃　6夜連続",
+      "url": "https://www.bbc.com/japanese/articles/cjwx3xn5v2po?at_medium=RSS&at_campaign=rss",
+      "summary": "米中央軍は16日、イランに対して6夜連続となる攻撃を実施したと発表した。両国はこのところ、ホルムズ海峡の支配をめぐって再び戦闘を続けている。",
+      "published": "2026/07/17 12:12",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "フランス議会、「支援を受けた死」法案を可決　一部条項は合憲性を判断へ",
+      "url": "https://www.bbc.com/japanese/articles/cd69yjd8j1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "フランスの国民議会（下院、定数577）は15日、長年にわたる議論と内容変更を経て、厳格な条件の下で「支援を受けた死」を選ぶ権利を創設することを可決した。セバスチャン・ルコルニュ首相は、法案が成立する前に、一部条項を憲法評議会に付託し、審査を求めるとしている。",
+      "published": "2026/07/16 13:49",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16a7/live/8bde6ac0-807e-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "「私の政治の旅は終わり」スターマー英首相が下院で最後の質疑、野党からも称賛や冗談",
+      "url": "https://www.bbc.com/japanese/articles/c2eld3jyrd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのキア・スターマー首相は15日、下院で辞任前の最後の首相質疑に臨んだ。スターマー氏は議員らに対し「私の政治の旅は終わりだ」と述べ、「自分が成し遂げたすべてのことを誇りに思う」と語った。50分間の審議では、通常の政治的な対立はほぼ棚上げされ、あらゆる政党の議員らが、退任する首相に敬意を表し、冗談を交わしたり逸話を共有したりした。",
+      "published": "2026/07/16 16:02",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68d5/live/90cf60e0-8068-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,74 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】 イングランド、準決勝でアルゼンチンに逆転負け",
-      "url": "https://www.bbc.com/japanese/articles/c8jnl09ngrmo?at_medium=RSS&at_campaign=rss",
-      "summary": "サッカー男子ワールドカップ（W杯）北中米大会は15日（日本時間16日）、アメリカのアトランタ・スタジアムで準決勝があり、イングランドがアルゼンチンに1-2で敗れた。前大会優勝のアルゼンチンは、後半に入って先制点を許したものの、終盤に2得点を挙げて劇的な逆転勝利を収め、スペインとの決勝へと進んだ。イングランドはW杯制覇の夢がまたしても砕かれ、悲しみに暮れた。",
-      "published": "2026/07/16 10:16",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c3d1/live/34e6e240-80ad-11f1-ba1f-795e92f7cb6e.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "英政府、個人用防護具の調達で2兆円超を浪費　新型コロナ調査委が指摘",
-      "url": "https://www.bbc.com/japanese/articles/czj8j8gnxw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "新型コロナウイルスのパンデミックの時期、イギリスでは個人用防護具（PPE）の不足によって、国民保健サービス（NHS）職員と患者の命が危険にさらされる状況が発生し、政府はPPEの追加購入で税金約100億ポンド（約2兆1700億円）を無駄に費やした――。そう指摘する報告書を、独立調査委員会が14日に公表した。",
-      "published": "2026/07/16 10:44",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26b2/live/429dd230-7f4b-11f1-b7b5-4731f6422ba0.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【2026年サッカー男子W杯】アルゼンチン代表、フォークランド諸島について横断幕を試合後に掲示　FIFAが処分の可能性",
-      "url": "https://www.bbc.com/japanese/articles/cjd4k3gk442o?at_medium=RSS&at_campaign=rss",
-      "summary": "サッカー男子ワールドカップ（W杯）北中米大会は15日（日本時間16日）、アメリカのアトランタ・スタジアムで準決勝があり、イングランドがアルゼンチンに1-2で敗れた。試合後にアルゼンチンの選手たちはピッチで、フォークランド諸島に対する自国の領有権を主張する横断幕を掲げた。このため、国際サッカー連盟（FIFA）から処分を受ける可能性が出ている。",
-      "published": "2026/07/16 11:26",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg"
+      "title": "【2026年サッカー男子W杯】 「受け身」で「崩壊」……イングランドの敗北は守りを固めた戦術のせい？",
+      "url": "https://www.bbc.com/japanese/articles/c8dnp183llyo?at_medium=RSS&at_campaign=rss",
+      "summary": "イングランドはW杯準決勝でアルゼンチン相手に1-0とリードしたものの、痛恨の逆転負けを喫した。守りを固めるというトゥヘル監督の「受け身」の戦術が、イングランドの決勝進出を阻んだのだろうか？",
+      "published": "2026/07/16 19:46",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4041/live/92e21c30-80d4-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "孤独が怖くて｢人とつながろうとする｣大人に精神科医が伝えたいこと　｢無理につくる人間関係よりも大事なもの｣とは | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "孤独は嫌だから､がんばって誰かとつながろうとする。でも新しい人との出会いは疲れるし､動く気力が湧かない……。そんな大人に､精神科医Tomy氏は｢無理に人間関係を作ろうとしなくていい｣と語る。その真意…",
-      "published": "2026/07/16 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/9/1200w/img_d942e14e1e49b1006338691caf7d386a173889.jpg?nextgen=false"
+      "title": "｢高齢社員はお荷物｣が古い常識である《科学的理由》 日本のシニア層が確実に若返っていることを証明する数々のデータ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950427?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢高齢者は体力も知力も衰える｣という常識は正しいのでしょうか。日本人の健康寿命や体力テスト､認知能力の推移データを見ると､シニア世代は今や驚くほど｢元気で長生き｣。現役に匹敵する能力を持つ高齢世代の…",
+      "published": "2026/07/17 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/f/1200w/img_dffd8bab04847f501ea93b185e08542a340716.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "オフィスの窓辺に｢サバの頭｣の置き土産…《カラス天国》東京で､ゴミを漁るカラスと人間の\"共同生活\"に生じた異変 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951382?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "都会のゴミを漁り､やりたい放題に見える東京のカラスたち。実はその数が､この20年で｢5分の1｣にまで減っていると知っていましたか？　人間との知恵比べの裏で､今何が起きているのかに迫ります。",
-      "published": "2026/07/16 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/0/1200w/img_20b89ce898465e4b01cfacd5843e3f46584235.jpg?nextgen=false"
+      "title": "｢で､何が言いたいの？｣\"説明が下手すぎる人\"の残念な思考回路　｢話が長いのに伝わらない人｣の共通欠点は？ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949046?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢説明が伝わらない…｣そんな悩みを抱えたことはありませんか？ 教え子5人に1人を東大合格に導いた国語科専任教諭が｢残念すぎる思考のクセ｣を解説します",
+      "published": "2026/07/17 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/6/1200w/img_d64b90e38c7d0e0d1ddc6ea785a51f2e203948.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "出版不況の中で独走する｢46万部雑誌｣ハルメクの秘密…9年前のどん底15万部割れからどう伸ばしていったのか？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951354?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "いつもの書店の棚には並ばない。コンビニにもない。それでいて、日本ABC協会が発表した2025年下半期の雑誌販売部数で月平均45万9000部を記録し、コミック誌を除く全雑誌の首位を8半期連続で守り続け…",
-      "published": "2026/07/16 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/1/1200w/img_4159cd8c470bcb43d712a172dd95560d276327.jpg?nextgen=false"
+      "title": "エヌビディアのフアンCEO｢今の日本にはもっと明るいニュースが必要｣､35分間の囲み取材で記者たちに語った一問一答 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951891?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "エヌビディアの創業者ジェンスン･フアン氏が来日し､日本の産業界や官民リーダーたちと交流。フィジカルAIを中心とした未来への投資､ロボティクスの可能性などを熱く語った。記者たちとの囲み取材では､日本経…",
+      "published": "2026/07/17 11:10",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/b/1200w/img_9b48724a25a17f89cf7889ae80ecf92a984734.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "品格からオラオラ感のあるフェイスデザインに回帰…ホンダ新型｢N-BOX｣マイナーチェンジで感じた王者の決断 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951047?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "国内販売ナンバーワンを誇るホンダの軽スーパーハイトワゴン｢N-BOX｣が､2026年7月にマイナーチェンジ。より迫力あるフェイスデザインや人気オプションの標準化など､さまざまな改良を加えた新型。その…",
-      "published": "2026/07/16 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/d/1200w/img_7db838d98d97907c7d1a91013263a214171388.jpg?nextgen=false"
+      "title": "ネットで試行錯誤する｢ハルメク｣､だからこそ浮き彫りになってきた｢雑誌×コミュニティ｣というリアルがもたらす価値 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951355?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ハルメクの独自性は雑誌だけではない。グループの経営理念は「50代からの女性がよりよく生きることを応援します」というもの。山岡たちが「ハルメクワールド」と呼ぶ、シニア女性を取り巻く生活環境の全てをより…",
+      "published": "2026/07/17 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/3/1200w/img_93972a7d3175643c3e6894bebce88b2f312603.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "博士課程修了でも月8万円､\"34歳非常勤講師\"がワンオペ育児の妻に罵倒され…｢即日即金1日5万｣の闇バイトをタップするまで | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/947518?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "高学歴でありながら社会のレールから外れ、誰にも言えない困窮に喘ぐ人々がいる。知られざるその実態をリアルに描いたドキュメンタリーコミック『高学歴難民』（秋田書店）から抜粋してお届けします。主人公は、文…",
-      "published": "2026/07/16 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/3/1200w/img_630164846598f853ae6ffb9d3cfb12e6235155.jpg?nextgen=false"
+      "title": "『どうぶつの森』風ホラーゲームが流行の兆し､約2ヵ月で8億回プレイされた『アニマルホスピタル』 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951349?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "『どうぶつの森』風のかわいさと､予測不能なホラーが絶妙に融合した新感覚ゲーム『アニマルホスピタル（アノマリー）』。累計8億回再生を誇るこのロブロックス発の話題作は､謎の\"アノマリー\"に挑むスリル満点…",
+      "published": "2026/07/17 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/2/1200w/img_52c462d8fd45562a4d7fab5881f8cba546530.jpg?nextgen=false"
     }
   ]
 }
