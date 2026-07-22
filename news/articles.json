@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-07-21T03:44:55.505794+00:00",
+  "generated_at": "2026-07-22T03:45:57.814832+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ガッツリ冷える水冷ベストが“Pro”に進化　冷却性能1.6倍の新モデル「ChillerX Pro」を試す",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news056.html",
-      "summary": "シフトールからペルチェ素子を使って水を冷却し、それを循環させる冷却ウェア「ChillerX Pro」が登場した。性能は昨年の「ChillerX」の1.6倍にアップしており、屋外作業のプロ向け仕様となっている。",
-      "published": "2026/07/21 12:18",
+      "title": "浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO　「表現は改修した」「ドメインは共有資産」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news073.html",
+      "summary": "浅田真央さんの旧公式サイトのドメイン「mao-asada.jp」を「アフィリエイトサイトに」などとうたってオークションで販売し、批判を受けたGMOインターネットが、ITmedia NEWSの取材に経緯と見解を答えた。著名ドメインの販売を拒める立場にはないとする一方、宣伝文言は改修したとしている。",
+      "published": "2026/07/22 11:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "花王、ホラーゲーム「しずかなおそうじ」をSwitchに移植　「こわさひかえめモード」を新搭載",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news063.html",
-      "summary": "花王が掃除用品をPRするために制作したホラーゲーム「しずかなおそうじ」が、Nintendo Switchに登場。7月23日から200円で販売する。ダウンロード版のみ。",
-      "published": "2026/07/21 10:54",
+      "title": "政府、次期マイナンバーカードを2029年度に導入へ　デザイン刷新、券面の記載情報も変更",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news068.html",
+      "summary": "デジタル庁は7月21日、「デジタル社会の実現に向けた重点計画」を公表し、デザインを刷新した「次期マイナンバーカード」を29年度中に展開する方針を示した。",
+      "published": "2026/07/22 10:55",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "パルマー・ラッキー氏のAnduril、軍用自律飛行VTOL機「Thunder」を公開",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news052.html",
-      "summary": "Anduril IndustriesとArcher Aviationは、防衛と商用の両用途を想定した自律飛行VTOLプラットフォームを共同開発したと発表した。Andurilは防衛向けモデルとなる自律攻撃回転翼機「Thunder」を公開。有人ヘリと連携して運用する仕様で、ミサイルなどの兵器を搭載し、2027年の初飛行を目指す。",
-      "published": "2026/07/21 08:34",
+      "title": "KFC、全店舗で通常営業を再開　ニチレイへの不正アクセスから9日で　「詫びクーポン」も配布",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news069.html",
+      "summary": "日本ケンタッキー・フライド・チキンは7月22日、KFC全店舗で通常営業を再開したと発表した。委託先のニチレイへの不正アクセスの影響で品切れや営業時間の短縮などが発生していたが、食材納品体制が整ったという。",
+      "published": "2026/07/22 10:53",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AMDとMicrosoftが戦略的提携を拡大　新AIラックスケール「Helios」をAzureに大規模導入へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
-      "summary": "AMDは、Microsoftとの戦略的提携を拡大すると発表した。Microsoftはクラウドサービス「Azure」に、GPUやCPUを一体化したAMDのラックスケール製品「AMD Helios」を大規模に導入し、フロンティアAIモデルの推論処理などに活用する。Heliosは2026年後半から出荷が開始される予定だ。",
-      "published": "2026/07/21 07:33",
+      "title": "MicrosoftとMistralが戦略的提携を拡大　欧州でのAIインフラ拡張とモデル展開を加速",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
+      "summary": "MicrosoftとMistralは戦略的提携を拡大すると発表した。Mistralの最新モデルをMicrosoftの各プラットフォームへ展開するほか、欧州でのGPUインフラ拡張に向けて大規模な投資を行う。クラウドから完全オフラインまで多様な環境に対応し、規制業界での高度なAI導入と自社管理を支援する。",
+      "published": "2026/07/22 10:22",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Appleはもう「メモリのお得意様」ではない？　NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news092.html",
-      "summary": "米Appleが中国CXMTからのメモリ調達を検討しているという話題が報じられ、騒ぎになっている。Appleがいままで不当に値下げを強いてきたメモリメーカーの反撃を受けている、という見方もあるが、その妥当性を考えてみよう。",
-      "published": "2026/07/21 07:00",
+      "title": "ニチレイへの攻撃、ランサム集団「RansomHouse」が犯行声明　アスクルを攻撃したグループか",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news064.html",
+      "summary": "",
+      "published": "2026/07/22 10:08",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "バーナム英首相が初閣議、生活費問題への取り組みを指示",
+      "url": "https://www.bbc.com/japanese/articles/c75gw9303ero?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのアンディ・バーナム新首相は21日、新政権の初閣議を開き、「生活費問題を優先する政府」を率いると約束した。首相は閣僚を前に、生活費対策を優先事項とし、生活費について「もうすぐ助けが届く」という感覚を国民に与えたいと強調した。",
+      "published": "2026/07/22 11:43",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/868c/live/fac66860-852f-11f1-926f-c90d1bcfbc84.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ゼレンスキー氏、ウクライナ軍総司令官を解任　連日の抗議デモを受け",
+      "url": "https://www.bbc.com/japanese/articles/c04k721ep9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナのゼレンスキー大統領は21日、シルスキー軍総司令官を解任した。ゼレンスキー氏は最近、人気が高かったフェドロフ国防相を更迭し、全国各地で抗議デモが起きていた。フェドロフ氏の更迭の背景にはシルスキー氏との対立があったとされる。",
+      "published": "2026/07/22 11:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ガイアナ沖でフェリーが転覆、少なくとも41人死亡",
+      "url": "https://www.bbc.com/japanese/articles/c8xnj25l1lwo?at_medium=RSS&at_campaign=rss",
+      "summary": "南米ガイアナ沖で18日夜に旅客フェリー「バリマ」が転覆し、被害者の数が増え続けている。20日には新たに14人の遺体が収容され、これまでに確認された死者は41人になった。救助された人は8人増えて77人となったが、数十人が行方不明のままとなっている。",
+      "published": "2026/07/22 12:32",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be5c/live/801f6fc0-838c-11f1-a4c3-dfd0ee4be073.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "アメリカ、10夜連続でイラン空爆　トランプ氏は米兵殺害への報復を警告",
+      "url": "https://www.bbc.com/japanese/articles/cj9d02npzezo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ軍は20日、イランに対して新たな空爆を実施したと発表した。ホルムズ海峡で船舶を攻撃するイランの能力を「さらに低下させる」のが狙いだという。アメリカの対イラン攻撃は10夜連続。トランプ米大統領は先に、イランの攻撃で米兵が殺害されたことをめぐり、イランを処罰すると誓っていた。",
+      "published": "2026/07/21 13:17",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06cc/live/a320cf00-8481-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "バーナム新英首相が組閣、財務相にヒーリー前国務相　外相はミリバンド氏",
-      "url": "https://www.bbc.com/japanese/articles/cwyrdd5z2k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのアンディ・バーナム新首相は20日、ジョン・ヒーリー前国防相を首相の右腕に当たる財務相に任命した。外相には、エド・ミリバンド前エネルギー担当相を選んだ。",
-      "published": "2026/07/21 11:02",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c15e/live/354f9500-8464-11f1-bee8-53ce494e1abc.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】　容赦ない策士？　風見鶏？　ダンスおじさん？　イギリスのバーナム新首相とは",
-      "url": "https://www.bbc.com/japanese/articles/cjej0nd7118o?at_medium=RSS&at_campaign=rss",
-      "summary": "アンディ・バーナム氏の本当の姿とは？　ローラ・クンスバーグ司会者が、彼を知る20人以上の人に話を聞き、その真相を探った。",
-      "published": "2026/07/20 21:51",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab52/live/19534330-8106-11f1-926f-c90d1bcfbc84.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "バーナム氏、イギリスの新首相に就任　政治の安定と分権化推進を強調　原稿見ずに演説",
-      "url": "https://www.bbc.com/japanese/articles/ce3q1qde797o?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリス与党・労働党のアンディ・バーナム党首が現地時間20日正午（日本時間20日午後8時）過ぎ、新しいイギリス首相になった。バッキンガム宮殿を訪れチャールズ国王に組閣を要請されたバーナム氏は官邸前で、イギリスで首相交代が相次いだことに触れたうえで「イギリスを安定させる」、「政治を機能させる」、「（家を失った人が）屋外で眠るしかない状態を終わらせる」などと述べ、生活費を引き下げ、政治権力をロンドンか",
-      "published": "2026/07/20 21:48",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff32/live/49cba3b0-843d-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "スターマー英首相が辞任演説、官邸去り国王に辞意報告　バーナム新政権が誕生",
-      "url": "https://www.bbc.com/japanese/articles/cqlxrx9p2zro?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのキア・スターマー首相は現地時間20日午前11時15分（日本時間20日午後7時15分）過ぎ、首相として最後の演説を行った。同氏はその後、バッキンガム宮殿に向かい、非公開の場で英国王チャールズ3世に辞意を報告した。同日昼過ぎには、17日に英与党・労働党の新党首に任命されたアンディ・バーナム氏が、国王との面会を経て新しいイギリス首相に就任した。",
-      "published": "2026/07/20 20:14",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f0c/live/1f3aaa60-8429-11f1-96d8-4b9d5565f166.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢少しずつ何でもできます｣と言った瞬間､あなたの市場価値はゼロに近づく…40代･50代の転職で｢総合型｣が要らないワケ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951552?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて若年層中心だった転職市場は､今や中高年ビジネスパーソンにも広がりを見せています。しかし､若年層には｢成長期待｣､中高年には｢即戦力｣と異なる視点での評価が求められています。環境とスキルのマッチ…",
+      "published": "2026/07/22 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/d/1200w/img_bdb2210e0b407e4f9034bed30b1edd48199950.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢中国経由のZoom禁止｣｢TikTok禁止｣は序章に過ぎない…？大国が火花を散らす\"AI覇権戦争\"で起こりうる身近な影響 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951456?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AI技術を巡る覇権争いが今､世界の大国と企業を巻き込んで激化しています。安全保障や経済の根幹を揺るがすこの戦争の本質と階層的なAIエコシステム､そして日本の現状をどう捉えるべきなのでしょうか。",
-      "published": "2026/07/21 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/1/1200w/img_c1252f296075f5d1ec728c0e32e4b4f5697846.jpg?nextgen=false"
+      "title": "｢琵琶湖でHOT LIMIT撮るべき｣｢け…県と話させてください｣西川貴教が地元滋賀とネット民に､愛されいじられる深い訳 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952256?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "滋賀県出身のミュージシャン･西川貴教さんが､ネットで唯一無二の存在感を放っています。地元愛を貫く活動やSNSでの親しみやすい発信が､なぜここまで注目を集めるのか。その人気の秘密を深掘りします。",
+      "published": "2026/07/22 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/0/1200w/img_70b5b2ba9ede306866a1dcb788f0f127649842.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "つい｢大丈夫です｣と言ってしまう人が信頼を失う理由　期待に応えたいから､関係を悪くしたくないから…が招く代償 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949208?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "頼まれると､つい｢大丈夫です｣と答えてしまう。期待に応えたい､断るのは申し訳ない､関係を悪くしたくない――そんな気持ちは誰にでもありますが､その場しのぎの約束は､結果的に信頼そのものを損なうことに……",
-      "published": "2026/07/21 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/5/1200w/img_95b5fcc97133b2c7532150a0e7fc01d0168504.jpg?nextgen=false"
+      "title": "【AI相談の落とし穴】相談はできても､人にしか答えられないことを教えてくれる｢人類学のコミュニケーション｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950966?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "職場や家庭ですれ違うコミュニケーションの悩み。生成AIが普及する現代､求められるのは人間同士の濃密な対話です。マサイ族との交流や企業勤務を経た著者は､人類学の視点が違いや文脈を読み解くカギになると語…",
+      "published": "2026/07/22 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/5/1200w/img_45c62b782e546c6bd250ef017ab276da304994.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "知識の量でもIQでもない…｢バカ｣と｢頭がいい人｣の違い ドラゴン桜でも語られている定義を東大合格者が解説 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951807?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢頭がいい人｣とはどんな人なのか——その本質は知識やIQではなく…？",
-      "published": "2026/07/21 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/a/1200w/img_2a7eb388d87f7e77cec859703d09dbaa188955.jpg?nextgen=false"
+      "title": "【新人を評価する人必読】｢東大生って､社会に出たら使えないよね｣と言う人が見落としている､たった一つのこと | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951893?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢東大生は社会に出たら使えない｣——そんな言葉を何度も耳にした著者が語る､東大生に備わる\"遅れて効いてくる力\"の正体とは。即戦力で光らずとも､問いを立て深く考える圧倒的な基礎体力が､なぜ後に大きな差…",
+      "published": "2026/07/22 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/6/1200w/img_065388cd99339feb18ec8c658f2957a2221072.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "出前館が抱える\"ジリ貧\"の構造的欠陥､同じ\"赤字続きの成長企業\"でもメルカリとの間に潜む｢決定的な違い｣ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951810?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "赤字が続く中で高成長を遂げて黒字に転じる企業と､赤字続きで苦境に立つ企業との間には､どのような違いがあるのでしょうか。メルカリと出前館の財務諸表を比較して見えてきたものとは？",
-      "published": "2026/07/21 10:31",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/4/1200w/img_449a638c3a837eaea0cb8f4b1c1bbf28261886.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "メルカリとfreeeはなぜ\"赤字続き\"でも潰れなかったのか？ 財務諸表から読みとく｢良い赤字｣と黒字化のカラクリ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951809?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢赤字＝悪｣という常識を覆す成長企業の戦略。メルカリやfreeeは赤字を垂れ流し続けながら､なぜ倒産せず黒字転換が実現できたのでしょうか。成長期の赤字に潜む真の価値を探ります。",
-      "published": "2026/07/21 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/b/1200w/img_bb8cb1370b5922c25cff9a7b12636770127072.jpg?nextgen=false"
+      "title": "昼寝をする人は｢脳が大きく老化が6年遅い｣驚きの事実…記憶力や認知機能を高める｢理想的な昼寝の時間｣とは？ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951612?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "忙しい現代社会において､わずかな仮眠が脳や健康にどんな恩恵をもたらすのか――その真実に迫ります。",
+      "published": "2026/07/22 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/2/1200w/img_62bf6e3d0272a76fe90bb3073ab79551264124.jpg?nextgen=false"
     }
   ]
 }
