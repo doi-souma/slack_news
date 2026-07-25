@@ -1,50 +1,77 @@
 {
-  "generated_at": "2026-07-24T03:43:54.006798+00:00",
+  "generated_at": "2026-07-25T03:37:05.964013+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Meta、AI楽観論のブランドキャンペーン開始──BGMはなぜかボウイの終末ソング",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news063.html",
-      "summary": "MetaがAIに対する楽観的なビジョンを打ち出すブランドキャンペーンを開始した。マーク・ザッカーバーグCEOは「未来は全員のものだ」と投稿し、45秒の動画広告は「AIが人々のつながりを弱めると言う人もいるが、まったく同意できない」と反論する。だが、BGMに採用されたのはデビッド・ボウイが世界の終末を歌った「Five Years」だった。",
-      "published": "2026/07/24 10:37",
+      "title": "仕事外のネット利用「平日4時間以上」で抑うつ傾向　富山大が調査",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news098.html",
+      "summary": "富山大学の研究グループは、地方公務員3403人を対象とした調査で、仕事外に平日4時間以上インターネットを利用する人は、2時間未満の人に比べて抑うつ症状を有する傾向が高いと発表した。",
+      "published": "2026/07/25 08:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「人工甘味料」で脳の老化スピードが加速？　1.6年分の加齢差に相当　1万人超を調査、2025年に医学誌掲載",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news042.html",
-      "summary": "ブラジルのサンパウロ大学などに所属する研究者らが2025年に医学誌「Neurology」で公開した論文「Association Between Consumption of Low- and No-Calorie Artificial Sweeteners and Cognitive Decline」は、人工甘味料の摂取が記憶力や思考力にどのように影響するかを調査した研究報告だ。",
-      "published": "2026/07/24 10:09",
+      "title": "“上下2階建てカメラ”の実力は？　「OsmoPocket 4P」は撮影の幅をぐっと広げたジンバルカメラだった",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/25/news015.html",
+      "summary": "ジンバルカメラは広角仕様なので望遠も使えたらいいのに……と思ってたら、ちゃんと開発されていたのだ。広角+中望遠のデュアルカメラ構成化である。ジンバルカメラの定番であるDJIの「Osmo Pocket 4P」を使ってみた。",
+      "published": "2026/07/25 08:29",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Appleの「マップ」がFordの次世代EVに直接統合へ　新SDKで「CarPlay」なしでもナビが機能",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news057.html",
-      "summary": "AppleとFord Motorは、次世代EV基盤にAppleの「マップ」を直接組み込むと発表した。新提供のSDKを活用し、iPhoneを接続せずに車載機能としてナビゲーションを稼働させる。EV向け経路探索や充電向け温度調整にも対応するほか、Fordのハンズフリー走行機能「BlueCruise」の開発にも地図情報を活用する。",
-      "published": "2026/07/24 08:54",
+      "title": "Anthropic、「Claude Opus 5」公開　Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+      "summary": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。",
+      "published": "2026/07/25 07:28",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Google、アカウントログイン方法に「自撮り動画」を追加 ロックアウト時の復旧を容易に",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news056.html",
-      "summary": "Googleは、アカウントへのログイン方法に「自撮り動画」を追加すると発表した。スマホやPCのカメラで自分の顔を撮影し、本人確認に利用する。ディープフェイク対策として頭を動かすなどの生体検知を実施。スマートフォンを紛失したりロックアウトされてしまった際にもアクセスを復旧する新たな選択肢となる。",
-      "published": "2026/07/24 07:31",
+      "title": "「LINE広告」の一部記録など約3年半分を誤って削除　LINEヤフー",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news096.html",
+      "summary": "LINEヤフーは7月24日、「LINE広告」など企業向けサービスに関連し、個人情報保護法が保存を義務付ける記録を誤って削除していたと発表した。データの漏えいや不正利用は確認していないという。",
+      "published": "2026/07/24 20:11",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「生成AIで仕事が楽に」のはずが……IT現場を蝕む“AI疲れ・AIうつ”の正体",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news017.html",
-      "summary": "耳にする機会が増えた「AI疲れ」「AI鬱（うつ）」。本稿では、“疲れの正体”を整理し、個人が何を考え、どう変わればよいのかという判断軸を整理します。",
-      "published": "2026/07/24 06:30",
+      "title": "隠すか、見せるか　ビジネスマン向け“ファン付きウェア”、2つのアプローチ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news095.html",
+      "summary": "外で活動する人達の間では、ファン付きウェアがもはや当たり前の存在になったが、まだ利用しにくいシーンが多いのも事実だ。ビジネスパーソン向けのファン付きウェアを開発する2社のアプローチを紹介。",
+      "published": "2026/07/24 19:40",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 イランにとっての三つの選択肢　ホルムズ海峡めぐり多大なリスク冒すなか",
+      "url": "https://www.bbc.com/japanese/articles/cr593q9n840o?at_medium=RSS&at_campaign=rss",
+      "summary": "イランの指導者らは、極めて重要なホルムズ海峡の支配権をめぐり、アメリカと2週間近く、攻撃の応酬を続けている。そしていま、彼らの前には三つの選択肢があるように思われる。ただ、どれも勝利への明確な道筋を示すものではない。",
+      "published": "2026/07/25 12:17",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65aa/live/e4791990-84fd-11f1-8b9b-a724b687bb3b.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "国際刑事裁判所、主任検察官を解任　性的不正行為の疑惑で",
+      "url": "https://www.bbc.com/japanese/articles/cz053xzrm71o?at_medium=RSS&at_campaign=rss",
+      "summary": "国際刑事裁判所（ICC）は24日、カリム・カーン主任検察官を賛成多数で解任することを決定した。カーン氏をめぐっては2024年、性的不正行為の疑惑が浮上して調査が開始され、今年6月に停職処分を受けていた。",
+      "published": "2026/07/25 11:36",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/efb3/live/29a66180-63bb-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ政権、新たな関税を発動　強制労働対策が不十分として60の国・地域に",
+      "url": "https://www.bbc.com/japanese/articles/cgmky0wmxy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカは24日、約60の貿易相手国・地域に対し、強制労働を適切に阻止していないとして、新たな関税を発動した。アメリカは輸入の大半を、それらの国・地域と行っている。",
+      "published": "2026/07/24 15:39",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,83 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ政権、新たな関税を発動へ　強制労働対策が不十分として60の国・地域に",
-      "url": "https://www.bbc.com/japanese/articles/cgmky0wmxy1o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカは23日、約60の貿易相手国・地域に対し、強制労働を適切に阻止していないとして、新たな関税を課すと発表した。アメリカは輸入の大半を、それらの国・地域と行っている。",
-      "published": "2026/07/24 12:34",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ウクライナ、ロシアの通販大手の倉庫を相次ぎ攻撃　中小企業に打撃",
-      "url": "https://www.bbc.com/japanese/articles/cg7mz1nmze0o?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナ軍は22日、ロシアのオンライン・マーケットプレイス（市場）最大手ワイルドベリーズが所有する複数の倉庫をドローンで攻撃した。これにより、ロシア国内の多数の中小企業が影響を受けている。ウクライナは、ロシアが軍事装備を購入するために利用する物流拠点を標的にし、軍への物資供給を妨害していると述べている。",
-      "published": "2026/07/23 13:22",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c64/live/d7b13ca0-85f3-11f1-8ade-a7a676c613b9.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米オープンAI、自社AIが暴走し「前例のない」サイバー攻撃を仕掛けたと発表　セキュリティーテスト中に",
-      "url": "https://www.bbc.com/japanese/articles/c235nmklxndo?at_medium=RSS&at_campaign=rss",
-      "summary": "米オープンAIは21日、同社の最も高度な人工知能（AI）モデルの一部がセキュリティーテスト中に制御がきかなくなって暴走し、スタートアップ企業をハッキング攻撃したと明らかにした。",
-      "published": "2026/07/23 13:18",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce5f/live/a84590f0-85cc-11f1-b1dd-bb44cb5bbbfd.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ヒトラー生家に警察署を開設、ナチスの聖地化を防ごうと　オーストリア",
-      "url": "https://www.bbc.com/japanese/articles/cgmky2ynrlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "オーストリアの警察当局は22日、北部ブラウナウ・アム・インにあるアドルフ・ヒトラーの生家に警察署を開設した。17世紀に建てられたこの建物はかつて宿泊施設で、ヒトラーは1889年4月にこの場所で生まれた。現在、建物は大幅に改修され、外観も変更されたが、ネオナチの巡礼地となることを阻止したいオーストリア当局にとっては大きな頭痛の種となっていた。",
-      "published": "2026/07/23 16:44",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a62/live/e44c60c0-865c-11f1-b976-0b9c15b0ccfc.jpg"
+      "title": "米議会、AIツールの「緊急停止スイッチ」を推進　オープンAIでの暴走事案受け",
+      "url": "https://www.bbc.com/japanese/articles/cp87q0pmn1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "米オープンAIの人工知能（AI）モデルが暴走し、企業にハッキング攻撃を仕掛けた事案が発生したのを受け、米下院で23日、社会を脅かす恐れのあるAIツールの迅速な停止を命じる権限を政府に与える法案が提出された。",
+      "published": "2026/07/24 14:50",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "花火大会で｢SA／PA封鎖｣が起きている切実な理由とは？ 変わりゆく日本の夏の風物詩のいま | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952274?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "花火のシーズンになり､毎週のように各地で花火大会が開かれている。地元住民だけでなく､遠方から夜空に咲く大輪の花を見に駆け付ける人たちも少なくない。そんな人たちにとって格好の\"見物席\"がある。高速道路…",
-      "published": "2026/07/24 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/4/1200w/img_14cb7316be30a3dea609c51c0ff74407202699.jpg?nextgen=false"
+      "title": "｢AIの答えが全然､頭に入らない人｣が急増している理由 ｢自分の言葉で説明できない人｣に欠けている\"根本能力\"は？ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951338?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIで答えがすぐ見つかる時代､でも｢すぐ忘れる｣｢他人にうまく説明できない｣という人はいませんか？　教え子5人に1人を東大合格に導いた市野瀬早織氏が､その｢根本原因｣と｢今こそ必要なスキル｣を解説し…",
+      "published": "2026/07/25 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/d/1200w/img_fd11676d24dc0aa98ecb1085fd9b179a253305.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【東芝で驚きの役員人事 】日立前社長の小島啓二氏が取締役就任／“ライバル企業”の取締役就任の背景／2025年度営業利益は3000億円／東芝に吹く「2つの追い風」／上場廃止から2年半 再上場への布石は？ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952600?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東芝が6月30日に発表した役員人事が一部で話題となっている。2025年3月末まで日立製作所で社長兼CEOを務めていた小島啓二氏が新たに取締役に就任したからだ。2015年に不正会計が発覚して以降の大混…",
-      "published": "2026/07/24 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/1/1200w/img_c1baeea0ed94f51420a0b6f687a8b84c215713.jpg?nextgen=false"
+      "title": "新たな価値を生み出す公的機関のマネージャー像､民間企業との共通点も　『パブリックマネジメント』を読む（上） | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952438?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『パブリックマネジメント 不確実な時代の公共戦略』（マーク H. ムーア著）を砂原庸介氏が読み解きます（上編）。",
+      "published": "2026/07/25 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/a/1200w/img_fad4250f6b6d082c5e3f22e7b23022ea165854.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "なぜいつも仕事中にSNSを見てしまうのか…原因は｢意志の弱さ｣ではなかった　目先の誘惑を断ち切る\"正しい対処法\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949800?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢ちょっとだけ｣のつもりでSNSや動画を見ていたら､気づけば何十分も経っていた……。そんな経験はないでしょうか。仕事を完遂できない原因は意志の弱さではありません。目先の誘惑を断ち切るための具体的な対…",
-      "published": "2026/07/24 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/b/1200w/img_bb18b2b9580884ea15742d226aa58581150384.jpg?nextgen=false"
+      "title": "思春期の子が急にイライラ､背景に｢脳の発達のズレ｣と専門家　親は｢ルールと結果｣を淡々と伝える姿勢が重要 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952286?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "子育て中につい感情的になり､自己嫌悪に陥った経験はありませんか？親子のコミュニケーションには､ただ怒るのではなく\"伝える力\"が欠かせません。年齢や発達段階に応じた接し方のコツとは？親子関係をより良く…",
+      "published": "2026/07/25 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/c/1200w/img_5c051ca0acd1a774c7b8d2df9957027a292985.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "不倫疑惑から1年の永野芽郁､説明なき復帰で消えた｢元と同じ場所｣…\"逃げ切り\"の違和感を突破する唯一の道 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952575?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "不倫疑惑の報道によって活動休止を余儀なくされた永野芽郁が､約1年の沈黙を破り女優復帰の予定です。Netflix映画主演やフォトブック発売など新たな挑戦を通じて､清純派から一歩踏み出す変化も見せ始めて…",
-      "published": "2026/07/24 11:45",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/b/1200w/img_2bebf8e46d5b921fcfc4fa44cebc4dfb445963.jpg?nextgen=false"
+      "title": "ADHDやASDの人は｢TPOでカバンを替える｣より\"いつも同じ\"が最強のワケ　ありがちな失敗を減らすためにできること | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951009?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢仕事が続かない｣｢ミスが多い｣｢ものを失くす｣など､日常の困りごとに悩む人が増えています。発達障害やグレーゾーンかもしれないと感じる方へ実践的アドバイスを伝授します。",
+      "published": "2026/07/25 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/d/1200w/img_9d3536243033e27d07aa494289329cd2474175.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢乱用しすぎ｣の声も…40℃超えの新名称《酷暑日》に抱く\"白々しさ\"の正体　｢警戒心薄れる｣以外の思わぬリスクも | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952568?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "今年､｢酷暑日｣という新たな気象用語が登場しました。世間に浸透する一方で､過度な報道や日常での乱用が､本来の警戒や備えという目的から逸脱している現状があります。",
-      "published": "2026/07/24 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/2/1200w/img_92c5d6c45ec2d1782eb44157270da267311820.jpg?nextgen=false"
+      "title": "タレは絶対に｢混ぜすぎない｣が大正解！ \"いつものそうめん\"が｢本場四川の汁なし担々麺｣に大化けする最強の秘訣 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952591?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "連日の猛暑で食欲が落ちがちなときに大活躍するのが､冷たいそうめん。いつものめんつゆ味に飽きたら､汁なし担々麺風アレンジはいかがですか？ ｢おばさんのラー油｣と練りごまで､本格中華の旨みを手軽に再現。…",
+      "published": "2026/07/25 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/c/1200w/img_ace97eec19d3a539ce44c31e5b6d87fa137235.jpg?nextgen=false"
     }
   ]
 }
