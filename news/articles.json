@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-07-30T03:28:15.834166+00:00",
+  "generated_at": "2026-07-31T03:49:36.508078+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "タムロン、ソニーからの買収提案認める　特別委員会を設置して検討",
-      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000292/",
-      "summary": "タムロンは7月30日、ソニーから完全子会社化を目的とした法的拘束力のない提案を受領していると認めた。前日に一部メディアが買収提案を報じたことを受けたもので、東京証券取引所は同日、タムロン株の売買を一時停止した。",
-      "published": "2026/07/30 11:49",
+      "title": "熊本地震の被害推定、衛星データ基に地図化　現地の航空写真400枚超も公開　国際航業",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000321/",
+      "summary": "",
+      "published": "2026/07/31 10:36",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "光学25倍ズームのソニー「RX10 V」はもう“レンズ一体型α”　1台で何でも撮れそうな万能感に浸れるぞ",
-      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000290/",
-      "summary": "ソニーの「RX10 V」を使いって、これはもう“レンズ一体型α”だ、と思った。技術の進化と最新の画像処理エンジンを得て、24-600mm相当という超高倍率ズームレンズを持つ、その気になれば何でも撮れるカメラに進化した。",
-      "published": "2026/07/30 11:36",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "Thnking Machinesの共同創業者、また1人OpenAIに復帰へ",
+      "title": "Thinking Machinesの共同創業者、また1人OpenAIに復帰へ",
       "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000286/",
       "summary": "Thinking Machines Labの共同創業者リリアン・ウェン氏が、健康上の理由で同社を離れると発表した。同社がオープンウェイトモデル「Inkling」を発表した直後の辞任となる。同氏は古巣のOpenAIに復帰し、AIの再帰的自己改善に関する研究チームを率いる見込み。",
-      "published": "2026/07/30 10:21",
+      "published": "2026/07/31 10:10",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Microsoftは増収増益、AzureとAI需要が牽引　Copilot有料シート数は3000万超に",
-      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000285/",
-      "summary": "Microsoftの4?6月期決算は、売上高が前年同期比18％増の900億700万ドル、純利益が31％増の357億6600万ドル。Azure等のクラウド事業やAI領域が好調を維持し、通期売上高は3318億3900万ドルを記録。設備投資を拡大しAIインフラの強化を進めている。",
-      "published": "2026/07/30 09:18",
+      "title": "Amazon決算、AWS成長率36.7％で過去18四半期最速に　純利益はAnthropic投資益で大幅増",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000316/",
+      "summary": "Amazonの2026年4月?6月期決算は、売上高が前年同期比20％増の2006億600万ドル、純利益はAnthropic投資の評価益も寄与し約3.4倍の626億4700万ドルとなった。AWSの売上高は36.7％増と成長が加速。AI需要に応えるため、通期の設備投資予測を約2200億ドルへ上方修正した。",
+      "published": "2026/07/31 08:34",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "紙にもiPadにもそのまま書ける驚きのペン、ゼブラ「STYLUS 2WAY」開発秘話　“失敗”を逆手にとったアイデアとは？",
-      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000279/",
-      "summary": "普通に紙に書けるボールペンが、そのままiPad上ではスタイラスペンになるという「STYLUS 2WAY（スタイラスツーウェイ）」。初めて使った時は、さすがに驚いた。",
-      "published": "2026/07/30 08:31",
+      "title": "Apple、16％増収で第3四半期として過去最高　クックCEO最後の決算「将来をかつてないほど楽観」",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000315/",
+      "summary": "Appleの4?6月期決算は、売上高が前年同期比16％増の1094億1700万ドルで過去最高を記録した。iPhoneやMac、サービス部門が力強く牽引した一方、iPadは減収となった。ティム・クックCEOは今回が最後の決算会見となり、ジョン・ターナス次期CEOへの移行が順調に進んでいると語った。",
+      "published": "2026/07/31 07:33",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "入門機だけど「これがいい」　XREALの「xbx a01+」は62gしかない大画面だった",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000282/",
+      "summary": "XREALから登場した「xbx a01+」は、日常のさまざまなシーンで自分だけの大画面を得られるARグラス。実際に使い倒してみると、そこにはスペックからは分かりにくい使い勝手の良さがありました。",
+      "published": "2026/07/31 07:31",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "南欧で山火事が拡大、クレタ島で消防士2人死亡　スペインやフランスも熱波に警戒",
-      "url": "https://www.bbc.com/japanese/articles/cp87mm0jl86o?at_medium=RSS&at_campaign=rss",
-      "summary": "南ヨーロッパで山火事が広がっている。ギリシャ・クレタ島では29日、消火活動に当たっていた消防士2人が、火災に巻き込まれて死亡した。強風が炎をあおっており、複数の村で住民らが避難を余儀なくされている。",
-      "published": "2026/07/30 11:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/61b6/live/24160460-8b60-11f1-b4bb-f7524edbe34a.jpg"
+      "title": "トランプ氏のガザ平和評議会が「完全武装解除」で合意と発表　ハマスも近く声明発表と",
+      "url": "https://www.bbc.com/japanese/articles/cg4dxy56v4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "ドナルド・トランプ米大統領は30日、自らが主導する、パレスチナ・ガザ地区での和平計画を遂行する「平和評議会」が、ガザのハマスおよびその他の武装組織の「完全武装解除」に関する合意に達したと述べた。ハマスの幹部はBBCに対し、ガザ地区の完全武装解除に関する平和評議会の計画に同意し、近いうちに公式声明を発表すると明らかにした。イスラエルは現時点でコメントを発表していない。",
+      "published": "2026/07/31 12:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "熊本地震、死者13人と首相　イオンモールや日本製紙工場で複数人が死亡や心肺停止",
-      "url": "https://www.bbc.com/japanese/articles/c5y6267j5p6o?at_medium=RSS&at_campaign=rss",
-      "summary": "熊本県を震源に28日午後4時27分ごろ発生した強い地震で、高市早苗首相は29日午前8時半の時点で死者が13人となっていると明らかにした。NHKなどが伝えた。災害との関連を調査中の人も含めた人数だという。一方、イオンは同日夕、記者会見を開き、地震後に爆発と建物の一部崩壊があったイオンモール熊本（同県嘉島町）での被害について、従業員3人が死亡、同3人が安否不明だとした。県は、煙突が崩落した日本製紙八代",
-      "published": "2026/07/29 18:17",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b817/live/b391ac30-8add-11f1-b889-f97dd2fdd738.png"
+      "title": "熊本地震の死者35人に　猛暑での避難生活続く",
+      "url": "https://www.bbc.com/japanese/articles/c171w78z009o?at_medium=RSS&at_campaign=rss",
+      "summary": "熊本県を震源として28日午後に起きた最大震度7の地震による死者が、31日までに35人になった。同県災害対策本部が同日午前の対策本部会議で明らかにした。気象庁は、31日の熊本地方の最高気温は36度に達する可能性があると予報しており、猛暑の中で大勢が避難する状態が続く。九州電力によると、同日午前10時半の時点で熊本地方で3730戸が停電しており、復旧は同日夕方の見通しという。",
+      "published": "2026/07/31 11:27",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6783/live/079ef500-8c7b-11f1-ac33-372811b2fb33.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "城の石垣が崩れ、ショッピングセンターで夜通し捜索続く……熊本で震度7の地震",
-      "url": "https://www.bbc.com/japanese/articles/c70gngp5qqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "熊本県で28日午後4時27分ごろ、震度7の強い地震が発生した。熊本市内では熊本城の石垣の一部が崩れた。また、熊本県嘉島町のイオンモール熊本では同日午後6時ごろに爆発があり、複数の人が閉じ込められたもようで、捜索が続いている。",
-      "published": "2026/07/29 11:01",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d6a/live/2f3cb730-8ae8-11f1-a4b4-99f50fb19009.png"
+      "title": "アメリカ、イランに「大規模な」攻撃を開始　米軍に対するミサイル発射に報復と",
+      "url": "https://www.bbc.com/japanese/articles/cq89ze9w5nxo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの中央軍は29日、イランが米軍に対する弾道ミサイル攻撃を試みたことへの報復として、イランに「大規模な」攻撃を行ったと発表した。 28日にはアメリカとサウジアラビアが共同で、イラクにある「イランを支持するテロリスト」の拠点を攻撃したと発表しており、紛争は終結の兆しが見えない。",
+      "published": "2026/07/30 14:14",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ゼレンスキー氏とネタニヤフ氏、個別にトランプ氏と会談　それぞれ戦争が長引くなか",
-      "url": "https://www.bbc.com/japanese/articles/cvgxdxr8gp4o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は28日、ウクライナのゼレンスキー大統領、イスラエルのネタニヤフ首相と個別にホワイトハウスで会談した。米政府は、どちらも「前向きで生産的な」会談だったと説明した。",
-      "published": "2026/07/29 13:02",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2012/live/eaaad6c0-8abe-11f1-9997-a1a12b7801e6.jpg"
+      "title": "熊本地震、死者30人と首相　避難者は猛暑に直面",
+      "url": "https://www.bbc.com/japanese/articles/cevm08vm0vzo?at_medium=RSS&at_campaign=rss",
+      "summary": "熊本県を震源に28日午後4時27分ごろ発生した強い地震で、高市早苗首相は30日午後0時半時点で、災害との関連を調査している人も含めて、死亡した人が30人となったと明らかにした。災害との関連を調査中の人も含まれるという。",
+      "published": "2026/07/30 17:13",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8bba/live/8c045ba0-8bea-11f1-861c-757141bb522d.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ米政権、中国製の最新ヒト型ロボットの輸入を禁止へ",
-      "url": "https://www.bbc.com/japanese/articles/czxq0vng4z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ政府は28日、国家安全保障に対する「容認できないリスク」を理由に、外国製の新型ロボットの輸入を禁止すると発表した。中国はロボット工学や人工知能（AI）の開発においてアメリカと競合している。",
-      "published": "2026/07/29 16:12",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg"
+      "title": "英イングランドで干ばつ、半分以上の地域で　環境当局が警告",
+      "url": "https://www.bbc.com/japanese/articles/c9w01djypego?at_medium=RSS&at_campaign=rss",
+      "summary": "英環境庁は29日、イングランドの半分以上の地域で干ばつを宣言した。高温で乾燥した天候が、各地の水源に大きな打撃を与えている。",
+      "published": "2026/07/30 13:12",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc76/live/f8213680-8b65-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "自由研究に最適でも｢子ども向け｣とは言い切れないバスタ新宿｢夏のたんけんラリー｣の絶妙な難易度 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953080?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "バスタ新宿で｢めざせ！バスタ新宿博士！たんけんラリー｣と銘打った小学生向けの企画がスタート。単なるスタンプラリーではなく､実際に参加してみると大人も十分に楽しめるものであった。",
-      "published": "2026/07/30 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/8/1200w/img_c8498a360faa7fe12669b91e9ff38d35198249.jpg?nextgen=false"
+      "title": "大事なプレゼンを前に緊張が高まりすぎて…そんなとき心を落ち着かせるには会議室のどこに視線を向けるべきか | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951467?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "会議やプレゼン､人前で緊張しすぎてしまう瞬間､頭の中は不安や自己意識でいっぱいになります。そんなとき､｢掛け時計｣をじっくり観察することで意識を外に向け､不安を和らげる方法をご紹介します。",
+      "published": "2026/07/31 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/1/1200w/img_d199676ea67bf206f516002f0df55918193859.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "企業の生成AIは会話相手から実務担当へ､マイクロソフトが示した｢自律実行AI｣の現在地 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953006?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "生成AIの進化が企業の業務スタイルにも大きな変革をもたらし始めた。Microsoft 365 Copilotが｢Chat｣｢Cowork｣｢Autopilot｣の3区分へと再編され､AIが指示待ちか…",
-      "published": "2026/07/30 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/a/1200w/img_2abf995179e5f98b8a5c58585773b9ee306951.jpg?nextgen=false"
+      "title": "《リビングには何を置く？》AI時代の子どもには必須｢興味の土台｣を自然に引き出す子育て術 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/950701?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "スマホ動画やネットに夢中な子どもたちに､｢せめて本を読んでほしい｣と感じたことはありませんか。読書すれば必ず成績が上がる……というわけではありませんが､テストの点数よりも大事な｢ある力｣を､本は育む…",
+      "published": "2026/07/31 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/3/1200w/img_8333de3e8582f4e21919d88214ca4201198700.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈揺らぐ安全神話〉｢爆発が起こると想定していなかった｣･･･熊本でイオン社長が緊急会見､全国のイオンモール一斉点検へ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953176?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "イオンモール熊本で発生した爆発事故は､地域社会に大きな衝撃を与えました。なぜ事故は発生したのか。 \"災害に強いモール\"として行政や地域からの信頼を得てきたイオンモールに､今後求められる再発防止策とは。",
-      "published": "2026/07/30 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/0/1200w/img_80878bffe6a320df0ae1d7171ff616ab181163.jpg?nextgen=false"
+      "title": "｢日経平均10万円｣時代の生存戦略！ 昭和型モデルの崩壊とインフレ×AI期に必須な\"複数収入＆資産防衛\" | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952774?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて｢1社終身｣が安定の象徴だった日本。しかし今やインフレとAIがもたらす大転換期､働き方や資産の守り方も見直しが迫られています。",
+      "published": "2026/07/31 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/9/1200w/img_b9cdc3a153535c6072324f8249d21a8a194954.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢70過ぎのリタイアはちょっと早すぎるかも…｣\"会社員のための引退戦略書\"フリーランス書評家はどう読んだ？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952597?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "人生100年時代､70歳過ぎでのリタイアはちょっと早すぎるかもしれません。\"会社員のための引退戦略書\"『RETIRE SHIFT』を､フリーランス書評家の印南敦史氏はどう読んだのでしょう？　老後資金…",
-      "published": "2026/07/30 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/a/1200w/img_8a4c84b0bdeba56a5899808ce17ce7d4245404.jpg?nextgen=false"
+      "title": "｢努力ができない｣という静かな悩み…IQ130オーバー｢ギフテッド･33歳男性｣が明かす｢普通｣の人生 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951946?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢ギフテッド｣と聞くと､天才や成功者を思い浮かべがちですが､実際は私たちの身近で\"普通\"の暮らしを送っている人も多くいます。本記事では､高IQ団体｢JAPAN MENSA｣所属のやおとさんに取材､波…",
+      "published": "2026/07/31 11:15",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/7/1200w/img_571a7a466dce2ba3d93fe3d5c4e3fdd0360828.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "夏の帰省で実感する\"愛するものたちの老い\"　サワガニの唐揚げ､花火､海水浴…55歳漫画家が感じた\"切なさ\"の行方 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952991?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "毎年恒例の夏帰省。福岡の実家に集ったのはくらたまと同行した娘､妹家族､そして母親でした。賑やかで楽しい時間を過ごしながらも､55歳のくらたまが感じていた\"いつもと違う感覚\"とは――。",
-      "published": "2026/07/30 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/a/1200w/img_ea79b6de3e3bacc2d32b916dcd9ed6ce404043.jpg?nextgen=false"
+      "title": "｢大事なのはスルースキルと理解してくれる人｣…大人になってから｢ギフテッド｣とわかった33歳が子どもたちに伝えたいこと | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951945?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "高IQ団体に所属しながらも､自身を｢普通の人｣と語るやおとさん（33）。人生や苦悩､そして社会や大人たちに必要な視点とは。",
+      "published": "2026/07/31 11:15",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/7/1200w/img_47a7be66d0751d11f0a9c2b253d5335f350819.jpg?nextgen=false"
     }
   ]
 }
