@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-07-31T03:49:36.508078+00:00",
+  "generated_at": "2026-08-01T03:50:08.087263+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "熊本地震の被害推定、衛星データ基に地図化　現地の航空写真400枚超も公開　国際航業",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000321/",
-      "summary": "",
-      "published": "2026/07/31 10:36",
+      "title": "セブン＆アイ、共通会員IDのPayPay統合を正式発表　ソフトバンクや三井住友カードなどが計3000億円出資",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000345/",
+      "summary": "セブン＆アイ・ホールディングスとセブン-イレブン・ジャパンは7月31日、ソフトバンク、PayPay、LINEヤフー、三井住友カードとの戦略的パートナーシップを発表した。セブン＆アイの共通会員ID「7iD」を「PayPay ID」に統合する。また、ソフトバンクや三井住友カードなどと資本業務提携も結び、各社から1000億円ずつ、総額3000億円の出資を受ける。",
+      "published": "2026/07/31 22:22",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Thinking Machinesの共同創業者、また1人OpenAIに復帰へ",
-      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000286/",
-      "summary": "Thinking Machines Labの共同創業者リリアン・ウェン氏が、健康上の理由で同社を離れると発表した。同社がオープンウェイトモデル「Inkling」を発表した直後の辞任となる。同氏は古巣のOpenAIに復帰し、AIの再帰的自己改善に関する研究チームを率いる見込み。",
-      "published": "2026/07/31 10:10",
+      "title": "ソニー、タムロン買収提案の狙いを説明　「イメージング事業の発展につながる」",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000342/",
+      "summary": "ソニーグループの陶琳CFOは7月31日の決算説明会で、傘下のソニーがレンズメーカーのタムロンに提案している完全子会社化について「両者が一緒になることで強みを生かせる」と狙いを語った。",
+      "published": "2026/07/31 19:52",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Amazon決算、AWS成長率36.7％で過去18四半期最速に　純利益はAnthropic投資益で大幅増",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000316/",
-      "summary": "Amazonの2026年4月?6月期決算は、売上高が前年同期比20％増の2006億600万ドル、純利益はAnthropic投資の評価益も寄与し約3.4倍の626億4700万ドルとなった。AWSの売上高は36.7％増と成長が加速。AI需要に応えるため、通期の設備投資予測を約2200億ドルへ上方修正した。",
-      "published": "2026/07/31 08:34",
+      "title": "ロシアの「.ru」ドメインが実質使えなくなりそう？　本人確認義務化でユーザー悲鳴、関連事業者は対応急ぐ",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000340/",
+      "summary": "ロシア政府が「.ru」ドメインなどの管理者に本人確認を義務付ける方針を示し、同ドメインに関連する事業者が対応を迫られている。SNSでは、対象のドメインを使うユーザーから不安の声も出ている。",
+      "published": "2026/07/31 18:55",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Apple、16％増収で第3四半期として過去最高　クックCEO最後の決算「将来をかつてないほど楽観」",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000315/",
-      "summary": "Appleの4?6月期決算は、売上高が前年同期比16％増の1094億1700万ドルで過去最高を記録した。iPhoneやMac、サービス部門が力強く牽引した一方、iPadは減収となった。ティム・クックCEOは今回が最後の決算会見となり、ジョン・ターナス次期CEOへの移行が順調に進んでいると語った。",
-      "published": "2026/07/31 07:33",
+      "title": "一般消費者が「空調服」と書いたら商標権侵害？　公式Xの注意喚起が波紋、弁理士の見解は",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000328/",
+      "summary": "ファン付きウェア「空調服」を展開する株式会社空調服が、公式Xで「空調服は登録商標」として一般名称の使用を呼びかけ、批判を受けて謝罪した。一連の投稿について、知的財産に詳しい栗原潔弁理士は「商標権者が呼びかけを行うことは賢明」との見解を示す。",
+      "published": "2026/07/31 18:43",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "入門機だけど「これがいい」　XREALの「xbx a01+」は62gしかない大画面だった",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000282/",
-      "summary": "XREALから登場した「xbx a01+」は、日常のさまざまなシーンで自分だけの大画面を得られるARグラス。実際に使い倒してみると、そこにはスペックからは分かりにくい使い勝手の良さがありました。",
-      "published": "2026/07/31 07:31",
+      "title": "ソニーの熊本工場、8月中旬には「地震前の稼働水準」に　早期復旧の理由を決算会見で明かす",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000341/",
+      "summary": "ソニーグループの陶琳CFOは7月31日の決算説明会で、令和8年熊本地震で生産を止めた熊本の半導体工場が8月中旬に地震発生前の稼働水準へ戻る見通しを示した。2016年の熊本地震では回復まで3カ月余りかかっており、早期復旧の理由を「被害の程度が違う」と説明し",
+      "published": "2026/07/31 18:38",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏のガザ平和評議会が「完全武装解除」で合意と発表　ハマスも近く声明発表と",
-      "url": "https://www.bbc.com/japanese/articles/cg4dxy56v4vo?at_medium=RSS&at_campaign=rss",
-      "summary": "ドナルド・トランプ米大統領は30日、自らが主導する、パレスチナ・ガザ地区での和平計画を遂行する「平和評議会」が、ガザのハマスおよびその他の武装組織の「完全武装解除」に関する合意に達したと述べた。ハマスの幹部はBBCに対し、ガザ地区の完全武装解除に関する平和評議会の計画に同意し、近いうちに公式声明を発表すると明らかにした。イスラエルは現時点でコメントを発表していない。",
-      "published": "2026/07/31 12:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg"
+      "title": "FIFA、外部投資導入の計画撤回　サッカー界の強い反発受け",
+      "url": "https://www.bbc.com/japanese/articles/cq6d803gnqjo?at_medium=RSS&at_campaign=rss",
+      "summary": "国際サッカー連盟（FIFA）のジャンニ・インファンティーノ会長は1日、FIFA主催の主要大会について株式を売却するという外部資金導入計画について、サッカー界の強い反対を受け、計画を撤回したと述べた。",
+      "published": "2026/08/01 12:32",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "熊本地震の死者35人に　猛暑での避難生活続く",
-      "url": "https://www.bbc.com/japanese/articles/c171w78z009o?at_medium=RSS&at_campaign=rss",
-      "summary": "熊本県を震源として28日午後に起きた最大震度7の地震による死者が、31日までに35人になった。同県災害対策本部が同日午前の対策本部会議で明らかにした。気象庁は、31日の熊本地方の最高気温は36度に達する可能性があると予報しており、猛暑の中で大勢が避難する状態が続く。九州電力によると、同日午前10時半の時点で熊本地方で3730戸が停電しており、復旧は同日夕方の見通しという。",
-      "published": "2026/07/31 11:27",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6783/live/079ef500-8c7b-11f1-ac33-372811b2fb33.jpg"
+      "title": "トランプ米政権、リンカーン記念堂の反射池の改修「ミス」認める　器物損壊罪での起訴取り下げ",
+      "url": "https://www.bbc.com/japanese/articles/cly8r1433xeo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの首都ワシントンにあるリンカーン記念堂のリフレクティング・プール（反射池）が、改修完了後間もなく、青い塗装がはがれているのが確認された問題で、米検察は7月31日、反射池を損壊した罪に問われた元オリンピック選手に対する起訴を取り下げた。検察は裁判所に提出された文書の中で、反射池の損傷は「請負業者による不適切な施工の結果」とみられると説明した。",
+      "published": "2026/08/01 12:34",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/569e/live/c89709f0-8d39-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカ、イランに「大規模な」攻撃を開始　米軍に対するミサイル発射に報復と",
-      "url": "https://www.bbc.com/japanese/articles/cq89ze9w5nxo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの中央軍は29日、イランが米軍に対する弾道ミサイル攻撃を試みたことへの報復として、イランに「大規模な」攻撃を行ったと発表した。 28日にはアメリカとサウジアラビアが共同で、イラクにある「イランを支持するテロリスト」の拠点を攻撃したと発表しており、紛争は終結の兆しが見えない。",
-      "published": "2026/07/30 14:14",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg"
+      "title": "イスラエル高官、イスラエル軍のガザ撤退にはハマスの「真の武装解除」が条件と",
+      "url": "https://www.bbc.com/japanese/articles/cd9wjee1q82o?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエル政府の高官は7月31日、パレスチナ・ガザ地区の武装組織ハマスが「真の武装解除」をしない限り、イスラエル部隊はガザから撤退しないと述べた。ガザをめぐってはドナルド・トランプ米大統領が前日に、自分の主導でガザでの和平計画を遂行する「平和評議会」が、ガザのハマスおよびその他の武装組織の「完全武装解除」に関する合意に達したとしていた。",
+      "published": "2026/08/01 11:46",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c578/live/0117af90-8d22-11f1-8806-e38839242051.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "熊本地震、死者30人と首相　避難者は猛暑に直面",
-      "url": "https://www.bbc.com/japanese/articles/cevm08vm0vzo?at_medium=RSS&at_campaign=rss",
-      "summary": "熊本県を震源に28日午後4時27分ごろ発生した強い地震で、高市早苗首相は30日午後0時半時点で、災害との関連を調査している人も含めて、死亡した人が30人となったと明らかにした。災害との関連を調査中の人も含まれるという。",
-      "published": "2026/07/30 17:13",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8bba/live/8c045ba0-8bea-11f1-861c-757141bb522d.jpg"
+      "title": "ポーランドに墜落したミサイル、「おそらくロシアのもの」と首相",
+      "url": "https://www.bbc.com/japanese/articles/cx2kp4ng0d4o?at_medium=RSS&at_campaign=rss",
+      "summary": "ポーランドのドナルド・トゥスク首相は30、同日未明に同国東部の畑に墜落した物体は「おそらく」ロシアの巡航ミサイルであり、爆弾が搭載されていたと述べた。2022年2月にロシアがウクライナへの全面侵攻を開始して以降、ポーランドにはたびたび、ドローンやミサイルが落下している。",
+      "published": "2026/07/31 14:29",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58b9/live/31742360-8c16-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英イングランドで干ばつ、半分以上の地域で　環境当局が警告",
-      "url": "https://www.bbc.com/japanese/articles/c9w01djypego?at_medium=RSS&at_campaign=rss",
-      "summary": "英環境庁は29日、イングランドの半分以上の地域で干ばつを宣言した。高温で乾燥した天候が、各地の水源に大きな打撃を与えている。",
-      "published": "2026/07/30 13:12",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc76/live/f8213680-8b65-11f1-a7ab-8b30adf0800a.jpg"
+      "title": "ウクライナ東部で同じ家族の少なくとも5人が死亡、ロシアのミサイル攻撃で　ゼレンスキー氏が発表",
+      "url": "https://www.bbc.com/japanese/articles/c62q7wlgxeyo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナ東部で30日、ロシアのミサイル攻撃があり、同じ家族の5人が死亡した。ウォロディミル・ゼレンスキー大統領は、「恐ろしい犯罪行為」だとロシアを非難した。",
+      "published": "2026/07/31 16:51",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ce2/live/9f464590-8c24-11f1-bdac-871e920411eb.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "大事なプレゼンを前に緊張が高まりすぎて…そんなとき心を落ち着かせるには会議室のどこに視線を向けるべきか | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951467?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "会議やプレゼン､人前で緊張しすぎてしまう瞬間､頭の中は不安や自己意識でいっぱいになります。そんなとき､｢掛け時計｣をじっくり観察することで意識を外に向け､不安を和らげる方法をご紹介します。",
-      "published": "2026/07/31 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/1/1200w/img_d199676ea67bf206f516002f0df55918193859.jpg?nextgen=false"
+      "title": "世界的なクルマの祭典｢グッドウッド･フェスティバル･オブ･スピード｣を知っているか…次世代アルピーヌA110に注目 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953015?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界的に注目度の高い､イギリスのモータースポーツイベント｢グッドウッド･フェスティバル･オブ･スピード｣。歴史的な名車たち､そして会場の熱気と共に､次世代アルピーヌA110の片鱗をお届けします。",
+      "published": "2026/08/01 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/8/1200w/img_3817ec9a3f8f539579e23abad7a2042e216606.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《リビングには何を置く？》AI時代の子どもには必須｢興味の土台｣を自然に引き出す子育て術 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950701?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "スマホ動画やネットに夢中な子どもたちに､｢せめて本を読んでほしい｣と感じたことはありませんか。読書すれば必ず成績が上がる……というわけではありませんが､テストの点数よりも大事な｢ある力｣を､本は育む…",
-      "published": "2026/07/31 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/3/1200w/img_8333de3e8582f4e21919d88214ca4201198700.jpg?nextgen=false"
+      "title": "ソニーGが27年3月期の営業利益計画を大幅に上方修正－ゲーム､半導体､音楽分野が好調 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953349?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ソニーグループが今期の営業利益見通しを大幅に上方修正。ゲームや半導体事業の好調､円安や関税還付が追い風となり､市場予想も上回りました。",
+      "published": "2026/08/01 12:13",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/4/1200w/img_94d4ae46e056330f89a89738b87ee73d320304.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢日経平均10万円｣時代の生存戦略！ 昭和型モデルの崩壊とインフレ×AI期に必須な\"複数収入＆資産防衛\" | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952774?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "かつて｢1社終身｣が安定の象徴だった日本。しかし今やインフレとAIがもたらす大転換期､働き方や資産の守り方も見直しが迫られています。",
-      "published": "2026/07/31 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/9/1200w/img_b9cdc3a153535c6072324f8249d21a8a194954.jpg?nextgen=false"
+      "title": "〈熊本地震〉自動車のサプライチェーンに大きな打撃､工場の稼働停止続く…半導体は続々再開 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953361?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "熊本地震が半導体産業と自動車産業に大きな影響を与え､各メーカーは復旧と稼働再開に奔走しています。",
+      "published": "2026/08/01 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/9/1200w/img_29ccd604579007169e7530196478cbc3753434.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢努力ができない｣という静かな悩み…IQ130オーバー｢ギフテッド･33歳男性｣が明かす｢普通｣の人生 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951946?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢ギフテッド｣と聞くと､天才や成功者を思い浮かべがちですが､実際は私たちの身近で\"普通\"の暮らしを送っている人も多くいます。本記事では､高IQ団体｢JAPAN MENSA｣所属のやおとさんに取材､波…",
-      "published": "2026/07/31 11:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/7/1200w/img_571a7a466dce2ba3d93fe3d5c4e3fdd0360828.jpg?nextgen=false"
+      "title": "｢未経験のまま歳を取る｣若手の危機　放置でも丸投げでもない､｢部下に任せることができる上司｣になる方法 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952377?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢自分がやった方が早い｣とつい抱えてしまう上司。その善意が実は部下の成長機会の7割を奪い､組織力を静かに損ねているかもしれません。",
+      "published": "2026/08/01 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/a/1200w/img_7ad524745956063d8b6d1309f5f73a5d270095.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢大事なのはスルースキルと理解してくれる人｣…大人になってから｢ギフテッド｣とわかった33歳が子どもたちに伝えたいこと | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951945?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "高IQ団体に所属しながらも､自身を｢普通の人｣と語るやおとさん（33）。人生や苦悩､そして社会や大人たちに必要な視点とは。",
-      "published": "2026/07/31 11:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/7/1200w/img_47a7be66d0751d11f0a9c2b253d5335f350819.jpg?nextgen=false"
+      "title": "｢もっと丁寧にやって｣｢ちゃんと確認して｣では若手社員は混乱するだけ…｢部下が育たない上司｣の3つの\"盲点\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951921?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢部下が指示待ちで動かない｣｢丁寧にやってと伝えてもミスが減らない｣――そんな悩みは､指示や伝え方が曖昧なことが原因かもしれません。",
+      "published": "2026/08/01 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200w/img_fe90f967c5137491b1a53874cc61d9b2233941.jpg?nextgen=false"
     }
   ]
 }
