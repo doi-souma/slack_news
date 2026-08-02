@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-01T03:50:08.087263+00:00",
+  "generated_at": "2026-08-02T03:52:41.700155+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に　Chrome統合は米国から",
+      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
+      "summary": "Googleは、パーソナルAIエージェント「Gemini Spark」の提供対象を日本を含む160カ国以上に拡大した。PC停止時やスマホのロック時もGoogleのクラウド基盤上で動作し、トリガーに応じてタスクを処理する。さらに、ログイン情報や保存されたパスワードを活用してWeb上の各種手続きを代行するChrome統合機能も発表された。",
+      "published": "2026/08/02 10:12",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "OpenAI、アクティブユーザー10億人超に　導入企業は200万社超",
+      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+      "summary": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投資の循環を強調した。",
+      "published": "2026/08/02 07:21",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "新作「レイダース」で初めて「スプラトゥーン」に触れたマンガ家がその面白さに驚愕！　と同時に絶望した理由",
+      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000343/",
+      "summary": "23日にNintendo Switch 2用ソフト「スプラトゥーン レイダース」が発売されました。今作は1人でも遊べる、ステージクリア型のアクションゲーム。PvPが苦手なボクもこれなら楽しめそうです。",
+      "published": "2026/08/02 07:15",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "ソニーの熊本工場、8月中旬には「地震前の稼働水準」に　早期復旧の理由を決算会見で明かす",
+      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000341/",
+      "summary": "ソニーグループの陶琳CFOは7月31日の決算説明会で、令和8年熊本地震で生産を止めた熊本の半導体工場が8月中旬に地震発生前の稼働水準へ戻る見通しを示した。2016年の熊本地震では回復まで3カ月余りかかっており、早期復旧の理由を「被害の程度が違う」と説明し",
+      "published": "2026/08/01 20:53",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -11,42 +47,6 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "ソニー、タムロン買収提案の狙いを説明　「イメージング事業の発展につながる」",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000342/",
-      "summary": "ソニーグループの陶琳CFOは7月31日の決算説明会で、傘下のソニーがレンズメーカーのタムロンに提案している完全子会社化について「両者が一緒になることで強みを生かせる」と狙いを語った。",
-      "published": "2026/07/31 19:52",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "ロシアの「.ru」ドメインが実質使えなくなりそう？　本人確認義務化でユーザー悲鳴、関連事業者は対応急ぐ",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000340/",
-      "summary": "ロシア政府が「.ru」ドメインなどの管理者に本人確認を義務付ける方針を示し、同ドメインに関連する事業者が対応を迫られている。SNSでは、対象のドメインを使うユーザーから不安の声も出ている。",
-      "published": "2026/07/31 18:55",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "一般消費者が「空調服」と書いたら商標権侵害？　公式Xの注意喚起が波紋、弁理士の見解は",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000328/",
-      "summary": "ファン付きウェア「空調服」を展開する株式会社空調服が、公式Xで「空調服は登録商標」として一般名称の使用を呼びかけ、批判を受けて謝罪した。一連の投稿について、知的財産に詳しい栗原潔弁理士は「商標権者が呼びかけを行うことは賢明」との見解を示す。",
-      "published": "2026/07/31 18:43",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "ソニーの熊本工場、8月中旬には「地震前の稼働水準」に　早期復旧の理由を決算会見で明かす",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000341/",
-      "summary": "ソニーグループの陶琳CFOは7月31日の決算説明会で、令和8年熊本地震で生産を止めた熊本の半導体工場が8月中旬に地震発生前の稼働水準へ戻る見通しを示した。2016年の熊本地震では回復まで3カ月余りかかっており、早期復旧の理由を「被害の程度が違う」と説明し",
-      "published": "2026/07/31 18:38",
-      "image_url": ""
-    },
-    {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
       "title": "FIFA、外部投資導入の計画撤回　サッカー界の強い反発受け",
@@ -54,6 +54,15 @@
       "summary": "国際サッカー連盟（FIFA）のジャンニ・インファンティーノ会長は1日、FIFA主催の主要大会について株式を売却するという外部資金導入計画について、サッカー界の強い反対を受け、計画を撤回したと述べた。",
       "published": "2026/08/01 12:32",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "モロッコからスペイン領セウタへ6万人押し寄せる　スペイン首相は人身売買業者を非難",
+      "url": "https://www.bbc.com/japanese/articles/cpd7jy4yqg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "北アフリカにあるスペインの飛び地領土セウタへ、モロッコから約6万人が押し寄せた問題について、スペインのペドロ・サンチェス首相は7月31日、人身売買組織の仕業だと非難した。地元メディアによると、移民流入による騒乱で少なくとも57人が死亡した。",
+      "published": "2026/08/01 12:48",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b29/live/f8112010-8d09-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -83,58 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58b9/live/31742360-8c16-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ウクライナ東部で同じ家族の少なくとも5人が死亡、ロシアのミサイル攻撃で　ゼレンスキー氏が発表",
-      "url": "https://www.bbc.com/japanese/articles/c62q7wlgxeyo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナ東部で30日、ロシアのミサイル攻撃があり、同じ家族の5人が死亡した。ウォロディミル・ゼレンスキー大統領は、「恐ろしい犯罪行為」だとロシアを非難した。",
-      "published": "2026/07/31 16:51",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ce2/live/9f464590-8c24-11f1-bdac-871e920411eb.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "ジョン･カビラ父子が描く｢沖縄｣の原点､台湾で育った父と語る川平家と日本･沖縄･アメリカに通じる激動の150年史 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "著名タレントであるジョン･カビラさんの父親である川平朝清さんは､沖縄､台湾､日本､アメリカを舞台に､激動の時代を生き抜きました。川平家の歴史は一家族の物語であると同時に､近現代の国際社会と沖縄を映し…",
+      "published": "2026/08/02 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/a/1200w/img_7a49e6dfcf01b3a91ce2344070230cd0333926.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "世界的なクルマの祭典｢グッドウッド･フェスティバル･オブ･スピード｣を知っているか…次世代アルピーヌA110に注目 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953015?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "世界的に注目度の高い､イギリスのモータースポーツイベント｢グッドウッド･フェスティバル･オブ･スピード｣。歴史的な名車たち､そして会場の熱気と共に､次世代アルピーヌA110の片鱗をお届けします。",
-      "published": "2026/08/01 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/8/1200w/img_3817ec9a3f8f539579e23abad7a2042e216606.jpg?nextgen=false"
+      "title": "フォルクスワーゲンはいつから｢高級車｣になったのか？　データで追う購入者10年間の構造変化 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952637?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて｢手の届くドイツ車｣として人気を誇ったフォルクスワーゲン（VW）。しかし､今や平均車両価格は500万円超､購入者の約半数は60代以上､SUVが主流となりました。VWはなぜこれほど変貌し､どんな…",
+      "published": "2026/08/02 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/0/1200w/img_a00ab3d9cd9dd9495cea60aa82b84f34123385.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ソニーGが27年3月期の営業利益計画を大幅に上方修正－ゲーム､半導体､音楽分野が好調 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953349?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ソニーグループが今期の営業利益見通しを大幅に上方修正。ゲームや半導体事業の好調､円安や関税還付が追い風となり､市場予想も上回りました。",
-      "published": "2026/08/01 12:13",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/4/1200w/img_94d4ae46e056330f89a89738b87ee73d320304.jpg?nextgen=false"
+      "title": "打倒秀吉！で家康とせっかく組んだのに…信長の次男《織田信雄》が秀吉と和睦した\"なるほどな理由\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953003?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢秀吉を天下人にした男､豊臣秀長の実像｣の連載第32回は織田信長の次男･織田信雄について真山知幸氏が解説します。",
+      "published": "2026/08/02 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/8/1200w/img_a8cb524ee0079c094e398d5d72d29850923263.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈熊本地震〉自動車のサプライチェーンに大きな打撃､工場の稼働停止続く…半導体は続々再開 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953361?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "熊本地震が半導体産業と自動車産業に大きな影響を与え､各メーカーは復旧と稼働再開に奔走しています。",
-      "published": "2026/08/01 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/9/1200w/img_29ccd604579007169e7530196478cbc3753434.jpg?nextgen=false"
+      "title": "【｢バランスがいい人｣は危険？】｢社会に出て活躍する｣東大生と｢そうでない｣東大生の決定的な差 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952522?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東大生と聞けば､社会でも有能に活躍している印象を持つ人が多いはず。しかし実際には､優秀なはずの彼らの中にも活躍できない人がいるのはなぜなのでしょうか。知識やバランスの良さが､逆に足かせとなる現象の本…",
+      "published": "2026/08/02 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/9/1200w/img_a9a877534a3703aa1a71a8bc0c965984318641.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢未経験のまま歳を取る｣若手の危機　放置でも丸投げでもない､｢部下に任せることができる上司｣になる方法 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952377?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢自分がやった方が早い｣とつい抱えてしまう上司。その善意が実は部下の成長機会の7割を奪い､組織力を静かに損ねているかもしれません。",
-      "published": "2026/08/01 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/a/1200w/img_7ad524745956063d8b6d1309f5f73a5d270095.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "｢もっと丁寧にやって｣｢ちゃんと確認して｣では若手社員は混乱するだけ…｢部下が育たない上司｣の3つの\"盲点\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951921?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢部下が指示待ちで動かない｣｢丁寧にやってと伝えてもミスが減らない｣――そんな悩みは､指示や伝え方が曖昧なことが原因かもしれません。",
-      "published": "2026/08/01 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200w/img_fe90f967c5137491b1a53874cc61d9b2233941.jpg?nextgen=false"
+      "title": "女性は｢決意するまで｣男性は｢別居･離婚が現実になってから｣　夫婦問題で浮き彫りになる男女の\"温度差\"《メンタルケア男性編》 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953193?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "家族との関係が｢つかれる存在｣になり､別居や離婚まで発展してしまうこともある現代社会。今回は､夫婦問題で苦しいときの男性側のメンタルケアに焦点を当て､実際の体験談や効果的な対処法を紹介します。",
+      "published": "2026/08/02 08:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/2/1200w/img_f201fe405f3ed227ebd520ca8b4b9d41142854.jpg?nextgen=false"
     }
   ]
 }
