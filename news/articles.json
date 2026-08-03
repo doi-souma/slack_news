@@ -1,59 +1,68 @@
 {
-  "generated_at": "2026-08-02T03:52:41.700155+00:00",
+  "generated_at": "2026-08-03T03:54:31.831094+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に　Chrome統合は米国から",
-      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
-      "summary": "Googleは、パーソナルAIエージェント「Gemini Spark」の提供対象を日本を含む160カ国以上に拡大した。PC停止時やスマホのロック時もGoogleのクラウド基盤上で動作し、トリガーに応じてタスクを処理する。さらに、ログイン情報や保存されたパスワードを活用してWeb上の各種手続きを代行するChrome統合機能も発表された。",
-      "published": "2026/08/02 10:12",
+      "title": "光学25倍ズームのソニー「RX10 V」はもう“レンズ一体型α”　1台で何でも撮れそうな万能感に浸れるぞ",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000290/",
+      "summary": "ソニーの「RX10 V」を使いって、これはもう“レンズ一体型α”だ、と思った。技術の進化と最新の画像処理エンジンを得て、24-600mm相当という超高倍率ズームレンズを持つ、その気になれば何でも撮れるカメラに進化した。",
+      "published": "2026/08/03 12:04",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "OpenAI、アクティブユーザー10億人超に　導入企業は200万社超",
-      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
-      "summary": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投資の循環を強調した。",
-      "published": "2026/08/02 07:21",
+      "title": "エルヴィン団長「とりあえず再起動しろ！」──NTT東日本×「進撃の巨人」の“情シスあるある”広告が話題",
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000344/",
+      "summary": "NTT東日本が漫画「進撃の巨人」とコラボしたセキュリティリスク診断の広告が、Xで注目を集めている。作品の切迫感あふれる場面を、企業の情報システム担当者が直面しがちな「あるある」に重ねた内容で、「コマの使い方がうますぎる」「本職これすぎて笑った」などの声が上がっている。",
+      "published": "2026/08/03 11:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "新作「レイダース」で初めて「スプラトゥーン」に触れたマンガ家がその面白さに驚愕！　と同時に絶望した理由",
-      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000343/",
-      "summary": "23日にNintendo Switch 2用ソフト「スプラトゥーン レイダース」が発売されました。今作は1人でも遊べる、ステージクリア型のアクションゲーム。PvPが苦手なボクもこれなら楽しめそうです。",
-      "published": "2026/08/02 07:15",
+      "title": "WAFを89％すり抜ける事例も──AIが休みなく仕掛けるWeb攻撃、予防策はあるか",
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000287/",
+      "summary": "フロンティアAIの登場で一変したWeb攻撃。その傾向や対策、落とし穴をAkamai Technologiesの中西一博氏が解説。",
+      "published": "2026/08/03 07:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ソニーの熊本工場、8月中旬には「地震前の稼働水準」に　早期復旧の理由を決算会見で明かす",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000341/",
-      "summary": "ソニーグループの陶琳CFOは7月31日の決算説明会で、令和8年熊本地震で生産を止めた熊本の半導体工場が8月中旬に地震発生前の稼働水準へ戻る見通しを示した。2016年の熊本地震では回復まで3カ月余りかかっており、早期復旧の理由を「被害の程度が違う」と説明し",
-      "published": "2026/08/01 20:53",
+      "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
+      "summary": "OpenAIは、次期主力モデル「Astra」の社内版により、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表した。「Astra」の名称公表は初とみられる。計算コストは「Sol」換算で約2000ドルに抑えられ、証明支援系「Lean」による形式証明もGitHubで公開。高度な数学研究への応用可能性を示した。",
+      "published": "2026/08/03 06:56",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "セブン＆アイ、共通会員IDのPayPay統合を正式発表　ソフトバンクや三井住友カードなどが計3000億円出資",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000345/",
-      "summary": "セブン＆アイ・ホールディングスとセブン-イレブン・ジャパンは7月31日、ソフトバンク、PayPay、LINEヤフー、三井住友カードとの戦略的パートナーシップを発表した。セブン＆アイの共通会員ID「7iD」を「PayPay ID」に統合する。また、ソフトバンクや三井住友カードなどと資本業務提携も結び、各社から1000億円ずつ、総額3000億円の出資を受ける。",
-      "published": "2026/07/31 22:22",
+      "title": "脳の遺伝子編集治療で6歳女児死亡　1年以上公表されず　約1億3000万円は両親が負担　中国",
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000300/",
+      "summary": "",
+      "published": "2026/08/03 06:55",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "FIFA、外部投資導入の計画撤回　サッカー界の強い反発受け",
-      "url": "https://www.bbc.com/japanese/articles/cq6d803gnqjo?at_medium=RSS&at_campaign=rss",
-      "summary": "国際サッカー連盟（FIFA）のジャンニ・インファンティーノ会長は1日、FIFA主催の主要大会について株式を売却するという外部資金導入計画について、サッカー界の強い反対を受け、計画を撤回したと述べた。",
-      "published": "2026/08/01 12:32",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg"
+      "title": "トランプ氏、イランとの新たな交渉は3日からと",
+      "url": "https://www.bbc.com/japanese/articles/c75gq9q20k1o?at_medium=RSS&at_campaign=rss",
+      "summary": "トランプ大統領は2日、大統領専用機内で記者団に対し、イランとの新しい協議は3日に始まると述べた。これに先立ちトランプ氏は、イランへの大規模な攻撃を脅した後、1日にはイランとの間で合意が「速やか」に成立することを条件に、計画していたイランへの攻撃を中止したと表明していた。サウジアラビアの国営通信社SPAは同日、同国のムハンマド・ビン・サルマン皇太子が地域情勢の緊張緩和のため、トランプ大統領と電話会談",
+      "published": "2026/08/03 12:14",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0864/live/2baf86c0-8ee3-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ウクライナ、ロシアの主要製油所と飛行場を攻撃　8人死亡とロシア",
+      "url": "https://www.bbc.com/japanese/articles/c1d1qyz61pvo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナは2日、ロシア領深部への夜間攻撃を実施したと発表した。主要な製油所と、ロシアの戦略航空部隊が拠点とする飛行場を攻撃したという。",
+      "published": "2026/08/03 11:19",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f50c/live/991bec40-8e83-11f1-9469-c37ab1100afc.png"
     },
     {
       "category": "政治・国際情勢",
@@ -76,65 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イスラエル高官、イスラエル軍のガザ撤退にはハマスの「真の武装解除」が条件と",
-      "url": "https://www.bbc.com/japanese/articles/cd9wjee1q82o?at_medium=RSS&at_campaign=rss",
-      "summary": "イスラエル政府の高官は7月31日、パレスチナ・ガザ地区の武装組織ハマスが「真の武装解除」をしない限り、イスラエル部隊はガザから撤退しないと述べた。ガザをめぐってはドナルド・トランプ米大統領が前日に、自分の主導でガザでの和平計画を遂行する「平和評議会」が、ガザのハマスおよびその他の武装組織の「完全武装解除」に関する合意に達したとしていた。",
-      "published": "2026/08/01 11:46",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c578/live/0117af90-8d22-11f1-8806-e38839242051.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ポーランドに墜落したミサイル、「おそらくロシアのもの」と首相",
-      "url": "https://www.bbc.com/japanese/articles/cx2kp4ng0d4o?at_medium=RSS&at_campaign=rss",
-      "summary": "ポーランドのドナルド・トゥスク首相は30、同日未明に同国東部の畑に墜落した物体は「おそらく」ロシアの巡航ミサイルであり、爆弾が搭載されていたと述べた。2022年2月にロシアがウクライナへの全面侵攻を開始して以降、ポーランドにはたびたび、ドローンやミサイルが落下している。",
-      "published": "2026/07/31 14:29",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58b9/live/31742360-8c16-11f1-b2ab-0dd01740f9f6.jpg"
+      "title": "FIFA、外部投資導入の計画撤回　サッカー界の強い反発受け",
+      "url": "https://www.bbc.com/japanese/articles/cq6d803gnqjo?at_medium=RSS&at_campaign=rss",
+      "summary": "国際サッカー連盟（FIFA）のジャンニ・インファンティーノ会長は1日、FIFA主催の主要大会について株式を売却するという外部資金導入計画について、サッカー界の強い反対を受け、計画を撤回したと述べた。",
+      "published": "2026/08/01 12:32",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ジョン･カビラ父子が描く｢沖縄｣の原点､台湾で育った父と語る川平家と日本･沖縄･アメリカに通じる激動の150年史 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "著名タレントであるジョン･カビラさんの父親である川平朝清さんは､沖縄､台湾､日本､アメリカを舞台に､激動の時代を生き抜きました。川平家の歴史は一家族の物語であると同時に､近現代の国際社会と沖縄を映し…",
-      "published": "2026/08/02 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/a/1200w/img_7a49e6dfcf01b3a91ce2344070230cd0333926.jpg?nextgen=false"
+      "title": "｢亡国の消費税減税｣に身内からも異論噴出､\"目先の支持率欲しさ\"で減税にひた走る高市政権の危うすぎる賭け | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953504?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "高市首相が打ち出した食料品消費税の一時的な大幅引き下げ。しかし､財源や物価への影響など課題も山積しています。はたして､この減税は国民に本当に恩恵をもたらすのでしょうか。",
+      "published": "2026/08/03 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/5/1200w/img_d51c375771975c37976da686f3f8cc29308360.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "フォルクスワーゲンはいつから｢高級車｣になったのか？　データで追う購入者10年間の構造変化 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952637?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "かつて｢手の届くドイツ車｣として人気を誇ったフォルクスワーゲン（VW）。しかし､今や平均車両価格は500万円超､購入者の約半数は60代以上､SUVが主流となりました。VWはなぜこれほど変貌し､どんな…",
-      "published": "2026/08/02 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/0/1200w/img_a00ab3d9cd9dd9495cea60aa82b84f34123385.jpg?nextgen=false"
+      "title": "熊本地震｢現地入り｣批判､藤井貴彦アナだけがなぜ…好感度が負債に変わる時､｢知られざる熊本愛｣も免罪符にならなかった | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953471?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年の熊本地震がもたらした大きな被害とともに､現地報道の是非がSNSで激しく議論されています。なかでも､｢寄り添うキャスター｣として評価されてきた藤井貴彦アナの現地入りが批判を集める理由とは。…",
+      "published": "2026/08/03 12:17",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/1/1200w/img_b1e2e2b29c824af3e00ca0f7f03760b5182076.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "打倒秀吉！で家康とせっかく組んだのに…信長の次男《織田信雄》が秀吉と和睦した\"なるほどな理由\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953003?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢秀吉を天下人にした男､豊臣秀長の実像｣の連載第32回は織田信長の次男･織田信雄について真山知幸氏が解説します。",
-      "published": "2026/08/02 09:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/8/1200w/img_a8cb524ee0079c094e398d5d72d29850923263.jpg?nextgen=false"
+      "title": "言葉だけでは35％しか伝わらない…デキるビジネスパーソンが密かに駆使する\"非言語\"の力 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951245?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "リーダーに求められる\"6つのC\"の構成や感情･視覚･比喩･音･所作･オノマトペの7つの工夫､対話による共感の深め方を詳しく解説します。",
+      "published": "2026/08/03 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/3/1200w/img_834a8c12e47ca269057f6412449947b7217884.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【｢バランスがいい人｣は危険？】｢社会に出て活躍する｣東大生と｢そうでない｣東大生の決定的な差 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952522?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東大生と聞けば､社会でも有能に活躍している印象を持つ人が多いはず。しかし実際には､優秀なはずの彼らの中にも活躍できない人がいるのはなぜなのでしょうか。知識やバランスの良さが､逆に足かせとなる現象の本…",
-      "published": "2026/08/02 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/9/1200w/img_a9a877534a3703aa1a71a8bc0c965984318641.jpg?nextgen=false"
+      "title": "日米財務相が協調介入実施を明らかに､今後の再実施も示唆…ドル安円高が進み一時155円前半を付ける | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953534?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "3日の東京市場は日米協調介入の発表で為替･株式･債券すべてに大きな変動が走りました。",
+      "published": "2026/08/03 11:45",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/0/1200w/img_30f6c286da86e0740558d4e8caa97a70154531.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "女性は｢決意するまで｣男性は｢別居･離婚が現実になってから｣　夫婦問題で浮き彫りになる男女の\"温度差\"《メンタルケア男性編》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953193?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "家族との関係が｢つかれる存在｣になり､別居や離婚まで発展してしまうこともある現代社会。今回は､夫婦問題で苦しいときの男性側のメンタルケアに焦点を当て､実際の体験談や効果的な対処法を紹介します。",
-      "published": "2026/08/02 08:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/2/1200w/img_f201fe405f3ed227ebd520ca8b4b9d41142854.jpg?nextgen=false"
+      "title": "ベッセント氏の投稿全文－｢さらなる協調介入への参加もためらわない｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953498?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ベッセント米財務長官が2日（日本時間3日）､日米の協調介入についてX（旧ツイッター）に投稿した文面は以下の通り。◇トランプ政権は､米国の信頼できる同盟国･パートナーのために成果を出している。経済安全…",
+      "published": "2026/08/03 11:40",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/0/1200w/img_209a8283ae243bf900ba6a7437061138326605.jpg?nextgen=false"
     }
   ]
 }
