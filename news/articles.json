@@ -1,50 +1,59 @@
 {
-  "generated_at": "2026-08-04T03:36:43.827403+00:00",
+  "generated_at": "2026-08-05T03:32:30.667551+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Discordの「オンラインになったとき、フレンドに通知する」機能が不評　「かまちょすぎる」「勝手に伝えないで」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000369/",
-      "summary": "ゲーマー向けチャットツール「Discord」が備える「自分がオンラインになったとき、フレンドに通知する」機能がXで不評だ。Xでは「用もないのに勝手にかまちょ（かまってちょうだいの略語）しないでほしい」「すでに通知があったら申し訳ない」など“余計なお世話”として受け止められている。",
-      "published": "2026/08/04 11:55",
+      "title": "英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000391/",
+      "summary": "英AI研究所のAISIは、AIエージェントの評価中に、実在の人物や組織に対してAIが継続的かつ不許可の行動を取るインシデントを検知したと発表した。GitHub上で偽アカウントを作成して保守担当者を欺くサプライチェーン攻撃を試みた事例などが含まれる。攻撃はいずれも阻止され実害はなく、リアルタイム監視の導入などの再発防止策を進めるとしている。",
+      "published": "2026/08/05 11:39",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「圧縮効果」は望遠レンズによるものじゃない　その発動条件とは？",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000367/",
-      "summary": "2カ月ほど前だったか、とあるSNSで「圧縮効果は望遠レンズによるものじゃない」という書き込みがあり、それに対していろんな意見が飛び交って混沌としていた。確かに「望遠レンズ」によるものじゃないのである。",
-      "published": "2026/08/04 11:34",
+      "title": "Apple、大量購入品の返品に「15％の手数料」　販売条件に明記　“転売対策”か",
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000359/",
+      "summary": "米Appleは、日本のApple Storeの販売条件に、大量購入した製品などの返品について「不正な目的による返品の恐れがある」と判断した場合、商品1点につき15％の返品手数料を課すとの条項を追加したとみられる。いつから記載しているかなどはAppleに問い合わせ中だ。",
+      "published": "2026/08/05 11:08",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "EU、AIの透明性義務の適用を開始　生成コンテンツにラベルとマーク義務、違反に最大1500万ユーロ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000366/",
-      "summary": "EUの欧州委員会はAI規制法「EU AI Act」の第50条に基づく透明性ルールの適用を開始した。生成AIやディープフェイク等を扱う事業者に対し、AIとの対話の明示やコンテンツへのラベル・機械可読マークの付与を義務付ける。違反企業には最大1500万ユーロまたは売上高の3％の制裁金が科される可能性がある。",
-      "published": "2026/08/04 08:30",
+      "title": "SpaceX、IPO後初の決算で売上高92％増　AI設備投資158億ドルで「2030年には年商1兆ドルに」とマスクCEO",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000388/",
+      "summary": "SpaceXはIPO後初となる2026年第2四半期決算を発表した。売上高は前年同期比92％増の78億1400万ドル、純損失は5億4100万ドルに改善した。xAIとの合併を経たAI事業の売上高が247％増と急成長を牽引。設備投資はAIインフラを中心に183億6900万ドルへ拡大し、将来の売上予測も上方修正した。",
+      "published": "2026/08/05 09:08",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "立ち話する2人の間には「見えない壁」がある　米研究者が4911人を観察、判明した意外な崩し方",
-      "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000352/",
-      "summary": "米カリフォルニア大学サンディエゴ校に所属する研究者らが発表した論文「Invisible walls: how pedestrians navigate around social interactions」は、歩行者が他者の会話などの社会的なやり取りを「見えない壁」として認識し、どのような行動をとるかを検証した研究報告だ。",
-      "published": "2026/08/04 07:00",
+      "title": "ゲオのレトロゲーム販売がみせた劇的な復活劇　店舗10分の1で売上1.4倍の秘密とは？",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000384/",
+      "summary": "ゲオはコロナ禍の2021年にレトロゲームの販売を止めた。再開したのは半年ほど前で、店舗数は21年以前の1割しかない。しかし全体の売上はむしろ増えたという。",
+      "published": "2026/08/05 08:31",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "実在女性の中学時代の体操着姿からAIわいせつ画像作成・投稿か　男逮捕、高校生書類送検",
-      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000365/",
-      "summary": "女性の写真を生成AIで加工したわいせつ画像をSNSに投稿したとして、警視庁などは、名誉毀損（きそん）と児童買春・ポルノ禁止法違反（公然陳列）の疑いで、兵庫県姫路市の会社員、井元健太容疑者（32）を逮捕した。また、画像の加工を依頼したとして、鹿児島県垂水市の高校3年の男子生徒（17）も同容疑で書類送検した。",
-      "published": "2026/08/03 20:08",
+      "title": "OpenAI、Appleの提訴に全面反論――「営業秘密は持っていないし、欲しくもない」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000387/",
+      "summary": "OpenAIは、Appleが提起した営業秘密の不正取得訴訟に対し、公式ブログで全面的に反論した。Apple側の誤連絡や連絡不備をメールのやり取りを添えて指摘し、営業秘密の所有や利用を強く否定。一方、Appleは被告らの証人尋問や端末の複製データの提出などを求める仮処分を申し立てており、双方の主張が対立している。",
+      "published": "2026/08/05 07:16",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ロシアが「人間狩り」攻撃、ドローンで野菜売りの男性を追い回し爆発　ゼレンスキー氏が動画公開",
+      "url": "https://www.bbc.com/japanese/articles/ckgekv0z0zeo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナのゼレンスキー大統領は4日、ウクライナ南部でドローンが男性を追い回す様子を捉えた映像をソーシャルメディアで公開した。民間人を標的にしたロシアによる「人間狩り」攻撃の一例だとしている。",
+      "published": "2026/08/05 12:11",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b14/live/522923f0-9074-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,83 +67,74 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロシアの混雑したビーチにウクライナのドローン攻撃、7人死亡40人負傷と当局",
+      "title": "ロシアの混雑したビーチにウクライナのドローン、7人死亡40人負傷と当局",
       "url": "https://www.bbc.com/japanese/articles/c8rn0gv4zego?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシア南部の観光客らで混み合うビーチで3日、ドローン攻撃があり、子ども3人を含む7人が殺害された。地元当局が発表した。",
+      "summary": "ロシア南部の観光客らで混み合うビーチで3日、ウクライナのドローンによって子ども3人を含む7人が殺害された。地元当局が発表した。",
       "published": "2026/08/04 11:06",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc13/live/ce219b70-8fa9-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、イランとの新たな交渉は3日からと",
-      "url": "https://www.bbc.com/japanese/articles/c75gq9q20k1o?at_medium=RSS&at_campaign=rss",
-      "summary": "トランプ大統領は2日、大統領専用機内で記者団に対し、イランとの新しい協議は3日に始まると述べた。これに先立ちトランプ氏は、イランへの大規模な攻撃を脅した後、1日にはイランとの間で合意が「速やか」に成立することを条件に、計画していたイランへの攻撃を中止したと表明していた。サウジアラビアの国営通信社SPAは同日、同国のムハンマド・ビン・サルマン皇太子が地域情勢の緊張緩和のため、トランプ大統領と電話会談",
-      "published": "2026/08/03 12:14",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0864/live/2baf86c0-8ee3-11f1-b2ab-0dd01740f9f6.jpg"
+      "title": "イラン、オマーンと協議中だがアメリカとは交渉していないと　トランプ氏の発言を否定",
+      "url": "https://www.bbc.com/japanese/articles/cjrv0nvwr03o?at_medium=RSS&at_campaign=rss",
+      "summary": "イランは3日、ホルムズ海峡での商業船舶の航行再開を可能にするため、一時的な航路の設定についてオマーンと「合意」に向けて交渉中だと発表した。ただ、アメリカとは協議する予定はないとし、前日のトランプ米大統領の主張を否定した。",
+      "published": "2026/08/04 13:20",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d360/live/bb60c530-8f6b-11f1-9cfc-0bfd2f6018a1.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】 スペインの移民危機が政治的嵐に　SNSにあおられ",
-      "url": "https://www.bbc.com/japanese/articles/c20jevke165o?at_medium=RSS&at_campaign=rss",
-      "summary": "スペインの飛び地セウタにモロッコから一気に数万人が押し寄せたことで、ヨーロッパの政治は揺さぶられ、移民というデリケートな問題をめぐる分裂が、改めてあらわになった。BBCのサラ・レインズフォード記者が解説する。",
-      "published": "2026/08/03 16:18",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/359d/live/54335150-8eff-11f1-9e0f-457e389ca260.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "円安是正のため日米が異例の協調介入",
-      "url": "https://www.bbc.com/japanese/articles/cqlxz1wqge4o?at_medium=RSS&at_campaign=rss",
-      "summary": "日本とアメリカの両政府は3日（日本時間）、円が40年ぶりの安値を更新するのを阻止するため、7月31日に共同で市場介入を行ったと発表した。日米の協調介入は2011年以来。片山さつき財務相は3日朝、米財務省と協調して7月31日に円買いの為替介入を実施したことを明らかにし、「我々は今後、更なる協調介入を実施することも躊躇（ちゅうちょ）しない」との談話を発表した。",
-      "published": "2026/08/03 13:08",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg"
+      "title": "アウンサンスーチー氏、2年半ぶりに外部と接触、健康状態は良好か　ミャンマー軍事政権が写真を公開",
+      "url": "https://www.bbc.com/japanese/articles/ce856zdz17zo?at_medium=RSS&at_campaign=rss",
+      "summary": "拘束されているミャンマーの民主化指導者アウンサンスーチー氏（81）が3日、国際赤十字委員会（ICRC）の代表団との面会を許可された。ミャンマー軍事政権が公開した会談の写真では、同氏は健康そうに見えた。アウンサンスーチー氏と外部との接触が確認されたのは、2年半前に息子に宛てた手紙以来、初めて。また、ミャンマー政府関係者以外と面会したことが確認されたのは約4年ぶりとなる。",
+      "published": "2026/08/04 13:03",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢高市ゴリ押し減税｣に自民党内から\"退陣待望論\"まで噴出？ ｢財源なき見切り発車｣が招く28年参院選への\"時限爆弾\" | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953671?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "物価高騰が続く中､高市首相が決断した食料品の消費税減税。しかし､自民党内からは財源不透明や制度設計への懸念が噴出しています。その背後には､2年後に控える参院選への思惑も絡んでいるようです。",
-      "published": "2026/08/04 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/9/1200w/img_e9a9a653ddda96a7ca94d848334d1f4c62265.jpg?nextgen=false"
+      "title": "｢そんなに怒ってないのに｣子どもが傷つく理由→親の｢ひと言｣と子どもの脳の間にある大きなズレ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952808?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢発達障害｣｢グレーゾーン｣といった言葉に不安を覚えつつ､子育ての違和感や悩みを抱える親御さんは少なくありません。親の何気ない一言が､実は子どもの脳にどう届いているのか――。そのすれ違いの正体と､親…",
+      "published": "2026/08/05 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/f/1200w/img_5f916f8b3ad29beabdc6ffa9182ac88e311310.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "イオンモール熊本爆発｢命より金を優先した｣｢施設側は死者ゼロだったのに｣イオンとテナントで明暗分けた危機管理の本質 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953665?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢イオンモール熊本｣で発生した爆発事故は､来訪客の全員避難とは対照的に､テナント従業員7人の犠牲を招きました。大災害のような有事に｢平時の判断｣を続ける危うさが浮き彫りになったといえます。",
-      "published": "2026/08/04 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/8/1200w/img_38e60c8abd7f60e9ad8094ef22b80326999552.jpg?nextgen=false"
+      "title": "｢地頭がいい子｣の親がしている\"小さな習慣\"｢伸びる子｣と｢伸び悩む子｣の家庭にある\"決定的な差\"は？ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951335?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東大合格者を多数輩出してきた市野瀬早織氏が注目するのは､文章の｢読み方スキル｣。この力は学力向上だけでなく､社会で活躍する土台にもなります。子どもの｢地頭｣を家庭でどう伸ばせるのか──その秘訣と実践…",
+      "published": "2026/08/05 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/d/1200w/img_9d43258fe403f3adfb3dce9612cce6d782960.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢AIは入れた｡でも売上は伸びない…｣｢組織も業績も良くならない…｣導入後に伸び悩む会社の\"よくある欠点\"は？ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951333?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢AIは入れた｡でも売上は伸びない…｣｢組織も業績も､全然良くならない…｣そんな企業が増えています。導入後に伸び悩む会社の\"よくある欠点\"を専門家が解説します",
-      "published": "2026/08/04 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/2/1200w/img_7224fe9a2d40e31ad50bdf8f4c90c48b261685.jpg?nextgen=false"
+      "title": "業務用洗剤のニイタカが目指す｢2035年に花王超え｣の実現性 カギを握るのは食品衛生コンサル | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953369?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "業務用洗剤大手のニイタカが､2035年にシェア首位を目指しています。どのようにして達成する計画なのでしょうか。",
+      "published": "2026/08/05 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/c/1200w/img_0c788bc6801999013c2aa5a762a53314103881.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢まさかおとぎ話じゃあるまいし…｣秘密のサインで人間に蜂蜜の場所を教える､アフリカの野生の小鳥の衝撃生態 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/945802?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "蜂蜜のありかを人間に教える小鳥がいる――そんなおとぎ話のような実話をご存知ですか。アフリカの小鳥と原住民との知られざる協力関係､そして進化が生み出した世にも不思議な共生の全貌に迫ります。",
-      "published": "2026/08/04 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/4/1200w/img_b42c17968c61059ddd14349e1bf9ebef396696.jpg?nextgen=false"
+      "title": "｢まだ軍隊式が残っている｣甲子園での選手入場､\"伝統を重んじるから変えない\"ではたしていいのか | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953041?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "甲子園でおこなわれる高校野球の全国大会。選手入場は､いまだに軍隊式行進のままです。歴史を振り返るとともに､続ける意味を考えます。",
+      "published": "2026/08/05 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/4/1200w/img_5437b64aab7b26497d98bbad6de86fe8693290.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "夫の口座で1億円超の株購入､インサイダー取引に手を染めた妻の末路…他人名義の売買でもすぐに特定される | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953351?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "株式市場の公正を守る｢市場の番人｣証券取引等監視委員会が､他人名義の口座を使った夫婦によるインサイダー取引を摘発。企業の情報管理の甘さや法改正の必要性が問われています。",
-      "published": "2026/08/04 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/d/1200w/img_8dba893db71811b35417e821478136e4159429.jpg?nextgen=false"
+      "title": "還暦後に世界22カ国へ…老後資金を｢思い出｣に変える､後悔しない\"人生後半\"お金の使い方 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952303?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "還暦を過ぎ､世界22カ国を巡る旅を実現した筆者。その背中を押したのは｢死ぬまでにお金を使い切る｣思想でした。老後資金への漠然とした不安や人生に残る\"後悔\"は､なぜ多くの人を資産の取り崩しから遠ざける…",
+      "published": "2026/08/05 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/d/1200w/img_dd33779ed528d8793c39aea511aa94e7896026.jpg?nextgen=false"
     }
   ]
 }
