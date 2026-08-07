@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-08-06T03:36:48.215337+00:00",
+  "generated_at": "2026-08-07T03:14:29.255484+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "日本の政府機関かたるフィッシング、3カ月で991％増　iPhoneユーザー標的に　ノートン調査",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000417/",
-      "summary": "ウイルス対策ソフト「ノートン」を展開する米Genとその日本法人ノートンライフロックが、4?6月に確認した日本の政府機関をかたるフィッシング詐欺が1418件に上り、1?3月比で991％増加していると発表した。",
-      "published": "2026/08/06 12:23",
+      "title": "味の素、AI・サーバ向け半導体基板材好調で1Q業績過去最高に　通期上方修正",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000437/",
+      "summary": "AIや高性能サーバ、ネットワーク機器に使われる高性能基板向けの絶縁材料「ABF」（味の素ビルドアップフィルム）が好調。",
+      "published": "2026/08/07 10:44",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "太陽誘電、上方修正　AIサーバ向け好調　純益290億円、前期の約2倍",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000416/",
-      "summary": "AIサーバ向けの大容量・高付加価値な積層セラミックコンデンサーなどが足下で好調。今後の需要増や円安などの影響も折り込んだ。",
-      "published": "2026/08/06 12:05",
+      "title": "「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように　ヒトの実証は初　Science系列誌掲載",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000426/",
+      "summary": "米ボストン小児病院などに所属する研究者らがScience Translational Medicineで発表した論文「Fecal microbiome transplant in food allergy in humans and mice identifies a role for bile acid metabolites in oral tolerance」は、糞便微生物叢移植（FMT）が",
+      "published": "2026/08/07 10:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「高学力＝ストレスに耐えられる」ではない　秀才が苦しむ一方、収入・満足度が高いのは……　医学生・医師1000人超を分析",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000402/",
-      "summary": "ポーランドのグダニスク医科大学に所属する研究者が発表した論文「Why academic selection fails to protect against physician burnout: a brief research report from a 25-year longitudinal programme」は、医学部での成績や心理的特性と、卒業後の燃え尽き症候群（バーンアウト）や将来の",
-      "published": "2026/08/06 12:00",
+      "title": "手術中の大地震、患者守る医療スタッフ……熊本総合病院の動画に反響　「プロの動き」「尊敬」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000438/",
+      "summary": "機器や椅子が飛び交う中で激しい揺れの中で、医療スタッフが必死に患者を守る姿がとらえられている。手術は無事終了したという。",
+      "published": "2026/08/07 09:46",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "任天堂、被災したSwitchなど無償修理　義援金5000万円も　熊本地震への支援策",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000415/",
-      "summary": "任天堂は8月6日、「令和8年熊本地震」で被災した同社製品の修理を2027年2月1日まで無償で対応すると発表した。日本赤十字社を通じた義援金5000万円の寄付も表明した。",
-      "published": "2026/08/06 11:59",
+      "title": "イーロン・マスク氏の「Terafab」、建設地決定　テキサス州グライムズ郡に168億ドル投資",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000436/",
+      "summary": "イーロン・マスク氏率いるSpaceXとTeslaは、次世代半導体工場「Terafab」をテキサス州グライムズ郡に建設すると発表した。初期投資額は約168億ドルで、ロジック、メモリの製造やパッケージングを一体化する。OptimusやCybercab向けエッジチップ、宇宙データセンター用チップを生産し、自社の莫大な計算資源需要に対応する。",
+      "published": "2026/08/07 07:37",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ローソン、「鍋さばきロボ」導入拡大　やきそば・チャーハンなどを高火力でスピード調理",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000414/",
-      "summary": "ローソンは、300度超の高火力で炒め物を自動調理する「I-Robo 2」を首都圏3店に追加導入する。チャーハンや野菜炒めに加え焼きそばにも対応し、計13品を約1分半?2分半で提供する。",
-      "published": "2026/08/06 11:57",
+      "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
+      "summary": "OpenAIはChatGPTのデフォルトモデル変更を発表した。有料版には事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」を導入し、思考時間を選択できるスライダーを追加。無料版および「ChatGPT Go」には「GPT-5.6 Luna」を導入し、テキストチャットを無制限化するとともに推論を促す「Think」ボタンを提供する。",
+      "published": "2026/08/07 06:32",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "迎撃ミサイル不足で人命救えず……キーウ攻撃で見えたウクライナの苦境",
+      "url": "https://www.bbc.com/japanese/articles/cvgv8k3llmko?at_medium=RSS&at_campaign=rss",
+      "summary": "ミサイル迎撃システムがなければ、ウクライナの空は、ロシアの攻撃に対して完全に無防備になる。ウクライナのゼレンスキー大統領は5日、迎撃ミサイルがあれば「人命を救えたはずだ」と述べ、支援国に供給を呼びかけた。",
+      "published": "2026/08/06 17:53",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b7a/live/1566c2a0-9160-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イラン、ホルムズ海峡での新航路設定でオマーンと合意　調整の「最終段階」にあると",
+      "url": "https://www.bbc.com/japanese/articles/cglj665533zo?at_medium=RSS&at_campaign=rss",
+      "summary": "イランは5日、ホルムズ海峡を通過する船舶の航路について、オマーンと合意に達したと発表した。イラン外務省のバガイ報道官は、合意は「最終段階」にあると述べたが、それ以上の詳細は明らかにしなかった。",
+      "published": "2026/08/06 13:20",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ米政権、「解放の日」関税1000億ドルを企業に還付",
+      "url": "https://www.bbc.com/japanese/articles/ce85qq4v075o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ政権は、昨年に導入した「解放の日」関税で徴収した関税のうち1000億ドル（約15兆7000億円）を、これまでに税関当局を通じて企業に還付した。当局が4日に提出した裁判関連の文書で明らかになった。この関税については、連邦最高裁判所が今年2月、大部分を無効とする判断を示していた。",
+      "published": "2026/08/06 12:50",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15b1/live/c8099ce0-90f0-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米ミシガン州の民主党予備選、左派の政界の異端が勝利　党内の対立あらわに",
+      "url": "https://www.bbc.com/japanese/articles/clyxdd5egy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの11月の中間選挙に向け、中西部ミシガン州で4日、連邦上院選の民主党予備選があり、左派で政界の異端とされるアブドゥル・エル＝サイード氏（41）の勝利が5日までに確実となった。同党の今後の方向性をめぐり、党内で激しい対立があることが浮き彫りになった。",
+      "published": "2026/08/06 16:11",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8165/live/eb4b58d0-90da-11f1-9bd2-e326e95c9722.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ロシアの攻撃で少なくとも17人死亡、迎撃ミサイルあれば「救えたはず」とゼレンスキー氏",
-      "url": "https://www.bbc.com/japanese/articles/c0qv5z4w57no?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナの首都キーウやその周辺で5日未明、ロシアの弾道ミサイルとドローンによる攻撃があり、少なくとも17人が殺害された。ウクライナのゼレンスキー大統領は、パートナー国からの弾道ミサイル迎撃システムの受領の遅れが「恐ろしい犠牲と破壊」につながっていると述べた。",
-      "published": "2026/08/05 17:36",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0786/live/81ac7650-909b-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ロシアが「人間狩り」攻撃、ドローンで野菜売りの男性を追い回し爆発　ゼレンスキー氏が動画公開",
-      "url": "https://www.bbc.com/japanese/articles/ckgekv0z0zeo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのゼレンスキー大統領は4日、ウクライナ南部でドローンが男性を追い回す様子を捉えた映像をソーシャルメディアで公開した。民間人を標的にしたロシアによる「人間狩り」攻撃の一例だとしている。",
-      "published": "2026/08/05 12:11",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b14/live/522923f0-9074-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "EU、セウタ移民危機受け内相会合　スペインの「迅速な対応」を称賛",
-      "url": "https://www.bbc.com/japanese/articles/c3w09gndep2o?at_medium=RSS&at_campaign=rss",
-      "summary": "欧州連合（EU）は4日、アフリカ北端にあるスペインの飛び地領土セウタでの移民危機を受け、加盟国内相会議を開催し、この危機に対するスペインの「迅速な対応」を称賛した。スペインによると、約7万2000人の移民がセウタに到着したが、その後、推定7万人をモロッコに送還したという。",
-      "published": "2026/08/05 13:51",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ウクライナ、ロシア通販大手の倉庫をさらに攻撃　モスクワ近郊で5人死亡",
-      "url": "https://www.bbc.com/japanese/articles/c4g37gmj6v9o?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアで3日夜から翌朝にかけ、同国最大のオンライン小売業者ワイルドベリーズの倉庫2カ所がウクライナの攻撃を受けた。また、同社と関連があるとみられるモスクワ近郊の別の施設も被害を受けた。ウクライナは最近、「ロシア版アマゾン」と呼ばれるワイルドベリーズの施設を狙った攻撃を続けている。",
-      "published": "2026/08/05 16:07",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad4f/live/138d6250-8fed-11f1-a10e-47119dd4425c.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢田舎への移住｣や｢会社を辞めて海外留学｣エイヤーと思い切る前に試すべき､自分の\"無意識の本音\"を確認する方法 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952353?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢うまくいかないのはなぜ？｣―その陰には､意外な\"メンタルノイズ\"が潜んでいるかもしれません。本記事では､潜在意識にある思い込みや心のブレーキの正体を探り､自分でも気づける画期的な｢裏表思考法｣の手…",
+      "published": "2026/08/07 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/9/1200w/img_598c67fbed70a992e094de1df688e2cc344263.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢早期化で秋より先に飽きがくる｣｢AIで自己の強みも生成中｣…《就活川柳･短歌》から読み解く\"学生のホンネ\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953081?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2027年卒の｢就活川柳･短歌｣に映し出された現代学生のリアルな葛藤とは？審査員から高評価を得た作品を紹介します。",
-      "published": "2026/08/06 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/f/1200w/img_7fc9088a31d53eeba4ad1db913c2963b74482.jpg?nextgen=false"
+      "title": "なぜ｢わかりやすい動画教材｣を見ても成績が伸びないのか…元海上自衛隊の数学教官が明かす｢わかったつもり｣の罠 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953402?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢なぜ勉強しても成果がでないのか？｣という悩みに直面したことはありませんか。エビデンスに基づく勉強法や動画学習は効果的だと思われがちですが､実は落とし穴も潜んでいます。本当に結果を出す勉強法とは何か…",
+      "published": "2026/08/07 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/3/1200w/img_83ce55f9bf2e57753984dbc2ec8f2ee8154871.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《夏休みの自由研究や思い出づくりに》普通のアイスが｢のび〜るアイス｣に変身､混ぜるのは｢意外なもの｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953580?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "お菓子作りの中で見られる色や形、味わいの変化は、大人にとっても楽しいものです。そこで、子どもたちが料理のプロセスに隠れた「科学のふしぎ」を体験し、「理系脳（科学的に考える力）」を育んでもらえるような…",
-      "published": "2026/08/06 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/0/1200w/img_b02af37282b65a39a11c804c839d047d385898.jpg?nextgen=false"
+      "title": "ダイアン津田が初主演｢タイムトラベルダディ｣､津田らしさ全開を引き立たせる\"脚本と演出の妙\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953777?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ダイアン･津田篤宏が主演を務める新ドラマ『タイムトラベルダディ』。津田の魅力を最大限引き立たせる､脚本と演出とは？",
+      "published": "2026/08/07 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/8/1200w/img_48e1a7bd822debaf687a91094ab7dcf3262360.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "かつてないほど便利で快適な生活を送る現代人は､なぜこれほどまでに不健康で不幸で､｢生きる実感｣を失ったのか | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/943738?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "便利で快適な現代生活。しかし私たちは本当に幸せで健康なのでしょうか？　祖先が日常的に向き合った｢不快さ｣や｢不便さ｣が､実は人生を豊かにしていたとする新たな視点から､現代人の心身の課題を掘り下げます…",
-      "published": "2026/08/06 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/8/1200w/img_686bee21b573d6fb9f051479f3f85ba3251180.jpg?nextgen=false"
+      "title": "｢早稲田大学に入る方法｣入試の専門家が語る､｢担任に無理と言われた｣は諦める理由にならないワケ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952826?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大学入試の多様化が進む今､従来の偏差値や進路指導の言葉だけに縛られるのは危険です。先生の一言で夢を諦めてしまう前に､自分や家族で入試制度を調べ直す重要性を解説します。",
+      "published": "2026/08/07 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/9/1200w/img_896e60f2dae1f27ff6df31a0f79141eb456994.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "記録的猛暑が続く欧州…イタリア人が夏を乗り切る｢切って盛るだけ｣火を使わない\"大人なレシピ\"　日本の夏にもおすすめ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952970?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "記録的な猛暑が続くヨーロッパ。冷房設備の少ないイタリアでは､火を使わない簡単かつ本格的な伝統料理が夏の食卓を彩ります。今回は､暑さの中で健康にも環境にも優しい\"切るだけ\"イタリアンレシピをご紹介しま…",
-      "published": "2026/08/06 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/2/1200w/img_f24d3428caa1d287f67164629f643ba4212567.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "女性の労働力率は北欧並みも｢低賃金依存｣の限界　団塊世代の完全引退で､企業が迫られる\"最後の選択\" | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952902?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本の失業率は市場での注目度こそ米国に及びませんが､経済政策や社会構造に深く影響する重要な指標です。少子高齢化が進む中､女性やシニア層の労働参加は限界を迎えつつあります。",
-      "published": "2026/08/06 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/5/1200w/img_f568a372e5c1975281142b1eceb3a4ac282653.jpg?nextgen=false"
+      "title": "｢映画ちいかわ｣3日で22億円超えの大ヒット､\"特殊すぎるマスコットキャラ\"がもてはやされる理由 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953717?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "公開3日で興行収入22億円を突破した映画『ちいかわ』が､なぜここまで多くの人々を魅了するのでしょうか。かわいいマスコットキャラの一面だけでなく､童話的な不穏さや大人も惹きつける複雑な世界観が光ります…",
+      "published": "2026/08/07 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/3/1200w/img_031bd67572cad6eb39b3ac566acecfcd321221.jpg?nextgen=false"
     }
   ]
 }
