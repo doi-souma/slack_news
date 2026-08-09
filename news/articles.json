@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-08T02:21:05.246784+00:00",
+  "generated_at": "2026-08-09T02:28:30.997674+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000464/",
+      "summary": "Xは「クリエイター収益配分プログラム」を終了し、新制度「Original Content Rewards Program」への移行を発表した。無断転載やインプレゾンビへの対策として自作コンテンツを重視し、有料会員の有効インプレッションに応じて報酬を支払う。既存制度からの申請は9月より開始される。",
+      "published": "2026/08/09 08:20",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+      "summary": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
+      "published": "2026/08/09 07:16",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "告知は前日、返金なし──ソシャゲ「文マヨ」サ終の顛末とマンガ家を驚かせたファンの嘆きとは？",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000457/",
+      "summary": "スマートフォンゲーム「文豪ストレイドッグス迷ヰ犬怪奇譚」がサービスを終了しました。告知されたのは、なんと前日の7月30日。SNS上では様々な意見が飛び交っていますが、その中にちょっと印象的なポストがありました。",
+      "published": "2026/08/09 07:15",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -20,121 +47,94 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "OpenAI、次期モデル「Astra」の一部開発を停止　「Critical」級サイバー能力の可能性否定できず",
-      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
-      "summary": "OpenAIは、次期主力モデル「Astra」のサイバー能力が自社の安全指針における最上位「Critical」に達している可能性を発表した。要件を満たさない一部活動を停止し、リアルタイム監視や思考過程の評価など管理を強化する。能力を抑制するのではなく、政府機関や外部組織と協力して検証と安全策の提供を進める方針だ。",
-      "published": "2026/08/08 07:11",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "「ゲーム運営の修羅場過ぎる」　コロコロコミック系漫画サイトの新作が話題　Gitツリー見てガチャ不具合の犯人探し",
-      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000458/",
-      "summary": "小学館の漫画配信サイト「週刊コロコロコミック」に掲載されている新作漫画「まだサ終しないんですか？」が、IT関係者を中心にXで話題だ。ソーシャルゲーム開発の現場をテーマにした作品だが、バージョン管理ツールの履歴を見て不具合の犯人探しをする描写などが「修羅場すぎる」と注目を浴びている。",
-      "published": "2026/08/08 07:00",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "シャープ、通期純利益見通し170億円下方修正　円安など影響　AIサーバは9月に参入",
-      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000455/",
-      "summary": "シャープは7日、2027年3月期の連結純利益が前期比47.3％減の250億円になる見通しだと発表した。期初予想から170億円下方修正した。樹脂・燃料の価格上昇や円安が収益を圧迫する。営業利益は190億円引き下げて300億円。売上高は1兆7700億円に据え置いた。",
-      "published": "2026/08/07 19:34",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "サウジアラビア、トルコ、パキスタンが防衛協定に署名",
+      "url": "https://www.bbc.com/japanese/articles/clyxm2p2k35o?at_medium=RSS&at_campaign=rss",
+      "summary": "サウジアラビア、トルコ、パキスタンは7日、3カ国間の共同防衛協定に署名し、3カ国のうち1カ国への攻撃は3カ国すべてへの攻撃とみなすと表明した。イランはこれに強く反発している。",
+      "published": "2026/08/08 13:55",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、アメリカの兵器不足を否定　情報「漏えい者」を「追い詰める」と宣言",
-      "url": "https://www.bbc.com/japanese/articles/c86nvwgz8zno?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカとイランとの戦争が6カ月目に入り、複数メディアは、アメリカの弾薬が枯渇していると報じている。ドナルド・トランプ米大統領は6日、こうした報道を否定したうえで、情報を漏えいした疑いのある者に「長期の禁錮刑」を科すよう求めると誓った。",
-      "published": "2026/08/07 13:57",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg"
+      "title": "ホワイトハウスの「宴会場」建設計画、控訴裁も差し止め　トランプ氏は最高裁へ上告方針",
+      "url": "https://www.bbc.com/japanese/articles/c4gw0y236e5o?at_medium=RSS&at_campaign=rss",
+      "summary": "米ホワイトハウスに巨大な「ボールルーム（大宴会場）」を建設するという、トランプ大統領による総工費4億ドル（約630億円）の計画について、アメリカの連邦控訴裁判所は7日、計画の差し止めを命じた。この判断は、物議を醸しているトランプ氏の計画にとって新たな打撃となる。トランプ氏は最高裁判所へ上告する意向を示している。",
+      "published": "2026/08/08 14:05",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/027a/live/4b4f7dd0-9291-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "タイ・バンコク近郊の学校で銃撃、教員5人死亡と当局　容疑者の男子生徒は自宅で祖父母も殺害か",
-      "url": "https://www.bbc.com/japanese/articles/c0jlvg71lqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "タイの首都バンコクの郊外にある学校と住宅で7日、この学校の生徒によるとみられる銃撃があり、合わせて少なくとも7人が死亡した。当局が発表した。",
-      "published": "2026/08/07 17:31",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14b4/live/449e8140-9230-11f1-a7ab-8b30adf0800a.jpg"
+      "title": "【解説】熱波でイギリスのエアコン論争はどう変化しているのか",
+      "url": "https://www.bbc.com/japanese/articles/cn8n25vvpweo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスでは、断熱性に優れた家屋と激しさを増す熱波という、新しい夏の状況を前に、エアコンを受け入れるべきかという論争が広がっている。",
+      "published": "2026/08/08 12:59",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/555e/live/7e207690-8b4f-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "AI使い全く新しいウイルスの設計に成功　米大学が発表",
-      "url": "https://www.bbc.com/japanese/articles/clyeg2q66p1o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの研究者らが、人工知能（AI）を使い、全く新しいウイルスの設計に成功したと発表した。ウイルスは完全に機能し、研究室で複製可能だという。",
-      "published": "2026/08/07 12:26",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e150/live/81e84950-91b8-11f1-bab9-173de0e7d358.jpg"
+      "title": "タイ首相、銃規制強化を表明　バンコク近郊の銃撃で8人死亡",
+      "url": "https://www.bbc.com/japanese/articles/cz05pe00jr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "タイの首都バンコクの郊外にある学校と住宅で7日に発生した銃撃で、8人が死亡、22人が負傷したことを受け、アヌティン・チャーンウィラクン首相は同日、新たな銃規制法を導入すると表明した。",
+      "published": "2026/08/08 11:57",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、「出生地主義」を再び制限　新たな大統領令に署名",
-      "url": "https://www.bbc.com/japanese/articles/cvgxjm7vzy8o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は６日、出生地主義によって子どもに米国籍を与えることを制限する二つの大統領令に署名した。トランプ氏は以前も大統領令で制限を試みたが、連邦最高裁が６月、これを違憲で無効としていた。",
-      "published": "2026/08/07 16:11",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c27/live/ed75acd0-91e0-11f1-9bc8-c9e5b4077192.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米メタ、児童の安全に関する判決で5億6700万ドルの罰金　大気汚染に匹敵する「公共の迷惑」と判事",
-      "url": "https://www.bbc.com/japanese/articles/cq894kzep0no?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの裁判所は6日、メタが自社プラットフォームが子どもに及ぼす危険性について公衆への警告を怠ったとして、同社に対し5億6700万ドル（約900億円）の追加支払いを命じた。米ニューメキシコ州サンタフェ連邦地区裁判所のブライアン・ビードシャイド判事は、メタによる損害は、大気汚染に匹敵する「公衆の迷惑行為」だと指摘した。",
-      "published": "2026/08/07 16:44",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg"
+      "title": "スペインが対イタリアの国境管理を強化、飛び地セウタへの移民めぐる対立深まる",
+      "url": "https://www.bbc.com/japanese/articles/cy74m1ykv2do?at_medium=RSS&at_campaign=rss",
+      "summary": "アフリカ北端にあるスペインの飛び地領土セウタにモロッコ側から数万人の移民が大挙して押し寄せた問題を機に、スペインとイタリアの対立が悪化するなか、スペインは7日、イタリアからの飛行機や船舶に対して入国審査を実施すると発表した。",
+      "published": "2026/08/08 14:17",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b7c/live/2c56ef60-92ca-11f1-a199-1f9edd2f79a5.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢モズクは酢の物｣と思っている人が知らない\"意外な食べ方\"､世界が注目する｢最強海藻｣で減塩＆大満足の超簡単レシピ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954191?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "健康志向が高まる昨今､再注目されている｢モズク｣。実は日本が誇る伝統的な海藻でありながら､その奥深い魅力は意外と知られていません。カンタン調理で現代の食卓にもぴったりなモズクの多彩な楽しみ方､あなた…",
-      "published": "2026/08/08 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/2/1200w/img_420e8877de6334224291bdec779b3a58380306.jpg?nextgen=false"
+      "title": "｢共働き時代の転勤｣という難題､日本企業はどう向き合うべきか 『転勤の社会学』藤野敦子氏に聞く | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953996?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『転勤の社会学　ジェンダー･家族から問う日本的雇用システム』の著者､京都産業大学教授の藤野敦子氏に話を聞きました。",
+      "published": "2026/08/09 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/9/1200w/img_a9deef965488cfc44c87ca613cae3d87455744.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈書評〉『｢ノーマル｣の誕生』『超知能AIをつくれば人類は絶滅する』『インフレ日本の安い賃金』 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953997?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『｢ノーマル｣の誕生』（サラ･チェイニー 著）､『超知能AIをつくれば人類は絶滅する』（エリーザー･ユドコウスキー､ネイト･ソアレス 著）､…",
-      "published": "2026/08/08 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/8/1200w/img_a87339545cc95e0ce5568e191ab3d022437671.jpg?nextgen=false"
+      "title": "湘南･辻堂の地図にある\"奇妙な区画\"の正体…観光地に隠れた｢旧海軍演習場｣の過去と美しい海岸に眠る銃声の記憶 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953560?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "湘南･辻堂といえばおしゃれな観光地の印象が強いですが､実はかつて旧日本海軍の巨大な演習場が広がっていました。湘南のもう一つの顔に迫ります。",
+      "published": "2026/08/09 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/0/1200w/img_206e2f3d2ab1b3a510e2faae93af918e520491.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "いよいよ《清須会議》が始まった！信長の後継はいったい誰なのか…秀吉がとった\"なかなか強か\"な戦略 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952281?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "本能寺の変後､戦国時代の行方を左右する｢清須会議｣が始まりました。史実とその舞台裏に迫ります。",
-      "published": "2026/08/08 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200w/img_fee67d732f54d385c733c33c7683e90e489514.jpg?nextgen=false"
+      "title": "｢単位落とすかも…｣と悩む｢大学生の塾通い｣が急増中！？　その背景にある保護者の｢よかれ｣行動 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953781?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本の難関大学生が､授業についていけず塾に通う現象が広がっています。『地頭力の正体』の著者･西岡壱誠氏は､その背景を深く掘り下げ､\"自分で学ぶ力\"を持たないまま受験を突破した学生の実態を指摘。果たし…",
+      "published": "2026/08/09 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_79b9861731b4083fdcf1b1dc7521983a129807.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "結婚して家庭を持つのがまだ標準？ ｢推し活で休む｣と言いづらい単身者､入院も老後も家族頼みの社会 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953827?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "一人暮らしや\"ソロ活\"が身近になった現代。それでも｢結婚して家族を持つ｣が人生の標準形､という価値観はいまだ根強いままです。家族像や幸せの\"普通\"とは何か､そしてソロで生きる人々に社会は本当に優しい…",
-      "published": "2026/08/08 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/d/1200w/img_ed0f3edb42af6c513229c86407c8eae1189599.jpg?nextgen=false"
+      "title": "大河ドラマ｢豊臣兄弟！｣もいよいよ後半戦！豊臣政権で飛躍する《キーパーソン3人》を解説する | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953568?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢秀吉を天下人にした男､豊臣秀長の実像｣の連載特別編は､大河ドラマ前半戦を振り返りながら､後半でキーパーソンとなりそうな人物たちを紹介します。",
+      "published": "2026/08/09 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/4/1200w/img_e4a4c936a4e853cac578edcf258e0d0e272396.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "アンソロピックの最強AI｢ミュトス｣はインターネットの安全性を根底から覆す 目先の脅威は小さくても将来は… | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953661?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アンソロピックのAIモデル｢Claude Mythos Preview（クロード･ミュトス･プレビュー）｣が､広く使われているデジタル暗号規格の弱体化版に脆弱性を発見。AIの進化がサイバーセキュリテ…",
-      "published": "2026/08/08 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/e/1200w/img_1e8c942990a09f6bc18df76570d1cc6658653.jpg?nextgen=false"
+      "title": "《清須会議》せっかく織田信長の後継者が決まったのに､会議が終わった後に起きた\"本当のせめぎ合い\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953552?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢秀吉を天下人にした男､豊臣秀長の実像｣の連載第33回は織田家の行く末について話し合われた｢清須会議｣について真山知幸氏が解説します。",
+      "published": "2026/08/09 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/f/1200w/img_9f641f301cbcbb512e6020ad9a01b015216690.jpg?nextgen=false"
     }
   ]
 }
