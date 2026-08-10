@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-08-09T02:28:30.997674+00:00",
+  "generated_at": "2026-08-10T02:34:09.279602+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行",
-      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000464/",
-      "summary": "Xは「クリエイター収益配分プログラム」を終了し、新制度「Original Content Rewards Program」への移行を発表した。無断転載やインプレゾンビへの対策として自作コンテンツを重視し、有料会員の有効インプレッションに応じて報酬を支払う。既存制度からの申請は9月より開始される。",
-      "published": "2026/08/09 08:20",
+      "title": "「購入済みの着せかえアイコン消えた」　LINEのiOS 26対応版に「金返せ」と不満",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000476/",
+      "summary": "iOS 26の新デザイン仕様に対応するため、着せかえの提供元にコンテンツのアップデートが必要になったことが原因。",
+      "published": "2026/08/10 11:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
-      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
-      "summary": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
-      "published": "2026/08/09 07:16",
+      "title": "ニンテンドーミュージアム、不正購入チケットで入館できないケースを「複数確認」……「公式で買って」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000470/",
+      "summary": "不正な販売または譲渡が確認された場合は、購入したすべてのチケットが無効になることがあるとして注意を呼び掛けている。",
+      "published": "2026/08/10 10:10",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "告知は前日、返金なし──ソシャゲ「文マヨ」サ終の顛末とマンガ家を驚かせたファンの嘆きとは？",
-      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000457/",
-      "summary": "スマートフォンゲーム「文豪ストレイドッグス迷ヰ犬怪奇譚」がサービスを終了しました。告知されたのは、なんと前日の7月30日。SNS上では様々な意見が飛び交っていますが、その中にちょっと印象的なポストがありました。",
-      "published": "2026/08/09 07:15",
+      "title": "「ゲーム運営の修羅場過ぎる」　コロコロコミック系漫画サイトの新作が話題　Gitツリー見てガチャ不具合の犯人探し",
+      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000458/",
+      "summary": "小学館の漫画配信サイト「週刊コロコロコミック」に掲載されている新作漫画「まだサ終しないんですか？」が、IT関係者を中心にXで話題だ。ソーシャルゲーム開発の現場をテーマにした作品だが、バージョン管理ツールの履歴を見て不具合の犯人探しをする描写などが「修羅場すぎる」と注目を浴びている。",
+      "published": "2026/08/10 10:06",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "熊本県の「トラック通れた道マップ」、日野コンピューターシステムが公開",
-      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000461/",
-      "summary": "日野コンピューターシステムが、熊本県近辺においてトラックが通行できた道を可視化する「トラック通れた道マップ」を公開している。",
-      "published": "2026/08/08 09:30",
+      "title": "小田急、「充レン」撤去→「CHARGESPOT」に回帰　全70駅に拡大へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000469/",
+      "summary": "小田急は2019年4月、CHARGESPOTを新宿駅など5駅に導入。2021年5月に充レンを同じ5駅に設置した。今回、充レンからCHARGESPOTに回帰した上で、5駅から全70駅へと規模を大幅に拡大する。",
+      "published": "2026/08/10 09:37",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropic、「Fable 5」の生物学の制限を緩和　誤検知によるフォールバックを約85％削減",
-      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
-      "summary": "Anthropicは、AIモデル「Claude Fable 5」の生物学分野における過度な保護機能を緩和したと発表した。安全性を重視するあまり発生していた無害な質問への誤検知や下位モデルへのフォールバックを大幅に削減。専門的な二重用途研究への制限は維持しつつ、一般的な健康・教育用途での利便性を向上させた。",
-      "published": "2026/08/08 07:57",
+      "title": "デジタル庁から個人情報漏えい　手順書ミスが原因、団体職員150人分の氏名など誤送付",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000467/",
+      "summary": "他省庁への送付ファイルに本来含めるべきでない職員の氏名やユーザーID、所属などのコードなどが記載されていた。二次被害は確認されていない。",
+      "published": "2026/08/10 07:03",
       "image_url": ""
     },
     {
@@ -94,47 +94,47 @@
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢共働き時代の転勤｣という難題､日本企業はどう向き合うべきか 『転勤の社会学』藤野敦子氏に聞く | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953996?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『転勤の社会学　ジェンダー･家族から問う日本的雇用システム』の著者､京都産業大学教授の藤野敦子氏に話を聞きました。",
-      "published": "2026/08/09 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/9/1200w/img_a9deef965488cfc44c87ca613cae3d87455744.jpg?nextgen=false"
+      "title": "自民党で勃発した｢静かなる反乱｣の波紋､\"大番頭\"世耕氏の復党見送りで顕在化した自民党内の権力闘争と秋政局の行方 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954352?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世耕弘成氏の自民党への復党が党紀委員会で見送られました。地元からの賛同がありながら結論を見送った裏側には､どんな事情が潜んでいるのでしょうか？",
+      "published": "2026/08/10 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/c/1200w/img_4c616085c1d31e785590ac33e1581824333464.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "湘南･辻堂の地図にある\"奇妙な区画\"の正体…観光地に隠れた｢旧海軍演習場｣の過去と美しい海岸に眠る銃声の記憶 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953560?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "湘南･辻堂といえばおしゃれな観光地の印象が強いですが､実はかつて旧日本海軍の巨大な演習場が広がっていました。湘南のもう一つの顔に迫ります。",
-      "published": "2026/08/09 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/0/1200w/img_206e2f3d2ab1b3a510e2faae93af918e520491.jpg?nextgen=false"
+      "title": "1日12時間ゲームに没頭したフリーターが医学部へ､彼が変わった\"意外なきっかけ\"　｢安易にゲームを取り上げる親のワナ｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952825?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ゲームをめぐる親子の攻防は､いつの時代も子育て家庭の悩みの種。しかし､医師の阿部智史さんは｢問題はゲーム自体ではない｣と語ります。",
+      "published": "2026/08/10 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/3/1200w/img_33cc741db592c9e7d40104fd982ec45c214505.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢単位落とすかも…｣と悩む｢大学生の塾通い｣が急増中！？　その背景にある保護者の｢よかれ｣行動 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953781?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本の難関大学生が､授業についていけず塾に通う現象が広がっています。『地頭力の正体』の著者･西岡壱誠氏は､その背景を深く掘り下げ､\"自分で学ぶ力\"を持たないまま受験を突破した学生の実態を指摘。果たし…",
-      "published": "2026/08/09 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_79b9861731b4083fdcf1b1dc7521983a129807.jpg?nextgen=false"
+      "title": "iOS 27でiPhoneが｢使うだけ｣から｢作れる｣端末へ､言葉でショートカットやSafariの機能を追加する方法 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953946?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "iOS 27が秋の正式リリースに向けて進化中。注目はAI｢Apple Intelligence｣の刷新で､普段使う日本語など自然な言葉だけでショートカットやSafariの機能拡張が作れるようになった…",
+      "published": "2026/08/10 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/a/1200w/img_ca85a91f87f19ec8fa2e63a31f927adc173589.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "大河ドラマ｢豊臣兄弟！｣もいよいよ後半戦！豊臣政権で飛躍する《キーパーソン3人》を解説する | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953568?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢秀吉を天下人にした男､豊臣秀長の実像｣の連載特別編は､大河ドラマ前半戦を振り返りながら､後半でキーパーソンとなりそうな人物たちを紹介します。",
-      "published": "2026/08/09 09:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/4/1200w/img_e4a4c936a4e853cac578edcf258e0d0e272396.jpg?nextgen=false"
+      "title": "まるで｢HAL9000｣のようにAIは人間の統制に抗うようになった…暴走する自律型サイバー攻撃と｢キルスイッチ｣の限界 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953954?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1968年公開のスタンリー・キューブリック監督のSF映画『2001年宇宙の旅』では、人工知能「HAL.9000」が宇宙船ディスカバリー1号の乗組員を次々と殺害した。HALによる暗殺を免れたのは、デイ…",
+      "published": "2026/08/10 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1ccee904e99228f4dafd57bc096f9f18346396.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《清須会議》せっかく織田信長の後継者が決まったのに､会議が終わった後に起きた\"本当のせめぎ合い\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953552?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢秀吉を天下人にした男､豊臣秀長の実像｣の連載第33回は織田家の行く末について話し合われた｢清須会議｣について真山知幸氏が解説します。",
-      "published": "2026/08/09 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/f/1200w/img_9f641f301cbcbb512e6020ad9a01b015216690.jpg?nextgen=false"
+      "title": "高市政権の積極財政で一般国民は潤わない　泉房穂氏が明かす､本当に｢使えるお金を増やす｣政策の中身 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954122?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "消費税減税は本当に生活を救えるのか――国民の使えるお金をいかにして増やすかがいま問われています。参議院議員の泉房穂氏と危機管理学者･福田充氏の対談では､税や保険料だけでなく､賃金･給付金や公共料金ま…",
+      "published": "2026/08/10 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/d/1200w/img_6d81498bb502d3558a0aa697c20f70cd351872.jpg?nextgen=false"
     }
   ]
 }
