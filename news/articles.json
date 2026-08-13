@@ -1,55 +1,64 @@
 {
-  "generated_at": "2026-08-12T02:44:00.391524+00:00",
+  "generated_at": "2026-08-13T02:47:00.108809+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
-      "summary": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-      "published": "2026/08/12 09:21",
+      "title": "一部テレビで「BSテレ東」映らず　信号データ不備が原因か",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000523/",
+      "summary": "主にシャープ製テレビの一部機種で10日から発生しているという。",
+      "published": "2026/08/13 11:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "LINE着せかえ「アイコンがデフォルトに戻る」問題、対応完了時期示さず　クリエイターズは「審査に時間がかかっている」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000499/",
-      "summary": "個人クリエイターなどによる「クリエイターズ着せかえ」は「審査に時間がかかっている」状況という。",
-      "published": "2026/08/12 08:55",
+      "title": "ドコモ・バイクシェア、都内でも再開　全面停止から8日ぶり",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000522/",
+      "summary": "東京広域エリアは、千代田区や中央区、港区、新宿区、渋谷区など都内16区を1エリアとしてまとめ、区をまたいで貸出・返却できる相互利用の枠組み。",
+      "published": "2026/08/13 10:35",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「孤独のグルメ」ムック、2ページ抜けていた……扶桑社謝罪、該当話を無料公開",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000498/",
-      "summary": "編集・印刷工程上の不備により、2ページ分の抜けがあることが判明した。",
-      "published": "2026/08/12 08:16",
+      "title": "「Made by Google」イベントで発表したこと　手話のリアルタイムテキスト化や「Health Guardian」など",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000521/",
+      "summary": "Googleは新製品発表イベント「Made by Google 2026」で、「Pixel 11」シリーズなどの最新ハードウェアに加え、手話をテキスト化する「SL2T」機能や、既存センサーのデータで健康状態を推定する「Health Guardian」などを発表した。",
+      "published": "2026/08/13 10:14",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし”　日本を含むグローバルに適用へ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
-      "summary": "Anthropicは、「Claude」が生成するテキストに電子透かしを、対応ファイルにC2PA準拠の署名付きメタデータを付与する方針を発表した。8月2日に適用開始された「EU AI Act」の透明性義務に伴う措置だが、日本を含む全世界のモデルとサービスに適用される。人間には不可視の透かし等により、AI処理の有無や改ざん検出を可能にする。",
-      "published": "2026/08/12 07:16",
+      "title": "個人開発のAIデザインツール「Rikyū」　“幾何学的なデザイン”機能が秀逸と話題に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000514/",
+      "summary": "幾何学的にロゴをデザインできる個人開発のAIサービス「Rikyū」がXで話題だ。生成ロゴや“設計図”風の画像にも注目が集まり、Xでは成果物の投稿が相次いでいる。",
+      "published": "2026/08/13 10:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「食事中に水を飲むと食べ過ぎない」、実はウソ？　食べる量を左右していたのは…… 米研究者が検証",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000471/",
-      "summary": "米コーネル大学と米ペンシルベニア州立大学に所属する研究者らが学術誌「Appetite」に発表した論文「Water intake, switching between bites and sips, and drinking behavior are associated with food intake across meals varying in spiciness: A secondary ",
-      "published": "2026/08/12 07:00",
+      "title": "悪酔いにチェイサーは効果なし？　日本酒4合＋水1Lを飲ませ二日酔い調査　大分大などが研究",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000472/",
+      "summary": "大分大学や三和酒類株式会社研究所に所属する研究者らが国際学術誌「Frontiers in Pharmacology」で発表した論文「Water intake during drinking does not alleviate hangover symptoms」は、飲酒中に水（チェイサー）を飲んでも二日酔いは緩和されないとする成果を発表した研究報告だ。",
+      "published": "2026/08/13 07:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、7月に専用機からひそかに別便に乗り換えと報道認める　安全上の懸念と",
+      "title": "コロンビア地震、死者180人超える　生存者救出は時間との闘い",
+      "url": "https://www.bbc.com/japanese/articles/cdx7p9279l0o?at_medium=RSS&at_campaign=rss",
+      "summary": "コロンビアで10日朝に発生したマグニチュード（M）7.4の強い地震で、現場では11日も、倒壊した建物やがれきの下に閉じ込められた生存者の捜索が続いた。救助隊による捜索は時間との闘いになっている。",
+      "published": "2026/08/12 13:42",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/211c/live/e8e368a0-9600-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏、7月に専用機からひそかに別機に乗り換えと報道認める　安全上の懸念と",
       "url": "https://www.bbc.com/japanese/articles/c9q9dq0xlzro?at_medium=RSS&at_campaign=rss",
       "summary": "アメリカのドナルド・トランプ大統領は11日、先月トルコで開かれた北大西洋条約機構（NATO）首脳会議を終えて帰国する際、安全上の懸念があったため、ひそかに大統領専用機から別の軍用機に乗り換えていたことを認めた。これについては米紙ワシントン・ポストなどが報じていた。",
       "published": "2026/08/12 11:32",
@@ -58,83 +67,74 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "コロンビアでM7.4の地震、近年で最大級　180人以上死亡",
-      "url": "https://www.bbc.com/japanese/articles/ce8lj4gwje3o?at_medium=RSS&at_campaign=rss",
-      "summary": "コロンビアで10日午前7時34分ごろ、マグニチュード（M）7.4の強い地震が発生し、11日までに少なくとも181人の死亡が確認された。近年で最大規模の地震を受け、非常事態宣言が発令された。",
-      "published": "2026/08/12 08:34",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a6b/live/0eb51af0-94fe-11f1-9181-85140b8ce01b.jpg"
+      "title": "シリアのアサド前大統領、欠席裁判で死刑判決",
+      "url": "https://www.bbc.com/japanese/articles/cr7kp5mr7dmo?at_medium=RSS&at_campaign=rss",
+      "summary": "シリアの裁判所は11日、内戦中に戦争犯罪と人道に対する罪を犯したとして、2024年12月に追放されたバッシャール・アル・アサド前大統領に対し、欠席裁判で死刑判決を下した。前大統領は政権崩壊後、家族と共に首都ダマスカスからロシアのモスクワに逃亡。50年にわたるアサド一族の独裁的な支配に終止符が打たれた。",
+      "published": "2026/08/12 14:02",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edd9/live/d8ac8750-956f-11f1-98c3-1da4f20b80e4.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "大聖堂の塔も倒れ……各地で建物が倒壊、コロンビア地震",
-      "url": "https://www.bbc.com/japanese/articles/czrje1127r5o?at_medium=RSS&at_campaign=rss",
-      "summary": "コロンビアで10日午前7時34分ごろ、マグニチュード（M）7.4の強い地震が発生し、10日時点で少なくとも132人の死亡が確認された。発生直後の様子を捉えた動画には、マニサレスの大聖堂の塔の一つが倒れる様子や、カリで建物が倒壊している状況などが記録されている。",
-      "published": "2026/08/11 14:18",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d1a/live/757b3bc0-950d-11f1-a7ab-8b30adf0800a.jpg"
+      "title": "ハンガリー、オルバン政権に解任された元判事を新大統領に選出　改革を監督へ",
+      "url": "https://www.bbc.com/japanese/articles/cn9npgxqryyo?at_medium=RSS&at_campaign=rss",
+      "summary": "ハンガリー国会（一院制、定数199）は11日、元最高裁判所長官のバカ・アンドラーシュ氏（73）を大統領に選出した。バカ氏は国家元首として、中道右派の政党「ティサ（尊重と自由）」のマジャル・ペーテル首相による、前任者のオルバン・ヴィクトル氏が築いた政治と財界が一体化した権力構造を解体する取り組みを監視する。また、オルバン氏が2011年に制定した憲法に代わる、新憲法の起草も監督する。",
+      "published": "2026/08/12 17:15",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/21ba/live/772d0f60-959a-11f1-976a-4934d54b5403.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "世界の海、7月の最高水温を記録",
-      "url": "https://www.bbc.com/japanese/articles/c4gj8l10kpxo?at_medium=RSS&at_campaign=rss",
-      "summary": "世界の海洋は、エルニーニョ現象の発生などの影響もあり、観測史上最も暑い7月を記録した。一方、西ヨーロッパでは山火事が猛威を振るい続けている。",
-      "published": "2026/08/11 12:33",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca44/live/17eae880-94ad-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ウクライナのドローン、ロシア領内深く攻撃　少なくとも13人殺害",
-      "url": "https://www.bbc.com/japanese/articles/cy741ygv2e0o?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシア西部タタールスタン共和国の当局は10日、ウクライナ軍のドローン攻撃で、子ども1人を含む13人が殺害され、75人が負傷したと発表した。2022年2月にロシアがウクライナ全面侵攻を開始して以来、ウクライナによるロシア攻撃の中でも、特に死傷者の多い単独攻撃となった。ウクライナはこのところ、ロシアのウクライナ侵攻に軍資金や補給物資を提供しているとされる施設への長距離攻撃を強化している。",
-      "published": "2026/08/11 12:16",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg"
+      "title": "ロシアが北朝鮮製ミサイルを使用とゼレンスキー大統領　南部で7人殺害される",
+      "url": "https://www.bbc.com/japanese/articles/cq89p2ve8xdo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナのウォロディミル・ゼレンスキー大統領は11日、同国南部ザポリッジャへの攻撃に、ロシアが北朝鮮製のミサイルを使用したと非難した。この攻撃では7人が殺され、少なくとも24人が負傷した。この日の夜は、両国が互いに攻撃を続けた。",
+      "published": "2026/08/12 12:21",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7862/live/6d64a760-953e-11f1-ba5b-b1a600ddfa74.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "避暑旅＝クールケーションで｢草津温泉｣が注目される理由。観光客405万人新記録｢V字回復｣した老舗温泉地のいま | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954163?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "夏の猛暑を避け､涼しいところに出かけて過ごす｢クールケーション｣が脚光を浴びている。テレビの情報番組などで､猛暑日とはほぼ無縁の千葉県勝浦市や茨城県北茨城市などの夏旅を勧めるのをよく目にする。そんな…",
-      "published": "2026/08/12 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/4/1200w/img_14cc0ae423080df4ac76cfe628cb6533283290.jpg?nextgen=false"
+      "title": "ランチ会で繰り出されるママ友たちからの《さりげないマウンティング》に心をザワつかせないで済ませる｢3つの方法｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953228?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "私たちは｢自分で幸せを決めている｣と思い込みがちですが､実は多くが他人との比較に左右されています。収入やモノで満たされない原因は､\"順位ゲーム\"の中で生きているから。お金と幸せ､本当の安心を得るには…",
+      "published": "2026/08/13 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/0/1200w/img_e041ada2ea8291eba221be07135b3399388690.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "まずは｢薄味に慣れる｣ことから始めよう…専門医が推奨する《腎臓への負担》を無理なく軽減する\"減塩の3つの秘策\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953169?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "現代の食生活の乱れは､知らず知らずのうちに腎臓へ深刻なダメージを与えています。慢性腎臓病に進行する前に､毎日の食事でできるセルフケアが重要です。ストレスにならない方法で､美味しく減塩し､健康的な腎臓…",
-      "published": "2026/08/12 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_79f7844e2423ff7c20f0b0b93e1b6ae5198178.jpg?nextgen=false"
+      "title": "創薬ベンチャーのサンバイオが狙う世界初｢脳再生薬｣発売の先…カギを握るアメリカ事業で進捗あり | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954089?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "創薬ベンチャー､サンバイオが開発した世界初の脳再生薬｢アクーゴ｣が5月､発売されました。2024年の承認に続く世界初の\"快挙\"ですが､株価は低迷しています。",
+      "published": "2026/08/13 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/5/1200w/img_c50fd986302f4641af6ceaa3cccc0bb1133525.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "3万8500円のReFaヘアアイロンに見る｢美容家電の新戦略｣ 40〜60代にも広がる\"とかすだけ\"の新市場､売り切りから脱却へ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954007?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "美容機器メーカーMTGが業績好調を背景に新たな挑戦を開始。従来の常識を覆す｢リファトリートメントアイロン｣は､ブラシ感覚で使え､独自の美容液と連動した次世代型ヘアケアを実現。売り切り型から継続型ビジ…",
-      "published": "2026/08/12 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/b/1200w/img_fb9137431d8c13018bc439d083c64d2f340129.jpg?nextgen=false"
+      "title": "｢年金破綻論｣はとっくに破綻しているのになぜ滅びない？ 引退戦略のために知っておきたい日本の年金の\"真実\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952218?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢年金は私たちの世代には支給されない｣――多くの人が抱えるこの不安は本当に正しいのでしょうか。リタイアメント･アドバイザーの山崎俊輔氏は､40年以上語られる\"年金破綻論\"の誤りとその裏に潜む意図に迫…",
+      "published": "2026/08/13 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/9/1200w/img_194e07ae82a570809e345c14d6cc7566417985.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "トヨタ自動車元社長で経団連会長も務めた奥田碩氏が死去､93歳 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954572?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "トヨタ自動車を牽引し､日本経済界にも大きな影響を与えた奥田碩氏が93歳で逝去しました。",
-      "published": "2026/08/12 09:45",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/6/1200w/img_e61e929e8c10895f3155ec2783e11d56497262.jpg?nextgen=false"
+      "title": "｢ラッコ｣の最上級グレード｢300 Premium｣をチェック。BYDがうたう『いちばんいいクルマ』の出来栄え､本当のところ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954151?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "見た目のかわいらしさからは想像できない\"ガッシリ\"した走り味――。BYD｢RACCO（ラッコ）｣はスーパーハイトワゴンの利便性に加え､独自設計による快適性とパワフルさを両立した1台でした。市場からの…",
+      "published": "2026/08/13 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/8/1200w/img_d89bd776aa97d3c399e10fdb49ac0e89267907.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢ポジティブ思考で幸せになれる｣は非科学的カンチガイ…心理学の権威が明かす｢人間の幸福｣の不都合な真実 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952599?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢ポジティブ思考で幸せになれる｣という言葉をよく耳にしますが､本当に考え方を変えるだけで人は幸せになれるのでしょうか。進化心理学の視点から従来の幸福論の限界を明かし､｢幸せの本質｣に迫ります。あなた…",
-      "published": "2026/08/12 09:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/8/1200w/img_8853691e95afb22328b44587eec1f98b154522.jpg?nextgen=false"
+      "title": "【奥田碩氏が死去】｢創業家の持ち株は1〜2％に過ぎない｣…トヨタを大きく変えようとした辣腕経営者が目指したもの | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954577?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本経団連会長やトヨタ自動車社長を務めた奥田碩氏が93歳で逝去。その強烈なリーダーシップと反骨精神は､消費税引き上げや企業献金問題など数々の難題に挑み続けました。｢使命｣に執念を燃やした奥田氏の美学…",
+      "published": "2026/08/13 10:20",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/2/1200w/img_1280057d3929fdbb8f4be737cf9ebd6c674519.jpg?nextgen=false"
     }
   ]
 }
