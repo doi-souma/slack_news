@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-08-13T02:47:00.108809+00:00",
+  "generated_at": "2026-08-14T02:45:47.849258+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "一部テレビで「BSテレ東」映らず　信号データ不備が原因か",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000523/",
-      "summary": "主にシャープ製テレビの一部機種で10日から発生しているという。",
-      "published": "2026/08/13 11:07",
+      "title": "千葉の「通れた道」、JARTIC地図で確認可能に　トヨタやホンダなど5社のデータを集約",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000539/",
+      "summary": "クルマの通行実績を、「最新1時間」「最新3時間」「最新6時間」の3種類を切り替えて表示できる。",
+      "published": "2026/08/14 10:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ドコモ・バイクシェア、都内でも再開　全面停止から8日ぶり",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000522/",
-      "summary": "東京広域エリアは、千代田区や中央区、港区、新宿区、渋谷区など都内16区を1エリアとしてまとめ、区をまたいで貸出・返却できる相互利用の枠組み。",
-      "published": "2026/08/13 10:35",
+      "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も　Anthropicがマルチエージェント実験の結果を公開",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
+      "summary": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
+      "published": "2026/08/14 09:51",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「Made by Google」イベントで発表したこと　手話のリアルタイムテキスト化や「Health Guardian」など",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000521/",
-      "summary": "Googleは新製品発表イベント「Made by Google 2026」で、「Pixel 11」シリーズなどの最新ハードウェアに加え、手話をテキスト化する「SL2T」機能や、既存センサーのデータで健康状態を推定する「Health Guardian」などを発表した。",
-      "published": "2026/08/13 10:14",
+      "title": "Instagram、ワードマークを10年ぶりに刷新 筆記体をより太くシンプルに",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000537/",
+      "summary": "Metaは、Instagramのブランドアイデンティティ刷新を発表した。アプリ上部のワードマークを10年ぶりに更新し、より太くシンプルな筆記体を採用する。新フォントとして「Instagram Pen」などを追加し、ブランドシステム全体を更新する。グラデーションは維持し、アプリアイコンの変更はない。",
+      "published": "2026/08/14 08:03",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "個人開発のAIデザインツール「Rikyū」　“幾何学的なデザイン”機能が秀逸と話題に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000514/",
-      "summary": "幾何学的にロゴをデザインできる個人開発のAIサービス「Rikyū」がXで話題だ。生成ロゴや“設計図”風の画像にも注目が集まり、Xでは成果物の投稿が相次いでいる。",
-      "published": "2026/08/13 10:00",
+      "title": "豪雨被害の千葉で「通れた道マップ」トヨタが公開　直近3時間の通行実績が分かる",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000536/",
+      "summary": "直近3時間以内に車両が通行できた道路を地図で確認できる。",
+      "published": "2026/08/14 07:41",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "悪酔いにチェイサーは効果なし？　日本酒4合＋水1Lを飲ませ二日酔い調査　大分大などが研究",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000472/",
-      "summary": "大分大学や三和酒類株式会社研究所に所属する研究者らが国際学術誌「Frontiers in Pharmacology」で発表した論文「Water intake during drinking does not alleviate hangover symptoms」は、飲酒中に水（チェイサー）を飲んでも二日酔いは緩和されないとする成果を発表した研究報告だ。",
-      "published": "2026/08/13 07:00",
+      "title": "トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000535/",
+      "summary": "トランプ米大統領は、審査を通過した米民間企業が連邦政府の指揮監督下で、国外のサイバー犯罪組織に対する攻撃作戦を実施できるようにする大統領覚書に署名した。人命の損失などを招く「重大な結果」を伴う作戦は承認対象外とし、米国人が標的に含まれる活動には事前に必要な承認を得る手続きを求める。",
+      "published": "2026/08/14 07:09",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "コロンビア地震、死者180人超える　生存者救出は時間との闘い",
-      "url": "https://www.bbc.com/japanese/articles/cdx7p9279l0o?at_medium=RSS&at_campaign=rss",
-      "summary": "コロンビアで10日朝に発生したマグニチュード（M）7.4の強い地震で、現場では11日も、倒壊した建物やがれきの下に閉じ込められた生存者の捜索が続いた。救助隊による捜索は時間との闘いになっている。",
-      "published": "2026/08/12 13:42",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/211c/live/e8e368a0-9600-11f1-b2ab-0dd01740f9f6.jpg"
+      "title": "イスラエル人入植者に住宅包囲されたパレスチナ人に退去命令、ヨルダン川西岸地区",
+      "url": "https://www.bbc.com/japanese/articles/cy743k056mko?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエル占領下のパレスチナ・ヨルダン川西岸地区の村で、イスラエル人入植者らがパレスチナ人住民の住宅を包囲している問題で、イスラエル軍は13日、入植者らを排除する作戦の一環として、パレスチナ人の12世帯に住居を明け渡すよう命じた。この村の村長はBBCに対し、イスラエル軍が明け渡されたパレスチナ人の住居の一部を兵舎として使用していると語った。イスラエル軍は、この措置は「住民の保護」が目的だと述べた。",
+      "published": "2026/08/14 11:01",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/218c/live/11482380-970f-11f1-aa4b-17d3155b04cf.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、7月に専用機からひそかに別機に乗り換えと報道認める　安全上の懸念と",
-      "url": "https://www.bbc.com/japanese/articles/c9q9dq0xlzro?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのドナルド・トランプ大統領は11日、先月トルコで開かれた北大西洋条約機構（NATO）首脳会議を終えて帰国する際、安全上の懸念があったため、ひそかに大統領専用機から別の軍用機に乗り換えていたことを認めた。これについては米紙ワシントン・ポストなどが報じていた。",
-      "published": "2026/08/12 11:32",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f69/live/2dd49110-956f-11f1-b2ab-0dd01740f9f6.jpg"
+      "title": "ルーマニア、唯一の原発を停止　熱波によるドナウ川の水位低下で",
+      "url": "https://www.bbc.com/japanese/articles/c0ejywr55z4o?at_medium=RSS&at_campaign=rss",
+      "summary": "ルーマニアのエネルギー省は13日、ドナウ川沿いにあるツェルナヴォダ原発の原子炉2基のうち唯一稼働していた1基を停止したと発表した。欧州の大部分で長引く干ばつの影響でドナウ川の水位が大幅に下がったため、冷却水が確保できなくなっていた。",
+      "published": "2026/08/14 11:14",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "シリアのアサド前大統領、欠席裁判で死刑判決",
-      "url": "https://www.bbc.com/japanese/articles/cr7kp5mr7dmo?at_medium=RSS&at_campaign=rss",
-      "summary": "シリアの裁判所は11日、内戦中に戦争犯罪と人道に対する罪を犯したとして、2024年12月に追放されたバッシャール・アル・アサド前大統領に対し、欠席裁判で死刑判決を下した。前大統領は政権崩壊後、家族と共に首都ダマスカスからロシアのモスクワに逃亡。50年にわたるアサド一族の独裁的な支配に終止符が打たれた。",
-      "published": "2026/08/12 14:02",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edd9/live/d8ac8750-956f-11f1-98c3-1da4f20b80e4.jpg"
+      "title": "プーチン大統領、択捉島を初訪問　日本政府「強く抗議」",
+      "url": "https://www.bbc.com/japanese/articles/c20e23gvgqxo?at_medium=RSS&at_campaign=rss",
+      "summary": "ロシア国営タス通信は13日、ウラジーミル・プーチン大統領が択捉（えとろふ）島を訪問したと報じた。日本とロシアが領有権を主張する島を、プーチン氏が訪れるのは初めて。日本政府はこれに「強く抗議する」と表明した。",
+      "published": "2026/08/14 09:18",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf50/live/96ee0ce0-96e0-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ハンガリー、オルバン政権に解任された元判事を新大統領に選出　改革を監督へ",
-      "url": "https://www.bbc.com/japanese/articles/cn9npgxqryyo?at_medium=RSS&at_campaign=rss",
-      "summary": "ハンガリー国会（一院制、定数199）は11日、元最高裁判所長官のバカ・アンドラーシュ氏（73）を大統領に選出した。バカ氏は国家元首として、中道右派の政党「ティサ（尊重と自由）」のマジャル・ペーテル首相による、前任者のオルバン・ヴィクトル氏が築いた政治と財界が一体化した権力構造を解体する取り組みを監視する。また、オルバン氏が2011年に制定した憲法に代わる、新憲法の起草も監督する。",
-      "published": "2026/08/12 17:15",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/21ba/live/772d0f60-959a-11f1-976a-4934d54b5403.jpg"
+      "title": "イギリスとヨーロッパで珍しい日食、スペインなどでは皆既日食",
+      "url": "https://www.bbc.com/japanese/articles/c07r2x744yzo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスととヨーロッパで12日、過去30年で最も劇的な日食が観測された。グリーンランド、アイスランド、スペインの一部地域では、完全な暗闇と皆既日食の壮大な光景が見られた。日食は、月が太陽と地球の間を通過し、太陽光の一部または全部をさえぎり、地球に影を落とす現象。",
+      "published": "2026/08/13 12:32",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロシアが北朝鮮製ミサイルを使用とゼレンスキー大統領　南部で7人殺害される",
-      "url": "https://www.bbc.com/japanese/articles/cq89p2ve8xdo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのウォロディミル・ゼレンスキー大統領は11日、同国南部ザポリッジャへの攻撃に、ロシアが北朝鮮製のミサイルを使用したと非難した。この攻撃では7人が殺され、少なくとも24人が負傷した。この日の夜は、両国が互いに攻撃を続けた。",
-      "published": "2026/08/12 12:21",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7862/live/6d64a760-953e-11f1-ba5b-b1a600ddfa74.jpg"
+      "title": "イスラエル人入植者がパレスチナ人家族を包囲、ヨルダン川西岸地区",
+      "url": "https://www.bbc.com/japanese/articles/c0rd22qleejo?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエル占領下のパレスチナ・ヨルダン川西岸地区で、イスラエル人入植者らがパレスチナ人家族2世帯の自宅を包囲している。包囲は9日から続いており、家族側は食料が底をつき始めていると訴えている。事態を受け、人権団体が当局に介入を求めている。",
+      "published": "2026/08/13 16:51",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0bf/live/e32187f0-9658-11f1-9743-c91876572530.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ランチ会で繰り出されるママ友たちからの《さりげないマウンティング》に心をザワつかせないで済ませる｢3つの方法｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953228?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "私たちは｢自分で幸せを決めている｣と思い込みがちですが､実は多くが他人との比較に左右されています。収入やモノで満たされない原因は､\"順位ゲーム\"の中で生きているから。お金と幸せ､本当の安心を得るには…",
-      "published": "2026/08/13 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/0/1200w/img_e041ada2ea8291eba221be07135b3399388690.jpg?nextgen=false"
+      "title": "脆弱性発見から悪用まで｢1.6日｣､攻撃者もAIを使う時代にグーグルが打ち出した｢人手では追いつけない｣防御の仕組み | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954314?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ソフトウェアの脆弱性悪用までの平均時間が1.3年から1.6日へと劇的に短縮された今､攻撃者はAIを駆使して企業の防御を一瞬で突破し始めている。人手頼みの従来手法はすでに限界と言えるだろう。AI時代の…",
+      "published": "2026/08/14 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/8/1200w/img_b8bec01de7a24ea131adb201e4cd983c139816.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "創薬ベンチャーのサンバイオが狙う世界初｢脳再生薬｣発売の先…カギを握るアメリカ事業で進捗あり | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954089?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "創薬ベンチャー､サンバイオが開発した世界初の脳再生薬｢アクーゴ｣が5月､発売されました。2024年の承認に続く世界初の\"快挙\"ですが､株価は低迷しています。",
-      "published": "2026/08/13 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/5/1200w/img_c50fd986302f4641af6ceaa3cccc0bb1133525.jpg?nextgen=false"
+      "title": "電気計測器の中堅メーカー｢HIOKI｣岡澤尊宏社長が語る業績好転の背景 データセンター､自動運転､蓄電池､水素… | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954726?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――2024年12月期、25年12月期と2期連続営業減益の後、26年1月に発表した今26年12月期の期初見通しは前期比13.1%営業増益の慎重な予想でした。しかし6月5日に上期、通期見通しを大幅増額…",
+      "published": "2026/08/14 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/8/1200w/img_9892eee03feb72fbbcf458a9eddce8aa125961.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢年金破綻論｣はとっくに破綻しているのになぜ滅びない？ 引退戦略のために知っておきたい日本の年金の\"真実\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952218?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢年金は私たちの世代には支給されない｣――多くの人が抱えるこの不安は本当に正しいのでしょうか。リタイアメント･アドバイザーの山崎俊輔氏は､40年以上語られる\"年金破綻論\"の誤りとその裏に潜む意図に迫…",
-      "published": "2026/08/13 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/9/1200w/img_194e07ae82a570809e345c14d6cc7566417985.jpg?nextgen=false"
+      "title": "｢自分で決めさせる｣でも｢お手本を見せる｣でもない…東大生の親がやっていた｢主体性をもたせる｣子育ての内容 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954383?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東大生の学力の裏には､特別な勉強法だけでなく､家庭での主体性を育む工夫が隠されています。ただ｢自分で考えなさい｣と言うだけではなく､東大生の家庭ではどんな具体的な仕掛けがあったのでしょうか？",
+      "published": "2026/08/14 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/f/1200w/img_1f97e8f270a5dac4f6a02065aa37a793248938.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢ラッコ｣の最上級グレード｢300 Premium｣をチェック。BYDがうたう『いちばんいいクルマ』の出来栄え､本当のところ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954151?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "見た目のかわいらしさからは想像できない\"ガッシリ\"した走り味――。BYD｢RACCO（ラッコ）｣はスーパーハイトワゴンの利便性に加え､独自設計による快適性とパワフルさを両立した1台でした。市場からの…",
-      "published": "2026/08/13 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/8/1200w/img_d89bd776aa97d3c399e10fdb49ac0e89267907.jpg?nextgen=false"
+      "title": "｢女性を借金漬けにして風俗に沈めた大学生｣と半グレのリアルを描く…\"闇バイト\"や\"トクリュウ\"に斬り込む小説家の覚悟 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953573?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "近年､闇バイトや半グレ犯罪が社会を騒がせています。若者が巻き込まれる事件を背景に､月村了衛氏が緊迫感あふれる犯罪小説『半暮刻』で現代日本の闇に迫ります。社会の構造的な悪とは何か､あなたは直視できます…",
+      "published": "2026/08/14 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/2/1200w/img_42a80e21287ea46df30804352aacac61249694.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【奥田碩氏が死去】｢創業家の持ち株は1〜2％に過ぎない｣…トヨタを大きく変えようとした辣腕経営者が目指したもの | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954577?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本経団連会長やトヨタ自動車社長を務めた奥田碩氏が93歳で逝去。その強烈なリーダーシップと反骨精神は､消費税引き上げや企業献金問題など数々の難題に挑み続けました。｢使命｣に執念を燃やした奥田氏の美学…",
-      "published": "2026/08/13 10:20",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/2/1200w/img_1280057d3929fdbb8f4be737cf9ebd6c674519.jpg?nextgen=false"
+      "title": "｢頭の良さ｣だけで戦うビジネスパーソンが限界を迎えるワケ｢自分の思考をボコボコに叩かせる｣人だけが生き残る | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954367?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢たたき台｣とは単なるその場しのぎの案ではなく､叩かれることで初めて仕事の質を高める武器となる――。『たたき台の教科書』は､頭の良さに頼らず一流の成果を生むための｢叩かれること前提｣の仕事術を解説し…",
+      "published": "2026/08/14 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/8/1200w/img_7868c8a38b330a08aaa2221e807c67ce186768.jpg?nextgen=false"
     }
   ]
 }
