@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-08-19T01:52:47.796775+00:00",
+  "generated_at": "2026-08-20T01:51:20.855941+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ヤマハ発動機系、保育園向け「電動アシストお散歩カー」開発　保育士「従来の10％の力で動かせた」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000609/",
-      "summary": "消防業界向けに培った電動アシスト技術を保育分野に応用。消防用が迅速な動きを重視したのに対し、今回の製品は保育現場で誰でも「簡単に操作できる」ことを追求した。9月から受注する。",
-      "published": "2026/08/19 10:19",
+      "title": "サッカーのヘディング、直後に脳の損傷指標が上昇　300人の実測データ　米医学誌に掲載",
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000624/",
+      "summary": "オランダのアムステルダム大学などに所属する研究者らが医学誌「JAMA Neurology」で発表した論文「Amateur Soccer Heading and Acute Elevations in Blood-Based p-Tau217 and S100B」は、アマチュアサッカーの試合で実際に生じるヘディングが、脳の損傷を示す「血液バイオマーカー」に影響を及ぼすかを検証した研究報告だ。",
+      "published": "2026/08/20 10:20",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "コードが書けない筆者が愛車用にアプリを2本自作　「AI製アプリで起業」の夢膨らむも、見えた有料化の壁",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000598/",
-      "summary": "プログラミング経験がほぼない筆者が、Claude Codeを使い、Tesla専用のiPhoneアプリを数日で2本開発。自然言語だけで進める「バイブコーディング」の手軽さと、AI時代のアプリ開発の可能性、起業まで見据えたときの限界を考える。",
-      "published": "2026/08/19 10:00",
+      "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供　「Gemini」アプリに学生向け新機能も",
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
+      "summary": "Googleは米国の新学期に合わせ、大学生向けに「Google AI Plus」などを12カ月無料で提供するキャンペーンを発表した。あわせてGeminiアプリに学生向けハブを新設し、授業資料から学習プランを生成する学習ノートブックや、3Dモデルの表示、Gemini LiveでのDeep Researchなどの新機能の提供を開始した。",
+      "published": "2026/08/20 07:58",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Apple、EUでのアプリ配信条件を刷新　欧州委は歓迎もEpic Gamesは反発",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000608/",
-      "summary": "Appleは、EU域内のアプリ配信条件を刷新すると発表した。インストールごとに課していたCTFを廃止し、デジタル取引に5％を課すCTCへ移行する。決済方法に応じた手数料体系を整理し、IAPと代替決済の併用も認める。欧州委員会は変更を歓迎する一方、Epic Gamesは依然としてDMA違反だと反発している。",
-      "published": "2026/08/19 09:59",
+      "title": "日本は「月面輸送」を産業にできるか？　三菱重工と組んだispace、国産ロケットを選んだ3つの理由",
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000582/",
+      "summary": "月面探査企業ispaceが2028年に予定する新型月着陸機「ULTRA」の打ち上げに、三菱重工業の「H3」ロケットを使用する契約を結んだ。国産ロケットと国産ランダー（月面着陸機）の組み合わせが実現する試みとあって目を奪われるが、この契約の意味は“日の丸月探査”の実現にとどまらない。",
+      "published": "2026/08/20 07:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "楽天、“攻撃型ドローン”報道で問い合わせフォーム設置　ただし「返信はしない」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000607/",
-      "summary": "送られた内容は楽天グループの担当部署に共有するが、「返信は行っておりませんのであらかじめご了承ください」と明記している。",
-      "published": "2026/08/19 09:40",
+      "title": "生成AI画像で“架空の女性”に成り済まして政治投稿か　立憲栃木県連の男性党員　一部報道",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000632/",
+      "summary": "立憲民主党栃木県連に党員登録している男性が、架空の女性に成り済ましてXで選挙や政治活動について投稿していたことが8月19日までに分かった。女性の画像は生成AIで作成したとみられ、アカウントは既に凍結されている。",
+      "published": "2026/08/19 20:21",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
-      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
-      "summary": "OpenAIは、13?17歳向けの新環境「ChatGPT for Teens」を発表した。年齢推定や申告に基づいて自動適用され、段階的な理解を促す「Study Mode」などの学習機能を提供。自傷行為や摂食障害などの高リスク領域での保護を標準で有効にし、感情的な依存を促す対話を禁じるなど安全対策を強化した。",
-      "published": "2026/08/19 07:54",
+      "title": "氏名・住所など16万人分漏えい　学生向けPC販売サイト、不正アクセスの影響判明　明大・帝京など利用",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000625/",
+      "summary": "加賀ソルネットは8月17日、ECサイト「アカデミコナビ」への不正アクセスに関する調査結果を公表した。16万5587人分の個人データの漏えいを確認したほか、停止中のサイトは10月末の再開を予定する。",
+      "published": "2026/08/19 18:25",
       "image_url": ""
     },
     {
@@ -58,83 +58,83 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米ディズニーとABC、放送規制当局を提訴　トランプ政権の意向で不当に標的にされたと",
-      "url": "https://www.bbc.com/japanese/articles/c4g31424rqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "米ディズニーと傘下のテレビ局ABCは18日、アメリカの放送規制当局にあたる連邦通信委員会（FCC）を提訴した。両社は、ABCが編集内容を理由に不当に標的にされていると主張し、放送免許更新のためFCCが求めた審査前倒しの差し止めを首都ワシントンの連邦地裁に求めた。",
-      "published": "2026/08/19 10:39",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/32bd/live/f9b07010-9b1e-11f1-afea-3b9b9f2d3a59.jpg"
+      "title": "韓国、米国の要請で合同軍事演習を短縮　トランプ氏は金正恩氏と年内会談の意向",
+      "url": "https://www.bbc.com/japanese/articles/crk5y0180e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "韓国国防省は19日、アメリカと毎年実施している合同軍事演習を6日間短縮すると発表した。「アメリカ側の提案」を受けて、演習の「期間と規模」を調整したと説明した。一方、アメリカのトランプ大統領は同日、北朝鮮の金総書記と年内に会談する意向を表明した。",
+      "published": "2026/08/20 10:47",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、オマーンに脅し　イランとの協議を「邪魔するなら爆撃」",
-      "url": "https://www.bbc.com/japanese/articles/cn0njgdlnk9o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は17日、ホルムズ海峡をめぐる米政権とイランとの協議をオマーンが「邪魔する」なら、オマーンを爆撃すると脅した。米FOXニュースが報じた。オマーンはアメリカの同盟国。",
-      "published": "2026/08/18 11:35",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg"
+      "title": "解任されたウクライナ前国防相、大統領選挙の実施を要求",
+      "url": "https://www.bbc.com/japanese/articles/cy07e5rxvejo?at_medium=RSS&at_campaign=rss",
+      "summary": "7月に解任されたウクライナのミハイロ・フェドロフ前国防相（35）は、戦時下での大統領選実施を呼びかけた。フェドロフ氏は、「民主主義がロシアに人質にされるなど、あってはならない」と、ユーチューブに投稿した動画の中で主張した。",
+      "published": "2026/08/19 16:53",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロシア、イギリスに警告　ウクライナへのドローン供給で「テロ攻撃の共犯」",
-      "url": "https://www.bbc.com/japanese/articles/cm2g7x98v2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアは17日、イギリスを、「ウクライナ危機のエスカレーションを意図的に選択した」と非難した。イギリスで製造されたドローンがロシアに対する攻撃で使われたのが明らかになったのを受けたもの。",
-      "published": "2026/08/18 16:04",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg"
+      "title": "トランプ氏の韓国・北朝鮮政策、現在の方針は",
+      "url": "https://www.bbc.com/japanese/articles/c20e73957wvo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのドナルド・トランプ大統領は16日、北朝鮮の金正恩（キム・ジョンウン）総書記との「非常に良好な」関係を理由に、韓国との合同演習を縮小する計画を発表した。",
+      "published": "2026/08/20 00:33",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロシアとウクライナ、連夜の激しい攻撃　双方に多数の死傷者",
-      "url": "https://www.bbc.com/japanese/articles/c204938z807o?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシア西部と南部で17日朝にかけてウクライナの攻撃があり、現地当局によると、子ども1人を含む計9人が殺害され、23人が負傷した。一方、ウクライナ北東部と東部でも同じ時間帯にロシアの攻撃があり、合わせて４人が殺害されたと、当局が発表した。双方による連夜の激しい攻撃となった。",
-      "published": "2026/08/18 10:24",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff99/live/3f3c3600-9a39-11f1-a86b-519b4d19bbee.png"
+      "title": "【解説】 中国で朱鎔基元首相の告別式、国民の追悼を検閲　政府の思惑は",
+      "url": "https://www.bbc.com/japanese/articles/c36d9pl04g2o?at_medium=RSS&at_campaign=rss",
+      "summary": "中国の朱鎔基元首相の告別式が18日、北京で行われた。中国政府は朱氏を「忠実な」党員として称賛する一方で、同氏の改革時代に対する国民の追悼が、現在の習政権に対する遠回しな批判に容易に転じうることを警戒している。",
+      "published": "2026/08/19 15:22",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢今日は何を頑張ってみる?｣｢それはどうだった?｣教育学的に伸びる子の家庭がしている【5つの問い】 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954304?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢地頭力｣とは何か､そして子どもの成長において本当に重要な力とは？生成AI時代を生き抜くための\"学習転移\"の秘訣を､家庭での会話の工夫から紐解きます。子どもの努力を未来につなげる具体的な方法とは？い…",
-      "published": "2026/08/19 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/2/1200w/img_128706e1586087db4eb831e8bff46468336722.jpg?nextgen=false"
+      "title": "今やアラ還､美魔女ブームを牽引したバブル女性のリアル―結婚相手に｢3高｣求めて手にした\"光と影\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955024?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "バブル時代の豊かな経済と｢万能感｣にあふれたバブル世代。その背景には就職氷河期との明暗や､男女雇用機会均等法がもたらした女性の生き方の変化があります。",
+      "published": "2026/08/20 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/4/1200w/img_f48d351b362a3ec3b4e80f52fad49361169059.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈心理学が示唆する驚愕の真実〉幸せな人には共通点があった…あなたの運命と幸福度を左右する冷酷な｢遺伝｣の力 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952603?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "人はなぜ幸せを感じるのか――お金や肩書､高級車では説明できない｢幸福の正体｣に迫ります。同時多発テロの生死を分けたのも､じつは性格でした。遺伝や心理学から読み解く､意外な幸せの本質とは？そして自分の…",
-      "published": "2026/08/19 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/4/1200w/img_44eef76960875e0dbba3148f8fb3e866242320.jpg?nextgen=false"
+      "title": "ワインで言えば｢ランブルスコ｣､マセラティの新型SUV｢グレカーレ･トロフェオ｣は多彩なラインナップの真打か？ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954724?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イタリアの名門マセラティがSUV｢グレカーレ･トロフェオ｣を大胆に刷新。F1由来の技術を盛り込んだ590psの新型エンジンと一新したデザインが､官能と快適性を両立する。伝統と革新の融合､その真価はど…",
+      "published": "2026/08/20 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/7/1200w/img_e79a34193086a7c29d520d799886f937168802.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢Pixel｣が世界シェア1％しかないのに､モノ売りより\"AI体験\"に懸けることにした《グーグル･表参道新旗艦店》の目論見 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954631?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2026年8月､東京･表参道にグーグル初の米国外旗艦店｢Google Store 表参道｣が誕生しました。スマホだけでなく最先端AI体験を重視した新店舗の狙いとは？",
-      "published": "2026/08/19 09:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/9/1200w/img_59a80a1fa77e629669e938e1bc873a9a24441.jpg?nextgen=false"
+      "title": "｢誰かとつながっていたい｣と｢自由気ままにやりたい｣という2つの相反する欲求と､｢良い人生｣との深い関係 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943807?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "私たちは人とつながりたいと願う一方で､自由を求めて1人になりたくもなる──この2つの相反する欲求が､現代人の心にどんな影響をもたらしているのでしょうか？　進化心理学の視点から､つながりと自主性のバラ…",
+      "published": "2026/08/20 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/f/1200w/img_9f1e6e840b1e3eea8e90abe03d9a5b4f244277.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【アジアで2番目の規模】韓国KT SATが7000機衛星コンステ申請､日本の巨大衛星コンステ構想にライバル出現か？ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955215?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "韓国のKT SATが国際電気通信連合に7000機規模の通信衛星網を申請し､アジアでも屈指の壮大な計画を発表しました。",
-      "published": "2026/08/19 09:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/d/1200w/img_4dc25d29cebd9a8f1da021a0b65a9ab1775999.jpg?nextgen=false"
+      "title": "〈時価総額約500億ドル突破〉中国ヒト型ロボットメーカー宇樹科技（ユニツリー）､上場初日に株価は460％高を記録 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955375?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国で最も知名度の高いヒト型ロボットメーカー、宇樹科技（ユニツリー）が19日、上海証券取引所の新興ハイテク企業向け株式市場「科創板（スター・マーケット）」に上場した。初値は1100元で、公開価格（1…",
+      "published": "2026/08/20 09:25",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1c7457464c26a3f32321c570dd62ee85174993.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【東大入試で見えた｢かなり優秀な人｣の限界】｢ただ分析できる人｣と｢自分で決断できる人｣を分ける\"思考の決定的差\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東大入試の｢予想問題｣と｢合格･不合格の解答例｣から､AI時代に一生武器となる｢思考法｣を読み解きます。あなたは大丈夫？",
-      "published": "2026/08/19 09:01",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/4/1200w/img_a47870a33ef8e2ffc95a8051277fc04298271.jpg?nextgen=false"
+      "title": "一般人が｢粉からトルティーヤ作り｣､湖池屋､3COINSも参戦…近年の\"タコスブーム\"でここまで本格志向が過熱する必然 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954755?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "最近､日本でタコス人気が急上昇しています。本場仕込みのタコスを楽しむ若者が増え､家庭用グッズや食品も充実。なぜ今､タコスがこれほど注目を集めるのでしょうか？",
+      "published": "2026/08/20 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/5/1200w/img_1596442b26fae42acd8414f47328e805231307.jpg?nextgen=false"
     }
   ]
 }
