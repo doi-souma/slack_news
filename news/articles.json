@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-08-21T01:57:18.896500+00:00",
+  "generated_at": "2026-08-22T01:49:42.962683+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Googleのオープンモデル「Gemma」、累計10億ダウンロード超　GitHubに公式ディレクトリ公開",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000670/",
-      "summary": "Googleは、オープンモデル「Gemma」ファミリーの累計ダウンロード数が10億回を突破したと発表した。派生モデルは10万種を超え、公式リポジトリ「Awesome Gemma」をGitHubで公開。宇宙空間での衛星データ解析や新規のがん治療経路の発見など、多様な活用事例を紹介している。",
-      "published": "2026/08/21 10:14",
+      "title": "中国の動画サイト「bilibili」にグローバル版アプリ　日本でも配信開始　まずはAndroidから",
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/",
+      "summary": "中国の動画共有サービス「bilibili」は8月19日、グローバル版アプリの提供を開始したと発表した。まずAndroid版をGoogle Playで配信しており、本人確認書類なしでアカウントを登録できる。",
+      "published": "2026/08/22 00:52",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "macOS版ChatGPT、Appleの「メッセージ」と連携　会話検索や下書き、送信に対応",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
-      "summary": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
-      "published": "2026/08/21 09:22",
+      "title": "目指すは、日本発IPで海外売上20兆円　経産省が新戦略を発表　「ものがたり大国5カ年計画」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000696/",
+      "summary": "経済産業省は8月20日、2033年に日本発コンテンツの海外売上20兆円を目指す「エンタメ・クリエイティブ産業戦略2026」を取りまとめたと発表した。ゲーム・アニメ・マンガ・音楽・実写の5分野で、海外売上を24年の6兆1000億円から約3倍に、民間投資額も約3倍の24兆5000億円に拡大する官民目標を掲げる。",
+      "published": "2026/08/21 21:51",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "終了発表の縦読み漫画「comico」――元重課金ユーザーが振り返る「いつしか開かなくなった」理由",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000649/",
-      "summary": "縦読み漫画サービス「comico」が2027年1月に終了する。学生時代に重課金ユーザーだった記者が、女性向け作品へのシフトやレンタル券導入、作品の突然の終了など、利用者の反応も交えながら、いつしか同サービスから離れていった理由を振り返る。",
-      "published": "2026/08/21 09:00",
+      "title": "法務省、「ラヴ上等」とのタイアップ中止　「当初の意図を全うすることが難しい」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000695/",
+      "summary": "法務省は8月21日、米Netflixの恋愛リアリティーショー「『ラヴ上等』シーズン2」と「更生保護」の取り組みとのタイアップを取りやめると発表した。タイアップを巡り、犯罪被害者に不快感や割り切れない思いを抱かせるのではないかといった批判が多く寄せられたことなどを受けての判断という。",
+      "published": "2026/08/21 19:51",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Google、読者がワンクリックで“推しメディア”登録できるボタン公開",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000668/",
-      "summary": "Googleは、検索やDiscover、Googleニュースのパーソナライズ機能を拡充した。パブリッシャーのWebサイト上から直接「優先するニュース提供元」に登録できるボタンを新設。Discoverでは自然言語で見たいトピックや除外条件を指定可能にし、Googleニュースの音声ブリーフィングもカスタマイズ可能にする。",
-      "published": "2026/08/21 08:15",
+      "title": "FANZA、成人向けAI創作・公開サービス「FANZAスタジオ」発表　先行体験は8月24日から",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000691/",
+      "summary": "デジタルコマースは8月17日、成人向けECサイト「FANZA」上で、AIコンテンツの創作・公開サービス「FANZAスタジオ」の先行体験を24日に始めると発表した。",
+      "published": "2026/08/21 18:52",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "スリコのガジェット、なぜ売れる？　きっかけは「コイン3枚」からの脱却　担当者に聞いた“ドカ売れ”の論理",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000659/",
-      "summary": "ヘアアクセサリーやキッチン用品など、さまざまな雑貨が300円から手に入る「3COINS」（スリーコインズ）。生活雑貨のイメージが強いが、イヤフォンやモバイルバッテリーをはじめとしたガジェットも販売しているのはご存じだろうか。",
-      "published": "2026/08/21 07:00",
+      "title": "SNSのウソ画像、どう見破る？　熊本県庁やテレビ局も頼る“すごい企業”の正体",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/",
+      "summary": "スペクティが提供する「Spectee Pro」は、さまざまな情報を収集し、その時に起きている「危機」を可視化するシステムだ。多くの自治体やマスコミも活用しているというSpectee Proは、どうやってデマや虚偽の情報を見分けるのか。",
+      "published": "2026/08/21 18:31",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イスラエル軍、ガザ市の5歳少女殺害で乗っていた車への発砲認める　刑事捜査を開始",
-      "url": "https://www.bbc.com/japanese/articles/ce85rlmd158o?at_medium=RSS&at_campaign=rss",
-      "summary": "イスラエル軍は19日、2024年1月にパレスチナ・ガザ地区で5歳のパレスチナ人少女ヒンド・ラジャブさんが親族6人と共に殺害されたことをめぐり、ヒンドさんを乗せた車に同軍が発砲したことを初めて認めた。同軍は、ヒンドさんとその家族および救助に向かった救急隊員の殺害、そして2025年3月に発生した救急隊員や国連職員を含むパレスチナ人15人の殺害について、刑事捜査を開始すると発表した。",
-      "published": "2026/08/20 13:29",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg"
+      "title": "イスラエル、ヨルダン川西岸で入植地建設を推進　英仏独伊とカナダが非難",
+      "url": "https://www.bbc.com/japanese/articles/crk5gne0lg1o?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエルが、占領しているパレスチナ・ヨルダン川西岸地区で、入植者向けの住宅約1200戸を戦略的に重要な地域に建設することを計画しており、工事に関する入札の開始を発表した。西側主要国は改めて非難の声を上げている。",
+      "published": "2026/08/21 11:21",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロシアがキーウ空爆、少なくとも13人死亡　ウクライナは防空ミサイル不足で苦慮",
-      "url": "https://www.bbc.com/japanese/articles/c78gpgpdnwno?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナの首都キーウで20日未明、ロシアによる空爆があり、少なくとも13人が死亡、40人が負傷した。ウクライナは依然として、防空ミサイルの不足に直面している。",
-      "published": "2026/08/20 17:21",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg"
+      "title": "香港の裁判所、天安門事件追悼団体の元幹部らに有罪判決　国安法違反で",
+      "url": "https://www.bbc.com/japanese/articles/c70g2x1nnk9o?at_medium=RSS&at_campaign=rss",
+      "summary": "中国で1989年にあった天安門事件を追悼する集会を毎年開催していた香港の活動家2人に対し、香港の裁判所は21日、物議を醸している中国の「香港国家安全維持法」（国安法）の国家政権転覆扇動罪で有罪判決を出した。",
+      "published": "2026/08/21 17:47",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イスラエル、ガザ支援職員の殺害めぐり軍関係者を訴追せず　豪政府は「憤慨」",
-      "url": "https://www.bbc.com/japanese/articles/cnvn0pmq5qzo?at_medium=RSS&at_campaign=rss",
-      "summary": "パレスチナ自治区ガザ地区で2024年、人道支援団体のオーストラリア人スタッフがイスラエル軍の空爆によって殺害されたことをめぐり、イスラエル政府は19日、軍関係者を訴追しないと決定した。オーストラリアのウォン外相は20日、「憤慨している」と怒りをあらわにした。",
-      "published": "2026/08/20 16:28",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg"
+      "title": "ロシアのキーウ空爆、重要インフラが「意図的に」攻撃されたとクリチコ市長",
+      "url": "https://www.bbc.com/japanese/articles/c629pjp5g54o?at_medium=RSS&at_campaign=rss",
+      "summary": "ロシアによるウクライナの首都キーウへの直近の攻撃について、キーウのヴィタリ・クリチコ市長は20日、首都の重要インフラが数カ月ぶりに「意図的に攻撃された」と述べた。",
+      "published": "2026/08/21 13:05",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c4d/live/4dc6e760-9d0e-11f1-b109-879e35c24276.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ハリー英王子とメガン妃、イギリスに帰国へ",
-      "url": "https://www.bbc.com/japanese/articles/cg4d7pp2qnno?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリス王室のサセックス公ハリー王子と妻のメガン妃が、生活拠点をイギリスに戻すことを計画していることが、BBCニュースが入手した情報で明らかになった。夫妻の子供であるアーチー王子（7）とリリベット王女（5）は、9月からイギリスの学校で学ぶ予定だ。ハリー王子とメガン妃が王室の公務に復帰する計画は、今のところない。",
-      "published": "2026/08/20 15:33",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1aa9/live/d0abf130-9c1d-11f1-aed2-8d6da8d75094.jpg"
+      "title": "英ケンブリッジ大教授の盗用疑惑を告発した学者、ベルギーの大学で停職に",
+      "url": "https://www.bbc.com/japanese/articles/c1k1948nkrko?at_medium=RSS&at_campaign=rss",
+      "summary": "論文盗用疑惑の渦中にいた英ケンブリッジ大学元教授のジェイソン・アーデイ氏（41）が遺体で発見されたことをめぐり、同氏を告発し、批判を繰り返していた学者が、所属するベルギーの大学で停職となった。",
+      "published": "2026/08/21 13:20",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e43d/live/079df5f0-9d16-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "破綻した中国恒大の創業者に無期懲役、　不動産市場を「深刻な混乱」に陥れたと",
-      "url": "https://www.bbc.com/japanese/articles/cvgvrvk6xgko?at_medium=RSS&at_campaign=rss",
-      "summary": "中国広東省深圳市の中級人民法院（地裁）は20日、国内住宅市場の低迷で中心となった不動産大手、中国恒大集団（エバーグランデ）の創業者に対し、無期懲役の判決を言い渡し、全財産の没収を命じた。",
-      "published": "2026/08/20 17:58",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg"
+      "title": "大阪市のパチンコ店放火で5人殺害、死刑囚の刑を執行",
+      "url": "https://www.bbc.com/japanese/articles/clyelr192p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "大阪市内のパチンコ店に放火して5人を殺害したとして死刑が確定した高見素直死刑囚（58）について、法務省は21日、刑を執行したと発表した。日本では1年以上、死刑執行がなかった。",
+      "published": "2026/08/21 16:47",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/472a/live/5bf07db0-9d09-11f1-a7a3-177d6356d0c7.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【特別連載ダイジェスト】オリックス宮内義彦が語る｢改革の真実｣――なぜ日本は変われないのか？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955502?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本経済が停滞した｢失われた30年｣。規制改革やガバナンスの最前線に立った宮内義彦氏が､激動の時代に直面した既得権益や労働市場改革､プロ野球再編の舞台裏を一次証言で明かします。",
-      "published": "2026/08/21 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/8/1200w/img_28bb2df75b8d1cf9436e9b25b4a7eda967965.jpg?nextgen=false"
+      "title": "昭和･平成の常識｢センターは普通に勉強すれば取れる｣→今は絶対に無理！昭和世代は知らない令和の｢共通テストの地獄｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954659?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年度の大学入試は､｢知識量｣より｢考える力｣が問われる大きな転換点となりました。共通テストの難化で､多くの受験生が想定外の点数に動揺し､戦略を急遽変更せざるを得なかったといいます。",
+      "published": "2026/08/22 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/2/1200w/img_7293ce0678cc1caf60bfdf2c8431f616246665.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ゲームやスマホにハマる子ども､親はどう向き合う？依存症に詳しい精神科医が伝える｢最初のアプローチから解決まで｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953257?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "現代の中高生が抱える\"依存\"の問題は多様化し､親の時代とは全く異なる難しさを持ちます。どう寄り添い､どこに相談すればいいのか悩む親も多いはず。親だからこそできる見守り方とはどのようなことでしょうか。",
-      "published": "2026/08/21 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/0/1200w/img_e098892aa610fa85fd1f120bb42112f6423206.jpg?nextgen=false"
+      "title": "渋滞｢予想の3割減｣でも｢30km以上は4割増加｣お盆の高速道路で何が起きていたのか？ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955434?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "この夏のお盆期間､高速道路の渋滞や通行量に変化が見られた。通行量はほぼ横ばいながら､10km以上の渋滞は前年比で減少。一方で30km超の長い渋滞は増加した。お盆期間の高速道路では一体何が起きていたの…",
+      "published": "2026/08/22 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/7/1200w/img_d7861387db3f742b446a5ae99a4e6c36282260.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢地域ナンバーワン塾｣を選んで後悔する子が急増中　倒産最多の業界で､塾選びに失敗する子と失敗しない子の差 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954657?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "塾選びで見えない本質を見抜くには､実際に足を運び､自分の目で現場と先生を確かめることが大切です。｢地域ナンバーワン塾｣が子どもにとって最適な環境とは限らない理由とは？",
-      "published": "2026/08/21 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/a/1200w/img_7a6e36c2d292faf0f5eb22902e04df91243811.jpg?nextgen=false"
+      "title": "｢中学生で月30万円稼いでいた｣カードゲームに夢中だった中学生→アニメプロデュース会社社長になった原点は\"相場眼\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955430?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "幼い頃｢神童｣と呼ばれた子どもたちは､大人になった今､どんな世界を見ているのでしょうか。本記事では､カードゲームに夢中になった少年が､市場や人の心を読み解く仕事にいたるまでを伺います。",
+      "published": "2026/08/22 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/f/1200w/img_af6f2896b6084925f2b089780a325371110095.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "54歳で東京藝大合格。｢京大卒→電通で32年勤務｣のエリートに退職＆学び直しを決断させた\"あの時の後悔\"〈再配信〉 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954990?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "大手広告会社を54歳で退職し､東京藝術大学に入学した和田満徳さん。若い頃の後悔を胸に再び受験勉強に挑み､半年の努力で見事合格を果たしました。（※読者の反響が大きかった記事を再配信します。本稿は202…",
-      "published": "2026/08/21 08:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/a/1200w/img_0a025dabf11f65220e57c6ff56c2d2ab20328.jpg?nextgen=false"
+      "title": "編集部厳選､注目の経済ニュース！【8月22日】 今週のトピックス＆来週のスケジュール | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955569?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東洋経済オンライン有料会員の皆様に､注目のスケジュールやトピックスをお届けします。",
+      "published": "2026/08/22 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/9/1200w/img_69048a4b6261a7c45e0d1bea3380b94b124758.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "脳出血に倒れた大島渚監督を17年介護､自身もがん闘病…女優･小山明子さんがそれでも｢今満たされている｣と言える訳 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954704?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "90歳を迎え､数々の苦難や病に立ち向かいながらも｢すべてが満たされています｣と微笑む女優･小山明子さん。戦争､夫の介護､うつやがんとの闘い――その人生を彩る\"凜とした強さ\"の秘密とは何なのでしょうか？",
-      "published": "2026/08/21 07:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/e/1200w/img_ce3a23392ac4af77507311d7255a763e453405.jpg?nextgen=false"
+      "title": "【最新｢業界地図｣発売！】AIがもたらす業界の地殻変動､自律型エージェントと国産AIの台頭とは？ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955527?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AI業界の急速な進化とともに､生成AIやサイバーセキュリティー､IPビジネスなど新たな業界の地殻変動が続出しています。『会社四季報 業界地図 2027年版』では､最新AI動向や各分野の動きを徹底解説…",
+      "published": "2026/08/22 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/a/1200w/img_8aa9940915ccc8ee4d395bc80a640f66661186.jpg?nextgen=false"
     }
   ]
 }
