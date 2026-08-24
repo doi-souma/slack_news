@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-23T01:59:44.395276+00:00",
+  "generated_at": "2026-08-24T01:57:24.897494+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "中国の動画サイト「bilibili」にグローバル版アプリ　日本でも配信開始　まずはAndroidから",
+      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/",
+      "summary": "中国の動画共有サービス「bilibili」は8月19日、グローバル版アプリの提供を開始したと発表した。まずAndroid版をGoogle Playで配信しており、本人確認書類なしでアカウントを登録できる。",
+      "published": "2026/08/23 13:11",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -31,20 +40,20 @@
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "中国の動画サイト「bilibili」にグローバル版アプリ　日本でも配信開始　まずはAndroidから",
-      "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/",
-      "summary": "中国の動画共有サービス「bilibili」は8月19日、グローバル版アプリの提供を開始したと発表した。まずAndroid版をGoogle Playで配信しており、本人確認書類なしでアカウントを登録できる。",
-      "published": "2026/08/22 00:52",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
       "title": "目指すは、日本発IPで海外売上20兆円　経産省が新戦略を発表　「ものがたり大国5カ年計画」",
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000696/",
       "summary": "経済産業省は8月20日、2033年に日本発コンテンツの海外売上20兆円を目指す「エンタメ・クリエイティブ産業戦略2026」を取りまとめたと発表した。ゲーム・アニメ・マンガ・音楽・実写の5分野で、海外売上を24年の6兆1000億円から約3倍に、民間投資額も約3倍の24兆5000億円に拡大する官民目標を掲げる。",
       "published": "2026/08/21 21:51",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "バーナム英首相、初の外訪先はキーウ　ウクライナ支持を再確認へ",
+      "url": "https://www.bbc.com/japanese/articles/czrjrrzk7x3o?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのバーナム首相は、首相就任後初の外国訪問として、24日にウクライナの首都キーウを訪問する。ウクライナへのイギリスの支援を改めて表明するとともに、ウクライナの独立記念日を祝う予定だ。",
+      "published": "2026/08/24 10:41",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb9a/live/545c7720-9ef8-11f1-aed4-af6fe65bfcd6.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -83,58 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "プライバシー侵害訴訟で敗訴のハリー英王子やエルトン・ジョンさんら7人、最大75億円の費用負担の可能性",
-      "url": "https://www.bbc.com/japanese/articles/c62qpe3g9lpo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのサセックス公爵ハリー王子や歌手サー・エルトン・ジョンなど計7人の著名人は21日、英紙デイリー・メールと同メール・オン・サンデーの発行元を訴えたプライバシー侵害訴訟で敗訴したことを受け、訴えた出版社の訴訟費用を支払うよう高等法院に命じられた。この費用は最大3450万ポンド（約75億円）になる可能性がある。",
-      "published": "2026/08/22 11:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "新人類･バブル世代がシニアに！｢稼ぎ続けてしっかり遊ぶ｣生涯現役スタイルが変える日本経済の未来 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955025?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "今､消費欲や好奇心を持ち続けるバブル世代･新人類世代が｢キラキラシニア｣として登場。彼らが日本経済に与える新たな可能性とは？",
+      "published": "2026/08/24 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/d/1200w/img_3d366a127d27de908d125a8cafe46614306625.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢受験も社会も知識を持っているだけでは意味がない｣東大合格者が読みたい｢本当の頭のよさ｣を身につける本5選 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955040?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "生成AIの登場で｢頭の良さ｣の定義が大きく変わろうとしています。単なる知識の多さから､思考力や判断力､さらにはAIを活用した創造性へとシフトする現代。そんな時代に必要とされる新しい｢頭の良さ｣とは何…",
-      "published": "2026/08/23 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/e/1200w/img_def16a5a0d13a6a483a4ea499981e945251165.jpg?nextgen=false"
+      "title": "AI秩序を決する米中競争が始まる！日本は｢アメリカのクローズド型｣を選ぶか､それとも｢中国のオープン型｣を選ぶか | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "11月3日のアメリカ中間選挙は、AIの規制、開放性、技術主権をめぐる世界のルールを左右することになりそうだ。問われているのは、「どの国が最も高性能なモデルを開発するか」だけではない。より重要なのは、…",
+      "published": "2026/08/24 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6ad5ed408896f8f6e9f126bb700cc704316869.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本のいなり寿司がルーツの｢豆腐飯｣や｢人造肉｣…韓国に広がる脱北者経営のお店でリアルな北朝鮮料理を味わう | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955524?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "新型コロナで閉ざされた北朝鮮。そんな国の日常食が､韓国･仁川で北朝鮮から脱出した｢脱北者｣が経営する食堂で味わえることをご存じですか。移り住んだ人々の歴史や想いが詰まった豆腐飯や人造肉など､知られざ…",
-      "published": "2026/08/23 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/1/1200w/img_515240b3132b6c43e2c77b0005fdf930245751.jpg?nextgen=false"
+      "title": "副業で人事の評価は下がる？　企業のリアルな本音と､ダントツ人気を集めた｢ある外食企業の接客｣とは？ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955505?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2018年､副業が解禁され｢副業元年｣と呼ばれてから､コロナ禍を経て副業は日本で浸透しました。いまや大手企業も人的資本向上を狙い副業を前向きに捉える時代。しかし現場の人事部門は､期待と懸念という葛藤…",
+      "published": "2026/08/24 08:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/4/1200w/img_0450a0d74a6d01dbc74b13583a794c77401920.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "トランプ米大統領が6月だけで1000件超の証券取引､バークシャー､ビザ､マスターカード､シンタスなどを大量購入 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955648?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "米大統領トランプ氏が6月だけで1000件超の証券取引を行い､その規模は最大で420億円にも上ることが明らかになりました。",
-      "published": "2026/08/23 09:20",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/5/1200w/img_15a0aa69c77393d6ed7b5a6ee0006af4191261.jpg?nextgen=false"
+      "title": "走り続けることにも､休むことにも正解はない——田中希実が迷い､悩み､それでもスタートラインに立ち続ける現在地 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954728?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本女子中長距離界を牽引する田中希実選手が向き合う｢なぜ走り続けるのか｣。田中選手と親交があり､今年『アフリカから来たランナーたち 箱根駅伝のケニア人留学生』で第57回大宅壮一ノンフィクション賞を受…",
+      "published": "2026/08/24 08:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/7/1200w/img_f763b40288bd54227aef3a6d477a8e76850971.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈マネジメント 再設計のススメ⑥〉変貌を遂げる｢2040年の管理職｣企業と個人はいまから何に取り組むべきなのか | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955374?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2040年､日本の管理職は人口減少とAI革新により大きく再編されます。従来の年功序列や階層構造は崩壊し､AIと協働しながら自ら｢結果と責任を引き受ける意思｣が求められる時代へ。あなたはこの変化にどう…",
-      "published": "2026/08/23 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/9/1200w/img_69925c22c96fce969e3d29f2af18fe07162931.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "実年齢との\"ずれ\"が死亡率や認知症､フレイルとも関連…DNAに刻まれた｢年齢を推定する時計｣を巻き戻すことはできるのか | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955143?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本一おもろい生命科学者を目指してきた仲野徹さんによる連載の第3回｢手遅れ御免！ あしたのために その3｣では､最新科学｢DNAメチル化時計｣による年齢推定法にまつわる\"科学ミステリー\"を解説します。",
-      "published": "2026/08/23 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/a/1200w/img_4a9e385c7a95671a5b51c02f0204e273200815.jpg?nextgen=false"
+      "title": "ビールが進む…！22年ぶりのカナダで飲んだら｢食｣の進化が凄かった　移民国家だからこその多彩な｢酒の肴｣を一挙ご紹介 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955288?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "22年ぶりに訪れたカナダで最も驚かされたのは､進化した\"食\"文化でした。食を通じて見えた､カナダならではの魅力とは――。",
+      "published": "2026/08/24 07:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/5/1200w/img_a585f8968b3c7da6320ec8b6bb590e8b237714.jpg?nextgen=false"
     }
   ]
 }
