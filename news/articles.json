@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-08-26T01:58:13.767999+00:00",
+  "generated_at": "2026-08-27T09:49:15.982541+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「Meta Glasses」日本でも発売　「Ray-Ban Meta」より安い5万600円?",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000781/",
-      "summary": "5月にRay-Ban Meta（7万3700円?）、Oakley Meta（7万7220円?）を日本で発売しているが、Meta Glassesはより低価格帯で展開する。",
-      "published": "2026/08/26 10:16",
+      "title": "トヨタ、28年にAI自動運転車を投入　「E2E」と事前ルール規定を組み合わせるハイブリッド方式",
+      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000868/",
+      "summary": "トヨタ自動車は27日、AIが周囲の認識から運転の判断、操作までを担う自動運転車を28年に実用化すると明らかにした。米Teslaなどが先行する「エンド・ツー・エンド（E2E）」方式で、日産自動車やホンダも搭載車の発売を予定する。",
+      "published": "2026/08/27 18:14",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "法人パソコンにも高騰の波　“中古”の常識を変えた「リファービッシュPC」に企業が熱視線のワケ　VAIOに聞く",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000752/",
-      "summary": "物価高を背景に、VAIOのリファービッシュPC「Reborn VAIO」が注目を集めている。企業の調達担当者も頷く、こだわりの仕様とは？　同社Reborn VAIO事業室の花村英樹室長に詳しい話を聞いた。",
-      "published": "2026/08/26 10:00",
+      "title": "NASA・FRBなど米政府機関にサイバー攻撃　中国国家安全省の関係企業が関与、米司法省が発表",
+      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000866/",
+      "summary": "米司法省は8月26日（現地時間）、中国国家安全省が関係する企業が米政府機関にサイバー攻撃を仕掛けたと発表した。標的にはNASAやFRB、上院のほか、病院や電力、金融といった民間分野も含まれる。",
+      "published": "2026/08/27 18:13",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“ドパガキ”がショート動画を止められない理由　fMRIを使って若者の脳活動を分析　中国チームが研究",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000739/",
-      "summary": "中国の浙江大学などに所属する研究者らが2月に学術誌「NeuroImage」で発表した論文「Brain activity inhibition during Short Video Viewing: neurochemical insights」は、ショート動画視聴時における脳の認知コントロール機能の抑制と、脳内物質との関連性を分析した研究報告だ。",
-      "published": "2026/08/26 07:00",
+      "title": "「Backlogの値上げエグすぎ」SNSで悲鳴　ユーザー無制限プラン、月最低1.6万円→3.6万円に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000862/",
+      "summary": "",
+      "published": "2026/08/27 17:12",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「Mac Studio」待望の新モデル　M5 UltraでAI性能は最大4.3倍に　512GBメモリも選べる",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000778/",
-      "summary": "米Appleが、デスクトップPC「Mac Studio」の新モデルを発表した。新チップ「M5 Ultra」を載せた上位モデルはユニファイドメモリを最大512GB搭載でき、下位のM5 Max搭載モデルは最大128GB。世界的なメモリ不足で、現行モデルの選択肢は最大96GBまで絞られていた。価格は41万9800円から。",
-      "published": "2026/08/26 02:26",
+      "title": "ちっちゃな人型ロボが100mトラックをぽてぽて……中国ロボ陸上の“おちびランナー”が話題　「可愛すぎ」「けなげ」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000852/",
+      "summary": "中国・北京で8月22日から26日（現地時間）まで開催された、人型ロボットの性能を競う「世界人型ロボット運動会」。陸上のウサイン・ボルト選手越えのスピードを発揮するロボなどが注目を集める一方で、100mトラックをぽてぽてと歩くとある小型人型ロボが可愛らしいとSNSの話題をさらっている。",
+      "published": "2026/08/27 14:59",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "新型「Mac mini」登場　M6チップに刷新、1万5000円アップの14万9800円から　上位はM5 Proに",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000777/",
-      "summary": "米Appleが、新型「Mac mini」を発表した。標準モデルには同社初の2nmチップ「M6」、上位モデルには「M5 Pro」を搭載する。価格は14万9800円からで、同じメモリ16GB／ストレージ256GB構成の現行機（13万4800円）から上がった。9月22日発売。",
-      "published": "2026/08/26 00:44",
+      "title": "キオクシア、1兆円超の新棟建設報道に言及　「さまざまな検討を行っていることは事実」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000851/",
+      "summary": "キオクシアホールディングスは8月27日、傘下のキオクシアが北上工場（岩手県北上市）に新棟を建設するとの報道について「当社およびその子会社が発表したものではない」とコメントした。一方、新棟建設については、「さまざまな検討を行っていることは事実」と認めた。",
+      "published": "2026/08/27 14:58",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカ、「史上最大の金融攻勢」を発表　イランは準備万全と強調",
-      "url": "https://www.bbc.com/japanese/articles/cn74l1708j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのベセント財務長官は24日、イランに対する「史上最大の金融攻勢」と呼ぶ新たな経済制裁を発表した。また、イランを支援する国々をけん制した。これに対しイランは、拡大された制裁に対抗する2カ年計画がすでにあるとした。",
-      "published": "2026/08/25 16:28",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg"
+      "title": "ネパール・中国の国境地帯で大規模な土石流　少なくとも150人死亡、400人以上が行方不明",
+      "url": "https://www.bbc.com/japanese/articles/cpd0qpygx6vo?at_medium=RSS&at_campaign=rss",
+      "summary": "ネパールと中国・チベットの国境沿いで26日、大規模な土石流が発生し、ネパール側で150人以上が死亡、400人以上が行方不明となっている。行方不明者の多くは外国人とみられている。現地では村々が流され、道路やインフラが深刻な被害を受けている。中国側でも死者や多数の行方不明者が出ているとみられる。",
+      "published": "2026/08/27 11:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bd2/live/72e08190-a11f-11f1-92eb-a9b3bbcf6f4a.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "バーナム英首相、ウクライナ支援継続を現地で誓う　ロシアの「言語道断の脅迫」にひるまない姿勢強調",
-      "url": "https://www.bbc.com/japanese/articles/cd94dzjqv5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのバーナム首相は24日、就任以降初めて公式訪問しているウクライナで、ロシアからの「言語道断の脅迫」にひるむことなく、イギリスはロシアに圧力をかけ続けると誓った。",
-      "published": "2026/08/25 10:39",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg"
+      "title": "ネパール・中国国境付近の土石流、発生時の映像　建物や橋が流失",
+      "url": "https://www.bbc.com/japanese/articles/c8d3j28lrpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "ネパールと中国・チベット自治区の国境付近で26日、大規模な土石流が発生した。多数の死者や行方不明者が出ている。現地で撮影されたと確認された複数の動画には、土石流から逃げようと走る人々や、橋が崩壊する瞬間などが映っている。",
+      "published": "2026/08/27 12:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d165/live/62eb5330-a149-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカ、シリアの「テロ支援国家」指定を解除",
-      "url": "https://www.bbc.com/japanese/articles/crl6r1r4pd4o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ政府は24日、シリアに対して47年前から続けてきた「テロ支援国家」指定を解除した。これにより、シリアへの民間投資と、シリアを世界経済へ再統合することを妨げていた「最後の主要な障壁」が取り除かれたとしている。",
-      "published": "2026/08/25 13:44",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg"
+      "title": "草間彌生さん死去、97歳　水玉模様で有名な世界的前衛芸術家",
+      "url": "https://www.bbc.com/japanese/articles/cge4ylrlvpeo?at_medium=RSS&at_campaign=rss",
+      "summary": "カラフルな水玉模様で覆われた彫刻やインスタレーション作品で有名になった日本の前衛芸術家、草間彌生さんが今月14日、死去した。97歳だった。",
+      "published": "2026/08/27 18:17",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68e9/live/c0186840-a1df-11f1-b109-879e35c24276.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英デパート「ハロッズ」元オーナーの性的暴行疑惑、関係者を書類送検　BBCの調査報道で発覚",
-      "url": "https://www.bbc.com/japanese/articles/crk3mvdrxrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "英ロンドン警視庁は24日、ロンドンの老舗高級デパート「ハロッズ」のオーナーだったエジプトの富豪モハメド・アル・ファイド氏（故人）による性的暴行などの疑いに関する捜査の一環として、80代の男性容疑者に関する証拠書類を検察庁に送致した。アル・ファイド氏の「捕食者」としての行動は、2024年9月にBBCが報道したドキュメンタリー番組とポッドキャスト番組で明らかになった。取材では、同氏に性的暴行やレイプを",
-      "published": "2026/08/25 17:33",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5ac/live/e3f382f0-9fe5-11f1-8ed1-41aaf1fca4f2.jpg"
+      "title": "英俳優ティム・カリーさん死去、80歳　「ロッキー・ホラー・ショー」や「IT」で人気",
+      "url": "https://www.bbc.com/japanese/articles/cx2z4kkeq9do?at_medium=RSS&at_campaign=rss",
+      "summary": "ミュージカル映画「ロッキー・ホラー・ショー」で奇抜なフランク・N・フルター博士を演じたことで知られるイギリス人俳優ティム・カリーさんが25日、死去した。80歳だった。",
+      "published": "2026/08/27 15:36",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f416/live/e5f37b10-a179-11f1-b109-879e35c24276.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "世界の海面水温が観測史上最高　エルニーニョ発達",
-      "url": "https://www.bbc.com/japanese/articles/cn5dr6rel9qo?at_medium=RSS&at_campaign=rss",
-      "summary": "欧州連合（EU）の気象情報機関は24日、世界の海面水温が22日に観測史上最も高い21.1度に達したと発表した。人間の活動による気候変動や、太平洋赤道域でのエルニーニョ現象の発達が、海の水温上昇に影響している。",
-      "published": "2026/08/25 12:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
+      "title": "子どものSNS利用めぐる米訴訟、メタが2.8兆円支払いで和解",
+      "url": "https://www.bbc.com/japanese/articles/c14d8y428kgo?at_medium=RSS&at_campaign=rss",
+      "summary": "米メタは26日、自社のフェイスブックとインスタグラムが子どもに害を与えたとしてアメリカの複数の州・地域が起こしていた訴訟をめぐり、計180億ドル（約2兆8700億円）の和解金を支払って和解することで合意した。メタはまた、各州が要求していた、プラットフォーム上で子どもの安全性を高めるためのさまざまな機能を実装する。",
+      "published": "2026/08/27 13:59",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa89/live/9a0f4c00-a152-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "家族3人｢2772円｣で満腹に…京都北白川｢ラーメン魁力屋｣で\"懐かしの味\"に歓喜する夜　背脂入りでも\"あっさり\"の魅力とは | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955302?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "京都発祥の人気ラーメンチェーン｢魁力屋｣を家族で訪れ､夏の暑さを吹き飛ばす醤油ラーメンやお得なキッズセット､無料クーポン､ネギやたくあんの嬉しいサービスを体験。懐かしい味が大人にも子どもにも響く､そ…",
-      "published": "2026/08/26 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/2/1200w/img_32c0adb8dd33106ccff95d3fca73a9a8495220.jpg?nextgen=false"
+      "title": "AIが暴走? なぜ容易に外部組織に侵入できてしまうのか－爆速進化するAIがもたらす安全性リスクとは？ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956097?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AI技術の急速な進化に伴い､米大手企業のAIモデルが相次いで制御外のサイバー攻撃を引き起こしています。",
+      "published": "2026/08/27 17:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/d/1200w/img_4d10e0ce1a28bf9250b99d3d71a9a226197457.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "千葉県豪雨｢10キロ先で冠水｣なのに後続車が続々…国道で3時間の立ち往生､スマホ時代でも埋まらない｢災害情報の空白｣ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955701?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2026年8月に千葉県を襲った突然の豪雨。国道で立ち往生した筆者を助けたのはスマホによる情報でありませんでした。ラジオやアマチュア無線などさまざまな情報手段を駆使し､混乱を乗り越えた体験を紹介します。",
-      "published": "2026/08/26 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/b/1200w/img_6be48ac79e9bad6c61f3cee17c891680190813.jpg?nextgen=false"
+      "title": "前衛芸術家の草間弥生さんが8月14日死去､享年97…水玉模様で幻想的な世界を描く | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956085?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "前衛芸術家の草間弥生さんが14日､死去した。97歳だった。草間さんは､無数の水玉模様が広がる幻想的な世界を描き､芸術･文化面だけでなく､商業的にも大きな成功を収めた。公式ウェブサイトの発表によると､…",
+      "published": "2026/08/27 17:25",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/4/1200w/img_d4e53dd8fabe98d6133164a4acca2d7a1198458.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "同型のパワートレインを搭載､大柄になったA5との差別化は…アウディ新型｢A6｣が単なるサイズ違いではない明確な理由 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954938?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アウディ新型A6/A6アバントが日本上陸。今回はディーゼルターボエンジン＋マイルドハイブリッドシステムをセダンボディに組み合わせた｢A6 TDI quattro｣に試乗。その走行体験とは？",
-      "published": "2026/08/26 09:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/0/1200w/img_c07575a447cc1c6a5f11e7b4c851c07c186323.jpg?nextgen=false"
+      "title": "｢どうしても一橋大に行きたい｣なら対策するべき科目は？共通テスト超難化の令和に\"笑う受験生\"と\"泣く受験生\"の差 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955458?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢知識の量｣より｢考える力｣が重視されている共通テスト。全科目満点を狙う時代は終わり､志望大学ごとに必要な得点戦略の設計が不可欠になっているといいます。",
+      "published": "2026/08/27 15:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/8/1200w/img_b8c030c5baa8b6fa5554f7ceae1fcd51297843.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢なぜテーマパークは入園料が上がる？｣｢どうして走っても痩せない？｣…日常の疑問を解き明かす､頭のいい人の《分解思考》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955692?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "テーマパークの入園料値上げが注目されていますが､なぜ｢入園料｣だけが値上げされるのでしょうか。その理由を考えるためには､ダイエットや生活の本質的な課題解決を考えるためにも役に立つ､｢構造化して考える…",
-      "published": "2026/08/26 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/8/1200w/img_58e8ba3eb0311ec2ff7efe936bbf1390196932.jpg?nextgen=false"
+      "title": "1兆パラメータのAIを社外に出さず動かせる新型Mac､｢最大400万円超｣でも企業が買う理由 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955854?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップルが発表した新型デスクトップMacは､初の2nmプロセスM6チップをはじめ､AI性能とローカル処理能力が飛躍的に進化。驚異的な高性能の裏には､価格高騰や円安といった新たな課題も。これからのMa…",
+      "published": "2026/08/27 14:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/8/1200w/img_d80217198c5dbb06089103b92671a12e185432.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "アップル､｢Mac mini｣と｢Mac Studio｣を刷新…需要の高い両機種のプロセッサーを大幅に強化 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955907?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アップルが最新のMac miniとMac Studioを発表しました。",
-      "published": "2026/08/26 08:32",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1cd5817c4d12977205571415a8a52494610942.jpg?nextgen=false"
+      "title": "AIブームでスマホ値上げが避けられない時代へ､FCNTが｢手が届くハイエンド｣を守った価格戦略の舞台裏 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955650?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIの拡大がスマートフォンの価格に影響し､半導体メモリの需要と高騰がメーカーを悩ませている。｢手が届くハイエンド｣にこだわり､コストと品質のバランスを徹底追求したFCNTの戦略とは。",
+      "published": "2026/08/27 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/2/1200w/img_522accb2386e32eac3041683c744956e153399.jpg?nextgen=false"
     }
   ]
 }
