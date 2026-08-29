@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-28T11:23:47.060375+00:00",
+  "generated_at": "2026-08-29T07:04:36.425943+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "動画カメラは混沌の時代へ？　ミラーレス一眼へ乗り出すアクションカムメーカーも現れた2026年前半の業界動向",
+      "url": "https://www.itmedia.co.jp/news/article/2608/29/2000000906/",
+      "summary": "今回は26年のカメラ界をちょっと振り返ってみたいと思う。目立つのはカメラ各社の本格的な動画カメラへの注力だ。一方でアクション／ウェアラブルカメラのメーカーも気になる動きをしている。",
+      "published": "2026/08/29 09:16",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "大人向け「スーパーカー自転車」は和テイストだった　リトラクタブルライトにRFID認証など装備満載",
+      "url": "https://www.itmedia.co.jp/news/article/2608/29/2000000934/",
+      "summary": "昭和50年代に男の子達が熱狂した通称「スーパーカー自転車」をご存知でしょうか。多くの自転車メーカーがクルマをモチーフにした装備の児童向け自転車を投入し、それが大ヒットしました。そんな昭和の自転車が、令和版になって復活。しかも大人向けもあります。",
+      "published": "2026/08/29 08:32",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -29,30 +47,39 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "イエローハット、最大180万人分の情報漏えいか　作業予約システムに不正アクセス",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000922/",
-      "summary": "イエローハットは8月28日、店舗での作業予約に使う「イエローハットWEB作業予約システム」が不正アクセスを受け、最大180万1499人分の個人情報が漏えいした可能性があると発表した。漏えいした可能性があるのは氏名や電話番号などで、クレジットカード情報は含まないとしている。",
-      "published": "2026/08/28 18:27",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "ダサいスライド資料を作る大会が開催中　応募フォームもダサい",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000902/",
-      "summary": "学生向け就職活動支援サービスを手掛けるサポーターズ（東京都渋谷区）が、ダサいスライド資料を募る大会を開催している。同社が10月10日から11日にかけて開催する学生向けテックカンファレンス「技育祭2026【秋】」に伴う企画で、優勝者にはYouTuberの「ラムダ技術部」さんと一緒にイベントに登壇できる権利や、表彰状が贈られる。",
-      "published": "2026/08/28 18:05",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】チベット土石流の映像、中国で放送されず　被災者情報も乏しく……BBC中国特派員",
+      "url": "https://www.bbc.com/japanese/articles/cevw9rj3kd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "壊滅的な被害を出した土石流の最も衝撃的な映像は、中国ではほとんど見ることができない。",
+      "published": "2026/08/29 12:29",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者490人超、行方不明者は計1450人以上に",
+      "title": "ノルウェーでホーコン8世が即位、前国王ハーラル5世の死去を悼むなか",
+      "url": "https://www.bbc.com/japanese/articles/c5ywx17zgyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "ノルウェー国王ハーラル5世が28日、死去したことに伴い、息子のホーコン8世が即位した。同国では国全体での服喪が始まり、国民に愛されたハーラル5世の死を悼んでいる。53歳のホーコン新国王はこの日、政府閣僚との臨時国務会議を開き、王室のモットーである「すべてはノルウェーのために」を引き継ぐと述べた。",
+      "published": "2026/08/29 12:45",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加",
+      "url": "https://www.bbc.com/japanese/articles/c07l97y7vpko?at_medium=RSS&at_campaign=rss",
+      "summary": "北アフリカにあるスペインの飛び地、セウタ市に数万人の移民が流入してから1カ月がたった今、残る移民と地元住民の間で緊張が高まり、暴力事件が頻発している。スペイン政府は、危機を効果的に管理できていないとして、野党から非難されている。セウタの住民は、街中で身の危険を感じているという不満を訴えるとともに、公共サービスへの負担増についても懸念を表明している。",
+      "published": "2026/08/29 14:11",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b39/live/e5d60180-a2f9-11f1-8d5b-155abe464768.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者計570人超、行方不明者は計1900人以上に",
       "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "ネパールと中国・チベットの国境沿いの地域で26日に発生した大規模な土石流の被害は、28日時点で、ネパール側で死者が少なくとも489人、行方不明者が900人以上に上った。中国側では5人が死亡し、550人以上が行方不明になっていると報じられている。両側で多くの外国人観光客が巻き込まれたとみられている。現地では、生存者の救助・捜索活動が続くなか、新たな洪水発生への懸念が高まっている。",
-      "published": "2026/08/28 17:41",
+      "summary": "ネパールと中国・チベットの国境沿いの地域で26日に発生した大規模な土石流の被害は、29日までに、ネパール側で死者が少なくとも579人、行方不明者が1900人以上に上った。中国国営メディアは少なくとも7人が死亡し、554人が行方不明になっていると報じている。現地では、生存者の救助・捜索活動が続くなか、新たな洪水発生への懸念が高まっている。",
+      "published": "2026/08/29 10:25",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3bf/live/8a353d80-a27e-11f1-8679-47d8cdc0d791.jpg"
     },
     {
@@ -65,76 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbe8/live/ecb52260-a23b-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "泥の中から救出される人々……ネパール北部の土石流被災地",
-      "url": "https://www.bbc.com/japanese/articles/cx2zd72le3no?at_medium=RSS&at_campaign=rss",
-      "summary": "ネパールと中国・チベットの国境沿いで26日に大規模な土石流が発生したのを受け、現地では泥の中での救助作業が続いている。",
-      "published": "2026/08/28 12:15",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/734d/live/7cfde3c0-a1f1-11f1-bf30-b9c45f18ad85.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ノルウェーのハーラル国王が89歳で死去",
-      "url": "https://www.bbc.com/japanese/articles/cn8mg28eznvo?at_medium=RSS&at_campaign=rss",
-      "summary": "ハーラル国王は35年間の在位中、君主制を近代化し、一般人だったソニア王妃と結婚することで伝統を打ち破った。また、ノルウェーが最も困難な時期に国民を団結させた。",
-      "published": "2026/08/28 18:06",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6fb5/live/12061760-a2b7-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "旧ユーゴのムラディッチ受刑者が死亡、ボスニアでの虐殺で終身刑",
-      "url": "https://www.bbc.com/japanese/articles/cvgyxnklxv2o?at_medium=RSS&at_campaign=rss",
-      "summary": "1992～95年のボスニア・ヘルツェゴビナ内戦でのジェノサイド（集団殺害）などの罪で終身刑を受けたセルビア人司令官ラトコ・ムラディッチ受刑者が27日、オランダ・ハーグにある国連管理下の収監施設で死亡した。84歳だった。",
-      "published": "2026/08/28 14:51",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfd1/live/703cbea0-a218-11f1-aed2-8d6da8d75094.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "日本のアニメが日本人のために作られなくなったのは当然だった…｢原作者のせい｣でも｢視聴者のせい｣でもない\"本当の理由\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954662?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アニメビジネスを根底から変えてしまった構造的な変化——収益の約9割を海外配信に依存する業界変革が日本にもたらすものとは",
+      "published": "2026/08/29 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/e/1200w/img_3e7bd98dcabf90bb721f457c22837dd0670947.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【高配当株の探し方】高配当株のカギ「DOE」で探す本当に安全な銘柄／大株主欄でバフェットや政府系ファンドを追う大株主欄の極意／配当と株主から見極める！優秀な注目銘柄【きしたかのとスパルタ四季報学園】 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956245?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "▼会社四季報2026年3集 夏号（2026年6月17日発売）https://amzn.to/4uqNvi8「きしたかのとスパルタ四季報学園」第11回は複眼経済塾の瀧澤信さんによる授業です。今回のテ…",
-      "published": "2026/08/28 19:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/c/1200w/img_6ccaad4b8578b34d41b94dd7573c800c270086.jpg?nextgen=false"
+      "title": "過去1カ月の為替介入額は15兆3993億円と過去最大､期間中には日米協調 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956247?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "財務省は28日､過去1カ月間の為替介入の実施状況を公表した。7月30日から8月26日までの介入額は15兆3993億円と､月次ベースでは過去最大を更新した。円相場は7月下旬に1ドル＝164円台に迫る円…",
+      "published": "2026/08/29 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/a/1200w/img_7a07c2f0b7f3b5bbcc6a42d8597369f4818386.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "『救命病棟24時』『踊る大捜査線』復活に､｢過去の遺産｣｢TBSはしない｣と批判も…フジテレビが\"名作の続編\"を連発する訳 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956176?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ドラマ『救命病棟24時』（フジテレビ系）が今秋､13年ぶりに復活することが決定しました。近年フジテレビは､『踊る大捜査線』や『GTO』など｢名作ドラマ｣の続編を次々と復活させています。その背景には､…",
-      "published": "2026/08/28 15:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_23486a76b5b7a9e6160698cd8f8017ec361136.jpg?nextgen=false"
+      "title": "子供の｢野球離れ｣が止まらないのに選手倍増…｢選手が1人だけでもいい｣スパルタ指導も排除した\"ハードルの低い\"リーグの実態 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956115?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "甲子園が盛り上がった一方で､全国的に野球人口は減り続けています。その中､急成長を遂げているリーグがあります。",
+      "published": "2026/08/29 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/7/1200w/img_37cb07eb7cad365a075f48c008409482523668.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "動画作成のノウハウはないし､忙しくて時間も取れない…だけど｢情報発信で副業｣を始めたい人\"一択のメディア\"は? | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955733?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ブログとSNS双方の強みを持ち､誰でも手軽に情報発信や記事販売ができる｢note｣。専門知識や体験談を有料記事として収益化できる土壌や､読者との距離が近いSNS的な交流も魅力です。｢副業を始めたいけ…",
-      "published": "2026/08/28 15:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/c/1200w/img_dc4517d89a8f7f72ce7372c1db9b4102264755.jpg?nextgen=false"
+      "title": "6.4億円相当のダイヤのネックレスが白昼堂々盗まれる…ウィーンのオーストリア応用美術博物館で | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956255?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ウィーンのオーストリア応用美術博物館で､エジプト王室の結婚式のために製作された約6億円相当のダイヤモンドネックレスが白昼堂々と盗まれました。",
+      "published": "2026/08/29 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/7/1200w/img_d7f3a99971e57ca3dc66be53e786898f129232.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢頼まれると断れない｣も｢自分がやったほうが早い｣もどちらも危うい…タスクの濁流に飲まれる人が知らない\"整理のコツ\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955346?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢全部やります｣と反射的に引き受けてしまい､毎日が雑務に追われる——そんな悩みを抱えるビジネスパーソンは多いはず。実は､自身のリソースを整理し､明確な｢境界線｣を引くことこそが､成果と信頼を生み出す…",
-      "published": "2026/08/28 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/f/1200w/img_ffa00d8c14ddfcac9a4fd4ff8ff2f5df223801.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "｢こっちが正しいのに､あの部署は協力してくれない｣は不毛な考えだ…他部署の人を｢敵→協力者｣に変える3重要ステップ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955345?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "なぜ自分ばかり忙しく､成果が実感できないのか――その原因は｢人｣ではなく｢仕組み｣にあるかもしれません。他部署との摩擦や無駄なエネルギー消耗を､思考の転換と具体的アクションで組織改善のチャンスに。壁…",
-      "published": "2026/08/28 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/1/1200w/img_d137cdfad812d2531d4e1440710aa5ca265686.jpg?nextgen=false"
+      "title": "三菱｢トライトン｣の劇的変化を実現したヤマハ｢パフォーマンスダンパー｣とは一体なにか？ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956092?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "三菱｢トライトン｣の走りが､ヤマハ製パフォーマンスダンパーの採用で劇的に進化した。静粛性や一体感のあるハンドリングが実現し､上質なドライブフィールになったのだ。そこでパフォーマンスダンパー開発の経緯…",
+      "published": "2026/08/29 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/6/1200w/img_6619fb52e17a5d7269fb6a31f452c43c297707.jpg?nextgen=false"
     }
   ]
 }
