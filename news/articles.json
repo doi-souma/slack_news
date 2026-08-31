@@ -1,59 +1,86 @@
 {
-  "generated_at": "2026-08-30T05:24:39.705908+00:00",
+  "generated_at": "2026-08-31T05:35:29.610250+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
-      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
-      "summary": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
-      "published": "2026/08/30 08:12",
+      "title": "DuckDB開発元のDuckLabs、AWSの子会社に　オープンソースのMITライセンスは維持",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000954/",
+      "summary": "",
+      "published": "2026/08/31 14:05",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「FANZAスタジオ」爆誕へ　成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？",
-      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000911/",
-      "summary": "成人向けECサイトである「FANZA」で、生成AIを使って作品を作り、公開できるサービス「FANZAスタジオ」の先行体験がスタートしました。",
-      "published": "2026/08/30 07:16",
+      "title": "「テスト」「あああああ」誤って本番公開　サンライズ「MAO」公式サイトで",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000962/",
+      "summary": "見出し「テスト」、本文「?テスト」「あああああ」とだけ記された記事が公開されていた。",
+      "published": "2026/08/31 13:56",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "動画カメラは混沌の時代へ？　ミラーレス一眼へ乗り出すアクションカムメーカーも現れた2026年前半の業界動向",
-      "url": "https://www.itmedia.co.jp/news/article/2608/29/2000000906/",
-      "summary": "今回は26年のカメラ界をちょっと振り返ってみたいと思う。目立つのはカメラ各社の本格的な動画カメラへの注力だ。一方でアクション／ウェアラブルカメラのメーカーも気になる動きをしている。",
-      "published": "2026/08/29 09:16",
+      "title": "“リソースの上位集中”は、文字・貨幣の登場前から現在とそっくりな形だった？　成城大准教授が古墳の体積から導出",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000867/",
+      "summary": "成城大学の渡邊隼史准教授が発表したプレプリント論文「Zipf’s law before the monetary economy and written administration: volume distribution of kofun, ancient Japanese burial mounds」は、古代日本における集団の資源動員力の集中構造を数理的な視点から解き明かした研究報告だ。",
+      "published": "2026/08/31 13:56",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "大人向け「スーパーカー自転車」は和テイストだった　リトラクタブルライトにRFID認証など装備満載",
-      "url": "https://www.itmedia.co.jp/news/article/2608/29/2000000934/",
-      "summary": "昭和50年代に男の子達が熱狂した通称「スーパーカー自転車」をご存知でしょうか。多くの自転車メーカーがクルマをモチーフにした装備の児童向け自転車を投入し、それが大ヒットしました。そんな昭和の自転車が、令和版になって復活。しかも大人向けもあります。",
-      "published": "2026/08/29 08:32",
+      "title": "参議院サイト、17年ぶり刷新の裏で「制作費26万円」が話題に　落札結果から判明　SNSで驚きの声",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000959/",
+      "summary": "参議院が8月28日に公開した公式Webサイトの新デザインを巡り、リニューアル業務の落札額がわずか26万7710円だったとして、SNS上で驚きの声が広がっている。デザインの刷新は17年ぶり。",
+      "published": "2026/08/31 13:30",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「批判を真摯に受け止める」平口法相、ネトフリ「ラヴ上等」とのコラボ中止に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000929/",
-      "summary": "平口洋法相は28日の記者会見で、ネットフリックスで配信中の恋愛リアリティー番組「『ラヴ上等』シーズン2」とのタイアップ中止について、「批判や心配を真摯に受け止める」と述べた。",
-      "published": "2026/08/28 19:23",
+      "title": "なぜ「事故物件」をあえて買うのか　“2～5割安”の魅力と、AIによる透明性への道",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000944/",
+      "summary": "不動産の「ミステリー」を専門家がわかりやすく読み解き、AIをはじめITを活用した不動産の近未来を探る。バブル経済の崩壊後、低迷してきた日本の不動産価格が反転上昇し、内外からの投資が盛り上がる中、海外の先進事例なども交えて将来の不動産業界や価格を分かりやすく展望する。第5回は「なぜ『ワケあり物件』が売れるのか」を深掘りする。",
+      "published": "2026/08/31 12:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ネパール・中国国境の土石流、死者少なくとも計690人超に　行方不明者は計3000人超",
-      "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "ネパールと中国・チベットの国境沿いの地域で26日に発生した大規模な土石流で、ネパールの災害対策当局は29日夜、ネパール側の死者が少なくとも675人、行方不明者が2498人に達したと発表した。中国国営テレビ中国中央電視台（CCTV）は30日、チベット自治区の地元当局の話として、土石流による29日午後6時までの死者は16人に上り、546人が行方不明だと伝えた。",
-      "published": "2026/08/30 11:04",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc3b/live/9e050180-a416-11f1-b6fa-97bdd2a7280c.jpg"
+      "title": "キーウ近郊の住宅地付近で弾薬庫が攻撃され少なくとも37人死亡　ウクライナ当局は規則違反を捜査",
+      "url": "https://www.bbc.com/japanese/articles/cx2zy7n4qp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナの首都キーウ近郊の住宅地付近で28日夜、軍の武器を保管する倉庫がロシアのドローン攻撃を受け、37人が死亡、約400人が避難した。キーウ近郊の武器庫が攻撃され、付近の住民に甚大な被害がもたらされたのは7月上旬に続いて2度目。ウクライナ当局は、住宅地の近くに武器庫が設置されていたことについて、重大な過失の疑いがあるとして捜査に着手した。",
+      "published": "2026/08/31 13:04",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "アメリカが数週間ぶりにイランを攻撃、ホルムズ海峡・ララク島のミサイル発射装置が標的と",
+      "url": "https://www.bbc.com/japanese/articles/cvgye44vyjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "米軍は30日、ホルムズ海峡にあるイラン領ララク島のミサイル発射装置2基を攻撃した。BBCがアメリカで提携するCBSニュースが、米当局者の話として報じた。アメリカがイランを攻撃したのは、7月下旬以降で初めて。イランの革命防衛隊（IRGC）は、この攻撃で数人が死傷したと発表し、「報復と処罰」を誓った。その後、イラン国営メディアは、同隊がヨルダンにあるアメリカの標的を攻撃したと報じた。",
+      "published": "2026/08/31 12:22",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "土石流の死者、国境両側で計800人を超す　ネパールの学校では洪水直前に900人が無事避難",
+      "url": "https://www.bbc.com/japanese/articles/c7v4d6j360jo?at_medium=RSS&at_campaign=rss",
+      "summary": "ネパールと中国・チベットの国境沿いの地域で26日に発生した大規模な土石流は、31日午前までに国境の両側で死者が計800人を超え、行方不明者は計3000人以上となっている。現地では懸命の救助・捜索活動が続いており、ネパールの水力発電所ではトンネルに閉じ込められているとみられる数百人の救出活動が急ピッチで進められている。こうしたなか、ネパールの学校では素早い避難によって生徒ら約900人の命が救われたこ",
+      "published": "2026/08/31 12:56",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/864f/live/293de220-a4ea-11f1-9212-d332cc18b95c.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "イランとの戦争開始から6カ月、トランプ米大統領は何を成し遂げたのか",
+      "url": "https://www.bbc.com/japanese/articles/c8r65jv283do?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとイスラエルがイランとの戦争を開始してから6カ月が経過した。BBCのトム・ベイトマン米国務省担当特派員が、トランプ氏がイランとの6カ月に及ぶ戦争で成し遂げたことを解説する。",
+      "published": "2026/08/31 14:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d95/live/dc3d5fe0-a24c-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -65,76 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】チベット土石流の映像、中国で放送されず　被災者情報も乏しく……BBC中国特派員",
-      "url": "https://www.bbc.com/japanese/articles/cevw9rj3kd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "壊滅的な被害を出した土石流の最も衝撃的な映像は、中国ではほとんど見ることができない。",
-      "published": "2026/08/29 12:29",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加",
-      "url": "https://www.bbc.com/japanese/articles/c07l97y7vpko?at_medium=RSS&at_campaign=rss",
-      "summary": "北アフリカにあるスペインの飛び地、セウタ市に数万人の移民が流入してから1カ月がたった今、残る移民と地元住民の間で緊張が高まり、暴力事件が頻発している。スペイン政府は、危機を効果的に管理できていないとして、野党から非難されている。セウタの住民は、街中で身の危険を感じているという不満を訴えるとともに、公共サービスへの負担増についても懸念を表明している。",
-      "published": "2026/08/29 14:11",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b39/live/e5d60180-a2f9-11f1-8d5b-155abe464768.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【分析】 ネパール・中国国境の土石流、経路と被害をたどる",
-      "url": "https://www.bbc.com/japanese/articles/c5yexjwnq14o?at_medium=RSS&at_campaign=rss",
-      "summary": "ネパールと中国・チベットの国境沿いの地域で26日に発生した大規模な土石流は、複数の町を壊滅させ、橋や車、人々を押し流した。BBCヴェリファイ（検証チーム）は、検証済みの映像や衛星画像を用いて、多数の死者・行方不明者を出した土石流の経路を追跡した。マーリン・トーマス記者が解説する。",
-      "published": "2026/08/28 17:10",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbe8/live/ecb52260-a23b-11f1-aed2-8d6da8d75094.png"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "才能ある人に勝てなくても努力するのは｢魂の格が上がるから｣東大生222人に\"努力の意味\"を聞いたら返ってきた意外な答え | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956330?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢努力しても才能ある人に勝てないのに､努力する意味はあるの？｣――高校生からのこの問いに､東大生222人はどう答えたのでしょうか。才能と努力､勝ち負けや成長の価値観､多様なリアルな声が集まりました。",
+      "published": "2026/08/31 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/c/1200w/img_dc1ad2f2505e6527354d6258d299836c10498.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢お父さんのいびきには要注意｣｢減量はすごい！｣…処方薬の直接広告NGの中国肥満症薬市場で広がる\"ステルス広告\" | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956292?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "中国では処方薬の直接広告が禁止されている中､急増する肥満問題を背景に減量薬メーカー各社が｢ステルス広告｣戦略を展開しています。",
-      "published": "2026/08/30 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/9/1200w/img_e99d83fb88e90416f7cd0b7d0e29d3d9619313.jpg?nextgen=false"
+      "title": "人類はすでに｢3度のグローバリゼーション｣を経験している　分断と危機の時代に見える｢新たな波｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955594?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢グローバリゼーション｣は近年の新現象と思われがちですが､人類は実は過去に3度もの世界的な拡大と普遍的思想の誕生を経験しています。古代から現代まで､私たちの活動と共存への模索はどんな道筋をたどってき…",
+      "published": "2026/08/31 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/d/1200w/img_fd23aabe504bb598dee7d11e8fcae13a230951.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "10年後の大学入試はどう変わるか｢課外活動したほうがいい？｣｢勉強以外も大事？｣と悩む必要はない本当の理由 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955042?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "大学入試の形が大きく変わりつつある今､10年後の受験はどうなっているのでしょうか。総合型選抜や推薦の拡大､東北大学の入試改革を例に､推薦＝学力不要という常識が崩れ､学力も意欲も問われる時代が到来して…",
-      "published": "2026/08/30 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/1/1200w/img_21a4237dc2fa98f35839b382c5c8d37480807.jpg?nextgen=false"
+      "title": "｢借りるAI｣は高価になってきたし危険もいっぱいだ！…アップルが提示した｢保有するAI｣という独自選択肢の損得勘定 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956265?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップルが新たに発表した新しい｢Mac Studio｣と｢Mac mini｣は､強力なAI処理を社内で可能にする革新的な選択肢です。従来の常識だった｢AIは外部リソース｣｢コアチップはエヌビディア｣…",
+      "published": "2026/08/31 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/2/1200w/img_32ff172abb1944aab6c0297a71561b3e348487.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢中国軍と関係はない｣…中国メモリー大手CXMTが｢中国軍支援企業リスト｣への掲載を不服として米政府を提訴 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956294?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "中国最大のメモリー半導体メーカー､長鑫存儲技術（CXMT）が米国防総省の｢中国軍支援企業｣リスト掲載を不服とし､米政府を提訴しました。",
-      "published": "2026/08/30 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/1/1200w/img_31737f65a187a4c98fd4b1aa2db45269500335.jpg?nextgen=false"
+      "title": "男性には多数の､だが緩やかな関係の友人がいて､女性には少数の､だが緊密な友人がいるという興味深い事実 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/943813?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "現代社会で人は｢つながり｣と｢自主性｣の間で揺れ動きますが､特に友人関係においては男女で大きな違いが現れます。忠誠心を重視する女性と､ドライで実利的な関係を築く男性。その性差が心の支えや孤独にも大き…",
+      "published": "2026/08/31 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/0/1200w/img_20501e2c21aa2380623f0692daa87415256593.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢休ませたままでいい？｣不登校35万人､ひきこもり100万人…元ひきこもり在宅医が伝える\"無理させない\"と\"放置\"の違い | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955582?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "もうすぐ2学期。｢休ませたままでいい？｣。わが子の不登校に､そう悩む親は少なくありません。不登校の小中学生は約35万人､ひきこもり状態にある人は100万人規模といわれています。自身もひきこもりを経験…",
-      "published": "2026/08/30 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/2/1200w/img_62531491cf810f5c5366dfcb1872b3a0244820.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "市だけではなかった！信玄の娘や､細川ガラシャ､茶々まで…｢戦国時代｣を生きた女性たちの\"あまりに悲惨な末路\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955731?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第37回は､お市の方を始めとした戦国の世に人生を翻弄された女性たちについて真山知幸氏が解説します。",
-      "published": "2026/08/30 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/8/1200w/img_98bde74dd29ed92d8080ad9161a274de587825.jpg?nextgen=false"
+      "title": "｢2040年､社会保障が崩壊をはじめる｣70代の現役医師が警告する現役世代が背負う｢不都合な真実｣の正体 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954655?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2040年､日本は就労人口減少の波に直面し､医療や介護､年金制度の維持が危機的状況を迎えます。長年現場に立つ医師が訴える｢2040年問題｣とは何か。社会保障制度はどう変わるべきなのでしょうか―",
+      "published": "2026/08/31 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/0/1200w/img_10cc3401fd72076e9a35fdcf422e313c335301.jpg?nextgen=false"
     }
   ]
 }
