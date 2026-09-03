@@ -1,31 +1,22 @@
 {
-  "generated_at": "2026-09-02T04:34:21.138813+00:00",
+  "generated_at": "2026-09-03T04:33:55.411393+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "江戸時代に“乗換案内”があったら？　徒歩・馬・カゴ・飛脚で旅程を検索できる「経路検索マップ」が話題",
-      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001061/",
-      "summary": "江戸時代の街道と宿場をもとに旅程を計算するWebサイト「江戸時代の経路検索」が、Xで話題になっている。徒歩・馬・早駕籠・継飛脚から移動手段を選ぶと、通る街道や宿場、所要日数を表示。江戸から京都まで徒歩なら東海道経由で14日と計算できる。",
-      "published": "2026/09/02 12:56",
+      "title": "生成AI画像はなぜ“キショい”のか　消費者が抱く違和感の正体　広報のプロが解説",
+      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000743/",
+      "summary": "昨今、生成AIで作成した画像を巡る“炎上”が相次いでいる。その本質を長年製造メーカーやIT企業の危機管理広報に携わる長沼史宏さんに聞く。",
+      "published": "2026/09/03 12:19",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "遺伝子の「鶏が先か、卵が先か」に答えが出た？　ゲノム内移動の謎を東大が解明　Nature誌で発表",
-      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001012/",
-      "summary": "",
-      "published": "2026/09/02 12:00",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "やっぱり完全在宅ワークが一番幸せだった　離職率も最低　米大が7700人の働き方調査",
-      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001011/",
-      "summary": "米テキサス大学MDアンダーソンがんセンターやコロラド大学に所属する研究者らが学術誌Frontiers in Psychologyで発表した論文「Rethinking return-to-office: the positive impact of remote work on well-being, connection, and employee retention」は、勤務形態（完全リモート、",
-      "published": "2026/09/02 12:00",
+      "title": "EXILE・HIROのGMO系イベント関与に抗議の声　Xでハッシュタグ拡散　米軍事IT企業の参加などで反発",
+      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001035/",
+      "summary": "8月30日ごろから、Xで「LDHはGMO大会議への登壇を辞退してください」とのハッシュタグが拡散している。音楽グループ「EXILE」メンバーで、芸能事業を手掛けるLDH JAPANのCEO・HIRO氏がGMOインターネットグループ主催の「第4回GMO大会議 秋 フィジカルAI 2026」に参加することを受けた動きのようだ。",
+      "published": "2026/09/03 12:15",
       "image_url": ""
     },
     {
@@ -34,107 +25,116 @@
       "title": "楽天にGMO……防衛産業に近づく民間IT企業　反発の声も",
       "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001041/",
       "summary": "AIやドローンを中心とした防衛関連産業の加速に伴い、同様の事業への関与を強める企業が増えている。一方、戦争や虐殺の懸念につながるとして、こうした動きに反発する企業やユーザーも見られる。",
-      "published": "2026/09/02 12:00",
+      "published": "2026/09/03 12:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Dyson、カメラ搭載の電動歯ブラシ「CameraJet」　日本での販売価格は7万9800円",
-      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001060/",
-      "summary": "Dysonは、カメラとAIを搭載した電動歯ブラシ「Dyson CameraJet」を発表した。マクロカメラが歯間を検知してマウスリンスを自動噴射し、ブラッシングとフロスを同時に行える。日本でも公式サイトで7万9800円で発売。アプリ連携や口腔内カメラ機能も備え、傾けても噴射できるタンク構造を採用する。",
-      "published": "2026/09/02 11:58",
+      "title": "Uber、ロンドンで英国初の自動運転配車を開始　年内には東京でも車両投入へ",
+      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001106/",
+      "summary": "Uber TechnologiesとWayveは、ロンドンで自動運転車による配車サービスを開始した。英国で一般向け自動運転配車が提供されるのは初。当面は免許を持つドライバーが同乗する監督付きで運行する。Wayve搭載車両を世界12市場へ展開する計画で、年内には日産リーフを使ったサービスを東京から始める方針だ。",
+      "published": "2026/09/03 11:54",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "ファミマ、POSレジ刷新　1台でセルフ／有人切り替え　レジ業務2割削減へ",
+      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001104/",
+      "summary": "スタッフが対面対応する「有人モード」と、客自身で会計する「セルフモード」があり、店舗側で切り替えられるのが特徴だ。",
+      "published": "2026/09/03 11:48",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米軍が空爆、結婚披露宴の4人死亡との報道　イランは報復攻撃",
-      "url": "https://www.bbc.com/japanese/articles/cr4v22wqndqo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの中央軍は1日、イランに対する空爆を再開したと発表した。ホルムズ海峡における、イランのイスラム革命防衛隊（IRGC）による商船への「最近の攻撃の試み」を受けたものだと説明している。イラン側は民間人が殺害されたとし、報復攻撃に出ている。",
-      "published": "2026/09/02 11:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg"
+      "title": "ネパールと中国の国境検問所、土石流に飲まれる直前はどんな様子だったのか",
+      "url": "https://www.bbc.com/japanese/articles/cwyzj0g2e3wo?at_medium=RSS&at_campaign=rss",
+      "summary": "ネパールと中国・チベットの国境地域における大規模な土石流の発生では、中国側の国境検問所が濁流に飲み込まれる映像が、被害の甚大さをまざまざと示した。当時、検問所や付近はどんな状況だったのか。残存する記録や関係者らの話をもとに探った。",
+      "published": "2026/09/03 09:59",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米アップル、地図でオンタリオ湖の表記を「アメリカ湖」に変更",
-      "url": "https://www.bbc.com/japanese/articles/c3wj1x1l3eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "米アップルは1日、同社の地図サービス「アップルマップ」でカナダとアメリカの間にあるオンタリオ湖の名称を「アメリカ湖」と表示し始めた。トランプ米大統領は8月末、カナダとの間で貿易摩擦が続くなか、オンタリオ湖の名称を「アメリカ湖」に変更するよう指示する大統領令に署名している。",
-      "published": "2026/09/02 12:30",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e1d/live/af1fe3d0-a660-11f1-9e66-d528091f3354.jpg"
+      "title": "「泥しか残っていない」　土石流に飲み込まれたネパールの村をBBCが現地取材",
+      "url": "https://www.bbc.com/japanese/articles/cn4ky9ydx2no?at_medium=RSS&at_campaign=rss",
+      "summary": "ネパールと中国・チベットの国境沿いの地域で大規模な土石流が発生してから、2日で1週間がたった。甚大な被害を受けたネパール・ベトラワティで、BBCのアザデ・モシリ南アジア特派員が地元住民に話を聞いた。",
+      "published": "2026/09/03 12:56",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f47/live/b3e56ca0-a6d8-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ドイツの空港で見つかった爆発物搭載のドローン、「背後にロシア」と独政府",
-      "url": "https://www.bbc.com/japanese/articles/ce8em105dx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "ドイツは1日、東部ザクセン州の空港で先月、爆発物を搭載したドローンが見つかった問題について、ロシアに責任があると発表した。",
-      "published": "2026/09/02 12:55",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg"
+      "title": "【解説】 プーチン氏がイギリスに暗黙の脅し……ウクライナを支援する西側への作戦を拡大",
+      "url": "https://www.bbc.com/japanese/articles/c750707000zo?at_medium=RSS&at_campaign=rss",
+      "summary": "ロシアのプーチン大統領は、イギリスに対し、ロシアの意図を推測させ、不安を募らせようとしている。そして、ウクライナへの揺るぎない支持を再考するよう脅しをかけている。",
+      "published": "2026/09/03 13:04",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f73a/live/e93452f0-a6c3-11f1-b109-879e35c24276.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "スターマー前英首相が下院議員辞任を発表、国際問題などに専念と",
-      "url": "https://www.bbc.com/japanese/articles/c98611xj4ldo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスの前首相サー・キア・スターマーは1日、国際問題や女性・少女への暴力対策に専念するため、下院議員を辞任すると発表した。今年7月に首相を辞任したスターマー氏は以前、2029年に予定されている次の総選挙まで下院議員に留まると述べていた。",
-      "published": "2026/09/02 13:15",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/93a0/live/f854a560-a5fa-11f1-8348-fb0cb1cd9761.png"
+      "title": "オランダ、大量の金準備を北米からイギリスに移す　地政学的不安を理由に",
+      "url": "https://www.bbc.com/japanese/articles/c5yw0ryg4e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "オランダ中央銀行（DNB）は2日、アメリカとカナダで保有していた数十億ドル相当の金をイギリスに移したと発表した。「地政学的な不安の高まり」が理由としている。",
+      "published": "2026/09/03 12:14",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】インドに巨額投資する日本企業、中国関連リスクが深まるなか",
-      "url": "https://www.bbc.com/japanese/articles/cnvlq98gqeyo?at_medium=RSS&at_campaign=rss",
-      "summary": "日本の企業は、国内市場の縮小と中国におけるリスクの高まりを背景に、インドへの投資を強化している。",
-      "published": "2026/09/01 21:27",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg"
+      "title": "浮島が出現、消滅、そして再出現……カナダの淡水湖",
+      "url": "https://www.bbc.com/japanese/articles/cyvzenm13dlo?at_medium=RSS&at_campaign=rss",
+      "summary": "カナダのブリティッシュコロンビア州にある湖で、小さな浮島が発見された。しかしその後に消え、人工衛星画像でも確認できなくなった。謎が広がる中、最近になって再び発見され、話題になっている。",
+      "published": "2026/09/03 11:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a487/live/3b0ddbf0-a629-11f1-b384-1f35d0eeee9d.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【10年国債金利3％到達】勢いづく財政破綻論に乗っかった〈ドラマチックな円売り〉に乗るべきではない理由 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956608?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "国内債券市場で30年ぶりに長期金利が3％台を突破した日本。金利急上昇の背景には､世界的な潮流だけでなく日本特有の要因が潜んでいます。財政破綻論や円安加速が取り沙汰される中､私たちは何を見極めるべきな…",
-      "published": "2026/09/02 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/3/1200w/img_832d00aa02fc95dda2ab5129cce91f3d488530.jpg?nextgen=false"
+      "title": "ベッセント財務長官｢日本はリフレ政策やめろ｣発言の衝撃…〈トリプル安〉の気配がある日本に迫る｢ドーマー条件｣の危機 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956759?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "高市政権の積極財政と金融緩和路線に対し､米財務長官ベッセント氏が｢リフレ政策からの転換｣を強く求めました。円安や長期金利上昇が続く中､日米の協調や\"ドーマー条件\"の脆さも浮き彫りに。高市政権は現実を…",
+      "published": "2026/09/03 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/d/1200w/img_addb8473a78c138ce0fc8671ab00b0ba220783.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢宇宙進出｣で市場拡大の限界を超えられるか　人類史20万年の旅路が突きつける｢地球倫理｣という解 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955596?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "気候変動や資源の限界を前に､従来のグローバリゼーションは今､転換点に立たされています。資本主義の拡大が解決策となるのか､それとも地球そのものを有限な生態系と捉える新たな倫理が必要なのか。人類の選択が…",
-      "published": "2026/09/02 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/6/1200w/img_4618e26dd823f7908ca190798248c9fb284007.jpg?nextgen=false"
+      "title": "｢いつも寝てばっかり!｣と勉強しない子どもを叱る前に知っておきたい\"学習効果を上げる\"正しい《睡眠の活用法》 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955843?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "私たちは努力して勉強しても､翌朝には忘れてしまうことがあります。しかし実は､睡眠こそが記憶定着のカギとなる｢自動復習装置｣だとご存じでしたか？　本記事では､学びを効率化する睡眠の活かし方や､昼寝やカ…",
+      "published": "2026/09/03 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/c/1200w/img_7c549318c26c881ece28f12e6b7f74fc241921.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【池上彰が考察】｢池上彰よりAIに聞く｣時代が来たとき…《操作された偽情報》に踊らされるのは､いったい誰か？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955917?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "かつて資料室や専門図書館を駆使して調べていた情報収集の現場は､生成AIや検索ツールの進化により劇的に変化しています。便利さの裏で失われていく調査力や語学力､成長の機会。そしてAIへの依存が招く新たな…",
-      "published": "2026/09/02 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/0/1200w/img_b005f7ce5c330a482477bf7c294f8ab5301767.jpg?nextgen=false"
+      "title": "世界最強のイギリスがなぜ｢13植民地｣に敗れた？ \"勝ち目のない戦争\"をひっくり返した｢アメリカ独立戦争｣意外な結末 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955991?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「自由か死か―」 超大国アメリカをつくったのは、イギリスを追われ大西洋を渡った貧しい開拓者たちだった。過酷な土地を自力で切り拓いた彼らを待ち受けていたのは、本国イギリスによる一方的な重税と商売の独占…",
+      "published": "2026/09/03 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/4/1200w/img_a4cde8f8d921d13e7beab33dcfce10ed290737.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "傷口が開いたまま退院､救急搬送を呼ぶと4万ドル請求…あなたの健康と財布を人質に取る､PEによる｢医療現場の乗っ取り｣ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955746?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アメリカの医療現場で今､患者の安全や倫理を無視した｢略奪ビジネス｣が広がっています。極端なコストカットと法外な請求――その背後にいるのは投資会社､プライベート･エクイティです。",
-      "published": "2026/09/02 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/3/1200w/img_b341017768902b551ce165eb2859b8d0136617.jpg?nextgen=false"
+      "title": "｢共通テストはバカに厳しい｣センター試験との明確な差…2カ月間猛勉強しても点数が伸びない必然とは | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955700?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年度からますます難化する大学入試共通テスト。知識を詰め込むだけでは太刀打ちできず､｢考える力｣が問われる時代へと転換しています。",
+      "published": "2026/09/03 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/1/1200w/img_31a0069a349fefec53ffbdcf44585d0a181717.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢また値上げか…｣首都高が10月から上限2130円へ！50円から始まった通行料の変遷といま | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956242?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東京都心のクルマの移動を支える首都高速道路。1962年の開業から64年を数えるが､この10月から4年半ぶりに通行料が値上げされる。この値上げの背景にはどんなことがあるのか？　他の都市高速の通行料は？",
-      "published": "2026/09/02 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/4/1200w/img_54b0c8208b27dda77adb32b6fef09994214870.jpg?nextgen=false"
+      "title": "夏休み明け｢学校行きたくない｣に絶望する親へ…｢少し元気になった｣が実は一番危ない! 不登校《心のバッテリー80%の法則》 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956280?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "夏休み明けから子どもが突然｢学校に行きたくない｣と言い出した――こんなとき､親としては焦りや戸惑いが募るもの。不登校や登校しぶりは､単なる怠けではなく｢心のエネルギー切れ｣が原因かもしれません。大切…",
+      "published": "2026/09/03 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/7/1200w/img_e7199479af06cdd9de1628f811d4f00d244914.jpg?nextgen=false"
     }
   ]
 }
