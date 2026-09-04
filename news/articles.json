@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-09-03T04:33:55.411393+00:00",
+  "generated_at": "2026-09-04T04:33:50.668234+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "生成AI画像はなぜ“キショい”のか　消費者が抱く違和感の正体　広報のプロが解説",
-      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000743/",
-      "summary": "昨今、生成AIで作成した画像を巡る“炎上”が相次いでいる。その本質を長年製造メーカーやIT企業の危機管理広報に携わる長沼史宏さんに聞く。",
-      "published": "2026/09/03 12:19",
+      "title": "「三省堂書店池袋本店」閉店へ　11年の歴史に幕、惜しむ声続々",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001163/",
+      "summary": "池袋駅に直結した利便性や選書のセンスが利用者に親しまれてきた。",
+      "published": "2026/09/04 12:03",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "EXILE・HIROのGMO系イベント関与に抗議の声　Xでハッシュタグ拡散　米軍事IT企業の参加などで反発",
-      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001035/",
-      "summary": "8月30日ごろから、Xで「LDHはGMO大会議への登壇を辞退してください」とのハッシュタグが拡散している。音楽グループ「EXILE」メンバーで、芸能事業を手掛けるLDH JAPANのCEO・HIRO氏がGMOインターネットグループ主催の「第4回GMO大会議 秋 フィジカルAI 2026」に参加することを受けた動きのようだ。",
-      "published": "2026/09/03 12:15",
+      "title": "ダークチョコ（カカオ85％）を毎日3週間食べる→ネガティブ感情が減少　70％では変化なし　韓国での研究結果",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001142/",
+      "summary": "韓国のソウル大学校などに所属する研究者らが2022年に発表した論文「Consumption of 85% cocoa dark chocolate improves mood in association with gut microbial changes in healthy adults: a randomized controlled trial」は、カカオ含有量85%のダークチョコレート",
+      "published": "2026/09/04 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "楽天にGMO……防衛産業に近づく民間IT企業　反発の声も",
-      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001041/",
-      "summary": "AIやドローンを中心とした防衛関連産業の加速に伴い、同様の事業への関与を強める企業が増えている。一方、戦争や虐殺の懸念につながるとして、こうした動きに反発する企業やユーザーも見られる。",
-      "published": "2026/09/03 12:15",
+      "title": "RIZAP社員、私用AIに顧客の個人情報入力　氏名や疾患、保険証番号など……同社が謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
+      "summary": "RIZAPの社員が、個人で使用している外部の生成AIサービスに、顧客の氏名や疾患などの個人情報・要配慮個人情報を誤ってアップロードしたという。",
+      "published": "2026/09/04 11:33",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Uber、ロンドンで英国初の自動運転配車を開始　年内には東京でも車両投入へ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001106/",
-      "summary": "Uber TechnologiesとWayveは、ロンドンで自動運転車による配車サービスを開始した。英国で一般向け自動運転配車が提供されるのは初。当面は免許を持つドライバーが同乗する監督付きで運行する。Wayve搭載車両を世界12市場へ展開する計画で、年内には日産リーフを使ったサービスを東京から始める方針だ。",
-      "published": "2026/09/03 11:54",
+      "title": "開成の鉄研、寝台特急「サンライズ」での迷惑行為を謝罪　大声やラウンジ占拠など……旅行活動停止",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001159/",
+      "summary": "個室での大声や、通路を塞ぐ行為、ラウンジの占拠・ゲームなどの迷惑行為があり、乗務員や乗客から注意を受けていたことを、合宿参加者への聞き取りで確認したという。",
+      "published": "2026/09/04 11:05",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ファミマ、POSレジ刷新　1台でセルフ／有人切り替え　レジ業務2割削減へ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001104/",
-      "summary": "スタッフが対面対応する「有人モード」と、客自身で会計する「セルフモード」があり、店舗側で切り替えられるのが特徴だ。",
-      "published": "2026/09/03 11:48",
+      "title": "「RSA-260」ついに解けた　Xに“130ケタの数字”投稿、世界が注目　マスク氏「文字数増やしてよかった」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
+      "summary": "「4397328654844826923795068102505872571721883526553349659561256924505973939597593482272505698004801207988043088656411102133523080581 divides RSA-260」",
+      "published": "2026/09/04 10:40",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ネパールと中国の国境検問所、土石流に飲まれる直前はどんな様子だったのか",
-      "url": "https://www.bbc.com/japanese/articles/cwyzj0g2e3wo?at_medium=RSS&at_campaign=rss",
-      "summary": "ネパールと中国・チベットの国境地域における大規模な土石流の発生では、中国側の国境検問所が濁流に飲み込まれる映像が、被害の甚大さをまざまざと示した。当時、検問所や付近はどんな状況だったのか。残存する記録や関係者らの話をもとに探った。",
-      "published": "2026/09/03 09:59",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg"
+      "title": "英仏首脳、小型ボートや国際情勢での関係強化を確認　大英博物館ではチャールズ国王と「バイユーのタペストリー」を観覧",
+      "url": "https://www.bbc.com/japanese/articles/c1dlrq4er1vo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスのアンディ・バーナム首相は3日、イギリスを訪問中のフランスのエマニュエル・マクロン大統領と会談した。7月に就任したばかりのバーナム氏はこの日、初めて外国首脳を首相官邸に迎えた。",
+      "published": "2026/09/04 13:09",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab6f/live/2a95d360-a78f-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "「泥しか残っていない」　土石流に飲み込まれたネパールの村をBBCが現地取材",
-      "url": "https://www.bbc.com/japanese/articles/cn4ky9ydx2no?at_medium=RSS&at_campaign=rss",
-      "summary": "ネパールと中国・チベットの国境沿いの地域で大規模な土石流が発生してから、2日で1週間がたった。甚大な被害を受けたネパール・ベトラワティで、BBCのアザデ・モシリ南アジア特派員が地元住民に話を聞いた。",
-      "published": "2026/09/03 12:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f47/live/b3e56ca0-a6d8-11f1-aed2-8d6da8d75094.jpg"
+      "title": "EUとNATO、ロシアへの圧力強化を誓う　ドイツでの「新たなエスカレーション」受け",
+      "url": "https://www.bbc.com/japanese/articles/ckgxzr93v08o?at_medium=RSS&at_campaign=rss",
+      "summary": "北大西洋条約機構（NATO）と欧州委員会の両トップが、ロシアが無謀さを増していると警告を発した。そして、「新たな常態」に対応する姿勢を鮮明にした。ドイツ・ライプツィヒ空港であったドローン攻撃未遂について、ドイツ政府がロシアを非難したのを受けての発言だった。",
+      "published": "2026/09/04 10:38",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】 プーチン氏がイギリスに暗黙の脅し……ウクライナを支援する西側への作戦を拡大",
-      "url": "https://www.bbc.com/japanese/articles/c750707000zo?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアのプーチン大統領は、イギリスに対し、ロシアの意図を推測させ、不安を募らせようとしている。そして、ウクライナへの揺るぎない支持を再考するよう脅しをかけている。",
-      "published": "2026/09/03 13:04",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f73a/live/e93452f0-a6c3-11f1-b109-879e35c24276.jpg"
+      "title": "英リフォームUKファラージ氏の側近、外国献金確保する法の抜け穴提案　チャンネル4が潜入取材",
+      "url": "https://www.bbc.com/japanese/articles/cgmr8z88n1no?at_medium=RSS&at_campaign=rss",
+      "summary": "英公共放送チャンネル4は3日、英野党リフォームUKと外国からの献金に関する潜入取材映像を放送した。身分を偽り同党幹部に接近したジャーナリストがひそかに撮影した映像では、同党のナイジェル・ファラージ党首の側近が、50万ポンドの献金を外国から得るために選挙と政治資金に関する規制法をいかに回避するか、方法を提案する様子が映っている。",
+      "published": "2026/09/04 13:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/643a/live/23e8e9b0-a7d7-11f1-809e-25fc74c1ec7d.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "オランダ、大量の金準備を北米からイギリスに移す　地政学的不安を理由に",
-      "url": "https://www.bbc.com/japanese/articles/c5yw0ryg4e4o?at_medium=RSS&at_campaign=rss",
-      "summary": "オランダ中央銀行（DNB）は2日、アメリカとカナダで保有していた数十億ドル相当の金をイギリスに移したと発表した。「地政学的な不安の高まり」が理由としている。",
-      "published": "2026/09/03 12:14",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg"
+      "title": "イスラエル人入植者がヨルダン川西岸の村を襲撃、10代のパレスチナ人2人死亡と地元当局",
+      "url": "https://www.bbc.com/japanese/articles/cz0z1yx9zjzo?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエル占領下のパレスチナ・ヨルダン川西岸地区で2日、イスラエル人入植者とイスラエル兵がアル・ムガイヤル村を襲撃し、10代のパレスチナ人2人が死亡した。地元当局が発表した。翌3日には2人の葬儀が執り行われた。",
+      "published": "2026/09/04 10:53",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "浮島が出現、消滅、そして再出現……カナダの淡水湖",
-      "url": "https://www.bbc.com/japanese/articles/cyvzenm13dlo?at_medium=RSS&at_campaign=rss",
-      "summary": "カナダのブリティッシュコロンビア州にある湖で、小さな浮島が発見された。しかしその後に消え、人工衛星画像でも確認できなくなった。謎が広がる中、最近になって再び発見され、話題になっている。",
-      "published": "2026/09/03 11:54",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a487/live/3b0ddbf0-a629-11f1-b384-1f35d0eeee9d.jpg"
+      "title": "イランの主張を調査中とヴァンス氏、米軍のミサイルが結婚披露宴を直撃か",
+      "url": "https://www.bbc.com/japanese/articles/c4gq2ep8ldyo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのJ・D・ヴァンス副大統領は3日、アメリカが1日にイランに対して行った攻撃で、結婚披露宴に参列していた子ども2人を含む民間人少なくとも4人が殺害されたとするイランの主張について、米軍が調査していると述べた。",
+      "published": "2026/09/04 10:55",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a8e4/live/bd401740-a7fb-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ベッセント財務長官｢日本はリフレ政策やめろ｣発言の衝撃…〈トリプル安〉の気配がある日本に迫る｢ドーマー条件｣の危機 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956759?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "高市政権の積極財政と金融緩和路線に対し､米財務長官ベッセント氏が｢リフレ政策からの転換｣を強く求めました。円安や長期金利上昇が続く中､日米の協調や\"ドーマー条件\"の脆さも浮き彫りに。高市政権は現実を…",
-      "published": "2026/09/03 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/d/1200w/img_addb8473a78c138ce0fc8671ab00b0ba220783.jpg?nextgen=false"
+      "title": "ビジネスマンも見習うべき…｢東大合格｣を勝ち取った人が必ずやっている《勉強を始める前》の入念な段取りとは | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955782?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東大生は新しい学びを始める際､目的や目標を明確に設定し､｢なんとなく｣でインプットを始めることはありません。目標を可視化し､数字で管理することで成果を確実に積み上げています。なぜ学ぶのか､その問いに…",
+      "published": "2026/09/04 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/1/1200w/img_e187901b5c6cf54bf3b07f0046c4933f719549.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢いつも寝てばっかり!｣と勉強しない子どもを叱る前に知っておきたい\"学習効果を上げる\"正しい《睡眠の活用法》 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955843?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "私たちは努力して勉強しても､翌朝には忘れてしまうことがあります。しかし実は､睡眠こそが記憶定着のカギとなる｢自動復習装置｣だとご存じでしたか？　本記事では､学びを効率化する睡眠の活かし方や､昼寝やカ…",
-      "published": "2026/09/03 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/c/1200w/img_7c549318c26c881ece28f12e6b7f74fc241921.jpg?nextgen=false"
+      "title": "｢食事は\"10分で食べ終わる\"と決める｣東大合格者が教える｢知らないうちに入試対策できちゃう3つの習慣｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955459?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年度を転換点とし､共通テストは｢知識量｣だけでなく｢考える力｣がより重視されています。時間感覚や文章把握力､社会への関心を日々鍛えることが､得点力につながる新時代の学び方とは？",
+      "published": "2026/09/04 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/a/1200w/img_da8178f8fc89d58261a873b8e687c218256458.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "世界最強のイギリスがなぜ｢13植民地｣に敗れた？ \"勝ち目のない戦争\"をひっくり返した｢アメリカ独立戦争｣意外な結末 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955991?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "「自由か死か―」 超大国アメリカをつくったのは、イギリスを追われ大西洋を渡った貧しい開拓者たちだった。過酷な土地を自力で切り拓いた彼らを待ち受けていたのは、本国イギリスによる一方的な重税と商売の独占…",
-      "published": "2026/09/03 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/4/1200w/img_a4cde8f8d921d13e7beab33dcfce10ed290737.jpg?nextgen=false"
+      "title": "｢もう年だから筋トレしても遅い｣は大間違い…70代でも効果アリ､｢週1時間｣からでも得られる\"驚きの健康効果\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955860?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "筋トレは若者だけのもの､そんな常識はもう古い――近年の科学的研究によれば､週1時間の筋トレでも死亡率や血圧を大幅に下げる効果が確認されています。",
+      "published": "2026/09/04 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/b/1200w/img_eb60a542da8fd89ed5f006084586c740270796.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢共通テストはバカに厳しい｣センター試験との明確な差…2カ月間猛勉強しても点数が伸びない必然とは | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955700?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2026年度からますます難化する大学入試共通テスト。知識を詰め込むだけでは太刀打ちできず､｢考える力｣が問われる時代へと転換しています。",
-      "published": "2026/09/03 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/1/1200w/img_31a0069a349fefec53ffbdcf44585d0a181717.jpg?nextgen=false"
+      "title": "言われてみればアタリマエ､｢掃除するだけ｣｢片付けるだけ｣のゲームが続々と登場する理由 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956122?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ビデオゲームといえば爽快なアクションや冒険を想像しがちですが､今注目されているのは｢大量の本を淡々と片付ける｣いわゆる\"作業ゲー\"です。なぜ単調な作業が人々を惹きつけるのか､そのゲームならではの不思…",
+      "published": "2026/09/04 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/c/1200w/img_2c862119747d78e456363f765557d28b233943.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "夏休み明け｢学校行きたくない｣に絶望する親へ…｢少し元気になった｣が実は一番危ない! 不登校《心のバッテリー80%の法則》 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956280?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "夏休み明けから子どもが突然｢学校に行きたくない｣と言い出した――こんなとき､親としては焦りや戸惑いが募るもの。不登校や登校しぶりは､単なる怠けではなく｢心のエネルギー切れ｣が原因かもしれません。大切…",
-      "published": "2026/09/03 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/7/1200w/img_e7199479af06cdd9de1628f811d4f00d244914.jpg?nextgen=false"
+      "title": "マセラティ新型｢グランカブリオ｣2400万円は絶妙か？ 911とは違う\"大人GT\"の真骨頂《試乗》 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956214?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イタリアのクラフツマンシップが息づくマセラティ｢グランカブリオ｣が､進化を遂げた。エンジンの高性能化や内外装のアップグレードで､現代的ラグジュアリーを見事に体現。ポルシェやメルセデスにどう挑むのか､…",
+      "published": "2026/09/04 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/5/1200w/img_65c923c729ebe071fe9ab95803a5fd7d143953.jpg?nextgen=false"
     }
   ]
 }
