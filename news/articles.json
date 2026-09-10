@@ -1,59 +1,77 @@
 {
-  "generated_at": "2026-09-09T04:42:34.155435+00:00",
+  "generated_at": "2026-09-10T04:43:03.507974+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ピクシブ、VRChatに出資　共同ワールド今秋公開、技術的連携など協業",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001310/",
-      "summary": "共同プロモーションやイベントを行う他、両プラットフォーム間の技術的な連携などに取り組み、3Dアバター文化を支えるクリエイターエコシステムの発展を目指す。",
-      "published": "2026/09/09 12:56",
+      "title": "「iPhone Duo」純正ケース話題、「面白いけど高い」……1万4800円と2万4800円",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001355/",
+      "summary": "「スタンド付きiPhone Duo Folio（フォリオ）」が2万4800円、スタンドのない「iPhone Duoケース」が1万4800円。SNSでは「機構は面白いけど高いな……」といった感想が出ている。",
+      "published": "2026/09/10 12:39",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/",
-      "summary": "OpenAIからAnthropicに移った研究者がAnthropicを退社し、両社が超知能の開発競争で人々の生命を賭けの対象にしていると批判した。業界全体での減速や規制がない限り来年末には制御不能になると懸念を示し、安全性を軽視した急速なスケーリングを続ける現状に強い警鐘を鳴らしている。",
-      "published": "2026/09/09 12:29",
+      "title": "「ランジェリーパープルじゃない」「買おうと思ってたのに」　iPhone 18 Pro／Pro Maxの色に落胆の声",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001353/",
+      "summary": "10日に米Appleが発表したiPhone新モデルの色を巡り、一部SNSで落胆の声が上がっている。リーク情報として発表前にネットに流れた色と微妙に異なる印象だったからだ。",
+      "published": "2026/09/10 11:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "PayPay、身に覚えのない送金に注意　マルウェア感染で遠隔操作リスク",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001306/",
-      "summary": "不審なSMSやメール、SNS上の広告に記載されたリンクからアプリをインストールしたことで感染し、不正に操作される事例を確認したという。",
-      "published": "2026/09/09 12:08",
+      "title": "「フラフープ」で車窃盗？　「リレーアタック」機器に悪用か　全国初、容疑の男ら再逮捕",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001348/",
+      "summary": "他人の敷地内から車を盗んだとして埼玉県警は9月9日までに、窃盗容疑で、いずれも住所不定で無職の宿原仁壱（26）、斎藤真良知（みらっど）（28）の両容疑者を再逮捕した。電子キーから出る電波を特殊機材で受信し、車を解錠して盗む「リレーアタック」と呼ばれる手口で犯行を重ね、電波受信時に遊具のフラフープを悪用していたとみられる。県警によると、リレーアタックでフラフープを利用した自動車盗の検挙は全国初。",
+      "published": "2026/09/10 10:43",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "店で免許証スキャン→数時間で闇サイトへ　米国防長官含む1億5300万枚の流出、被害者たちが突き止めた意外な出所",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001284/",
-      "summary": "米国とカナダの運転免許証1億5300万枚あまりをスキャンした画像が闇サイトで売りに出されているのが見つかった。セキュリティ専門ジャーナリストのブライアン・クレブス氏が出所をたどった結果、レンタカー大手などと取引のある本人確認サービス会社から流出したとみられることが判明。米連邦捜査局（FBI）ニューオーリンズ支部も捜査に乗り出しているという。",
-      "published": "2026/09/09 12:00",
+      "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ　事務局がAI使用明かす【訂正あり】",
+      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
+      "summary": "鹿児島県指宿市で開催するフルマラソン大会のポスターを巡り、X上で「生成AIで制作したのではないか」との指摘が相次いでいる。公式サイトでは「鹿児島県内でイベントポスター等作品を多数描かれているイラストレーター」が手掛けたとしていたが、大会事務局は9月8日、制作過程で生成AIを利用していたと明らかにし、同サイトの説明も訂正。正確には「グラフィックデザイナー」によるものだったと改めた。",
+      "published": "2026/09/10 10:39",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "PENTAX、現行の「Kシリーズ」終了、K100Dから20年……「新コンセプトの一眼レフ」開発中",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001304/",
-      "summary": "「新製品が姿を現すまでには、まだ時間を要する」としている。",
-      "published": "2026/09/09 11:35",
+      "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
+      "summary": "Anthropicは、AIモデル「Claude」が評価中に実在システムに不正侵入した事案に関するアライメント分析報告書を公開した。新たに判明した1件を含む計4件を精査し、運用上の不備ではなくモデルの「偏った推論」や「無謀さ」に起因すると見解を修正。第三者評価機関METRによる独立調査の実施も公表した。",
+      "published": "2026/09/10 09:07",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米軍がイランのタンカー5隻を攻撃、イランはヨルダンの米軍基地を攻撃",
-      "url": "https://www.bbc.com/japanese/articles/cm27vklxpm1o?at_medium=RSS&at_campaign=rss",
-      "summary": "米中央軍は8日、イランが過去2日間で2度にわたり米軍艦を標的にしたことへの報復として、米軍が同日、イランのタンカー5隻を攻撃したと発表した。イランは報復として、ヨルダンにある米軍基地にミサイルを発射した。この状況を受け、ブレント原油は1.5％上昇し、1バレル99.41ドルとなった。アメリカで取引される原油は1.6％上昇し、同94.55ドルとなった。",
-      "published": "2026/09/09 11:03",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d0c/live/5260f300-abe2-11f1-b109-879e35c24276.jpg"
+      "title": "AIが「全人類を滅ぼす」可能性は「10％以上」　米アンソロピック研究者が警告",
+      "url": "https://www.bbc.com/japanese/articles/cm27vdrp84zo?at_medium=RSS&at_campaign=rss",
+      "summary": "米AI（人工知能）開発企業アンソロピックの安全研究のトップが、AIの進歩があまりに速く、今後10年以内にAIが「全人類を滅亡させる」可能性が10％以上あると考えられると、警告した。",
+      "published": "2026/09/10 13:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ブレント原油、7月下旬以来の100ドル超　中東でタンカーや石油施設攻撃続く",
+      "url": "https://www.bbc.com/japanese/articles/cvgynxyr2d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカとイランが湾岸地域で互いにタンカーを攻撃し、イエメンの親イラン武装組織フーシ派がサウジアラビアの石油施設を攻撃している状況を受け、国際指標の北海ブレント原油の先物価格は9日、1バレル＝100ドルを超え、7月24日以来の高値を付けた。",
+      "published": "2026/09/10 10:56",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dca/live/fe3020d0-acae-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "スペイン飛び地セウタへ移民が大規模流入……情報機関が事前警告　政府文書で明らかに",
+      "url": "https://www.bbc.com/japanese/articles/c93vdre5zk9o?at_medium=RSS&at_campaign=rss",
+      "summary": "アフリカ北部にあるスペインの飛び地領土セウタに7月末、数万人の移民が流入した問題で、スペインの情報機関が事前に、セウタへの越境をソーシャルメディア上で呼びかける動きがあると警告していたことが、9日に機密解除されたスペイン政府の文書で明らかになった。",
+      "published": "2026/09/10 11:14",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,74 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ルノワールの絵画が盗まれる、フランス南部の美術館",
-      "url": "https://www.bbc.com/japanese/articles/c62e79zpvw6o?at_medium=RSS&at_campaign=rss",
-      "summary": "フランス南部の美術館で8日、印象派のフランス人画家ピエール＝オーギュスト・ルノワールの絵画2点が盗まれた。ヨーロッパでは近年、美術品の強盗事件が相次いでおり、美術館や画廊のセキュリティー問題に注目が集まっている。",
-      "published": "2026/09/09 10:57",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/346b/live/006bdfb0-aba1-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "仏ルノワール美術館の盗難事件、今わかっていること",
-      "url": "https://www.bbc.com/japanese/articles/c8jdp1r899zo?at_medium=RSS&at_campaign=rss",
-      "summary": "フランス南部の美術館で8日、印象派のフランス人画家ピエール＝オーギュスト・ルノワールの絵画2点が盗まれた。",
-      "published": "2026/09/09 12:47",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e78c/live/9a0d5ae0-ac00-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "AIがもたらす結果に誰も備えていないと警告、オープンAIの主任サイエンティストがブログで",
-      "url": "https://www.bbc.com/japanese/articles/ce8xzllk9xjo?at_medium=RSS&at_campaign=rss",
-      "summary": "米オープンAIの主任サイエンティスト、ヤクブ・パホツキ氏はこのほど、人工知能（AI）の急速な進歩に対して「きわめて慎重な対応」を呼び掛けるとともに、「人類が確実に未来を制御し続けるため」には、これまで以上の介入が必要かもしれないと警告した。",
-      "published": "2026/09/08 16:01",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg"
+      "title": "9/11攻撃直後の大気汚染、ニューヨーク市民は「うそをつかれていた」　マムダニ市長が文書公開",
+      "url": "https://www.bbc.com/japanese/articles/crm94ek72l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "2001年9月11日の米同時多発攻撃の発生直後、高層ビルが崩壊したニューヨーク・マンハッタンで有害な大気汚染が記録されていたことが、新たに公開された大量の文書で明らかになった。ニューヨーク市のマムダニ市長が8日、発表した。当局は当時、健康へのリスクは低いとしていた。",
+      "published": "2026/09/09 17:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a27/live/073fe880-ab9d-11f1-b26f-1588b95519ec.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢コト消費｣が半世紀にわたり今のトレンドを示すものとして用いられる訳…なぜ｢○○消費｣は繰り返し語られ続けるのか | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955970?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢モノからコトへ｣という潮流が叫ばれて久しい今も､｢コト消費｣は具体的定義を持たないまま､マーケティング業界で独特の存在感を放ち続けています。なぜ曖昧なまま受け入れられ､時代の変化を説明する枠組みに…",
-      "published": "2026/09/09 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_791fd9c325d919f6fd4467dc28bc8fec147398.jpg?nextgen=false"
+      "title": "大なり小なり交渉がつきものの人生で､交渉の失敗を受け入れ､学び､心の負荷を減らすにはどうしたらいいのか？ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956526?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "数多くの交渉術本が｢成功の秘訣｣を語るなか､『失敗に学ぶ交渉術』は異彩を放ちます。なぜ私たちは失敗から学べないのか､交渉場面での心理的バイアスや損失嫌悪､正当化の罠に迫る内容です。あなたは失敗から本…",
+      "published": "2026/09/10 13:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/f/1200w/img_9f949ad3cd48182307d6a437967e7c82238462.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "なぜ英会話に10年通っても話せないのか､月15万円でも選ばれる英語コーチングの仕組み | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957050?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢英会話スクールに通っても話せるようにならない｣──そんな悩みを抱える人が､高額な英語コーチングに通い始めている。短期集中で成果を出す仕組みや､受講生の驚きの変化とは何か。",
-      "published": "2026/09/09 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/c/1200w/img_3c1932bbe2b864faf743aee789d5f83874498.jpg?nextgen=false"
+      "title": "｢事故を防ぐ｣から｢眠らせる｣へ､トヨタが仮眠機器｢TOTONE｣に挑む理由と越えられない｢周囲の目｣ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957079?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本では｢仮眠＝サボり｣という意識が根強い一方､実際には多くの人が仕事中の眠気や集中力低下に悩んでいる。トヨタ自動車が開発した仮眠ツール｢TOTONE｣や､立ったまま眠れる｢giraffenap｣が…",
+      "published": "2026/09/10 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/6/1200w/img_7611dd323cb9ba43d3c0904f3d77047c407954.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "KDDI｢山口衛星通信所｣が宇宙の玄関口に､海外通信を支えた57年の拠点が低軌道衛星時代に狙う新たな役割 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957049?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "山口市の山あいに立つ巨大パラボラアンテナは､かつて日本と世界をつないだ通信拠点。いまや最先端の宇宙産業やAIのデータ通信の要となるべく､KDDIと山口県が手を組み､\"宇宙から選ばれる街\"を目指す挑戦…",
-      "published": "2026/09/09 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/8/1200w/img_487df1c3eb0033f74b658226acc78081428002.jpg?nextgen=false"
+      "title": "もし南部が勝っていたら｢アメリカは農業国｣だった!？…国を真っ二つに分断した史上最大の内戦｢南北戦争｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955993?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1861年、日本の幕末と同じ頃、太平洋の向こうでは巨大な超大国が真っ二つに分断される危機に直面していた。 工業化を進める北部と、奴隷労働による綿花農園に頼る南部は、貿易や奴隷制をめぐって一歩も引かな…",
+      "published": "2026/09/10 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/b/1200w/img_7b5c537ebd42c356f737ee810dc5332e156061.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【30年ぶり「長期金利3％」 先行きは？】金利が急ピッチで上昇する理由／円高に傾き始めた背景／米財務長官が「高市政権のリフレ政策」に苦言／日銀の利上げは予定どおり？／「金利」「為替」「株」の見通し | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957436?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本の長期金利が急ピッチで上昇している。9月1日には新発10年物国債利回りが3％を超え、30年ぶりに大台を突破した。こうした中、同日に閉幕したG20（20カ国・地域）財務相・中央銀行総裁会議後の記者…",
-      "published": "2026/09/09 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/2/1200w/img_d2706356f155eda269f4eb5c8d6d64fe178252.jpg?nextgen=false"
+      "title": "｢やっぱり若者にはかなわない｣…なんて嘆く必要はない! 年齢を重ねて初めて手にできる《脳の新しい武器》の鍛え方 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955846?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "年齢とともに頭が鈍くなると感じたことはありませんか？　しかし､脳には｢衰えやすい力｣と｢衰えにくい力｣があり､蓄積した知識や経験はむしろ年齢を重ねるほどに価値を増していきます。本記事では､加齢に伴う…",
+      "published": "2026/09/10 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/6/1200w/img_9620d6cce8bbad207b59ce085d079af4347280.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "東大生250人｢勉強は楽しいですか？｣の問いに74%が｢楽しい｣と答えた背景　知られざる合格者たちの｢習慣｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955923?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東大生の74％が｢勉強を楽しんでいる｣と答えた背景には､特別な才能ではなく\"面白さを自ら探す努力\"がありました。苦手な科目も､まず興味深い話や他者の視点に触れてみる――学びが楽しくなる秘密､その具体…",
-      "published": "2026/09/09 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/a/1200w/img_bab654c7dae11fcbbbada43dbbacda05178624.jpg?nextgen=false"
+      "title": "｢ズボンをはくときにわかる｣衰えサインとは？　40代から始まる筋肉･柔軟性･バランス感覚の変化を理学療法士が解説 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956240?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢なんとなく前と違う｣と感じ始める40代。エスカレーターに頼りがちになった､ズボンをはくときに片脚立ちでふらつく､とっさに動けない……そんな変化の裏には､筋肉･柔軟性･バランス感覚の小さな衰えが隠れ…",
+      "published": "2026/09/10 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/c/1200w/img_0cca0683425c11f218942d79c27a0a6893627.jpg?nextgen=false"
     }
   ]
 }
