@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-09-13T04:48:19.277277+00:00",
+  "generated_at": "2026-09-14T04:57:01.405812+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開　アルトマン氏とマスク氏も賛同",
-      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
-      "summary": "AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。",
-      "published": "2026/09/13 08:06",
+      "title": "レベルファイブ発表会のAI演出が物議　「不自然」「内容よりAIが気になる」　日野社長「派手にしたかった」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001440/",
+      "summary": "「妖怪ウォッチ」「イナズマイレブン」などを手掛けるレベルファイブが、9月10日のオンライン発表会でAI生成映像を多用し、Xなどで物議を醸している。同社の日野晃博社長は9月12日、AI映像に不快感を示した視聴者に謝罪したうえで、自社が進めるAI活用の方針について説明。発表会を「派手にしたい」との狙いから、最新AIを使った実験的な処理を取り入れたという。",
+      "published": "2026/09/14 13:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "映画「バックルームズ」が怖くなかったマンガ家、基になったネット都市伝説にハマって本作の楽しみ方を理解する",
-      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001423/",
-      "summary": "4日に日本でも公開された映画「バックルームズ」が、世界中で大ヒットしています。個人的にあまり怖くなかったのですが、基になった都市伝説を調べるうちに見方が変わりました。",
-      "published": "2026/09/13 07:16",
+      "title": "「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち　広がる“AI版静かな退職”",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001258/",
+      "summary": "AI活用の成果を隠す会社員が少なくなさそうだ。浮いた削減時間は労使どちらの手に……。",
+      "published": "2026/09/14 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「壁紙DIY」とイマドキの超短焦点4Kプロジェクターを寝室で試したら検証が止められなくなった",
-      "url": "https://www.itmedia.co.jp/news/article/2609/12/2000001428/",
-      "summary": "壁際数cmの距離に置くだけで100インチ超えの大画面が手に入る超短焦点プロジェクターを試しました。",
-      "published": "2026/09/12 10:31",
+      "title": "「悪用されそう」─―メルカリ「限定公開」機能、SNSで物議　同社に対策を聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001434/",
+      "summary": "メルカリの限定公開機能に「マネーロンダリングや盗品売買など悪用を助長するのでは」などの懸念。同社に機能の狙いと対策を聞いた。",
+      "published": "2026/09/14 11:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "なぜ酒蔵の許諾なしに？　「VTuberコラボ日本酒」騒動、主催者が経緯説明　仲介者による調整で「準備進んでいると認識」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001427/",
-      "summary": "イベント団体「絶品グルメ屋台の会」は9月11日、神田明神納涼祭りに合わせて企画していた「VTuberコラボ日本酒」の販売を取りやめ、企画を中止すると発表した。同企画を巡っては、製造元として告知されていた諸橋酒造（新潟県長岡市）が、コラボを「一切許諾したことはない」と声明を出したことで、物議を醸していた。同会は「結果として諸橋酒造の了解には至っていなかった」と説明し、謝罪した。",
-      "published": "2026/09/11 19:51",
+      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言　「規制がなければできないふりをやめろ」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
+      "summary": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
+      "published": "2026/09/14 08:14",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "テスラの無人タクシーが東京・青山に　ハンドルもペダルもない「Cybercab」　日本での展開は？",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
-      "summary": "ハンドルもペダルもない。Teslaが米国で無人タクシーとして走らせ始めた専用車両「Cybercab」の実車が、東京・青山に上陸した。塗装しないゴールドの樹脂ボディー、上に開くバタフライドア、Netflixもカラオケも楽しめる車内。それにしても、タクシーなのになぜ2人乗りなのか。そして日本の公道は走れるのか。",
-      "published": "2026/09/11 19:25",
+      "title": "「死亡事故がゼロの世の中を」──苦節7年、危険な作業をAIで省力化　全国で稼働する「交通誘導AI」の現在地",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001430/",
+      "summary": "AIカメラとLED表示板で工事現場の交通誘導を行うシステムが、既に全国の国道などで動いている。9月9日開催の展示会「AIエキスポ」で、開発元のKB-eyeに話を聞いた。",
+      "published": "2026/09/14 06:46",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ロシア、ウクライナで列車を攻撃　ジョンソン元英首相らの別列車が駅を出た直後",
+      "url": "https://www.bbc.com/japanese/articles/c93vnk0lv19o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナとポーランドの国境付近で13日、ロシアのドローンが列車を攻撃した。直前にはこの近くを、キーウでの会議からの帰路についていたイギリスのジョンソン元首相やヨーロッパの安全保障担当官らが乗った列車が通過していたとされる。",
+      "published": "2026/09/14 12:09",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "AI企業のスタッフは人類の未来を「本当に恐れている」、元アンソロピック社員がBBCに語る",
+      "url": "https://www.bbc.com/japanese/articles/cly7589yr29o?at_medium=RSS&at_campaign=rss",
+      "summary": "米人工知能（AI）企業アンソロピックを退職した研究者は13日、BBCの取材に対し、AIに関わる人々はこの技術の進歩の速さと、それが人類にもたらす可能性のある影響について「本当に恐れていた」と語った。ジェイコブ・コクソン氏（27）は、BBCの番組「サンデー・ウィズ・ローラ・クンスバーグ」にビデオリンクで出演した際、「現在の進歩のペースを減速させなければ、近い将来、私たち全員が死んでしまう可能性が非常",
+      "published": "2026/09/14 13:28",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b79d/live/ec65e840-afe1-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】AIの「減速」とはどうやるのか、募る疑問",
+      "url": "https://www.bbc.com/japanese/articles/cg49nk203wlo?at_medium=RSS&at_campaign=rss",
+      "summary": "AIの開発ペースを遅らせるべきだという声が、業界から高まっている。しかし、手っ取り早い修正のように聞こえるかもしれないそれは、決して簡単な解決策ではない。",
+      "published": "2026/09/14 11:38",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "子どもの虐待画像所持の疑いがあるアメリカ大使館員、イギリス警察の調べ受けないまま出国",
+      "url": "https://www.bbc.com/japanese/articles/clyjx1w34ywo?at_medium=RSS&at_campaign=rss",
+      "summary": "子どものわいせつ画像を所持した疑いがかけられている在ロンドンのアメリカ大使館の男性職員が8月、ロンドン南部の自宅アパートで拘束されたあと、英警察の取り調べを受けることなく出国していたことが判明した。",
+      "published": "2026/09/14 12:32",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0008/live/2a3caf10-af5f-11f1-8b54-ef4b26bcf610.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6af/live/af396930-ae09-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "9/11の3年前に「爆発物を積んだ航空機」の脅威を米CIAが警告　機密文書公開で明らかに",
-      "url": "https://www.bbc.com/japanese/articles/c3v4nr1z6x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "2001年9月11日の米同時多発攻撃の3年前に、武装勢力「アルイアイダ」が、「爆発物を積んだ航空機を米国内の都市に突入させる」可能性があると、米情報当局者が指摘していたことが、同攻撃から25年を迎えた11日に新たに機密解除された文書で明らかになった。",
-      "published": "2026/09/12 13:53",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5309/live/fded5d10-ae0f-11f1-b502-e5cdfe1c097c.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米南部で黒人女性、木につるされ遺体で発見　家族らの訴え経て最初の逮捕",
-      "url": "https://www.bbc.com/japanese/articles/c74k08d3d44o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ南部ミシシッピ州で先月、黒人女性が木につるされた状態で死んでいるのが見つかった。警察は今週になって初めて、殺人事件の可能性があると発表。11日に容疑者を逮捕した。関与が疑われる別の容疑者らの逮捕もありうるとしている。",
-      "published": "2026/09/12 13:13",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05a4/live/08613b90-ae51-11f1-a540-61c3f7fc4e6c.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "フィリピン沖でフェリー火災、35人死亡50人超行方不明　40時間以上たって救助隊員が乗り込む",
-      "url": "https://www.bbc.com/japanese/articles/ce9edgkk9mro?at_medium=RSS&at_campaign=rss",
-      "summary": "フィリピンの首都マニラを出港したフェリーが9日夜、パラワン州の人気観光地コロン島の近海で火災に見舞われた。これまでに35人の死亡と43人の救助が確認され、50人以上が行方不明となっている。有毒な煙と熱のため、救助隊はフェリーに乗り込むことができなかったが、火災発生から40時間以上たった11日正午前、初めて船上で捜索活動を開始した。",
-      "published": "2026/09/12 17:26",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d23/live/4db05bf0-ad92-11f1-89c7-2d9bd86063c9.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】 トランプ氏、米中間選挙で勝利なら全成人に5000ドル支給と表明　本当に可能なのか",
-      "url": "https://www.bbc.com/japanese/articles/c5y4867y3j5o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は9日夜、テキサス州で始まった共和党大会で演説した。その中で、11月の中間選挙で共和党が勝利すれば、国民の成人全員に5000ドル（約77万円）を支給すると表明した。ただ、その財源をどう確保するのかや、法的に認められるものなのかは明らかでない。",
-      "published": "2026/09/11 15:44",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "沖縄知事選｢自民系新人が12年ぶり県政奪還｣でも高市首相に吹かぬ\"追い風\"､圧勝の裏にあった｢応援拒否｣の複雑事情 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957965?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "沖縄県知事選で古謝玄太氏が現職の玉城デニー氏に圧勝。12年ぶりに保守陣営が県政を奪還しましたが､その裏側で｢選挙に強い高市首相｣のイメージが揺らいでいます。いったい何が起きているのでしょうか。",
+      "published": "2026/09/14 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/3/1200w/img_1342f9bbea3a5cd3191caea859063308416911.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢二度と来るもんか｣から40年､定年直前にミャンマーで起業した64歳が政変の混乱下で高品質ゴマ油を広めた｢仕掛け｣ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957122?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢二度と来るものか｣と誓った青年が､40年後にミャンマーで食品会社を設立。政変や困難を乗り越え､ゴマ油を通じて現地の農産物に新たな価値を生み出す市橋卓也さん。彼の挑戦の原動力は何か――その想いを追い…",
-      "published": "2026/09/13 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/3/1200w/img_435a6f50e83b567eab894253017ca7bd898501.jpg?nextgen=false"
+      "title": "オープンAI､アンソロピックの覇権争いの行く末とは　佐々木俊尚氏が語るテクノロジーの進化が止まらない深い理由 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956105?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "急速に進化するAIの最前線。その推進力となる米中の覇権争いや､イノベーションの光と影､そして人類史的大転換の只中にある今､私たちはいかに向き合うべきか。AIの進化とコントロール､その本質的なジレンマ…",
+      "published": "2026/09/14 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/c/1200w/img_fca09941f5e2a6459c3c5d496e6e9d27432703.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢勉強できる子の親は『勉強しろ』と言わないのはなぜ？｣→600人の東大生アンケートから見えた逆説の驚くべき真相 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955925?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢勉強しなさい｣と親に言われた記憶がない――東大生の7割超がそう語る驚きの調査結果。なぜ彼らは自ら机に向かうのか？その秘密は､｢学びの楽しさ｣を引き出す親の巧妙な工夫にありました。家庭で今すぐ実践で…",
-      "published": "2026/09/13 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/3/1200w/img_6307fb4f678f3fde459d4c1805b491ae163758.jpg?nextgen=false"
+      "title": "｢血糖値が高め｣の人へ､痩せなくても改善できる？ \"薬物療法に匹敵\"する効果も､最新研究でわかった｢筋トレ｣の実力 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955936?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "健康診断で血糖値が高めと指摘されたら､食事制限や有酸素運動を思い浮かべがちですが､実は筋トレも強力な血糖値改善策だとご存じですか？最新研究に基づき､筋トレの驚くべき効果と具体的な実践法を解説します。",
+      "published": "2026/09/14 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/e/1200w/img_7e0272574351256236f15e39d608f5fd245395.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "\"慈善事業\"の枷に苦しむ高野連､甲子園は商業化を進めるべきだ 『高野連』著者の広尾晃氏に聞く | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957570?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『高野連』の著者､スポーツライターの広尾晃氏に話を聞きました。",
-      "published": "2026/09/13 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/f/1200w/img_8f361de8c9b5dfc1a0b2e5a0262c23b1192649.jpg?nextgen=false"
+      "title": "｢東大生＝コミュ障｣｢推薦組＝勉強できない｣を鵜呑みにする人に足りない視点　｢認知vs非認知｣論の危険な落とし穴 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955799?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢東大生＝コミュ障｣｢推薦組＝勉強ができない｣―そんなステレオタイプ､本当に正しいのでしょうか。学力と人間力は相反するものではなく､両方を伸ばす\"地頭\"こそが教育の核心です。あなたの思う｢本当の頭の…",
+      "published": "2026/09/14 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/6/1200w/img_565c801796b768bc689536d336d09a7196656.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "サムスン電子とSKハイニックスが行う巨額株主還元の衝撃…｢コリア･ディスカウント｣是正の試金石に | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957902?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "韓国の半導体大手､サムスン電子とSKハイニックスが過去最大級の株主還元策を発表し注目を集めています。しかし､\"コリア･ディスカウント\"と言われる韓国株の割安状態の解消には依然課題が残り､制度改革や他…",
-      "published": "2026/09/13 10:37",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/6/1200w/img_768507caaffe79ed9105dd4e75cdf2c754281.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "〈AIリスク〉アンソロピックの｢Claude｣がロシアやイエメンで軍事兵器の開発支援に悪用されていた実態が明らかに | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957866?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "米AI企業アンソロピック製｢Claude｣が軍事兵器の開発支援に悪用されていた実態が明らかに。世界各地でドローンやミサイル､さらに生物兵器にまで及ぶ利用例が報告され､AIの進化とリスクが浮き彫りにな…",
-      "published": "2026/09/13 10:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/e/1200w/img_6ee253cee080d4d010c040b9ff779eda743116.jpg?nextgen=false"
+      "title": "あなたも家族もギフテッドかも？ \"IQ130未満\"でも当てはまりうる新しい判別基準と｢ギフテッド特性チェックリスト｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957228?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2030年度の特例制度導入で注目を集める｢ギフテッド｣。しかし現場では無理解から不登校に陥る子どもも少なくありません。彼らが抱える生きづらさの正体と､特性を見抜く｢ギフテッド特性チェックリスト｣を紹…",
+      "published": "2026/09/14 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/1/1200w/img_c194162d712d7e2c95b5f794f714da7a305574.jpg?nextgen=false"
     }
   ]
 }
