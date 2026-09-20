@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-19T04:37:55.989081+00:00",
+  "generated_at": "2026-09-20T04:54:07.592807+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "新作「鬼武者」にハマったマンガ家が熱弁する、他とは違う“パリィ”の魅力とは？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/20/2000001640/",
+      "summary": "いよいよシルバーウイーク。もし「ゆっくりゲームでも」と思っている方がいたら、ボクは20年ぶりに新作が登場した「鬼武者」をオススメします。",
+      "published": "2026/09/20 07:16",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -38,13 +47,13 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
-      "summary": "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現地を実際に見てきたので、写真を交えて紹介する。",
-      "published": "2026/09/18 16:52",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
+      "summary": "フランスのエマニュエル・マクロン大統領は18日、ロシアによる欧州およびフランスに対するハイブリッド攻撃の脅威が高まっていると警告した。",
+      "published": "2026/09/19 13:20",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -76,65 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
-      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
-      "summary": "フランスのエマニュエル・マクロン大統領は18日、ロシアによる欧州およびフランスに対するハイブリッド攻撃の脅威が高まっていると警告した。",
-      "published": "2026/09/19 13:20",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "国連調査団、アメリカのイラン小学校攻撃などは「戦争犯罪」と考える合理的根拠あると報告",
-      "url": "https://www.bbc.com/japanese/articles/cwp93mkknzm4o?at_medium=RSS&at_campaign=rss",
-      "summary": "国連の人権専門家らは17日、アメリカがイランで行った2回の空爆で少なくとも177人の民間人を殺害したとして、アメリカが戦争犯罪を犯したと信じるに足る「合理的な根拠」があるとの見解を示した。また、イラン当局が今年1月に大規模な反政府デモを弾圧した際に、人道に対する罪を犯したと結論付けた。",
-      "published": "2026/09/18 10:21",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg"
+      "title": "パキスタンのモスクに爆発物を積んだ車突入、少なくとも21人が死亡",
+      "url": "https://www.bbc.com/japanese/articles/cmwyzkg10zzko?at_medium=RSS&at_campaign=rss",
+      "summary": "パキスタン北西部で18日、警察署敷地内にあるモスク（イスラム教の礼拝所）に爆発物を積んだ自動車が突入し、少なくとも21人が死亡、100人以上が負傷したと当局が発表した。死者に警察官15人と4歳の子供1人が含まれるという。",
+      "published": "2026/09/19 13:36",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "海自哨戒艦名が｢すぎ｣｢ひのき｣でいいのか？新型｢さくら｣級への雑木林のような命名が示す海自のおざなりな体質 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958256?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "海上自衛隊の新型｢さくら｣級哨戒艦。その艦名には｢すぎ｣や｢ひのき｣といった樹木名が並び､国民との結び付きや士気向上の観点から妥当な命名なのか疑問が噴出しています。",
-      "published": "2026/09/19 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/f/1200w/img_8fff78d19e33bfb13ce1b7e790e1f91b265172.jpg?nextgen=false"
+      "title": "離れて暮らす高齢の親､｢何かあったらどうしよう｣を減らす\"デジタル見守り\"という選択《何から始める？チャート付き》 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958495?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "離れて暮らす高齢の親の安全や日々の生活をどう守るか､多くの家族が抱える悩みです。手間や負担を軽減する最新デジタルグッズと､親が自然に受け入れる方法とは？｢見守り｣の新しいカタチ､一緒に考えてみません…",
+      "published": "2026/09/20 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/0/1200w/img_101321de8ed6837ee282123a1f181cae348324.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢勉強？あとでやるから｣子どもの怠けグセに辟易…無理なく\"やる気スイッチを押す声かけ2つ\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956977?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢勉強がだるい｣｢あとでやる｣と言う子どもに､保護者はどう寄り添えばいいのでしょうか。命令や正論が逆効果になりがちな中､やる気を引き出す具体的な方法を解説します。",
-      "published": "2026/09/19 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/d/1200w/img_fdae5612ac5a5e7e426cad75fbe3a189275407.jpg?nextgen=false"
+      "title": "帰宅後に加熱するだけ！｢アイラップ｣で仕込む冷凍ミールキット《下ごしらえも調理も袋1つ》のラク技 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958156?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "忙しい毎日でも手軽に本格的な味を楽しみたい方にぴったり､アイラップを使った冷凍ミールキット。食材をカットして調味料と一緒に袋で冷凍するだけで､保存から調理まで簡単＆時短。今回は鶏むね肉のチーズタッカ…",
+      "published": "2026/09/20 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/f/1200w/img_dfe780297633fe2b2ef689ba0d8eb5db901387.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "最新！｢四季報プロ500｣秋号が選ぶ､今期の純利益増加率50社　大幅増益の背景は？ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958475?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "企業の純利益は､配当や株価にも直結する重要な指標です。最新の『会社四季報プロ500』秋号から､今期純利益増加率が高い有望企業トップ50をランキング形式で紹介します。",
-      "published": "2026/09/19 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/c/1200w/img_acaf0ebd78dfac7205a97c7a4ee82451387462.jpg?nextgen=false"
+      "title": "結婚のピークは女性26歳､男性27歳…20年前とほぼ同じなのに日本の少子化が止まらない｢本当の理由｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958484?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢平均初婚年齢＝結婚ピーク年齢｣と思い込んでいませんか？実は結婚の\"適齢期\"は20年前とほとんど変わらず､男女ともに20代後半が主役。平均年齢を信じて結婚を先延ばしすると､｢理想の相手｣はすでに結婚…",
+      "published": "2026/09/20 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/8/1200w/img_78be091706c5612ba0ad92bf4a07244f388950.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "30代女性を追いつめた｢母親からのもらいうつ｣とは…うつ病で休職した彼女の復職診断書を産業医が取り下げたワケ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957033?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢接客以外の仕事なら復職可能｣。うつ病で休職していた30代女性が提出した診断書に人事担当者は困惑しました。彼女はなぜ､それほどまでに接客の仕事に自信を失ってしまったのか。その背景にあったのは｢母親か…",
-      "published": "2026/09/19 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/6/1200w/img_86ed86fa622efa2dd839a2608119ad4599824.jpg?nextgen=false"
+      "title": "公式説明なき脱退に飛び交う憶測…WEST.を襲った｢建前すら語れない｣異常事態の裏側 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958567?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "突然のメンバー脱退に揺れる人気グループWEST.。7人で歩んできた\"物語\"が崩れ､残された5人の今後や､脱退に至った真の理由にファンの間では動揺と疑念が広がっています。",
+      "published": "2026/09/20 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/b/1200w/img_cb51b348251ca5aec99e22678bb95dbf784314.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【朗報】鮭の塩焼きがパサつくのは腕のせいじゃない！ 旬のうま味を引き出す｢エノキ×バター×レンジ蒸し｣最強調理法 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958482?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "秋に旬を迎える生の秋鮭は､塩焼きにすると意外にパサついてしまうことも……。その理由は脂の少なさにありますが､実はエノキと組み合わせることでしっとり極上の料理に大変身します。レンジ蒸しで新しい秋鮭の楽…",
-      "published": "2026/09/19 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/7/1200w/img_976b42ae0e01ab90cf635f818efb760999633.jpg?nextgen=false"
+      "title": "《豊臣兄弟！》秀吉の出陣を拒否！秀長が\"わずか2カ月\"で､四国の覇者｢長宗我部元親｣を降伏に追い込んだ背景 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957822?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第40回は秀長が総大将として活躍した四国征伐について､真山知幸氏が解説します。",
+      "published": "2026/09/20 09:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_79febb7b060bb15d4fe0f098f5a1862d308999.jpg?nextgen=false"
     }
   ]
 }
