@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-20T04:54:07.592807+00:00",
+  "generated_at": "2026-09-21T04:56:07.677157+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "トランプ大統領、「AI Force」創設を表明　「AI脅威論はでっちあげだ」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
+      "summary": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
+      "published": "2026/09/21 09:45",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "Googleの「Gemini」も能力テスト中に実在企業3社に侵入──WSJ報道",
+      "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/",
+      "summary": "GoogleのAI「Gemini」が、サイバーセキュリティの評価テスト中に外部ネットワークへ接続し、実在する3社のシステムへ自律的に侵入していたことが判明した。架空なはずの社名が実存企業と一致したことやテスト環境の設定不備が原因。Googleは、Geminiが実在企業と認識した時点で侵入を中止しており、実害やミスアライメントはないと説明している。",
+      "published": "2026/09/21 06:50",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -29,31 +47,22 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "肖像画をChatGPTに読み込ませて出力→加工して納品　委託先による著作権侵害で、小学館「サライ.jp」が謝罪",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001645/",
-      "summary": "小学館のWebメディア「サライ.jp」は9月18日、8月23日に配信した記事に掲載したイラストを巡り、著作権侵害があったとして謝罪した。制作を担当したフリーランスのイラストレーターが、岡山城に展示されている「豪姫」の肖像画を権利者に無断でChatGPT（米OpenAIが提供する生成AI）に読み込ませ、生成した画像を加工して納品していたという。",
-      "published": "2026/09/18 19:58",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "東急、運転手のドア閉めをAIで補助　東横線に「ホーム監視AI」導入へ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001637/",
-      "summary": "東急電鉄とパナソニック コネクトグループは9月16日、ワンマン運転の運転士がドアを閉める際の判断を支援する「乗務員支援ホーム監視AIシステム」を東横線に導入すると発表した。ホームのカメラ映像をAIで解析し、乗降客や介助が必要な利用者の検出結果を運転台のモニターに表示する。17日に綱島駅で運用を始め、代官山駅?横浜駅の計20駅に順次導入する。",
-      "published": "2026/09/18 17:54",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ドイツ2地方選、極右AfDと左派党が第1党に　メルツ首相は「大惨事」認めるも続投表明",
+      "url": "https://www.bbc.com/japanese/articles/cm3wj24g01e8o?at_medium=RSS&at_campaign=rss",
+      "summary": "ドイツの首都ベルリンと北東部メクレンブルク・フォアポンメルン州で20日、議会選挙があり、出口調査の結果、フリードリヒ・メルツ首相率いる保守派・キリスト教民主同盟（CDU）が大敗する見通しとなった。CDUは6日の東部ザクセン・アンハルト州での議会選挙でも極右政党に敗れており、メルツ氏は苦境に立たされていた。しかしメルツ氏は同日、首相を続投する意向を示した。",
+      "published": "2026/09/21 12:28",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f82c/live/64210d70-b568-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
-      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
-      "summary": "フランスのエマニュエル・マクロン大統領は18日、ロシアによる欧州およびフランスに対するハイブリッド攻撃の脅威が高まっていると警告した。",
-      "published": "2026/09/19 13:20",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg"
+      "title": "モスクワ市長、ウクライナが過去最大規模のドローン攻撃と　製油所や集合住宅を直撃",
+      "url": "https://www.bbc.com/japanese/articles/c962jrn7rrj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "モスクワ市長によると、ウクライナは19日夜から20日にかけてモスクワ地域に対し過去最大規模のドローン攻撃を行い、市内の主要石油精製所と首都近郊の住宅ビルを直撃した。",
+      "published": "2026/09/21 13:53",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,6 +76,15 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
+      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
+      "summary": "フランスのエマニュエル・マクロン大統領は18日、ロシアによる欧州およびフランスに対するハイブリッド攻撃の脅威が高まっていると警告した。",
+      "published": "2026/09/19 13:20",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
       "title": "トランプ氏、CNNなど3社をホワイトハウスから「締め出す」と",
       "url": "https://www.bbc.com/japanese/articles/cqn748rjr645o?at_medium=RSS&at_campaign=rss",
       "summary": "トランプ米大統領は18日、CNN、MS NOW、ポリティコの報道3社をホワイトハウスから「即刻」締め出すと発表した。トランプ氏はこれまでも、さまざまな報道機関と対立してきた。",
@@ -74,67 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "EU、15歳未満のソーシャルメディア利用を制限する計画発表",
-      "url": "https://www.bbc.com/japanese/articles/ck3re3w98ey5o?at_medium=RSS&at_campaign=rss",
-      "summary": "欧州連合（EU）は17日、オンライン上の安全性を向上させるため、加盟国全体で15歳未満の子どものソーシャルメディア（SNS）へのアクセスを制限する計画を発表した。新法が成立すれば、15歳以上の子供のみが自身のソーシャルメディアアカウントを開設できるようになる。",
-      "published": "2026/09/19 13:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39d1/live/a17b23d0-b26c-11f1-b67f-2b40fa83cfed.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "パキスタンのモスクに爆発物を積んだ車突入、少なくとも21人が死亡",
-      "url": "https://www.bbc.com/japanese/articles/cmwyzkg10zzko?at_medium=RSS&at_campaign=rss",
-      "summary": "パキスタン北西部で18日、警察署敷地内にあるモスク（イスラム教の礼拝所）に爆発物を積んだ自動車が突入し、少なくとも21人が死亡、100人以上が負傷したと当局が発表した。死者に警察官15人と4歳の子供1人が含まれるという。",
-      "published": "2026/09/19 13:36",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢不機嫌な人がいると苦しい｣｢悲しいニュースを何日も引きずる｣—他人の感情に敏感すぎる人に起きていること | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957888?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "他人の感情や場の空気に圧倒されやすく､｢どうして自分はこんなに疲れやすいの？｣と悩むことはありませんか？その繊細さは｢弱さ｣ではなく､生まれつきのHSPやエンパスという特別な気質かもしれません。",
+      "published": "2026/09/21 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/8/1200w/img_686fe37b84e7d608a620b69f1ad09354469326.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "離れて暮らす高齢の親､｢何かあったらどうしよう｣を減らす\"デジタル見守り\"という選択《何から始める？チャート付き》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958495?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "離れて暮らす高齢の親の安全や日々の生活をどう守るか､多くの家族が抱える悩みです。手間や負担を軽減する最新デジタルグッズと､親が自然に受け入れる方法とは？｢見守り｣の新しいカタチ､一緒に考えてみません…",
-      "published": "2026/09/20 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/0/1200w/img_101321de8ed6837ee282123a1f181cae348324.jpg?nextgen=false"
+      "title": "｢ドパガキ｣をやめられないのはなぜ？　東大生149人へのアンケートで検証してみてわかった｢15分｣でできる抜け出し方 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957319?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢ドパガキ｣とは､ショート動画やSNSなど即時的な刺激に慣れすぎた若者を指す新語。東大生149人への調査から､｢すぐに答えを求めず､考え抜く｣｢参考書を繰り返し使う｣といった傾向が浮かび上がりました…",
+      "published": "2026/09/21 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/d/1200w/img_1de9109249923037954159fa3d9ac703263907.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "帰宅後に加熱するだけ！｢アイラップ｣で仕込む冷凍ミールキット《下ごしらえも調理も袋1つ》のラク技 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958156?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "忙しい毎日でも手軽に本格的な味を楽しみたい方にぴったり､アイラップを使った冷凍ミールキット。食材をカットして調味料と一緒に袋で冷凍するだけで､保存から調理まで簡単＆時短。今回は鶏むね肉のチーズタッカ…",
-      "published": "2026/09/20 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/f/1200w/img_dfe780297633fe2b2ef689ba0d8eb5db901387.jpg?nextgen=false"
+      "title": "｢取り繕うことはできない､惨敗だった｣…メルツ首相のCDU､メクレンブルク･フォアポンメルン州議会選挙の支持率が1桁に | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958791?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ドイツ政界に激震が走っています。メルツ首相率いる保守系CDUが州議会選挙で過去最低の得票率を記録､党内外で指導力への疑念が拡大しています。",
+      "published": "2026/09/21 10:53",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/6/1200w/img_6626898e0da54474eede9b7dd8461c3f848016.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "結婚のピークは女性26歳､男性27歳…20年前とほぼ同じなのに日本の少子化が止まらない｢本当の理由｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958484?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢平均初婚年齢＝結婚ピーク年齢｣と思い込んでいませんか？実は結婚の\"適齢期\"は20年前とほとんど変わらず､男女ともに20代後半が主役。平均年齢を信じて結婚を先延ばしすると､｢理想の相手｣はすでに結婚…",
-      "published": "2026/09/20 10:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/8/1200w/img_78be091706c5612ba0ad92bf4a07244f388950.jpg?nextgen=false"
+      "title": "3列シート7人乗り､フレンチテイストなコンパクトSUV…シトロエン新型｢C3エアロクロス ハイブリッド｣の隠れた美点 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958079?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年7月､日本市場に投入されたシトロエン｢C3エアクロス ハイブリッド｣は､7人乗りの実用性と独自の快適性､先進的なハイブリッド技術で注目を集めています。しかし､それだけではない魅力がそこには…",
+      "published": "2026/09/21 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/a/1200w/img_ca2bba21bb0b9114e3391167ea2a0b98200195.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "公式説明なき脱退に飛び交う憶測…WEST.を襲った｢建前すら語れない｣異常事態の裏側 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958567?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "突然のメンバー脱退に揺れる人気グループWEST.。7人で歩んできた\"物語\"が崩れ､残された5人の今後や､脱退に至った真の理由にファンの間では動揺と疑念が広がっています。",
-      "published": "2026/09/20 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/b/1200w/img_cb51b348251ca5aec99e22678bb95dbf784314.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "《豊臣兄弟！》秀吉の出陣を拒否！秀長が\"わずか2カ月\"で､四国の覇者｢長宗我部元親｣を降伏に追い込んだ背景 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957822?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第40回は秀長が総大将として活躍した四国征伐について､真山知幸氏が解説します。",
-      "published": "2026/09/20 09:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_79febb7b060bb15d4fe0f098f5a1862d308999.jpg?nextgen=false"
+      "title": "｢駅から5分で大渓谷｣｢香りとビールにほっこり｣最高すぎた\"森林セラピー\"の休日　漫画『週末ごほうび山さんぽ』（第2話） | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957993?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "仕事に追われ、気づけばずっと、ちゃんと休めなくなっていた漫画家の“ありを”さん。そんな中で出会ったのは、「登頂」や「達成」を目的にしない、“ごほうび”のための山歩きでした。山の景色、澄んだ空気、ゆっ…",
+      "published": "2026/09/21 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/b/1200w/img_3b395876c55b8b76f1afdc0fe4613870127714.jpg?nextgen=false"
     }
   ]
 }
