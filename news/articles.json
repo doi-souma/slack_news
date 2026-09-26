@@ -1,50 +1,68 @@
 {
-  "generated_at": "2026-09-25T04:58:02.224525+00:00",
+  "generated_at": "2026-09-26T04:58:43.298927+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「退職代行」サービス停止、1年で2割超　「モームリ」摘発も影響か",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001747/",
-      "summary": "「モームリ」を運営するアルバトロスの摘発により、退職代行業務のグレーゾーンに改めて焦点が当たり、サービス全体のイメージに悪影響を及ぼした可能性。",
-      "published": "2026/09/25 13:00",
+      "title": "ナッツを多く食べる人、認知テストで高成績の傾向　豪州チームが1700人以上を分析",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001711/",
+      "summary": "オーストラリアのモナシュ大学に所属する研究者らが発表した論文「Nut consumption, cognitive function and brain health markers in individuals with and without stroke: cross-sectional and longitudinal findings from the Framingham heart ",
+      "published": "2026/09/26 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "NTT東西が「にじさんじ電報」発売　ポップアップ台紙にはライバーの複製手書きメッセージ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001713/",
-      "summary": "NTT東日本とNTT西日本は9月24日、バーチャルライバーグループ「にじさんじ」とコラボレーションした慶祝用電報台紙「にじさんじ電報」を10月1日に発売すると発表した。",
-      "published": "2026/09/25 12:32",
+      "title": "顔面に電気を流すと記憶力アップ？　あごにパッチ電極を貼り人間で実験、結果は……",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001710/",
+      "summary": "ベルギーのルーヴェン・カトリック大学や中国の浙江大学などに所属する研究者らが発表した論文「Temporal patterning of trigeminal nerve stimulation gates hippocampal plasticity across species」は、独自のリズムで顔の神経を電気刺激する手法が、記憶の定着に与える影響を調査した研究報告だ。",
+      "published": "2026/09/26 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ドコモSMTBネット銀で障害　「着金しない」「給料日にやめて」と悲鳴",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001745/",
-      "summary": "Xでは「振込手続きでシステムエラーになる」「証券口座から出金した資金が届かない」といった声が出ている。",
-      "published": "2026/09/25 12:32",
+      "title": "アニメを支える外国人材に“逆風”　日本在住の声優・アニメーターが抱く「不安の正体」とは",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/",
+      "summary": "日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベテラン声優と、フランスから来て7カ月の新人アニメーター。2人に話を聞くと、AIへの向き合い方も、日本の制度への思いも、それぞれの立場から浮かび上がってきた。",
+      "published": "2026/09/26 11:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "窓口での待ち時間のイライラ、AI作成のBGMで軽減なるか　東京・港区が実証実験",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001741/",
-      "summary": "東京都港区は、音響心理学を活用した快適な窓口環境づくりに向けた実証実験を始めた。AI（人工知能）によって作られたBGMを流し、長い待ち時間によって生じる来庁者のストレスの軽減状況や、職員の窓口業務の心理的負担緩和効果などを検証する。",
-      "published": "2026/09/25 11:42",
+      "title": "ずっと座っている人ほど椅子には“動いて”ほしい　Razerの最新ゲーミングチェア「Iskur V2 NewGen」を試す",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001759/",
+      "summary": "キーボードに近づくとき、画面を見上げるとき、少し休憩して背もたれに身を預けるとき……そのたびに腰当てを手で直すのではなく、チェア側が人の動きについてくる。これが、Razer「Iskur V2 NewGen」の設計上のポイントです。",
+      "published": "2026/09/26 08:31",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "freeeで一時障害、給料日の朝に「振り込めない」「勤怠打てない」と困惑の声　すでに復旧",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001739/",
-      "summary": "クラウド会計ソフト「freee会計」などを提供するフリー（freee）のサービスで25日朝、ログインやサインアップができない障害が発生した。同社は回復を確認し、安定稼働に向けたモニタリングを実施している。",
-      "published": "2026/09/25 11:24",
+      "title": "Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+      "summary": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
+      "published": "2026/09/26 07:48",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ホルムズ海峡の「7日以内の再開」、イランがアメリカに提案",
+      "url": "https://www.bbc.com/japanese/articles/cqp8ddj03ypgo?at_medium=RSS&at_campaign=rss",
+      "summary": "イランのアッバス・アラグチ外相は25日、事実上の封鎖が続くホルムズ海峡について、1週間以内に再開する案をアメリカ側に提示したと明らかにした。",
+      "published": "2026/09/26 12:20",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "死後に木につるされたと警察、アメリカ南部で遺体で発見の黒人女性",
+      "url": "https://www.bbc.com/japanese/articles/cx5yll6mm7vro?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ南部ミシシッピ州で先月、黒人女性が木につるされた状態で死んでいるのが見つかった事件で、地元警察は25日、女性は死後に木につるされたとの見方を示した。",
+      "published": "2026/09/26 12:36",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1485/live/6664e170-b922-11f1-b685-519146636d7f.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,83 +76,65 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "17歳の大橋信選手、アジア大会・競泳で世界新記録　新型コロナ乗り越え",
-      "url": "https://www.bbc.com/japanese/articles/c6wyzm2gydvmo?at_medium=RSS&at_campaign=rss",
-      "summary": "愛知・名古屋アジア大会の24日の競泳男子200メートル平泳ぎで、日本の大橋信選手（17）が世界記録を更新した。大会直前に新型コロナウイルスに感染したが、ものともしない泳ぎを見せた。",
-      "published": "2026/09/25 13:49",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/796b/live/91d692f0-b827-11f1-9173-8b6ede38f022.jpg"
+      "title": "米中首脳会談　世界の二大権力者は対面して何を話したのか",
+      "url": "https://www.bbc.com/japanese/articles/ckj063py5ym5o?at_medium=RSS&at_campaign=rss",
+      "summary": "世界の二大権力者、中国の習国家主席とアメリカのトランプ大統領が24日、ワシントンで会談した。BBCのローラ・ビッカー中国特派員が、今回の対面について解説する。",
+      "published": "2026/09/25 16:39",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c56/live/29b15e70-b8b4-11f1-8257-a79ccb54f692.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏が締め出したメディア、ホワイトハウスでの取材を再び拒まれる　裁判所が許可を命じた直後",
-      "url": "https://www.bbc.com/japanese/articles/c8x2zkv9d20ro?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領が米報道3社のホワイトハウスでの取材を禁止し、連邦裁判所が取材可能な状態に戻すよう命じた問題で、3社のうちCNNとMS NOWの記者が24日、ホワイトハウスでの夕食会の取材を拒まれたと説明した。",
-      "published": "2026/09/25 12:14",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afff/live/c8cd8880-b855-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イギリスで人気の日本大使、イギリスただ一人の「サムライ」の洗礼地を訪問",
-      "url": "https://www.bbc.com/japanese/articles/cq9860k04kx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "日本の鈴木浩・駐イギリス大使は24日、17世紀に日本に漂着し、イギリス人で唯一「サムライ」となったウィリアム・アダムスが洗礼を受けた教会を訪れた。イギリスでは2024年の着任以来、鈴木大使がイギリス各地を訪問した際の写真や動画がソーシャルメディアで話題となっている。",
-      "published": "2026/09/25 13:18",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5e70/live/05579de0-b83d-11f1-aeab-cbd1b7662429.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす",
-      "url": "https://www.bbc.com/japanese/articles/c6lyqlnpk3ego?at_medium=RSS&at_campaign=rss",
-      "summary": "オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）エージェントが今年6月、オーストラリア政府のウェブサイトに「侵入」したと述べた。同国の国民皆保険制度「メディケア」に入り込み、「機密性の低い」データを含む統計ポータルをハッキングしたという。",
-      "published": "2026/09/24 17:02",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"
+      "title": "イタリア政府、学校でブルカとニカブ着用禁止の方針　各教室で外国人の制限も",
+      "url": "https://www.bbc.com/japanese/articles/cmx2zlxe2jn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "イタリア政府は24日、イスラム教徒の女性が身に着けるブルカ（全身を覆う一枚布のベール）やニカブ（目元以外の顔を覆うベール）の着用を学校で禁止する方針を承認した。併せて、イタリア語をほとんど話せない児童・生徒の割合を、各教室で制限することも認めた。",
+      "published": "2026/09/25 16:58",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2842/live/d1b99780-b833-11f1-b4bc-39c67eb36497.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "とどのつまりは\"身内ウケ\"？ 空席目立つ議場とトランプ｢日本の首相｣連呼が浮き彫りにする｢高市国連外交｣の微妙っぷり | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959142?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "高市早苗首相にとって初となった国連総会での一般討論演説。官邸筋は成功をアピールしますが､ネット上の厳しい指摘が目立ちました。関係者の間でも評価が入り乱れる｢国連外交｣の内実に迫ります。",
-      "published": "2026/09/25 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/d/1200w/img_7df2de554018aefba8a9a062c5332dc3369927.jpg?nextgen=false"
+      "title": "\"なぜか話しかけやすい人\"が行っている丁寧で豊かな｢非言語表現｣と相手の心を閉ざしてしまう｢9つのNGな聞き方｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958316?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "会話でつい自分の話をしすぎて後悔した経験はありませんか？ ｢聞く姿勢｣や｢非言語表現｣を意識するだけで､会話の質と相手の印象は劇的に変わります。本当に好かれる聞き上手になる秘訣とは何か､あなたも知り…",
+      "published": "2026/09/26 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/b/1200w/img_4bd51d87591a44aee7cae1c5e48227c0298924.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "高市首相｢NY外交｣は本当に成功だったのか？ ｢旧敵国条項｣で中国を刺激し｢無人の空港｣で手を振る｢国内向け外交｣の限界 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959123?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "高市早苗首相が国連総会で｢旧敵国条項の削除｣など踏み込んだ演説を行いました。その波紋は､はたして国内外でどう評価されるのでしょうか。高市首相の｢ニューヨーク外交｣を振り返ります。",
-      "published": "2026/09/25 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/5/1200w/img_850650f36bc2eae527b2fa7988f1f90e518225.jpg?nextgen=false"
+      "title": "｢いつになれば家に帰れるんだ｣　施設の母親から責められ続け…孝行息子の心をむしばむ介護由来\"もらいうつ\"のリアル | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957034?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "面会のたびに認知症の母親から｢なんでこんなところに預けたのか｣と責められる。特別養護老人ホームに母を預けたある孝行息子の話です。介護される側の言葉が支える側の心を静かにむしばんでいく。その実態とは……",
+      "published": "2026/09/26 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/0/1200w/img_00cf54026186294d1efca6e432c3403f562990.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "なぜAI導入の8割は成果につながらないのか？本当の原因は技術力ではなく｢進め方｣にあった | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958436?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AIを活用する企業は間違いなく増えている。｢全社員に生成AIのアカウントを配布した｣｢議事録の作成が速くなった｣といった声も聞かれる。しかし､そうした導入事例が増える一方で､｢売上が伸びた｣という成…",
-      "published": "2026/09/25 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/8/1200w/img_58b11e6aae69f563531af8e5eff4008592810.jpg?nextgen=false"
+      "title": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959054?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
+      "published": "2026/09/26 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/d/1200w/img_3dcade0a1ebed715fa11ce4be2e3e9f361600.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "災害対応やインフラ維持に及ぶ懸念…減り続ける測量業者と7割に迫る高齢化 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958428?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "社会インフラ整備から災害対応まで､私たちの暮らしを支える測量業界。しかし､業者数の減少や高齢化､利益率の低下など､現場は厳しい現実に直面しています。",
-      "published": "2026/09/25 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/a/1200w/img_3a483033bd6563273de07d952ba8784d497942.jpg?nextgen=false"
+      "title": "〈書評〉『東大の経済学 激流の150年史』『新版 女の本屋の物語』『大転換期の国際エネルギー秩序』 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958966?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『東大の経済学 激流の150年史』（前田裕之 著）､『新版 女の本屋の物語』（中西豊子  著）､『大転換期の国際エネルギー秩序』（小山堅､小…",
+      "published": "2026/09/26 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/1/1200w/img_51415a3b5ad4381fa92208f1e012f2bc358427.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "WEST.電撃解散｢仲が良いからこそ話せなかった…｣脱退メンバーが苦悩した長寿アイドルがぶつかる\"壁\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959111?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "人気男性アイドルグループWEST.が､2人の脱退を経て､わずか1カ月で活動終了を決断。その背景には｢7人でなければならない｣という強い結束と､歳月の中で生まれた価値観のズレがあった。なぜ彼らは解散を…",
-      "published": "2026/09/25 11:55",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/0/1200w/img_30e9a68585c3998d1df1e93ecddd613d212385.jpg?nextgen=false"
+      "title": "早くも期待!?　朝ドラ《ブラッサム》宇野千代が｢一種の畸人ないし狂人｣と述懐する父親の\"けた外れのダメっぷり\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956758?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "明治の激動期､山口県岩国に生まれた宇野千代。錦帯橋や桜並木の美しいふるさとで､波瀾万丈な家族とともに歩んだ幼少期は､彼女の人生観や作家活動の原点となった。彼女が見つめた景色と心の葛藤とは。",
+      "published": "2026/09/26 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/8/1200w/img_2840b4c906caf5b51e768f6d646ce0aa693966.jpg?nextgen=false"
     }
   ]
 }
