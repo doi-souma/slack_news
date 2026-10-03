@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-10-02T05:37:31.900434+00:00",
+  "generated_at": "2026-10-03T05:19:05.573580+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "タイムズカー漏えいで集団訴訟の動き、登録3000人弱　呼び掛けた弁護士に聞いた──「謝罪で済む案件ではない」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001962/",
-      "summary": "カーシェアリングサービス「タイムズカー」の個人情報漏えいを巡り、被害者が共同で損害賠償を求める集団訴訟に向けた動きが出ている。参加者を募る牧野裕貴弁護士がITmedia NEWSの取材に応じ、立ち上げの経緯や賠償の見通しを語った。",
-      "published": "2026/10/02 14:25",
+      "title": "貧乏な子どもが“稼げる大人”になる条件とは？　米ハーバード大などがFacebook7000万アカウント超から分析　2022年にNature掲載",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001935/",
+      "summary": "米ハーバード大学や米スタンフォード大学などに所属する研究者らが2022年にNature誌で発表した論文「Social capital I: measurement and associations with economic mobility」は、どんな人とのつながりが、将来の収入アップに影響するのかを分析した研究報告だ。",
+      "published": "2026/10/03 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "免許悪用防止届出　JICCのアプリ受付再開も、つながりにくい状態続く",
-      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001959/",
-      "summary": "JICCがシステムメンテナンスを終え、スマホアプリによる「本人申告コメント」と「本人開示」の申し込みを順次受け付けていると発表した。",
-      "published": "2026/10/02 13:30",
+      "title": "「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
+      "summary": "複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。",
+      "published": "2026/10/03 10:45",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "パーク24株、一時4カ月ぶり安値　タイムズカー漏えいの集団訴訟に2000人超参加意向の報道",
-      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001956/",
-      "summary": "1日には損害賠償を求める集団訴訟の募集に対して2000人以上が参加の意思を示したとの報道があり、これを嫌気した売りが出たとみられる。",
-      "published": "2026/10/02 12:50",
+      "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開　「Raspberry Pi」などに対応",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
+      "summary": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
+      "published": "2026/10/03 10:41",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "履修修正の締め切り当日にシステム障害、大阪公立大　全授業を休講する事態に",
-      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001953/",
-      "summary": "大阪公立大学は10月2日、基盤システムに大規模な障害が発生したため、全キャンパスで同日の授業を終日休講にすると発表した。履修登録や教材の閲覧に使うシステムのほか、公式アプリや教職員向けのシステムなど、学内の幅広いサービスに影響が出ている。",
-      "published": "2026/10/02 12:34",
+      "title": "靴のムーンスター、顧客情報漏えいの可能性　氏名や住所、注文情報など",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001982/",
+      "summary": "3月26日に公表した不正アクセスの疑いの続報。約半年後に漏えいの可能性を報告した。",
+      "published": "2026/10/03 10:03",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "トレーニング効果をもたらす最少量の運動は？　週に何秒、何回必要か　早大などが2024年に調査",
-      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001926/",
-      "summary": "国立スポーツ科学センターや早稲田大学などに所属する研究者らが学術雑誌「Medicine & Science in Sports & Exercise」で2024年に発表した論文「Physiological and Metabolic Responses to Low-Volume Sprint Interval Exercises: Influence of Sprint Duration and",
-      "published": "2026/10/02 12:00",
+      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+      "summary": "Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。",
+      "published": "2026/10/03 09:38",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "死刑執行を生き延びた米死刑囚、重体で救命治療中　弁護団が説明",
-      "url": "https://www.bbc.com/japanese/articles/c3ew9w9lwr4go?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ・テネシー州での死刑執行で、致死量の薬物を2回にわたって注射されながら生き延び、病院に搬送された死刑囚について、弁護団は1日、「重体となり、救命治療を受けている」と明らかにした。こうした事態を受け、テネシー州知事は年内に予定されていたすべての死刑執行を停止した。",
-      "published": "2026/10/02 13:27",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/653c/live/b8445ca0-be13-11f1-a64c-550be9e3c66b.jpg"
+      "title": "G7が石油備蓄１億バレルを協調放出へ　トランプ氏が輸出禁止を脅した後",
+      "url": "https://www.bbc.com/japanese/articles/ckz7x305e3dzo?at_medium=RSS&at_campaign=rss",
+      "summary": "主要7カ国（G7）は2日、オンラインで会合を開き、4カ月間で計1億バレルの石油備蓄を、国際エネルギー機関（IEA）を通じて市場に協調放出することで合意した。G7議長国フランスのエマニュエル・マクロン大統領が、会議後に発表した。高騰の続く燃料価格の引き下げがねらい。これに先立ち、アメリカのドナルド・トランプ大統領が、ディーゼル燃料の輸出禁止を可能性としてちらつかせていた。",
+      "published": "2026/10/03 10:56",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ネタニヤフ氏、フライドバイ襲撃者は「イスラム過激思想教育を受けていた」と　米メディアで語る",
-      "url": "https://www.bbc.com/japanese/articles/cr86x629y02po?at_medium=RSS&at_campaign=rss",
-      "summary": "アラブ首長国連邦（UAE）のドバイからイスラエル・テルアヴィヴに向かっていたUAEの旅客機が緊急信号を発出したあと、サウジアラビアの空港に緊急着陸した事件で、イスラエルのネタニヤフ首相は1日、同僚の操縦士を刺して同機を乗っ取ろうとした操縦士の男性について、「イスラム過激派の思想教育」を受けていたことがこれまでの捜査でうかがわれると述べた。",
-      "published": "2026/10/02 12:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg"
+      "title": "スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決　早期選挙の可能性も",
+      "url": "https://www.bbc.com/japanese/articles/cq1kd38l3v29o?at_medium=RSS&at_campaign=rss",
+      "summary": "スペイン議会は2日、住宅危機に対処するために左派連立政権が提出した一連の措置を一連の措置を否決した。ペドロ・サンチェス首相にとって大きな痛手のため、総選挙の前倒しを求める圧力が強まっている。",
+      "published": "2026/10/03 13:06",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/810a/live/a7710370-be62-11f1-b36c-81ad410b221e.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "フランス各地の高校で生徒たちが抗議、学校封鎖も　何を求めているのか",
-      "url": "https://www.bbc.com/japanese/articles/cklyjyv6d0w2o?at_medium=RSS&at_campaign=rss",
-      "summary": "フランス各地で10代の若者たちが、学校を封鎖するなどして抗議活動を行っている。1日には、西部ナントの高校2校で火災が報告されるなど、緊張が高まる場面もあった。背景に何があるのか。BBC特派員がリポートする。",
-      "published": "2026/10/02 13:04",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62a0/live/d4becb50-bd90-11f1-babe-4199b0e7ccea.jpg"
+      "title": "米コーネル大学のレイプ疑惑、被害者がネット上で「攻撃を受けている」と弁護士",
+      "url": "https://www.bbc.com/japanese/articles/cm2kejzqnydqo?at_medium=RSS&at_campaign=rss",
+      "summary": "2024年に米ニューヨーク州のコーネル大学で女性が集団レイプされた疑いの事件について、この女性の弁護士は2日、女性の身元を特定しようとするいわゆる「インターネット探偵」の動きが活発化し、女性への攻撃が相次いでいるため、女性が「精神的に不安定な状態にある」と述べた。",
+      "published": "2026/10/03 13:32",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロシア、ウクライナのエネルギーインフラを攻撃　春以降で最大規模",
-      "url": "https://www.bbc.com/japanese/articles/crq5x5z72j7go?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのコレツキー首相は9月30日、同国のエネルギーインフラに対しロシアが春以降で最大規模の攻撃を実施したと述べた。主に首都キーウとその周辺地域を標的にしていたという。首相によると、夜間に国内の11州が攻撃され、住宅、インフラ、民間企業、鉄道なども標的となった。",
-      "published": "2026/10/01 14:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg"
+      "title": "副操縦士に刺された機長、「他の人たちを死なせたりしないと決心」　フライトドバイ機",
+      "url": "https://www.bbc.com/japanese/articles/cv1j3lw10j48o?at_medium=RSS&at_campaign=rss",
+      "summary": "アラブ首長国連邦（UAE）のドバイからイスラエル・テルアヴィヴに向かっていたUAEの旅客機が緊急信号を発出したあと、サウジアラビアの空港に緊急着陸した事件で、副操縦士に刺された後、他の乗客をコックピットに入れるためにドアを開けたフライ・ドバイ機のインド人パイロットが2日、乗客と他の乗員は絶対に死なせないと決意していたのだと、インドのナレンドラ・モディ首相に対して、ビデオ通話で話した。",
+      "published": "2026/10/03 12:50",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d8e/live/a6a671f0-beda-11f1-baf2-8b8a692d5e3c.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "スイスの氷河でこの1年「壊滅的な」氷の減少、長期的には水供給にリスクも",
-      "url": "https://www.bbc.com/japanese/articles/c62kwkggv4v0o?at_medium=RSS&at_campaign=rss",
-      "summary": "スイスの氷河は2026年、記録的な氷の減少に見舞われたことが、最新のデータから明らかになった。科学者たちは、今後数十年にわたって農業、水力発電、輸送のための水供給を脅かす可能性があると警告している。",
-      "published": "2026/10/01 14:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4300/live/fc078410-bccb-11f1-9f83-d9975ff80416.jpg"
+      "title": "日本で初めて産休取得した女性市長、米誌タイムの「次世代の100人」に",
+      "url": "https://www.bbc.com/japanese/articles/c60qxqjl839zo?at_medium=RSS&at_campaign=rss",
+      "summary": "日本の現職の首長として初めて産休を取得した京都府八幡市の川田翔子市長（36）がこのほど、米誌タイムの「次世代の100人」に選ばれた。出生率の低迷に苦しむ日本だが、川田氏の決断は賛否を呼び、選挙で選ばれた公職者は出産のために休暇を取得すべきかという全国的な議論を巻き起こした。",
+      "published": "2026/10/03 11:01",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2cab/live/eb1ed3d0-be3b-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【独自】金融庁がプルデンシャル生命に業務停止命令で最終調整/営業社員による金銭詐取のほか情報提供義務違反も認定 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959935?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "外資系大手プルデンシャル生命保険が､金融庁から厳しい処分を受ける見通しとなりました。その内容とは？",
-      "published": "2026/10/02 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/7/1200w/img_579b3bfb05cda8160dae810e9815f74b481305.jpg?nextgen=false"
+      "title": "朝起きられないのは｢怠け｣ではない—｢起立性調節障害｣を経験した小児科医が語る｢生活改善と保護者の向き合い方｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959591?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "朝起きられず学校に行けない子どもを前に､戸惑う保護者も多い｢起立性調節障害｣。症状は本人には深刻でも周囲に理解されにくく､不登校との関連も指摘されています。原因や家庭でできる対策､親子の向き合い方と…",
+      "published": "2026/10/03 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/d/1200w/img_7d22430bea8b0a2c89fd2696e73247bb94287.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢意識高い系リベラル｣の罠　｢多様性｣を盾に特権を肯定　庶民を見下し自らを正義と信じる｢新パワーエリート｣の正体 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958703?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "現代社会に君臨する｢新パワーエリート｣は､過去の貴族とは異なる顔を持ちながらも､特権を巧妙に再生産し続けています。アイデンティティ政治や多様性の名の下で覆い隠される新たな支配構造と､その自己欺瞞の本…",
-      "published": "2026/10/02 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/c/1200w/img_0c0e0499578fe2cbd80640b6099e237b155611.jpg?nextgen=false"
+      "title": "｢自分の人生ってこの程度？｣真面目な会社員が陥る《中年の危機》…年収や肩書きより重要な\"ある感覚\"の取り戻し方 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958269?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "順調なキャリアを歩みながらも､｢自分の人生はこの程度か｣と心が重くなる中高年が増えています。その原因は\"能力不足\"ではなく､自己決定感の枯渇でした。幸福感に最も影響する｢自分で決める力｣を回復する処…",
+      "published": "2026/10/03 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/3/1200w/img_a37b04bac100692e1a5015ccc8d331b3270206.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈くっきり浮かび上がる傾向〉インフレが一気に進んだこの5年､家計は何をどう節約したのか？最高峰データを徹底分析 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959892?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本の家計はインフレ下で何を削り､何を守ったのか。値上がりした食品や衣服の\"節約術\"から浮かぶ工夫､そして所得階層ごとの差異…。変化する暮らしの実態とその背景を､データで鮮やかに読み解きます。",
-      "published": "2026/10/02 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/3/1200w/img_035b791c44ebd8dc4ce68b874f871a1c468352.jpg?nextgen=false"
+      "title": "卵とカニカマだけでこの見栄え！ 小さなフライパンが決め手な｢極上の和風かに玉｣を手軽に作るための絶対法則 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959923?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "忙しい毎日でも手軽に用意できる卵料理。今回は､かに風味かまぼこを使った｢和風かに玉｣のレシピをご紹介します。リーズナブルな食材でありながら､本格的な味と食感を簡単に楽しめるのが魅力。家庭でもプロのよ…",
+      "published": "2026/10/03 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/b/1200w/img_bb9447d8158d8dd51cf89fc08cfdcc1b35107.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢前年を超える＝成長している｣は正しいのか？　組織の成長を促すために知っておくべき｢4つのマインドセット｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959130?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢前年を超える｣｢計画を達成する｣――ビジネス現場で当然とされる成長の価値観。しかし､効率や数字だけを追い求めていないだろうか。本当の成長とは何か､あなたの働き方や組織に必要な視点を､荒木博行氏が自…",
-      "published": "2026/10/02 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/e/1200w/img_7e1d4c7f2ced50a4efca6d1e9c35f77f101825.jpg?nextgen=false"
+      "title": "〈書評〉『世界を壊したビッグテックの悪党ども』『｢マイノリティ支配｣の正体』『経験の絶滅』 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959779?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『世界を壊したビッグテックの悪党ども』（カーラ･スウィッシャー 著）､『｢マイノリティ支配｣の正体』（アッシュ･サルカール 著）､『経験の絶…",
+      "published": "2026/10/03 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/4/1200w/img_a46bc5315541068555a4cb06ab0423b9484746.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢がんばったのだからやめたくない｣の浪費ループ　教育熱心な親ほど陥りがちな教育費の｢3つの落とし穴｣とその結末 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958331?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢佐藤ママ｣こと佐藤亮子さんは､3男1女全員を東大理科三類に合格させた話題の母親。教育費を惜しまず子育てに注いできた彼女が､お金の知識に疎かったと振り返ります。投資と子育ての意外な共通点､そして教育…",
-      "published": "2026/10/02 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/d/1200w/img_4d5c10e1a82dc569fefdd65d010ca518264279.jpg?nextgen=false"
+      "title": "《豊臣兄弟！》秀長が大和国で強行した｢奈良での商売禁止｣と\"超高額な貸し付け\"､莫大な遺産生んだ統治の光と影 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957574?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "天下統一を目指す秀吉に深く信頼され､大和国を任された弟の秀長。彼が行った統治や経済政策は､強大な宗教勢力などが割拠する大和国にどのような変化をもたらしたのでしょうか。",
+      "published": "2026/10/03 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/5/1200w/img_45cfc9955197b9b1407fe72482241751584806.jpg?nextgen=false"
     }
   ]
 }
