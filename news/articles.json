@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-10-04T05:53:28.515085+00:00",
+  "generated_at": "2026-10-05T05:40:40.309724+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-Lite」のみに",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
-      "summary": "Googleは、個人向けGeminiで利用可能なモデルを契約プランごとに見直すと告知した。無料ユーザーは利用可能モデルが「Flash-Lite」のみに制限され、「Flash」は「AI Plus」以上、「Pro」は「AI Pro」以上の契約が必要となる。無料枠には順次適用され、個人アカウントのモデル選択肢が階層化される。",
-      "published": "2026/10/04 11:27",
+      "title": "パチンコ店の入場抽選アプリ「777CON-PASS」に不正アクセス　行動エリアやプロフ写真など流出か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002003/",
+      "summary": "オンラインゲームの開発・運営を手掛けるサミーネットワークス（東京都品川区）は10月2日、同社が運営するパチンコ・パチスロ店向け入場抽選アプリ「777CON-PASS」で第三者による不正アクセスがあり、利用者の個人情報が流出した可能性があると発表した。位置情報から生成した行動エリアやプロフィール写真などが対象に含まれる。対象件数は調査中という。",
+      "published": "2026/10/05 14:24",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
-      "summary": "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した。現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘。原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた。",
-      "published": "2026/10/04 08:05",
+      "title": "大阪公立大、システム障害で1週間近く休講に　出願期間中で入試にも影響",
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002001/",
+      "summary": "大阪公立大学は10月2日、情報基盤システムの大規模障害を受け、8日までの授業を休講にすると発表した。",
+      "published": "2026/10/05 13:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "再び浮上した「クレカ表現規制問題」　クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001978/",
-      "summary": "9月下旬にボクたちイラストやマンガを生業とする人間にとって、不安になってしまう出来事が立て続けにありました。",
-      "published": "2026/10/04 07:16",
+      "title": "「SpaceXAI」→「SpaceXSI」に改名へ　マスク氏、トランプ大統領の“AI呼称廃止”に追随",
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002000/",
+      "summary": "米SpaceXのイーロン・マスクCEOは10月4日、傘下のAI部門SpaceXAIを「SpaceXSI」に改名する意向をXで示した。SIは「Super Intelligence」の略で、トランプ米大統領が連邦政府に「AI」の呼称をやめるよう命じた直後の動きだ。",
+      "published": "2026/10/05 13:38",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Amazon、データセンター批判に反論　10億ドル超の地域支援策も発表",
-      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
-      "summary": "AWSのマット・ガーマンCEOは、データセンター建設批判に反論する声明を出した。水資源枯渇などの懸念を「迷信”と否定しつつ、電力料金負担や自治体とのNDA撤廃を含む行動指針を発表。さらに地域支援として、資格取得や省エネ改修などを助成する10億ドル超の基金を立ち上げる。",
-      "published": "2026/10/03 17:52",
+      "title": "渋谷区でシステム障害、窓口業務を縮小　復旧の見通し立たず",
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000001998/",
+      "summary": "障害の影響で、各種手続きや証明書の発行などに通常より時間がかかったり、当日に対応できない場合もあるという。",
+      "published": "2026/10/05 12:42",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "貧乏な子どもが“稼げる大人”になる条件とは？　米ハーバード大などがFacebook7000万アカウント超から分析　2022年にNature掲載",
-      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001935/",
-      "summary": "米ハーバード大学や米スタンフォード大学などに所属する研究者らが2022年にNature誌で発表した論文「Social capital I: measurement and associations with economic mobility」は、どんな人とのつながりが、将来の収入アップに影響するのかを分析した研究報告だ。",
-      "published": "2026/10/03 12:00",
+      "title": "日本交通、不正アクセスで停止していた「電話でタクシー配車」再開へ　約3カ月ぶり",
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000001995/",
+      "summary": "7月11日にシステム障害が発生。社内システムが不正アクセスを受け、マルウェアに感染したとし、13日、電話によるタクシー配車などを停止したと発表していた。",
+      "published": "2026/10/05 11:15",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "G7が石油備蓄１億バレルを協調放出へ　トランプ氏が輸出禁止を脅した後",
-      "url": "https://www.bbc.com/japanese/articles/ckz7x305e3dzo?at_medium=RSS&at_campaign=rss",
-      "summary": "主要7カ国（G7）は2日、オンラインで会合を開き、4カ月間で計1億バレルの石油備蓄を、国際エネルギー機関（IEA）を通じて市場に協調放出することで合意した。G7議長国フランスのエマニュエル・マクロン大統領が、会議後に発表した。高騰の続く燃料価格の引き下げがねらい。これに先立ち、アメリカのドナルド・トランプ大統領が、ディーゼル燃料の輸出禁止を可能性としてちらつかせていた。",
-      "published": "2026/10/03 10:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg"
+      "title": "イエメン政府、フーシ派との全面戦争開始を宣言　領土奪還を掲げ",
+      "url": "https://www.bbc.com/japanese/articles/cxvgd31ppdjzo?at_medium=RSS&at_campaign=rss",
+      "summary": "イエメンの国際的に承認されている政府のトップは4日、反政府武装勢力フーシ派が支配するすべての地域の奪還を目指し、全面戦争を行うと発表した。",
+      "published": "2026/10/05 13:35",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米コーネル大学のレイプ疑惑、被害者がネット上で「攻撃を受けている」と弁護士",
-      "url": "https://www.bbc.com/japanese/articles/cm2kejzqnydqo?at_medium=RSS&at_campaign=rss",
-      "summary": "2024年に米ニューヨーク州のコーネル大学で女性が集団レイプされた疑いの事件について、この女性の弁護士は2日、女性の身元を特定しようとするいわゆる「インターネット探偵」の動きが活発化し、女性への攻撃が相次いでいるため、女性が「精神的に不安定な状態にある」と述べた。",
-      "published": "2026/10/03 13:32",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg"
+      "title": "米軍、フェアフォード英空軍基地から全ての爆撃機を移動",
+      "url": "https://www.bbc.com/japanese/articles/c34g15pxeklyo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ軍は4日は、イギリスの対テロ警察による捜査が続くイギリスのフェアフォード空軍基地から全ての爆撃機を移動させた。アメリカ国務省当局者は同日の声明で、基地から全ての爆撃機をアメリカ国内の基地に戻したことを認めた。",
+      "published": "2026/10/05 10:22",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc8f/live/fbf333b0-c037-11f1-86a1-ad5985eac783.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決　早期選挙の可能性も",
-      "url": "https://www.bbc.com/japanese/articles/cq1kd38l3v29o?at_medium=RSS&at_campaign=rss",
-      "summary": "スペイン議会は2日、住宅危機に対処するために左派連立政権が提出した一連の措置を一連の措置を否決した。ペドロ・サンチェス首相にとって大きな痛手のため、総選挙の前倒しを求める圧力が強まっている。",
-      "published": "2026/10/03 13:06",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/810a/live/a7710370-be62-11f1-b36c-81ad410b221e.jpg"
+      "title": "ブラジル大統領選、決選投票へ　右派のフラヴィオ・ボルソナロ氏が第1回投票で勝利",
+      "url": "https://www.bbc.com/japanese/articles/cwzrdm1x8ggxo?at_medium=RSS&at_campaign=rss",
+      "summary": "南米ブラジルで4日、大統領選の投票が行われ、右派のフラヴィオ・ボルソナロ氏（45）の得票が現職の左派大統領ルイス・イナシオ・「ルラ」・ダ・シルヴァ氏（80）を上回ったものの、有効票の過半数を得られなかった。このため、上位2人による決選投票が10月25日に行われることになった。",
+      "published": "2026/10/05 13:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4ea/live/56a0e6c0-c053-11f1-babe-4199b0e7ccea.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "副操縦士に襲われた機長、「他の人たちを死なせたりしないと決心」　フライトドバイ機",
-      "url": "https://www.bbc.com/japanese/articles/cv1j3lw10j48o?at_medium=RSS&at_campaign=rss",
-      "summary": "アラブ首長国連邦（UAE）のドバイからイスラエル・テルアヴィヴに向かっていたUAEの旅客機が緊急信号を発出したあと、サウジアラビアの空港に緊急着陸した事件で、副操縦士に刺された後、他の乗客をコックピットに入れるためにドアを開けたフライ・ドバイ機のインド人パイロットが2日、乗客と他の乗員は絶対に死なせないと決意していたのだと、インドのナレンドラ・モディ首相に対して、ビデオ通話で話した。",
-      "published": "2026/10/03 12:50",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d8e/live/a6a671f0-beda-11f1-baf2-8b8a692d5e3c.jpg"
+      "title": "ロシアがウクライナ首都の橋を連日攻撃、独首相の電撃訪問の最中も",
+      "url": "https://www.bbc.com/japanese/articles/c6pqgz48nlw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナの首都キーウで、主要な橋が4日連続でロシアのドローン攻撃を受けている。ロシア政府は、キーウの重要インフラへの攻撃を激化させている。こうした中、ドイツのメルツ首相は4日、ロシアによる全面侵攻が続くウクライナへの支持を示すためにキーウを電撃訪問した。",
+      "published": "2026/10/05 12:21",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b50/live/7ec32a00-c067-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "日本で初めて産休取得した女性市長、米誌タイムの「次世代の100人」に",
-      "url": "https://www.bbc.com/japanese/articles/c60qxqjl839zo?at_medium=RSS&at_campaign=rss",
-      "summary": "日本の現職の首長として初めて産休を取得した京都府八幡市の川田翔子市長（36）がこのほど、米誌タイムの「次世代の100人」に選ばれた。出生率の低迷に苦しむ日本だが、川田氏の決断は賛否を呼び、選挙で選ばれた公職者は出産のために休暇を取得すべきかという全国的な議論を巻き起こした。",
-      "published": "2026/10/03 11:01",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2cab/live/eb1ed3d0-be3b-11f1-a64c-550be9e3c66b.jpg"
+      "title": "沖縄で女性の遺体発見、米海兵隊員を強盗殺人容疑で逮捕",
+      "url": "https://www.bbc.com/japanese/articles/c5wyrlpjgvw3o?at_medium=RSS&at_campaign=rss",
+      "summary": "沖縄県警は4日、那覇市のホテルで3日、女性を殺害し所持品を奪ったとして、米海兵隊員を強盗殺人容疑で逮捕したと発表した。NHKなど複数の報道によると、容疑者は調べに対し容疑を否認しているという。",
+      "published": "2026/10/05 10:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "職場では感謝されず､子どもは親離れ…｢誰かの役に立っている感覚｣が枯れ果てた40～50代を救う､会社の外の小さな習慣 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958274?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "休日の予定で手帳が埋まっていても､なぜ心が満たされないのか――。多くの人が感じるこの虚しさの正体は､自己有用感の不足にありました。40代からの\"役立つ実感\"の減少と､その回復法について考えてみません…",
-      "published": "2026/10/04 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/6/1200w/img_3626d62292214a1d103f46acfc6c3836201848.jpg?nextgen=false"
+      "title": "タイムズカーから流出した｢免許証情報660万件｣は会員だけではない…過去に接点のあった人が今すぐやるべきこと | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960084?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "約660万件もの会員情報流出が発覚したタイムズカーの大規模個人情報流出事件。現役会員のみならず､退会者や手続き未完了の元利用者まで\"本人確認書類の画像\"が漏洩し､信頼は大きく揺らぎました。なぜ必要以…",
+      "published": "2026/10/05 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/a/1200w/img_4a8be9e5002f94276a14dc7dddcdd530296538.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《豊臣兄弟！》奈良で商売禁止？秀長が断行した\"郡山城下町ファースト\"の実態と秀吉支える｢ナンバー2としての役目｣ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959521?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第42回は秀長の内政手腕と対外的な役割について真山知幸氏が解説します。",
-      "published": "2026/10/04 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/c/1200w/img_5c020793f398367a967355521ebb4290502458.jpg?nextgen=false"
+      "title": "｢アニメや漫画好きは安心？｣最近の子どもの遊び方に疑問を抱く人が見落としている｢本当に心配したほうがいいこと｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959131?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アニメや漫画が\"まだいい\"と言われる理由､ご存じですか？かつて勉強の妨げと見なされたこれらの趣味に､今なぜ先生たちは安堵するのでしょう。急増するショート動画視聴の時代､子どもたちの｢自分で選ぶ力｣と…",
+      "published": "2026/10/05 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/d/1200w/img_cd111c3b23fd339ee7b97177873debcf159512.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "死刑執行の薬物注射を2回受けながら生き延びた死刑囚､ナッシュビル病院で行われている｢救命治療｣が議論の的に | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960087?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "米テネシー州で死刑囚クリスタ･パイクが､薬物注射による死刑執行を2度受けながらも生存し､重体で救命治療を受けていることが明らかになりました。",
-      "published": "2026/10/04 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/4/1200w/img_14fa17935ac209c747163da0f51cfd70478072.jpg?nextgen=false"
+      "title": "六本木にF40やエンツォが降臨！無料で見られる｢フェラーリ･フェスティバル東京｣とCEOが明かすブランドの本質 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959538?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "伝説的なF40や最新F1マシンまで､歴代フェラーリが一堂に会した｢フェラーリ･フェスティバル東京｣。本社経営陣も来日し､60周年という節目を祝うこのイベントは､単なるクルマの展示イベントを超えて､フ…",
+      "published": "2026/10/05 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/4/1200w/img_9467d8a354b90a4891aa339ac8bce842331419.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "阪大･慶応大発の創薬ベンチャー｢クリングルファーマ｣､今期営業赤字が縮小見込みの背景  | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960005?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "大阪大学･慶応大学発の創薬ベンチャーが今期業績の上方修正を行いました。その背景とは？",
-      "published": "2026/10/04 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/7/1200w/img_47fa1678ebbcb76821beb285f9ca84fe137234.jpg?nextgen=false"
+      "title": "高市首相が迫られる年末の｢重大決断｣ ､議員定数削減｢先送り論｣台頭で現実味を増す自維連立\"崩壊\"の危うい足音 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960136?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "消費税減税と議員定数削減をめぐって､自維連立政権に亀裂の兆しが表れています。水面下の駆け引きの先に､高市首相が｢重大決断｣を下す瞬間はやってくるのでしょうか。臨時国会の焦点を展望します。",
+      "published": "2026/10/05 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/b/1200w/img_bbbfcae468216ae8872925c64da92bb3341495.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "オープンAIの安全性担当者が退社､｢主要AI企業は技術のリスク軽減に十分な取り組みをしていない｣と警告 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960082?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AI開発大手の米OpenAIで､安全性を担当していた社員が退社し､主要AI企業は技術のリスク軽減に十分な取り組みをしていないと警告した。AI開発の急速な進展に懸念を示す業界関係者が相次ぐ中､内部から…",
-      "published": "2026/10/04 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/2/1200w/img_02bc0cec4f25e2226d9ea022f6b7e441589347.jpg?nextgen=false"
+      "title": "眠っているデータは資産ではない…飲食チェーンが数万件のレシピを新事業に変えるまで | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959858?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "データは資産である。そう言われて久しいが､持っているだけで何かを生むわけでもない。数万件のレシピデータを長く抱えながら､それを活かせずにいた飲食チェーンがある。何が変わって､新規事業になったのか。A…",
+      "published": "2026/10/05 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/5/1200w/img_550180aec79769d9c005841c8d0eb83c122457.jpg?nextgen=false"
     }
   ]
 }
