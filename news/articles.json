@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-10-07T06:00:58.103126+00:00",
+  "generated_at": "2026-10-08T06:04:25.629066+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Google広告の代理店アカウントに不正アクセス　顧客アカウントからカジノ広告無断配信　パスキー設定も侵入許す",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002086/",
-      "summary": "侵入の起点となったGoogleには複雑なパスワードに加え、パスキーとセキュリティキーによる2段階認証を設定していたが、具体的な侵入経路や認証を突破された経緯は特定できていない。",
-      "published": "2026/10/07 13:35",
+      "title": "Google、AI生成物の判定ツールを一般公開　OpenAIやNVIDIA製サービスも対象に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
+      "summary": "米Googleは10月7日（現地時間）、AI生成コンテンツの判定ツール「SynthID Detector」を一般公開したと発表した。これまではジャーナリストや研究者など一部に限って提供していた。",
+      "published": "2026/10/08 13:25",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "自治体やJクラブのWebサイトが閲覧不能に、各地で相次ぐ──茨城県・小平市・京都サンガなど",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002085/",
-      "summary": "茨城県や東京都小平市、京都サンガF.C.などのWebサイトが10月7日、相次いで閲覧できなくなっている。一部の団体はクラウドの障害やサーバ管理会社の不具合を原因としているが、障害の詳しい内容は明らかにしていない。",
-      "published": "2026/10/07 13:11",
+      "title": "止まらない不正アクセス、背景にAIの“超高速攻撃”か　識者「使われていない方が不自然」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002101/",
+      "summary": "相次ぐ不正アクセスに、専門家は「個々のインシデントについて、攻撃にAIが使われているかどうかを外部から断定はできない」としつつ、攻撃の特徴から「使われていないと考える方が不自然」との見方を示す。",
+      "published": "2026/10/08 13:11",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡充　「Claude Mythos 5.1」も対象に",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/",
-      "summary": "Anthropicは、セキュリティ専門家向け「Cyber Verification Program」（CVP）を拡充し、防御・レッドチーム・重要インフラ向けの3段階アクセス枠を新設した。脆弱性発見で実績を上げた「Project Glasswing」と統合する。審査の上位枠ほどモデルの安全制限が緩和され、高度な検証が可能になる。",
-      "published": "2026/10/07 12:52",
+      "title": "「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告　OpenAIは利用状況と新機能を発表",
+      "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002125/",
+      "summary": "米非営利団体Common Sense Mediaは、OpenAIの10代向け環境「ChatGPT for Teens」について、保護者通知などが機能せず安全基準を下回るとして「容認できないリスク」と評価した。一方OpenAIは同日、10代の学習利用実績や大学出願支援「College Planner」の導入計画を公表した。",
+      "published": "2026/10/08 13:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "1億件超えの「楽天会員」情報が闇フォーラムで販売？　楽天「漏えいは確認されていない」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002083/",
-      "summary": "楽天の会員情報約1億100万件をうたうデータがサイバー犯罪フォーラム上で売りに出されたとの報道があった。楽天グループはITmedia NEWSの取材に漏えいの事実を否定し、投稿に掲載されたサンプルデータも「該当するアカウント等は確認されていない」と回答した。",
-      "published": "2026/10/07 12:42",
+      "title": "「IDCFクラウド」障害で止まった「MTクラウド版」、「Googleクラウド」のバックアップで「さくらのクラウド」に移行へ",
+      "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002120/",
+      "summary": "「IDCFクラウド上で復旧できる見込みはない」が、顧客のバックアップデータは障害発生前に取得し、「Googleクラウド」に保管しているという。",
+      "published": "2026/10/08 11:33",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Claudeで「Googleドキュメント」直接編集　スプレッドシート、スライドも　Workspace向けアドオン公開",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002081/",
-      "summary": "Googleドキュメント、スプレッドシート、スライドのサイドバーでClaudeを呼び出し、ファイルを直接編集できる。",
-      "published": "2026/10/07 12:26",
+      "title": "ChatGPT、無料版を含む全ユーザーに「GPT-6」　回答内に“操作できる画面”を生成する「Intelligent UI」搭載",
+      "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002119/",
+      "summary": "OpenAIは、ChatGPTに新モデル「GPT-6」を搭載し順次提供を開始した。テキストに加え図や操作可能なボタン、フォームなどを回答として生成する「Intelligent UI」を導入。思考しながら回答を出力する機能も備える。有料プランから順次提供を始め、無料プランやGoプランにも翌日から展開する。",
+      "published": "2026/10/08 11:09",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "死刑執行を生き延びた米死刑囚、意識回復し会話　弁護団が発表",
-      "url": "https://www.bbc.com/japanese/articles/crp3gn8z8p11o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ・テネシー州での死刑執行で、致死量の薬物を2回にわたり注射されながら生き延び、病院に搬送された死刑囚について、弁護団は6日、現在は「意識があり、会話できる」状態だと明らかにした。",
-      "published": "2026/10/07 10:30",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg"
+      "title": "米死刑囚、「怒り、混乱した状態」と弁護団　死刑執行を生き延び",
+      "url": "https://www.bbc.com/japanese/articles/c6g7xr1jxpv9o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ・テネシー州での死刑執行で、致死量の薬物を2回にわたり注射されながら生き延びた死刑囚について、弁護団は7日、病院で意識を取り戻した際に「怒り、混乱した」状態だったと明らかにした。",
+      "published": "2026/10/08 14:44",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc93/live/65484980-c2c8-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ルビオ米国務長官、ロシアに追加情報の共有促す　ペスト研究所職員の死について",
-      "url": "https://www.bbc.com/japanese/articles/cw62y4kg12nno?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシア・シベリア連邦管区にあるペスト対策研究所でロシア人職員が死亡した事案について、マルコ・ルビオ米国務長官は6日、さらに詳しい情報を共有するようロシアに求めた。",
-      "published": "2026/10/07 11:57",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png"
+      "title": "ハマス襲撃とガザ戦争開始から3年　イスラエルでは追悼、ガザでは攻撃と惨状続く",
+      "url": "https://www.bbc.com/japanese/articles/ckq6n27nj3e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "パレスチナの武装組織ハマスが主導した集団がイスラエル南部を急襲し、報復としてイスラエルがガザ地区で戦争を始めてから、7日で3年がたった。イスラエルでは追悼行事が行われた。ガザ地区では、1年前の停戦合意のあとも暴力行為が続いており、住民約210万人の生活状況は悲惨なままとなっている。",
+      "published": "2026/10/08 14:42",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d466/live/028c9160-c28d-11f1-81d9-d568e8babc26.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イギリス人男性を新たに逮捕、逮捕者7人目　英空軍基地近くのテロ準備容疑事件",
-      "url": "https://www.bbc.com/japanese/articles/c65yn307pvy5o?at_medium=RSS&at_campaign=rss",
-      "summary": "9月27日にイギリスの空軍基地の近くで「不審車両」が発見され、複数の逮捕者が出ている事件で、対テロ警察は10月6日、テロ行為を準備した疑いで、イギリス国籍の22歳の男性を新たに逮捕したと発表した。この事件に関連する逮捕者は7人目だが、起訴された者はいない。",
-      "published": "2026/10/07 13:36",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b53/live/fc7bdb70-bf15-11f1-9947-0584c244b963.jpg"
+      "title": "ノーベル化学賞、日本の硤合氏とフランスのカガン氏に　生命の非対称性の謎を解明",
+      "url": "https://www.bbc.com/japanese/articles/c8n5v423zknko?at_medium=RSS&at_campaign=rss",
+      "summary": "今年のノーベル化学賞が、フランスの科学者アンリ・B・カガン氏と日本の硤合憲三（そあい・けんそう）氏に贈られることが、7日に発表された。生命の非対称性という化学的な謎を解明した功績が評価された。",
+      "published": "2026/10/08 12:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/caf1/live/a5f2fc60-c23b-11f1-be2f-0fbd447d6e43.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "仏全土で警察が学校めぐるデモと衝突、催涙ガスや放水銃も使用",
-      "url": "https://www.bbc.com/japanese/articles/crx23d1kwy0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "高校生による抗議活動の波を受け、フランス全土で6日、大規模なデモ行進が行われた。",
-      "published": "2026/10/07 13:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f413/live/3e649d70-c1c7-11f1-a64c-550be9e3c66b.jpg"
+      "title": "ニュートリノ観測に「多大な貢献」、ベルギーの教授にノーベル物理学賞　南極で観測",
+      "url": "https://www.bbc.com/japanese/articles/c6gr807lrvnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "スウェーデン王立科学アカデミーは6日、2026年のノーベル物理学賞を、ベルギー生まれのフランシス・ハルツェン教授に授与すると発表した。ハルツェン教授は、宇宙から飛来する粒子「ニュートリノ」を検出する観測装置について先駆的な研究を行い、遠い宇宙の解明に貢献した。",
+      "published": "2026/10/07 21:46",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イエメン政府軍、紅海の重要航路を「確保」と発表　フーシ派は否定",
-      "url": "https://www.bbc.com/japanese/articles/cm86zqpy4l94o?at_medium=RSS&at_campaign=rss",
-      "summary": "国際的に承認されているイエメン政府の軍は5日、反政府武装勢力フーシ派が支配する全地域の奪還を目指すなかで、紅海の南端にあるバブ・エル・マンデブ海峡を「確保した」と発表した。フーシ派はこの主張を否定。同時に、イエメン政府軍を支援するサウジアラビアへの報復として、リヤド空港などを攻撃したと述べた。",
-      "published": "2026/10/06 21:34",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e58c/live/3aa7d380-c0ca-11f1-a5b0-6f550c662e91.jpg"
+      "title": "ドイツ元情報機関トップを逮捕　スパイ活動や国家反逆の疑い",
+      "url": "https://www.bbc.com/japanese/articles/cqvgjxy4k344o?at_medium=RSS&at_campaign=rss",
+      "summary": "ドイツ連邦検察庁は6日、同国の対外情報機関、連邦情報局（BND）の元長官アウグスト・ハニング容疑者を、スパイ活動や国家反逆、外国勢力のために機密情報を取得した疑いで逮捕したと発表した。ハニング容疑者の元部下も同日、ほう助・教唆の疑いで逮捕された。",
+      "published": "2026/10/07 21:56",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f615/live/1525a8c0-c175-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "思い当たる人には朗報! ｢ため息｣｢ののしり｣｢貧乏ゆすり｣ついやりがちな《悪い癖》が実は体にいい意外なエビデンス | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958284?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ストレス社会で見落とされがちな健康習慣。実は｢ため息｣や｢ののしる言葉｣｢貧乏ゆすり｣など､一見ネガティブに思われる行為が､心身やパフォーマンスに意外なプラス効果をもたらすことが科学的に示されていま…",
-      "published": "2026/10/07 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/4/1200w/img_547ff0dc52d431ec3ff0eebb1b6803e3215112.jpg?nextgen=false"
+      "title": "気づけばいつも｢社内の愚痴の言い合い｣に…会議の脱線をすんなり｢本線｣に戻すために冒頭で打っておくべき一手 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958341?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "さまざまな名目で開かれる割に､いつも脱線ばかりでいっこうに実のある内容にならない社内の会議。そんな不毛な時間を回避し､議論をきちんと進めるためには､会議の冒頭で｢ある説明｣をする必要があるそうです。",
+      "published": "2026/10/08 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/f/1200w/img_1f84680c9272fe4e698ea39fb89ef513373346.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "リバティ･メディアによる買収でF1のようなムーブメントを作れるか…2輪レース最高峰｢MotoGP｣副CEOが語る成長戦略 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960106?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "モーターサイクルレース最高峰｢MotoGP｣はF1のように興行的成功を収められるのか､その戦略について副CEOエスペレータに聞いた。日本人ライダーとして22年ぶりに最高峰クラス優勝を果たした小椋藍選…",
-      "published": "2026/10/07 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/4/1200w/img_d442aee145b9492ee78e0d938031905a101456.jpg?nextgen=false"
+      "title": "《巨人の星》星一徹は｢毒親｣だった？現代なら\"即逮捕レベル\"…昭和の名作アニメから考える｢親の本当の役割｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959991?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "昭和の時代に一世を風靡したテレビアニメ｢巨人の星｣。作中では星飛雄馬と一徹の子と父の関係が描かれていますが､今の時代の視点でみると､違和感を感じる描写も多く存在します。",
+      "published": "2026/10/08 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/1/1200w/img_91c76b4211b0fda601f121d12d3fbed6434459.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢時代に負けてる｣｢なんやそれ｣と消費者カリカリ…日本ハム･シャウエッセン｢謎イキリ広告で炎上｣に見る\"値上げの作法\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960399?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本ハムの人気商品｢シャウエッセン｣が内容量を減らし価格を据え置く\"実質値上げ\"を発表し､SNSで批判が殺到しています。キャッチコピー｢時代に負けてたまるか。｣と現実の値上げ。消費者の不満と企業の思…",
-      "published": "2026/10/07 12:05",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/9/1200w/img_19ac50b3b1d92d68d854046333a0b1ca353715.jpg?nextgen=false"
+      "title": "製紙業界トップ･王子のCFO｢再編にシナジー見えづらい｣…国内再編よりも成長と撤退を冷徹に見極める戦略の実態 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960393?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "国内最大手の製紙企業､王子ホールディングスが直面する市場縮小や中国の攻勢。その中でサステナブルパッケージやバイオ燃料など非製紙分野へ事業転換を進め､財務戦略も刷新しています。変革期の経営をCFOが語…",
+      "published": "2026/10/08 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/8/1200w/img_6888ba092b43457f9d8d511610436e1b883296.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "T乾でブレイクの《俳優･中島歩》に\"どうしても惹かれてしまう\"納得の理由　遅咲きならではの魅力とは？ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959511?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "話題のドラマ『Tシャツが乾くまで』で注目を集めた俳優･中島歩。彼が演じる園田樹生の繊細な内面と､静かな演技の魅力が多くの視聴者を惹きつけています。今や配信作品でも見かけないことがない中島。そのブレイ…",
-      "published": "2026/10/07 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/f/1200w/img_5fac36a6f17b275f4f792ef7b95bf7eb126044.jpg?nextgen=false"
+      "title": "｢とてつもなく大きな衝撃と打撃｣…中間選挙前にくすぶるトランプの\"軽油輸出禁止\"リスク | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960282?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イランでの戦争を背景に､世界各地で軽油価格が急騰。サプライチェーンの混乱や企業のコスト増を招いています。",
+      "published": "2026/10/08 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/2/1200w/img_02c82f7cb31e591643a86a88c49aeb1b134738.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本取引所グループが過去最高益を見込む\"株高だけではない\"背景 純利益予想を1050億円に上方修正 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960131?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "歴史的な高値を演じる日本株。投資家はもちろん､胴元である証券取引所もまた､その恩恵に与っています。",
-      "published": "2026/10/07 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/a/1200w/img_4a2a5002f500f4f842094141aead9b2c586077.jpg?nextgen=false"
+      "title": "台湾料理は｢まずくなった｣のか？ 日本人YouTuberの夜市酷評が日台で大炎上､老舗中華の衰退と｢美食の島｣の変化 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960262?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "台湾在住の日本人YouTuber･堀井裕氏によるグルメ動画が端緒となり､台湾と日本の双方で議論が沸騰。料理への容赦ない酷評や｢台湾嫌い｣発言には､文化的配慮の欠如や現地グルメの変化をめぐる根深い問題…",
+      "published": "2026/10/08 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/6/1200w/img_36c07852ad5ff90541e6e1bafbb5a892388328.jpg?nextgen=false"
     }
   ]
 }
