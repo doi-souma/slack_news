@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-10T05:52:53.153538+00:00",
+  "generated_at": "2026-10-11T05:46:54.563431+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "新作映画「バイオハザード」公開で原作ゲームも大盛り上がり？　劇場でマンガ家が頷いた、その理由とは",
+      "url": "https://www.itmedia.co.jp/news/article/2610/11/2000002191/",
+      "summary": "日本でも公開された「バイオハザード」の新作映画。海外では公開3日で興行収入が約6000万ドル（約95億円）を超え、原作であるゲームシリーズの販売にも影響したようです。ボクも見てきました。",
+      "published": "2026/10/11 07:15",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -38,13 +47,13 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
-      "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
-      "summary": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
-      "published": "2026/10/10 08:28",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "トランプ氏、ロシア産ディーゼル燃料の輸入を発表　プーチン氏への贈り物だとウクライナは非難",
+      "url": "https://www.bbc.com/japanese/articles/cw073kveykedo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのドナルド・トランプ大統領は9日、燃料価格の引き下げを求める圧力が高まる中、ロシア産ディーゼル燃料を輸入すると発表した。合意の一環として、米財務省はロシア産ディーゼル燃料の輸出に対する制裁を来年4月7日まで停止するとみられているが、アメリカ国内の銀行にある資産など、その他の資産は依然として凍結されている。",
+      "published": "2026/10/10 11:43",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,15 +76,6 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、ロシア産ディーゼル燃料の輸入を発表　プーチン氏への贈り物だとウクライナは非難",
-      "url": "https://www.bbc.com/japanese/articles/cw073kveykedo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのドナルド・トランプ大統領は9日、燃料価格の引き下げを求める圧力が高まる中、ロシア産ディーゼル燃料を輸入すると発表した。合意の一環として、米財務省はロシア産ディーゼル燃料の輸出に対する制裁を来年4月7日まで停止するとみられているが、アメリカ国内の銀行にある資産など、その他の資産は依然として凍結されている。",
-      "published": "2026/10/10 11:43",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
       "title": "フランス政府、教員3000人の増員約束　高校生たちの要求に譲歩",
       "url": "https://www.bbc.com/japanese/articles/ckg5jy162vpro?at_medium=RSS&at_campaign=rss",
       "summary": "フランス政府は、今後数日間で3000人の臨時教員を増員すると発表した。エドゥアール・ジェフレ教育相は8日夜、テレビインタビューで増員方針を示し、教育環境の改善を求めて抗議する10代の若者たちに、初めて譲歩の姿勢を示した。",
@@ -94,47 +94,47 @@
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢安いからまとめ買いしたのに…｣　食品ロスで1人当たり年間3万円の損？ 節約のつもりが逆効果､無駄をなくすポイント | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960442?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "食品ロスの大半はスーパーや飲食店で発生していると思いがちですが､実は家庭からのロスもほぼ同じ規模です。冷蔵庫の中の｢思い込み｣が生む無駄､一人ひとりの習慣を見直すことで､家計や環境を守る第一歩が始ま…",
-      "published": "2026/10/10 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/c/1200w/img_4c8200a349ecc746205d512e27cbbe04244941.jpg?nextgen=false"
+      "title": "｢日本版エヌビディア｣は探す必要ナシ…《フィジカルAI》で覚醒する\"五感･筋肉･関節･神経\"を担える日本企業の強み | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960381?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIの進化は､デジタル領域を超え現実世界へと広がっています。工場や自動運転､ロボットなど｢フィジカルAI｣が産業の主役となる時代､日本企業は独自の強みを発揮しつつ､投資機会も増大中。果たして主導権は…",
+      "published": "2026/10/11 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/4/1200w/img_f410e7c9c1069c2fc446abeb9e955b09181838.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢SNSで攻撃的な日本人｣が目立つ本当の理由　｢相手の\"一文\"だけ見て怒る人｣に共通する欠点は？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960658?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "教え子の5人に1人を東大合格者に導いた市野瀬早織氏。なぜSNSでは､相手の意図を読み違え､強い言葉を返してしまうのか。｢読解力｣の観点から考えてみませんか？",
-      "published": "2026/10/10 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/2/1200w/img_12159d92c4243537fca3e9e5d053f72686949.jpg?nextgen=false"
+      "title": "《豊臣兄弟！》秀吉の子ではない…｢淀殿の妊娠｣をあざ笑う声に大激怒､\"多くの人々を死刑に\"秀吉の恐ろしすぎる処罰 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960126?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第43回は秀吉が新たな妻として迎えた茶々（淀殿）について真山知幸氏が解説します。",
+      "published": "2026/10/11 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/0/1200w/img_108b49a37d89ce82214fcfa7ffa02a7f228573.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "秀吉はなぜ\"茶々を寵愛\"し続けたか？｢悪女｣｢親の敵｣とはまた違う…史実で見る茶々の《意外な素顔》 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959596?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "大河ドラマ｢豊臣兄弟！｣で井上和さんが演じる茶々。｢悪女｣のイメージで語られることが多い茶々ですが､意外な一面を持ち合わせていたようです。",
-      "published": "2026/10/10 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/5/1200w/img_1556861cfc12a7b0864b58026997a543433079.jpg?nextgen=false"
+      "title": "半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960184?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIの進化と共に､AIサーバー向けメモリー不足が深刻化しています。半導体メモリー大手マイクロンの決算説明会では､何が語られたのでしょうか。",
+      "published": "2026/10/11 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/3/1200w/img_03c23cdc3ca58e80ce3dfa6d105dd489100493.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "レアアース争奪だけではない､アメリカがグリーンランド新防衛協定で封じ込めようとする中国の北極進出･核ミサイル戦略 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960422?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アメリカ･デンマーク･グリーンランドの三者が2026年､新たな防衛協定を締結。中国やロシアの影響力拡大とレアアース確保をめぐる攻防､そして北極圏の軍事的価値が注目されます。グリーンランドを舞台に繰り…",
-      "published": "2026/10/10 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/7/1200w/img_9726fec61c246816ca3ffbd54e9a0ae8549735.jpg?nextgen=false"
+      "title": "目的達成のためならサイバー攻撃も辞さない… 1200ものAIが秘密裏に結託した｢恐るべき相互扶助｣の脅威と実態 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960560?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "自律的に行動し､協力し合うAIエージェントが､想定外の手段でサイバー攻撃を仕掛ける事例が発生。AIがコントロールを超えて暴走する未来は､決して遠い話ではありません。私たちはこの課題にどう向き合うべき…",
+      "published": "2026/10/11 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/5/1200w/img_9521b934c27b29bff1f067d1f6746a23386918.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "敵国条項削除が呼び覚ます戦争の記憶――国連創設史と米中の同盟意識から問う､日本の軍拡と平和国家への国際的信頼 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960281?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アガサ･クリスティの小説に描かれる｢思いがけず蘇る過去｣。これは日本が敵国条項削除を国連に求めた時､米中両国が想起した歴史にも通じます。国際社会は日本を本当に平和国家と見なしているのか。歴史と記憶､…",
-      "published": "2026/10/10 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/4/1200w/img_d47dcc9cb97c109e949219130ad6f65d165472.jpg?nextgen=false"
+      "title": "｢自分の動画を直視できない｣自意識過剰な私の\"心がギューッとなる\"トラウマ…漫画｢自分と仲良くなりたいんだわたしは｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960291?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "わたしの中の自分が一番うるさかったーー。「嫌われたかも」「変なこと言っちゃったかな？」気づけば今日も、ひとり反省会。深読み、謝りグセ、善意の空回りに、他者に求め過ぎてしまう共感……。自分を好きになれ…",
+      "published": "2026/10/11 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/b/1200w/img_5b4a6b5a8c0f52666c5a67d04361774587944.jpg?nextgen=false"
     }
   ]
 }
