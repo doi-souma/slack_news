@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-10-12T05:58:30.145487+00:00",
+  "generated_at": "2026-10-13T06:47:21.091868+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿　統制はモデルの外に置くよう提言",
-      "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
-      "summary": "MicrosoftのナデラCEOは、SIモデルを組織の内部リスクと同様に扱い、統制の仕組みをモデル外部に構築すべきだと提言した。モデルの多様性や人間による強制停止、証拠の記録など7つの設計原則を提示し、モデル提供者の保証に頼らず知能の供給と実行権限を分離する安全策を訴えた。",
-      "published": "2026/10/12 10:26",
+      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃　温度が最高50度に上昇し食品大量廃棄に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
+      "summary": "フランスのスーパーマーケット数百店舗で、冷蔵・冷凍設備の霜取り機能を不正操作するサイバー攻撃が発生した。庫内温度が最高50度まで上昇して食品が大量廃棄され、一部店舗では火災も発生した。制御機器を手掛けるDanfossは旧型製品への対応を進め、検察当局が捜査を開始した。",
+      "published": "2026/10/13 15:12",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
-      "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
-      "summary": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
-      "published": "2026/10/12 08:59",
+      "title": "新gTLD申請、日本からも多数　講談社「.manga」、東映アニメ「.anime」、ドコモ「.docomo」など",
+      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002160/",
+      "summary": "募集は14年ぶり。日本からは84件の申請があった。海外ではAI関連のドメインの申請が目立ち、「.agent」は米Meta、米OpenAIなど13の申請者が争う。",
+      "published": "2026/10/13 13:24",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "新作映画「バイオハザード」公開で原作ゲームも大盛り上がり？　劇場でマンガ家が頷いた、その理由とは",
-      "url": "https://www.itmedia.co.jp/news/article/2610/11/2000002191/",
-      "summary": "日本でも公開された「バイオハザード」の新作映画。海外では公開3日で興行収入が約6000万ドル（約95億円）を超え、原作であるゲームシリーズの販売にも影響したようです。ボクも見てきました。",
-      "published": "2026/10/11 07:15",
+      "title": "SpaceXAI、Xのユーザー名を「SpaceXSI」に変更　“AI呼称やめる”宣言から1週間ほどで",
+      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002209/",
+      "summary": "米SpaceXのAI部門SpaceXAIが、X公式アカウントの名称を「SpaceX Super Intelligence」（@SpaceXSI）に変えた。イーロン・マスクCEOが10月4日に改名を予告してから、1週間ほどでの実行となった。",
+      "published": "2026/10/13 13:18",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
-      "summary": "ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは、画像の内容について運営元のIDCフロンティアに聞いた。",
-      "published": "2026/10/10 12:38",
+      "title": "情報漏えい深刻化に、東京都がサイバーセキュリティ強化へ　人員増強し関係機関と連携",
+      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002206/",
+      "summary": "東京都は10月9日、全庁的なサイバーセキュリティを強化し、人員も増員して対策に乗り出すことを決めた。都内では小平市のWebサイトが閲覧不能になるなどシステム障害が相次いでいる。",
+      "published": "2026/10/13 12:24",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析",
-      "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
-      "summary": "東京大学医科学研究所、大阪大学、国立がん研究センター、東京科学大学に所属する研究者らが科学誌「Nature Genetics」で発表した論文「Prevalence and chronology of colibactin-associated mutational processes and their microbiome spectra in Japanese colorectal cance",
-      "published": "2026/10/10 12:00",
+      "title": "Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働",
+      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
+      "summary": "Anthropicは、小型AIモデルがデータセンターを介さず安価な市販IoT機器上で自律的に自己複製する「重みベースの複製体」になるリスクを警告した。実験ではAndroid TVボックス上での分散推論や環境構築を確認。拡散ペースは遅いものの停止が難しいため、早期の防御策が必要と指摘した。",
+      "published": "2026/10/13 11:31",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、ロシアとウクライナが「エネルギー停戦」と主張　ゼレンスキー氏は歓迎するもロシアは沈黙",
-      "url": "https://www.bbc.com/japanese/articles/cjx23exyv909o?at_medium=RSS&at_campaign=rss",
-      "summary": "ドナルド・トランプ米大統領は11日、ロシアとウクライナが「エネルギー停戦」に合意したと表明した。「即時発効」すると主張したが、詳細は明らかにしなかった。ウクライナ政府は、ロシアが条件を守るならそうした停戦を支持すると表明しているが、ロシア政府はまだコメントしていない。",
-      "published": "2026/10/12 11:43",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg"
+      "title": "ウクライナのエネルギー施設6カ所、ロシアが攻撃とゼレンスキー氏　トランプ氏が「エネルギー停戦」発表後",
+      "url": "https://www.bbc.com/japanese/articles/ck9dzjpywjn5o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナのゼレンスキー大統領は12日、ロシアがウクライナのエネルギー施設6カ所を攻撃したと述べた。前日には、両国がエネルギー停戦に合意し、合意は「即時発効」すると、アメリカのトランプ米大統領が発表したばかり。",
+      "published": "2026/10/13 10:47",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "バーナム英首相、ロシアがブレグジット投票に干渉したのは「明確」と",
-      "url": "https://www.bbc.com/japanese/articles/c6pqg2wzz9g8o?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのバーナム首相は、イギリスの欧州連合（EU）離脱を決めた2016年の国民投票について、ロシアの干渉があったと発言し、同様の活動がいまフランスやドイツでも行われていると警告した。 政治ポッドキャストによるインタビューでの発言が、11日に公開された。ブレグジットをめぐる国民投票の結果を左右しようとロシアが干渉したと、イギリスの首相が公言するのはこれが初めて。",
-      "published": "2026/10/12 12:19",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg"
+      "title": "サウジアラビアのエネルギー相、フーシ派の空港攻撃に「厳しい対応」取ると",
+      "url": "https://www.bbc.com/japanese/articles/ckdd8ey6v56mo?at_medium=RSS&at_campaign=rss",
+      "summary": "イランの支援を受けるイエメンの反政府勢力フーシ派が、サウジアラビアの空港や石油・ガス関連施設を相次いで攻撃し、死傷者が出ている事態を受け、サウジアラビアのアブドルアジズ・ビン・サルマン・エネルギー相は12日、フーシ派に「厳しい」対応を取ると表明した。",
+      "published": "2026/10/13 12:40",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b82e/live/50a18f00-c629-11f1-a509-ab6554d795a2.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃　1人死亡し11人負傷",
-      "url": "https://www.bbc.com/japanese/articles/crz98nqqnw5no?at_medium=RSS&at_campaign=rss",
-      "summary": "サウジアラビアの首都リヤドにある国際空港が11日、攻撃を受け、1人が死亡、11人が負傷した。当局が明らかにした。この空港への攻撃は2日連続。",
-      "published": "2026/10/12 12:30",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg"
+      "title": "米移民当局、オマル下院議員の自宅を捜索　中間選挙前に政敵を攻撃と民主党",
+      "url": "https://www.bbc.com/japanese/articles/cwj34xe6evkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの移民当局は12日、オマル下院議員（ミネソタ州、民主党）の自宅を、犯罪捜査の一環として捜索した。トランプ大統領を公然と批判してきた同議員は、大統領による「政敵を狙った、連邦法執行機関を武器として利用する試み」だとして、この捜索を非難している。中間選挙が目前に迫ったタイミングでの家宅捜索に、野党・民主党からも批判の声が噴出している。",
+      "published": "2026/10/13 14:43",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc45/live/01c4d970-c64f-11f1-b47f-e3f9cf703bc3.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米司法省、ホワイトハウス代表取材を取りやめたテレビ各局を調査",
-      "url": "https://www.bbc.com/japanese/articles/c8r4y2134neno?at_medium=RSS&at_campaign=rss",
-      "summary": "米司法省は10日、複数の主要テレビ局がドナルド・トランプ大統領に関連する代表取材を一時停止したことについて、反トラスト法（独占禁止法）に違反した可能性があるとして調査を進めていると明らかにした。",
-      "published": "2026/10/12 13:19",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1dbb/live/9bb34c30-c53a-11f1-ae34-756aa0b18b99.jpg"
+      "title": "米人気ドラマ「ブレイキング・バッド」出演のミティ氏、34歳で死去　主人公の息子役",
+      "url": "https://www.bbc.com/japanese/articles/cmd93lxyd90jo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの人気ドラマ「ブレイキング・バッド」で主人公の息子役を演じた、俳優RJ・ミティ氏が12日、死去した。34歳だった。",
+      "published": "2026/10/13 11:37",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d722/live/ce8c0310-c67d-11f1-841c-2105a54cdb08.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "死刑を生き延びた米死刑囚、執行失敗から10日後に退院",
-      "url": "https://www.bbc.com/japanese/articles/cj3vqw72ennwo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ・テネシー州での死刑執行で、致死量の薬物を2回にわたり注射されながら生き延び、病院に搬送された死刑囚について、弁護団は11日、死刑囚が退院し、刑務所に戻ったと明らかにした。死刑囚は過去30年間を過ごした刑務所に戻り、引き続き治療を受けているという。",
-      "published": "2026/10/12 13:24",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab18/live/eb6f9f10-c4e2-11f1-9a39-31b474234113.jpg"
+      "title": "仏スーパーの冷蔵庫にサイバー攻撃、設定温度が上昇　数億円相当の食品を廃棄か",
+      "url": "https://www.bbc.com/japanese/articles/c6n0455yzvldo?at_medium=RSS&at_campaign=rss",
+      "summary": "フランスでこのほど、スーパーマーケット数百店舗がサイバー攻撃を受け、冷蔵・冷凍設備の設定温度が上昇する被害を受けた。数百万ユーロ（数億円）相当の生鮮食品や冷凍食品が傷み、廃棄されたという。",
+      "published": "2026/10/13 14:47",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "東大生のノートは｢PC｣より｢紙派｣が過半数？　｢デジタルをあきらめて紙に戻った｣人が多い理由を考察してみた | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960233?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "デジタル全盛の現代､東大生の過半数があえて｢紙のノート｣を選ぶ理由とは何なのでしょうか。あらゆる便利さを持つデジタルを経て紙に回帰する背景には､思考や記憶との独特な関係性が隠れています。その魅力に迫…",
-      "published": "2026/10/12 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/1/1200w/img_c16bf5b5ef3292d42eacb9875be455c0257882.jpg?nextgen=false"
+      "title": "4000万円超でもエントリーモデルという位置づけ…フェラーリ｢アマルフィ スパイダー｣が示すオープンスポーツカー像 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960191?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "昨年登場したフェラーリ｢アマルフィ｣に続き､注目の｢アマルフィ スパイダー｣がデビュー。高額なプライスタグながら\"エントリーモデル\"と呼ばれるその真意とは？",
+      "published": "2026/10/13 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/e/1200w/img_8ed266a8f0197c270e0a1e32213bcffa149282.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "台湾･賴清德総統は｢双十節｣の演説になぜ聖書の言葉を選んだのか？ケネディ､レーガンとの接点と知られざる宗教的背景 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960876?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "台湾の賴清德総統が双十節演説に掲げた｢山の上の町､地の塩､世の光｣。その背後にはキリスト教の教えだけでなく､アメリカの歴代大統領も引用した政治的意味合い､さらに台湾の民主化を支えた長老教会との深いつ…",
-      "published": "2026/10/12 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/d/1200w/img_dd42e33b85750bec97f98716462dff3a698849.jpg?nextgen=false"
+      "title": "数日かかる他社調査を無料AIで30分に短縮し有報を読み比べ会議資料まで作成､サステナビリティ担当者のAI活用術② | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959271?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢他社はどこまで開示しているのか｣──役員会前日に担当取締役から急に聞かれても慌てない。無料AIで有報を集めて読み比べ､根拠を1次情報で確かめ､会議資料にまとめるまでを30分弱でこなす手順を､加美山…",
+      "published": "2026/10/13 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/0/1200w/img_b0c750de755a600674ae8d4028cb8f60126340.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "このまま戦争になれば自衛官は｢犬死｣しかねない！医官不足と時代遅れの医療体制を放置する防衛省の信じがたい実態 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960687?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "自衛隊の衛生体制は､実戦や現代の軍事ニーズに大きく遅れています。医官の慢性的な人員不足や医療装備の不備､現場の実態とかけ離れた報告が常態化し､隊員の命が守られない現状が明らかです。装備拡充だけで安全…",
-      "published": "2026/10/12 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/9/1200w/img_99688170d1b6a6a9098655f13a6d82e2652717.jpg?nextgen=false"
+      "title": "｢人生損してるよ｣と激推しされるも､あっさり断った友人の\"正当すぎる理由\"　漫画『自分と仲良くなりたいんだわたしは』 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960294?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "わたしの中の自分が一番うるさかったーー。「嫌われたかも」「変なこと言っちゃったかな？」気づけば今日も、ひとり反省会。深読み、謝りグセ、善意の空回りに、他者に求め過ぎてしまう共感……。自分を好きになれ…",
+      "published": "2026/10/13 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/0/1200w/img_406588e1da8870f8195d12b832bc9669102321.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "天候不順の夏でも大手アパレル･しまむらの業績が｢過去最高｣の背景 さらなる上振れの可能性も | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960141?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "大手アパレル｢しまむら｣の業績が好調です。近年､強化している施策とは？",
-      "published": "2026/10/12 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/d/1200w/img_bd07beaf68a85ee89feb31c1e135f5ae234052.jpg?nextgen=false"
+      "title": "ノーベル経済学賞､米大教授2人に　授賞理由は｢マクロ経済の安定化に関するミクロ経済学的基盤｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960943?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年ノーベル経済学賞が与えられるスタンフォード大のホール教授とコロンビア大のウッドフォード教授は､ミクロの視点から経済政策モデルを革新しました。",
+      "published": "2026/10/13 09:33",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/b/1200w/img_ab392c33a68d68c4ba48c9a65208ca5f357909.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "巨額損失に悩むボーイング防衛部門に光明､次世代戦闘機の連続受注で｢向こう半世紀の覇権｣へ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960893?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アメリカ海軍の次世代ステルス戦闘機開発企業にボーイングが選定され､空母搭載機の実績とデジタル設計技術が高く評価されました。",
-      "published": "2026/10/12 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/7/1200w/img_c7ae1d9304ade5fe4807c110c7674d2e306267.jpg?nextgen=false"
+      "title": "今世紀末に｢世界の気温上昇は最大5.7℃｣の衝撃予測も…気象学者が伝える\"地球はどこまで暑くなるのか\"の科学的真実 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958685?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "地球の気温はすでに1℃以上､上がっています。IPCC（気候変動に関する政府間パネル）の予測では､2100年の世界平均気温は最少で1.0〜1.8℃､最大で5.7℃まで高くなるとされています。何が将来の…",
+      "published": "2026/10/13 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/6/1200w/img_361f9142618e4e21b80fa2cb30359c2f214398.jpg?nextgen=false"
     }
   ]
 }
