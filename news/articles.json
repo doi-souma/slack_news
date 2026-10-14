@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-10-13T06:47:21.091868+00:00",
+  "generated_at": "2026-10-14T04:53:57.898259+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃　温度が最高50度に上昇し食品大量廃棄に",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
-      "summary": "フランスのスーパーマーケット数百店舗で、冷蔵・冷凍設備の霜取り機能を不正操作するサイバー攻撃が発生した。庫内温度が最高50度まで上昇して食品が大量廃棄され、一部店舗では火災も発生した。制御機器を手掛けるDanfossは旧型製品への対応を進め、検察当局が捜査を開始した。",
-      "published": "2026/10/13 15:12",
+      "title": "楽天モバイル、利用者の「支払い証明書」に第三者閲覧の恐れ　社内の脆弱性診断で発覚",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002250/",
+      "summary": "楽天モバイルは10月13日、契約者向けサービス「my 楽天モバイル」からダウンロードできる「支払い証明書」が、第三者に閲覧される可能性があったと発表した。支払い証明書は、毎月の利用料金の領収書として使える書類で、氏名や住所などの個人情報が含まれる。問題は社内の脆弱性診断で発覚したという。",
+      "published": "2026/10/14 12:33",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "新gTLD申請、日本からも多数　講談社「.manga」、東映アニメ「.anime」、ドコモ「.docomo」など",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002160/",
-      "summary": "募集は14年ぶり。日本からは84件の申請があった。海外ではAI関連のドメインの申請が目立ち、「.agent」は米Meta、米OpenAIなど13の申請者が争う。",
-      "published": "2026/10/13 13:24",
+      "title": "SBI証券のFXで“誤ロスカット”　再委託先IIJが作業ミス、システムでも検知できず　779口座が対象",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002249/",
+      "summary": "IIJの担当者の勘違いにより代用有価証券情報ファイルが取り込まれず、必要なファイルがそろっているかを確認しないまま次の処理へ進むシステムになっていたため、誤りがあっても処理は止まらなかった。",
+      "published": "2026/10/14 12:15",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "SpaceXAI、Xのユーザー名を「SpaceXSI」に変更　“AI呼称やめる”宣言から1週間ほどで",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002209/",
-      "summary": "米SpaceXのAI部門SpaceXAIが、X公式アカウントの名称を「SpaceX Super Intelligence」（@SpaceXSI）に変えた。イーロン・マスクCEOが10月4日に改名を予告してから、1週間ほどでの実行となった。",
-      "published": "2026/10/13 13:18",
+      "title": "ヤフオクなど、ポケカ「空箱」出品禁止　中身入れ替え未開封を装う悪用対策",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002247/",
+      "summary": "ポケモンカードゲームについては、カートン単位での出品や、発売後一定期間に同一商品を大量に出品することも禁止する。",
+      "published": "2026/10/14 11:16",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "情報漏えい深刻化に、東京都がサイバーセキュリティ強化へ　人員増強し関係機関と連携",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002206/",
-      "summary": "東京都は10月9日、全庁的なサイバーセキュリティを強化し、人員も増員して対策に乗り出すことを決めた。都内では小平市のWebサイトが閲覧不能になるなどシステム障害が相次いでいる。",
-      "published": "2026/10/13 12:24",
+      "title": "PayPay証券、障害から復旧　日本株・ETFの取引を再開　原因はみずほ証券の受発注システム",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002246/",
+      "summary": "PayPay証券は10月14日、前日から続いていた日本株とETF全銘柄の取引停止が解消し、通常通り取引できるようになったと発表した。障害の原因は、外部接続先であるみずほ証券の受発注システムの不具合だった。",
+      "published": "2026/10/14 11:13",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
-      "summary": "Anthropicは、小型AIモデルがデータセンターを介さず安価な市販IoT機器上で自律的に自己複製する「重みベースの複製体」になるリスクを警告した。実験ではAndroid TVボックス上での分散推論や環境構築を確認。拡散ペースは遅いものの停止が難しいため、早期の防御策が必要と指摘した。",
-      "published": "2026/10/13 11:31",
+      "title": "ブックオフ漏えい、退会者21万人も対象　個人情報638万人分の外部送信を確認",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002243/",
+      "summary": "642万7735件の会員データが外部に送信されたことを確認したと発表。メールアドレスで名寄せした対象者は638万3279人。うち21万2371人は退会者だった。",
+      "published": "2026/10/14 10:27",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ウクライナのエネルギー施設6カ所、ロシアが攻撃とゼレンスキー氏　トランプ氏が「エネルギー停戦」発表後",
-      "url": "https://www.bbc.com/japanese/articles/ck9dzjpywjn5o?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのゼレンスキー大統領は12日、ロシアがウクライナのエネルギー施設6カ所を攻撃したと述べた。前日には、両国がエネルギー停戦に合意し、合意は「即時発効」すると、アメリカのトランプ米大統領が発表したばかり。",
-      "published": "2026/10/13 10:47",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg"
+      "title": "ローマ教皇、肺腺がんと診断　右肺下葉の切除手術は成功と教皇庁",
+      "url": "https://www.bbc.com/japanese/articles/cwly4q74dvdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "キリスト教カトリック教会のローマ教皇庁（ヴァチカン）は13日、ローマ教皇レオ14世が肺腺がんと診断されたと発表した。同日行われた右肺の下葉を切除する手術は無事成功したという。",
+      "published": "2026/10/14 10:56",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "サウジアラビアのエネルギー相、フーシ派の空港攻撃に「厳しい対応」取ると",
-      "url": "https://www.bbc.com/japanese/articles/ckdd8ey6v56mo?at_medium=RSS&at_campaign=rss",
-      "summary": "イランの支援を受けるイエメンの反政府勢力フーシ派が、サウジアラビアの空港や石油・ガス関連施設を相次いで攻撃し、死傷者が出ている事態を受け、サウジアラビアのアブドルアジズ・ビン・サルマン・エネルギー相は12日、フーシ派に「厳しい」対応を取ると表明した。",
-      "published": "2026/10/13 12:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b82e/live/50a18f00-c629-11f1-a509-ab6554d795a2.jpg"
+      "title": "ロシアがキーウの主要発電所を攻撃とゼレンスキー氏　同盟国からの警告なかったと",
+      "url": "https://www.bbc.com/japanese/articles/cv4g18yw0222o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナのウォロディミル・ゼレンスキー大統領は13日、首都キーウに暖房と電力を供給する主要なエネルギー施設が、ロシアの弾道ミサイル攻撃を受けたと発表した。大統領は、「またしても、パートナー諸国からの早期警戒情報は一切なかった」とソーシャルメディアに書いた。",
+      "published": "2026/10/14 10:50",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米移民当局、オマル下院議員の自宅を捜索　中間選挙前に政敵を攻撃と民主党",
-      "url": "https://www.bbc.com/japanese/articles/cwj34xe6evkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの移民当局は12日、オマル下院議員（ミネソタ州、民主党）の自宅を、犯罪捜査の一環として捜索した。トランプ大統領を公然と批判してきた同議員は、大統領による「政敵を狙った、連邦法執行機関を武器として利用する試み」だとして、この捜索を非難している。中間選挙が目前に迫ったタイミングでの家宅捜索に、野党・民主党からも批判の声が噴出している。",
-      "published": "2026/10/13 14:43",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc45/live/01c4d970-c64f-11f1-b47f-e3f9cf703bc3.png"
+      "title": "米司法省、オープンAIのサウジアラビア人技師を起訴、オフィスに「高度」な録音装置を仕掛けた疑い",
+      "url": "https://www.bbc.com/japanese/articles/c6m2d4gwdjwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "司法省によると、トイレットペーパーに包まれた録音装置が、役員会議室のテレビ背面にあるUSBポートに差し込まれた状態で発見されたという。",
+      "published": "2026/10/14 13:02",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c944/live/bb7e0210-c74e-11f1-b4d5-87f9c6c95a29.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米人気ドラマ「ブレイキング・バッド」出演のミティ氏、34歳で死去　主人公の息子役",
-      "url": "https://www.bbc.com/japanese/articles/cmd93lxyd90jo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの人気ドラマ「ブレイキング・バッド」で主人公の息子役を演じた、俳優RJ・ミティ氏が12日、死去した。34歳だった。",
-      "published": "2026/10/13 11:37",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d722/live/ce8c0310-c67d-11f1-841c-2105a54cdb08.jpg"
+      "title": "BBCのFMラジオ放送、アフガニスタンで停止される",
+      "url": "https://www.bbc.com/japanese/articles/cx62ygd5p318o?at_medium=RSS&at_campaign=rss",
+      "summary": "アフガニスタンのタリバン政権は今週、国内各地のFMラジオ局を通じたBBCのラジオ放送を停止した。タリバン政権の報道官は、BBCが「度重なる違反」を行ったためだと説明している。",
+      "published": "2026/10/14 09:31",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4599/live/7e414580-c71a-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "仏スーパーの冷蔵庫にサイバー攻撃、設定温度が上昇　数億円相当の食品を廃棄か",
-      "url": "https://www.bbc.com/japanese/articles/c6n0455yzvldo?at_medium=RSS&at_campaign=rss",
-      "summary": "フランスでこのほど、スーパーマーケット数百店舗がサイバー攻撃を受け、冷蔵・冷凍設備の設定温度が上昇する被害を受けた。数百万ユーロ（数億円）相当の生鮮食品や冷凍食品が傷み、廃棄されたという。",
-      "published": "2026/10/13 14:47",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg"
+      "title": "ロボットが少女にわいせつ行為……少年2人に操作した疑い、ロボットは押収　ドイツ",
+      "url": "https://www.bbc.com/japanese/articles/crpdgz7d6dd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "ドイツ警察は、16歳の少女にわいせつ行為を行ったとされるロボットを操作した疑いで、10代の少年2人に対する捜査を開始した。",
+      "published": "2026/10/14 13:50",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8156/live/62cbcee0-c749-11f1-b4d5-87f9c6c95a29.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "4000万円超でもエントリーモデルという位置づけ…フェラーリ｢アマルフィ スパイダー｣が示すオープンスポーツカー像 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960191?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "昨年登場したフェラーリ｢アマルフィ｣に続き､注目の｢アマルフィ スパイダー｣がデビュー。高額なプライスタグながら\"エントリーモデル\"と呼ばれるその真意とは？",
-      "published": "2026/10/13 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/e/1200w/img_8ed266a8f0197c270e0a1e32213bcffa149282.jpg?nextgen=false"
+      "title": "『人間失格』を英語にできる？　英語の勉強がとたんに面白くなる｢翻訳家の目線｣で好きな作品を感じる面白さ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960387?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "太宰治の名作『人間失格』は､英語でどう表現されているのでしょうか？｢Human Disqualification｣と直訳したくなるところですが､実際には｢No Longer Human｣や｢A Sh…",
+      "published": "2026/10/14 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/f/1200w/img_ef87da40e2e67922a376368705e1526f178080.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "数日かかる他社調査を無料AIで30分に短縮し有報を読み比べ会議資料まで作成､サステナビリティ担当者のAI活用術② | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959271?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢他社はどこまで開示しているのか｣──役員会前日に担当取締役から急に聞かれても慌てない。無料AIで有報を集めて読み比べ､根拠を1次情報で確かめ､会議資料にまとめるまでを30分弱でこなす手順を､加美山…",
-      "published": "2026/10/13 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/0/1200w/img_b0c750de755a600674ae8d4028cb8f60126340.jpg?nextgen=false"
+      "title": "｢悪夢を頻繁に見る人｣は高血圧の傾向が高い!?　まだまだ解明されていない《睡眠の深い謎》3つの研究の現在地　 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958296?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢寝る子は育つ｣とはよく言われますが､現代の抗加齢医学では大人にも正しい睡眠が不可欠だと判明しています。昼寝の長さや就寝時間の規則性が､血圧や代謝､認知症リスクまで左右することをご存じでしょうか？　…",
+      "published": "2026/10/14 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/4/1200w/img_54f3affc79fe31d564a535d4887276ff198544.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢人生損してるよ｣と激推しされるも､あっさり断った友人の\"正当すぎる理由\"　漫画『自分と仲良くなりたいんだわたしは』 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960294?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "わたしの中の自分が一番うるさかったーー。「嫌われたかも」「変なこと言っちゃったかな？」気づけば今日も、ひとり反省会。深読み、謝りグセ、善意の空回りに、他者に求め過ぎてしまう共感……。自分を好きになれ…",
-      "published": "2026/10/13 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/0/1200w/img_406588e1da8870f8195d12b832bc9669102321.jpg?nextgen=false"
+      "title": "社内に埋もれた自社の受賞実績をDeep Researchで社外から拾い出す､サステナビリティ担当者のAI活用術③ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959277?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "統合報告書や外部評価の調査票に欠かせない自社の受賞実績。全社に呼びかけても社内からは集まりにくく､外部に頼むのもためらわれる。公開情報なら､AIのDeep Research機能で社外から効率よく集め…",
+      "published": "2026/10/14 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/7/1200w/img_c78864c0bdf8fdbe90b862b211257b08302564.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ノーベル経済学賞､米大教授2人に　授賞理由は｢マクロ経済の安定化に関するミクロ経済学的基盤｣ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960943?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2026年ノーベル経済学賞が与えられるスタンフォード大のホール教授とコロンビア大のウッドフォード教授は､ミクロの視点から経済政策モデルを革新しました。",
-      "published": "2026/10/13 09:33",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/b/1200w/img_ab392c33a68d68c4ba48c9a65208ca5f357909.jpg?nextgen=false"
+      "title": "【秘話】武田薬品の社運をかけた｢過眠症｣薬､研究者のリストラを乗り越え正真正銘の\"日本発新薬\"登場､有効性に専門医が驚愕 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960933?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "突然強い眠気に襲われる難病｢ナルコレプシー｣。長年対症療法しかなかったこの疾患に､根本原因へアプローチする新薬｢オーゼイフル｣が登場します。日本発の画期的治療薬が､患者の生活をどこまで変えるのか。そ…",
+      "published": "2026/10/14 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/d/1200w/img_8d3ed6a5f478d4749051a0aa6e8bccae758132.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "今世紀末に｢世界の気温上昇は最大5.7℃｣の衝撃予測も…気象学者が伝える\"地球はどこまで暑くなるのか\"の科学的真実 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958685?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "地球の気温はすでに1℃以上､上がっています。IPCC（気候変動に関する政府間パネル）の予測では､2100年の世界平均気温は最少で1.0〜1.8℃､最大で5.7℃まで高くなるとされています。何が将来の…",
-      "published": "2026/10/13 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/6/1200w/img_361f9142618e4e21b80fa2cb30359c2f214398.jpg?nextgen=false"
+      "title": "｢アヤシイ仕事はやめなさい｣教官の言葉に揺れた夜…鏡リュウジが学術の道を捨てて仕掛けた『天使の事典』誕生秘話 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960770?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "学術界とメディアの狭間で揺れ動く鏡リュウジ氏は､運命的な夢をきっかけに大学を離れる決意をします。独立後は不安と挫折を乗り越え､多彩なアイデアと独自の占星術観を築き上げました。",
+      "published": "2026/10/14 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/2/1200w/img_22c0ab3b201cadf8fa5770fa6a22de2697801.jpg?nextgen=false"
     }
   ]
 }
