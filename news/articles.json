@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-10-15T04:39:43.859944+00:00",
+  "generated_at": "2026-10-16T04:32:05.117805+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後　米国が開発者802人の進捗を追跡調査",
-      "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
-      "summary": "米カーネギーメロン大学や米スタンフォード大学などに所属する研究者らが発表した論文「AI Writes Faster Than Humans Can Review: A Longitudinal Study of an Enterprise 2x Mandate」は、AI導入を義務化したソフトウェア会社がどのような影響を受けたのかを調査した研究報告だ。",
-      "published": "2026/10/15 12:00",
+      "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+      "summary": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコ",
+      "published": "2026/10/16 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“コネクテッドカー”はGoogleやMetaにどれだけ情報を送っている？　21車種30アプリを調査",
-      "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002258/",
-      "summary": "米ノースイースタン大学に所属する研究者らによる、国際会議「IMC ’26」で採択された論文「Automatic Transmission: An Empirical Study of Data Privacy in the Connected Vehicle Ecosystem」は、コネクテッドカーにおけるデータプライバシーの実態を調査した研究報告だ。",
-      "published": "2026/10/15 12:00",
+      "title": "Tesla、新型「Roadster」発表　SpaceX技術で“飛べる”モデルも　日本でも予約受付中",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
+      "summary": "Teslaは、次世代EVスポーツカー「Roadster」を発表した。2028年の生産開始を目指し国内予約も受付中だ。路面に吸い付く吸引システムやSpaceXの冷ガススラスター技術を搭載し、最上位モデルでは空中浮上やロール回転、0-60mph加速0.59秒未満を実演した。",
+      "published": "2026/10/16 11:46",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか　最大787の医療機関が対象",
-      "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002293/",
-      "summary": "漏えいの有無や範囲は、外部の専門機関の協力を得て調査中。対象サービスを利用している医療機関は全787件あるという。",
-      "published": "2026/10/15 11:16",
+      "title": "「Nintendo Switch 2」修理値上げ、CPU基板交換9900円アップ　「部品の価格高騰」で",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002322/",
+      "summary": "CPU基盤交換の修理料金は、Switch 2が2万7500円→3万7400円など、大幅に上がる。",
+      "published": "2026/10/16 11:45",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ネットフリックスがレイオフ　従業員1000人削減へ　2022年以来の規模",
-      "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002291/",
-      "summary": "米動画配信大手Netflix(NFLX.O)が、全従業員の6%に相当する約1000人を削減する。Reutersが入手した社内メモで明らかになった。人員削減は2022年以来の規模となる。",
-      "published": "2026/10/15 11:16",
+      "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ　ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
+      "summary": "「ドコモメールに、楽天カードや楽天銀行の認証マーク付きの詐欺メールが届いた」といった報告がXで相次いでいる。",
+      "published": "2026/10/16 11:12",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "相次ぐサイバー攻撃に「AI悪用の可能性」……初来日のAnthropic共同創業者が言及　悪用どう抑止",
-      "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002286/",
-      "summary": "「おそらく、AIツールが使われている可能性はあるだろうと推測している」──米Anthropicの共同創業者のジャック・クラーク氏が初来日し、同社の日本法人が10月14日に開いたメディア説明会に登壇した。講演では、報道陣の質問に答える形でサイバー攻撃とAIの関係性についても言及する一幕も。悪用の抑止に向けて同社がどう取り組むか、現在の方針も説明した。",
-      "published": "2026/10/15 10:55",
+      "title": "Amazon、Beeの新AIデバイス2機種発表　リストバンド型とスマホ装着型、会話を要約し「Alexa+」と連携",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002316/",
+      "summary": "Amazonは、傘下BeeブランドのAIデバイス2機種を発表した。手首や衣服に着ける「Bee Frontier」とスマホ背面に貼る「Bee Eclipse」で、会話の要約やToDo作成を行う。「Alexa+」やAmazon.comとも連携し、音声や要約はNitro基盤の暗号化環境で保護される。",
+      "published": "2026/10/16 10:27",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ローマ教皇、肺腺がんと診断　右肺下葉の切除手術は成功と教皇庁",
-      "url": "https://www.bbc.com/japanese/articles/cwly4q74dvdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "キリスト教カトリック教会のローマ教皇庁（ヴァチカン）は13日、ローマ教皇レオ14世が肺腺がんと診断されたと発表した。同日行われた右肺の下葉を切除する手術は無事成功したという。",
-      "published": "2026/10/14 10:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg"
+      "title": "米オレゴン州の小学校で銃乱射、子ども3人と教師1人が殺害される　16歳容疑者は現場で射殺",
+      "url": "https://www.bbc.com/japanese/articles/c6y8ln85e9d3o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカ西部オレゴン州ベンドにある小学校で15日午後、銃乱射事件があり、子ども3人と教師1人が殺害された。現地警察によると、容疑者の16歳少年は現場付近に居合わせた地元住民に射殺された。",
+      "published": "2026/10/16 12:36",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9441/live/c30744a0-c90c-11f1-93ad-774923aed282.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロシア、スパイ容疑で日本人記者を拘束",
-      "url": "https://www.bbc.com/japanese/articles/cxnv050epg0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシア連邦保安局（FSB）は13日、日本の北海道新聞の記者をスパイ容疑で拘束したと発表した。日本政府の指示で、ロシアの防衛能力に関する情報を収集していたと主張している。ロシアと日本は、今年8月にロシアのウラジーミル・プーチン大統領が択捉（えとろふ）島（ロシア名はイトゥルップ島）を訪れたことなどから関係が悪化している。",
-      "published": "2026/10/14 16:37",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/448c/live/b7c0bd40-c7a1-11f1-9a39-31b474234113.jpg"
+      "title": "トランプ氏、銃殺刑のライブ配信を中止　米軍基地乱射事件の死刑囚について",
+      "url": "https://www.bbc.com/japanese/articles/cqy8lnlld33do?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は15日、元米陸軍精神科医の死刑囚に対する銃殺刑の執行をライブ配信する計画について、中止すると発表した。",
+      "published": "2026/10/16 11:40",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロシアがキーウの主要発電所を攻撃とゼレンスキー氏　同盟国からの警告なかったと",
-      "url": "https://www.bbc.com/japanese/articles/cv4g18yw0222o?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのウォロディミル・ゼレンスキー大統領は13日、首都キーウに暖房と電力を供給する主要なエネルギー施設が、ロシアの弾道ミサイル攻撃を受けたと発表した。大統領は、「またしても、パートナー諸国からの早期警戒情報は一切なかった」とソーシャルメディアに書いた。",
-      "published": "2026/10/14 10:50",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg"
+      "title": "イエメン大統領宮殿にフーシ派のミサイル攻撃、5人死亡とイエメン政府",
+      "url": "https://www.bbc.com/japanese/articles/crpdg4w4ynxno?at_medium=RSS&at_campaign=rss",
+      "summary": "イエメン南部の港湾都市アデンにある大統領宮殿が15日、反政府勢力フーシ派によるミサイル攻撃を受け、5人が死亡した。イエメン政府が明らかにした。アデンには、イエメンの国際的に承認されている政府の拠点が置かれている。",
+      "published": "2026/10/16 10:21",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米司法省、オープンAIのサウジアラビア人技師を起訴、オフィスに「高度」な録音装置を仕掛けた疑い",
-      "url": "https://www.bbc.com/japanese/articles/c6m2d4gwdjwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "司法省によると、トイレットペーパーに包まれた録音装置が、役員会議室のテレビ背面にあるUSBポートに差し込まれた状態で発見されたという。",
-      "published": "2026/10/14 13:02",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c944/live/bb7e0210-c74e-11f1-b4d5-87f9c6c95a29.png"
+      "title": "学校の屋根が崩落、少なくとも生徒33人と教員1人死亡　パキスタン",
+      "url": "https://www.bbc.com/japanese/articles/cmn065077335o?at_medium=RSS&at_campaign=rss",
+      "summary": "パキスタン北西部カイバル・パクトゥンクワ州ペシャワルで15日、学校の屋根が崩落し、少なくとも生徒33人と教員1人が死亡した。病院関係者が明らかにした。このほか、十数人が負傷し、一部は重体という。",
+      "published": "2026/10/16 13:15",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9733/live/ffd847e0-c910-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ロボットが少女にわいせつ行為……少年2人が操作した疑い、ロボットは押収　ドイツ",
-      "url": "https://www.bbc.com/japanese/articles/crpdgz7d6dd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "ドイツ警察は、16歳の少女にわいせつ行為を行ったとされるロボットを操作した疑いで、10代の少年2人に対する捜査を開始した。",
-      "published": "2026/10/14 13:50",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8156/live/62cbcee0-c749-11f1-b4d5-87f9c6c95a29.jpg"
+      "title": "スターリンク利用制限でウクライナのドローン速度低下　マスク氏は米政府の関与を示唆",
+      "url": "https://www.bbc.com/japanese/articles/cx7vp77jnml9o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナ政府高官は14日、自軍のドローン誘導や領空防衛で利用している米スペースXの通信衛星網「スターリンク」について、接続が維持される兵器の移動速度に制限がかけられ、軍事行動に影響が出ているとした。これに対し、同社を率いる実業家イーロン・マスク氏は、そうした制限は米政府が関わっている可能性があるとの見方を示した。",
+      "published": "2026/10/15 13:05",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢成長は大きな変化じゃなければ｣と思い込む人が読んでおきたいこと　実は｢小さな成長｣が後押しする僕らの伸び代 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960995?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢成長｣とは特別な出来事だけを指すものではなく､日常の中で繰り返し訪れる小さな変化かもしれません。荒木博行氏の著書『成長の地図』をもとに､仕事や子育ての中で感じる\"ささやかな成長\"の意味と､その本質…",
-      "published": "2026/10/15 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/a/1200w/img_4ad1ef0a12c953138f318184daa8fab2231710.jpg?nextgen=false"
+      "title": "｢職場の掲示板｣｢対面での集会｣｢紙による投票｣…アナログ信仰を脱した労働組合に訪れるかもしれない\"バラ色の未来\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958478?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "多くの労働組合が依然として紙や対面のアナログな手法に固執する一方､時代は急速にデジタルシフトを求めています。働き方の多様化に対応し､誰もが参加しやすい組合活動の実現には､IT化による効率化だけでなく…",
+      "published": "2026/10/16 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/2/1200w/img_d20549b2d6d116ba7a96316725d77caf250944.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "東大には｢縦の多様性｣が存在しない　体験格差という壁　ブレイディみかこ×元ヤングケアラー東大生･清野孝弥対談(前編) | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960181?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢生活保護世帯｣と｢ヤングケアラー｣という二重の困難を背負いながら東京大学に合格した清野孝弥氏。その体験が､イギリスと日本の教育格差や､大学進学後にも残る｢見えない階級｣の壁を明らかにします。困難な…",
-      "published": "2026/10/15 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/9/1200w/img_59b0449cadef39d98f863666ec2daaae888774.jpg?nextgen=false"
+      "title": "TBSドラマ『VIVANT』への熱狂と日中対立の奈落､中国を実名で敵役にしてしまう｢空気｣の危うさ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961273?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大ヒット中のTBS系ドラマ『VIVANT』では中国が実名で敵役に設定されています。背景には日本社会の対中不信と安全保障意識の変化が。エンタメの中での国家の描かれ方は何を問いかけているのでしょうか。今…",
+      "published": "2026/10/16 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/5/1200w/img_a5375dc377a853a08a65105d509e29c1436864.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "急転直下｢4週間で更迭｣の裏で何が？ 高市首相の\"知恵袋\"簗農水相辞任で風雲急を告げる臨時国会と自維連立の混沌 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961294?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "予算カット発言などが問題視されていた簗農水相が辞任。直前までかばう姿勢を見せていた高市首相が事実上の更迭に踏み切りました。急転直下の更迭劇の裏側で何が起きていたのでしょうか。そして､政局はどう動いて…",
-      "published": "2026/10/15 11:50",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/e/1200w/img_1e7283690e5b5a8a2542d3a4caf6b51c287996.jpg?nextgen=false"
+      "title": "何でも｢願えば叶う｣なんてありえない…鏡リュウジがポップ化する\"スピ系\"ブームと\"引き寄せの法則\"に感じた違和感 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960783?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢自己責任｣が重くのしかかる時代に､人はなぜ占いやスピリチュアルに惹かれるのでしょうか。2000年以降のブームの背景をひもときながら､｢運命は変えられるのか｣｢願えば叶うのか｣という問いを考えます。",
+      "published": "2026/10/16 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/f/1200w/img_bf2029e55ae308b27a8656f31c60959c238398.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ニューヨーク･タイムズ記者がメタのAIエージェント｢ミューズ｣を使って見えたこと　銀行口座など個人情報を渡せるか  | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960970?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "オンラインフォームへの入力やカスタマーサービスへの連絡まで自動化できるメタのAIエージェント｢Muse（ミューズ）｣。ニューヨーク･タイムズ記者が実際に2週間使ってみてわかったこととは？",
-      "published": "2026/10/15 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/1/1200w/img_41abd3e7901a9c507c450e10e2d15f4f120055.jpg?nextgen=false"
+      "title": "【サイゼリヤ最新決算】ミラノ風ドリアを6年ぶりに値上げ！300円→320円に／物価高騰の中でも値上げしなかった異色企業が平均6%の値上げを発表／発表翌日には株価も急上昇 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961465?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "10月14日、サイゼリヤは平均6％の値上げを発表。サイゼリアが値上げするのは6年ぶり。ミラノ風ドリアは300円から320円に。物価が高騰する中でも値上げをしなかった異色企業だが、なぜ今値上げに踏み切…",
+      "published": "2026/10/16 11:45",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/3/1200w/img_533be318ddb9f3ea827acd9d9cffbfba279315.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "中国の｢債務の罠｣に沈むラオス､日本の対中戦略にも暗雲､軍事拠点からレアアースまで握られた小国の現実とは | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960940?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "中国は東南アジアの資源大国ラオスとの地政学的な結びつきを強め､軍事施設や経済圏の拡大が進行中です。日本の｢進化版FOIP｣にも動きがある中､レアアース供給や地域の勢力均衡を巡る攻防は新たな局面を迎え…",
-      "published": "2026/10/15 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/7/1200w/img_d74f744543f2c9270dcfb43e5804a488618245.jpg?nextgen=false"
+      "title": "｢北朝鮮のミサイル防衛｣は建前なのか､海上自衛隊が新型イージス･アショア艦を中国正面に投入するこれだけの理由 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960954?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イージス･システム搭載艦（ASEV）は､表向きは北朝鮮のミサイル監視が目的とされますが､実際には中国海軍へ対抗するための切り札として投入される見通しです。日本の海上防衛戦略の転換点となる世界最強級艦…",
+      "published": "2026/10/16 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/8/1200w/img_f8178bffb76627673bc4dcad5cecb9f264135.jpg?nextgen=false"
     }
   ]
 }
