@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-10-19T04:40:41.424112+00:00",
+  "generated_at": "2026-10-20T04:51:17.360809+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ソースネクスト、パスワードなぜ平文で流出　「暗号化していたが、鍵にアクセスできるシステムに侵入された」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002372/",
-      "summary": "「暗号化されたパスワードを復号するための鍵にアクセス可能なシステム（API）に対して、不正アクセスが行われた」「復号鍵そのものは流出していないが、パスワードが復号された状態で外部に流出したことを確認している」とソースネクスト。",
-      "published": "2026/10/19 12:38",
+      "title": "ネットバンキングにログインしたまま別作業は危険？　「ChatGPT Atlas」などのAIブラウザ7種でデータ窃取を検証",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/",
+      "summary": "米ワシントン大学に所属する研究者らが発表した論文「Agentic Browsers and the Same-Origin Policy」は、AIエージェントがユーザーに代わってWeb操作を行うAIブラウザにおいて、メールやネットバンキングなどの機密情報が悪意あるサイトに窃取されるリスクを検証した研究報告だ。",
+      "published": "2026/10/20 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AIの台頭でWebサイトのアクセス向上策はSEOからGEOにシフト　対応急務に",
-      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002371/",
-      "summary": "生成AIの普及で、ネット検索の主役が従来の検索エンジンからAIへと移りつつある。企業サイトやニュースサイトには、検索上位を狙うSEOに代わり、AIに引用されるようコンテンツを最適化する「GEO」への対応が急務となりそうだ。",
-      "published": "2026/10/19 11:36",
+      "title": "ChatGPT広告は誰に何を表示しているのか？　米大学が91のおとりアカウントで実態調査",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002375/",
+      "summary": "米ペンシルベニア大学や米ハバフォード大学に所属する研究者らが発表した論文「The Beginning of ChatGPT Ads」は、ChatGPTの広告がどのようなユーザーに、どのような基準で配信しているかを調査した研究報告だ。",
+      "published": "2026/10/20 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「Renta!」が臨時メンテナンスでサービス停止　再開時期示さず",
-      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002367/",
-      "summary": "電子書籍サービス「Renta!」を運営するパピレスは10月18日、臨時のサーバメンテナンスのため、サービスを一時停止していると発表した。19日午前10時時点でも、メンテナンスは続いている。",
-      "published": "2026/10/19 11:29",
+      "title": "「Uber Eats」配達ロボの進路ふさいだ女性逮捕　「人間の仕事奪う」「世界を支配」　米国",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002416/",
+      "summary": "米東部ペンシルベニア州フィラデルフィアで、配達ロボットの前に立ちはだかって進路をふさいだ女性が、公共の秩序を乱した疑いで地元警察に逮捕された。",
+      "published": "2026/10/20 11:51",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "家電量販のJoshin、不正アクセスで一部サービス停止　個人情報漏えい「可能性否定できず」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002369/",
-      "summary": "家電量販店「ジョーシン」を運営するJoshinは10月17日、第三者による不正アクセスを受け、一部のサービスを提供できない状態になっていると発表した。個人情報漏えいの可能性は否定できないとして、個人情報保護委員会に報告している。",
-      "published": "2026/10/19 11:25",
+      "title": "AWS Transformが機能拡充　Azure Functions用のコードをAWS Lambda用に変換など、Azure→AWSへの移行に対応",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002414/",
+      "summary": "米Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。",
+      "published": "2026/10/20 11:24",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）　ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
-      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002365/",
-      "summary": "悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。",
-      "published": "2026/10/19 11:04",
+      "title": "メドレー、不正アクセスで停止中のサービスを作り直して再開へ　従来システムは再稼働させず",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002413/",
+      "summary": "メドレーは10月19日、不正アクセスを受けて停止している医療機関向け業務支援システム「@link（アットリンク）」について、22日から一部機能の提供を再開すると発表した。従来のシステムは再稼働させず、別の環境に新たに構築したサービスにデータを移行して提供する。",
+      "published": "2026/10/20 11:23",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "フランス各地で物価高などに抗議のデモ、マクロン大統領は「冷静と秩序」呼びかけ",
-      "url": "https://www.bbc.com/japanese/articles/cke8r3n89y8mo?at_medium=RSS&at_campaign=rss",
-      "summary": "フランス各地で17日から18日にかけて、物価高や学校など公共サービスの悪化に抗議するデモが多発する中、エマニュエル・マクロン大統領は19日、「冷静と秩序」を呼びかけた。数55万人が参加した抗議行動はおおむね平和的だったが、一部で暴動や略奪があり、パリでは18日にも混乱が続いた。フランス内務省によると、警察は約2400人を逮捕した。",
-      "published": "2026/10/19 10:22",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg"
+      "title": "パリなどフランス各地に夜間外出禁止令　週末の暴動受け",
+      "url": "https://www.bbc.com/japanese/articles/cmzxl0174e1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "フランスで17日から週末にかけて、物価高騰などに対する抗議から派生した暴動や略奪が各地で相次いだことを受け、政府は19日、パリ中心部の一部地域やその他の都市で夜間外出禁止令を発令した。",
+      "published": "2026/10/20 11:51",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25a0/live/49d76930-cc2b-11f1-a77d-d3d55113d566.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、ロシアへの制裁停止は和平交渉継続のためと主張　与野党から批判も",
-      "url": "https://www.bbc.com/japanese/articles/c94g1z72pje0o?at_medium=RSS&at_campaign=rss",
-      "summary": "トランプ米大統領は18日、ロシアに対する複数の制裁措置を停止するという自分の決定は、ロシア政府を交渉に引き留めておくためのものだと述べた。トランプ氏は16日、対ロ制裁の発効を目前にこれを停止する大統領令に署名している。一連の対ロ制裁は9月に連邦議会が可決し、トランプ氏が大統領として署名したもので、この停止にはアメリカの与野党から批判が出ている。",
-      "published": "2026/10/19 13:25",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg"
+      "title": "アメリカが情報共有を制限し、ウクライナ人が命を落としている……ウクライナ国防省顧問がBBCに語る",
+      "url": "https://www.bbc.com/japanese/articles/c3vgx07yvknvo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナ国防省の顧問を務める軍事技術専門家、セルヒー・ベスクレストノフ氏は19日、ロシアの対ウクライナ攻撃に関する信頼できる警戒情報がアメリカから届かず、ウクライナ人が命を落としていると語った。",
+      "published": "2026/10/20 12:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd6e/live/09c582e0-cc13-11f1-b0fa-5b9abd1bf87b.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "カナダ軍基地で大規模火災　4人死亡、数十人が負傷",
-      "url": "https://www.bbc.com/japanese/articles/cmn8w5dn7wy6o?at_medium=RSS&at_campaign=rss",
-      "summary": "カナダ西部アルバータ州にある軍基地で17日午後、大規模な火災があり、軍関係者4人が死亡、数十人が負傷した。カーニー首相は18日、首都オタワで国民に向けて演説し、「平時におけるカナダ軍にとって最悪の悲劇の一つ」だと述べた。",
-      "published": "2026/10/19 11:27",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg"
+      "title": "ドローンで前線の負傷兵を搬送　「世界初」の事例、ウクライナ軍が動画公開",
+      "url": "https://www.bbc.com/japanese/watch/crgqw43eq7glo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナ軍は19日、ロシアとの戦争で負傷した兵士を前線からドローンで搬送する様子を捉えた映像を公開した。「世界初」の事例だとしている。",
+      "published": "2026/10/20 13:13",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ローマ教皇が感謝の言葉、肺腺がん手術から初の公務",
-      "url": "https://www.bbc.com/japanese/watch/cmy4xd2yvxd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "キリスト教カトリック教会のローマ教皇レオ14世は18日、肺腺がんの手術後初めて公の場に姿を現した。",
-      "published": "2026/10/19 13:09",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/21f0/live/4a3b0720-cae5-11f1-a64c-550be9e3c66b.jpg"
+      "title": "中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る",
+      "url": "https://www.bbc.com/japanese/articles/cqly0vee2zm4o?at_medium=RSS&at_campaign=rss",
+      "summary": "中国国家統計局が19日発表した7～9月期の国内総生産（GDP）は、前年同期比4.5％増加。伸び幅は、4～6月期の4.3％から大きくなったものの、1～3月期の5％は下回った。輸出は国内消費の低迷をある程度、相殺するのに役立っているものの、世界的な貿易摩擦やAI投資をめぐる不確実性が、その見通しを曇らせている。",
+      "published": "2026/10/19 14:42",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ウクライナの「ヴィヴァルディ作戦」をBBC特派員が取材、防衛から攻勢へ",
-      "url": "https://www.bbc.com/japanese/watch/cq62yd3mgpr3o?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナ東部の地下壕の奥深くで、ウクライナ軍の反攻作戦「ヴィヴァルディ作戦」が展開されている。ウクライナは、この作戦により、ここ数カ月でドンバス東部で277平方キロメートルの領土を奪還したと発表している。BBC特派員が作戦の指令拠点を取材した。",
-      "published": "2026/10/17 12:10",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b1b/live/eaf3be50-c982-11f1-a64c-550be9e3c66b.jpg"
+      "title": "イスラエル人入植者、現地調査の欧州外交官らを襲撃　ヨルダン川西岸",
+      "url": "https://www.bbc.com/japanese/articles/c5n493p0zpmko?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエルが占領を続けるパレスチナ・ヨルダン川西岸地区で17日、欧州外交官らの一団が、覆面をしたイスラエル人入植者らに襲撃された。関係国は襲撃を強く非難し、関与した人物を裁くようイスラエルに求めている。一方、イスラエル首相府は「イスラエルを中傷するための、調整されたキャンペーン」だとしている。",
+      "published": "2026/10/19 14:56",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【現地取材】トランプ大統領の聖地で見た変わらぬMAGAの熱狂…｢すべてはここから始まった｣と語る逆風下での思い | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961554?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "アメリカ中間選挙を間近に控えた10月､トランプ大統領は｢30日間で35の激戦区訪問｣を宣言。序盤の山場として保守の聖地アラバマ州を選んだ。なぜアラバマ州なのか。背景にある戦略と､現場の渦巻く熱気を追…",
-      "published": "2026/10/19 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/4/1200w/img_74269c6b68f13cb294eb68ddb7570b5e375353.jpg?nextgen=false"
+      "title": "長年権力の座に君臨するも､中大兄皇子による｢乙巳の変｣で滅亡の憂き目に…《蘇我氏4代》は本当に\"暴君\"だったのか | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959964?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "古代日本の権力闘争の渦中で､実在が確認できる蘇我氏の始祖･蘇我稲目から､50年以上にわたり権力を振るった蘇我馬子､そして｢悪人｣とされた蘇我蝦夷･入鹿親子まで。彼らは本当に暴君だったのか？　歴史の裏…",
+      "published": "2026/10/20 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/b/1200w/img_5b72931663479e13c9158bc0295c0695962664.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "東大合格者がこぞってやっている【合格体験記読破】は勉強法の一つ？　自分と似た人を参考にすることが合理的なワケ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960234?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東大合格者が声をそろえて｢合格体験記を読むべき｣と語る理由をご存じですか？多数の実例や経験が詰まった体験記には､自分と似た境遇の先輩たちが努力し､工夫した軌跡が残されています。あなたにとっての最良の…",
-      "published": "2026/10/19 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/4/1200w/img_d45b8f8b769d147232198b2c84e4a716756523.jpg?nextgen=false"
+      "title": "フランスの〈金利急上昇〉は特殊要因だけなのか？国債売りトレードは突然に…日本が汲み取るべき3つの警告 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961471?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界的な債券供給の過剰が各国市場に波紋を広げる中､フランス長期金利の急騰は決してフランス固有の問題にとどまりません。コロナ後の財政正常化遅れから､世界では債券需給のバランスが大きく崩れています。今､…",
+      "published": "2026/10/20 12:10",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/3/1200w/img_63067d616270d439d5fdc72cec29792e229903.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "漬物業界トップのピックルスHD､業績の進捗率が高くても通期予想据え置きの背景 影山直司社長｢下期の挽回目指す｣ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961102?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "漬物業界トップのピックルスHD。上期営業利益の通期計画に対する進捗率は67.3％と高いですが､通期予想を据え置きました。",
-      "published": "2026/10/19 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/0/1200w/img_60222a2ef3b23956aaf27dedf1348678271916.jpg?nextgen=false"
+      "title": "｢風邪にビタミンC｣は本当か？1万人超の検証が明かす真実　効果を信じ3000mgを毎日摂り続けたノーベル賞学者の正体 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961353?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢風邪にはビタミンCが効く｣。50年以上も世界中で信じられてきたこの説は､1人のノーベル賞学者の強い主張から広まったものでした。自身も信じ､1日3000mgを摂り続けた彼の主張は正しかったのか。29…",
+      "published": "2026/10/20 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/5/1200w/img_9538c4b5b4cc1d55b1ef6eb3a793b5e3134510.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "AIや3Dプリンティングで医療DXに挑む台湾企業､日本の高齢化や人手不足に応える最新技術 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961111?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "急激な高齢化や人手不足という日本の医療現場が直面する課題を背景に､幕張メッセで開催された｢Medical Japan 2026｣では､AIやスマート機器が集結した。特に台湾の先進技術が注目を集め､日…",
-      "published": "2026/10/19 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/a/1200w/img_4ac4393a473d47a17efbcccebd151936153718.jpg?nextgen=false"
+      "title": "｢初音ミク｣誕生秘話! 苦節10年超､\"ボカロの父\"が明かす開発打ち切り寸前からの大逆転劇 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960791?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "現代の音楽シーンを大きく変えた｢ボーカロイド｣。初音ミクの誕生秘話や沸騰するファンイベント､その舞台裏で奮闘した技術者･剣持秀紀氏の挑戦とは?",
+      "published": "2026/10/20 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/7/1200w/img_e777ed618d566fecd6334eb94f2ad442654271.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢なぜテスラとスペースXを統合したくて仕方がないのかを示す最新の例｣…テスラ新型ロードスターが空中旋回を披露 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961606?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ロケット技術を融合させた新型ロードスターを披露したテスラとイーロン･マスク。スペースXとの共同開発や驚異的な加速性能､空中演技まで実現し､熱狂と驚愕を呼びました。",
-      "published": "2026/10/19 09:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/f/1200w/img_6f1f23283223c6464a81c6425feb74f097808.jpg?nextgen=false"
+      "title": "｢男なら全部払え！｣地元の友人に言われてハッとした…年収500万円でも貯金を崩す36歳妻が陥った\"何でも折半\"の罠 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961182?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "共働き夫婦において｢生活費は常に半分ずつ｣が本当に公平と言えるのでしょうか。出産や育休､時短勤務などライフステージの変化で生じる収入差。そのままの家計ルールがもたらす歪みとは？",
+      "published": "2026/10/20 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/3/1200w/img_c33f875a0276ea7481783043117b2ae0219908.jpg?nextgen=false"
     }
   ]
 }
