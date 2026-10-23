@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-10-22T04:45:54.944011+00:00",
+  "generated_at": "2026-10-23T04:49:29.413014+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "PHPの「重大」脆弱性はAIが見つけた　「GPT-5.6 Solで発見」とOpenAI　「今後、AIによる脆弱性発見が急増」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002486/",
-      "summary": "「今後数カ月で、AIによる同様の脆弱性発見が急増する」と予測。AI時代に対応したセキュリティの枠組みを、5段階で提案している。",
-      "published": "2026/10/22 12:33",
+      "title": "PayPay、「免許証画像で本人確認」廃止　ICチップ読み取りに統一",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002540/",
+      "summary": "運転免許証かマイナンバーカードのICチップをユーザーがスマートフォンで読み取り、本人確認申請する方法に統一する。",
+      "published": "2026/10/23 12:59",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「GitLab」に深刻度“最大”の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
-      "summary": "12日に公表したCVSS 10.0の脆弱性とは別の脆弱性が新たに見つかった。約12年前に公開された「GitLab CE／EE 7.0」以降の広範なバージョンが影響を受ける。",
-      "published": "2026/10/22 12:30",
+      "title": "令和12年度からの教科書、「紙」と「デジタル」組み合わせ　文科相指針案",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002537/",
+      "summary": "文部科学省は10月22日、令和12年度から正式な教科書となるデジタル教科書について、全ての学年で紙とデジタルを組み合わせた「ハイブリッド形式」を基本とする「大臣指針案」を有識者会議に示した。「完全デジタル」の教科書は小学5年生以上の一部の教科に限定する。",
+      "published": "2026/10/23 12:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "コミックシーモア、流出は最大約420万件に　メールアドレスや生年月日など　不正アクセスの経路特定・遮断は完了",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002500/",
-      "summary": "電子書籍ストア「コミックシーモア」を運営するNTTソルマーレは10月21日、不正アクセスによる情報流出の影響範囲について発表した。最大約420万件の会員情報の流出を確認したとしている。",
-      "published": "2026/10/22 12:17",
+      "title": "「AIでエンジニア派遣は不要になる」のか？　各社に肌感を聞いた　求められる人材、明確に変化",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
+      "summary": "生成AIがコードを書く時代、エンジニア派遣は不要になるのか。10月21～23日に幕張メッセで開催中の「Japan IT Week 秋 2026」には、派遣・紹介サービスを手掛ける企業が複数出展。エンジニア派遣の需要について、疑問を各社にぶつけてみた。",
+      "published": "2026/10/23 12:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開　OpenSSHの修正にも貢献",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
-      "summary": "Anthropicは、AIモデル「Claude」でソフトウェアの攻撃対象領域を分析・縮小する研究結果を公開した。オープンソース25件を分析し、設定矛盾など493件の問題を特定。「OpenSSH」では、認証前に到達可能なコードを約5分の1削減し、最新版に対策が反映された。手法は脆弱性検出サービス「OSS Scanner」に組み込まれる。",
-      "published": "2026/10/22 11:48",
+      "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？　香港科技大などが調査",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
+      "summary": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。",
+      "published": "2026/10/23 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了　「古い仕組みのため対策とれず」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002493/",
-      "summary": "旅行ゲーム「ワールドクエスト」の運営は10月21日、同日をもってサービスを終了すると発表した。PHPの深刻な脆弱性に対し「古い仕組みのため十分な対策がとれない」とし、利用者の情報を守ることを理由に挙げた。",
-      "published": "2026/10/22 11:03",
+      "title": "1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？　大手銀行やインフラの鍵も　米スタンフォード大などが調査",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002515/",
+      "summary": "米スタンフォード大学などに所属する研究者らが発表した論文「Keys on Doormats: Exposed API Credentials on the Web」は、Web上の1000万サイトを調査し、本来秘匿にすべき「APIキー」（APIを利用する際の配布元が発行する許可証となる秘密のパスワード）が大量に露出している実態を発表した研究報告だ。",
+      "published": "2026/10/23 12:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止",
-      "url": "https://www.bbc.com/japanese/articles/c674p01yqwqko?at_medium=RSS&at_campaign=rss",
-      "summary": "世界中で使われ、インターネットの相当部分を支えるプログラミング言語「PHP」のセキュリティーチームは21日、プログラムに含まれる二つの重大なセキュリティー上の欠陥に対処するよう、ウェブサイト運営者に強く求めた。同日午後に修正プログラムが公開された。",
-      "published": "2026/10/22 11:20",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg"
+      "title": "トランプ大統領、マスク氏がウクライナのスターリンクへのアクセスを復旧と",
+      "url": "https://www.bbc.com/japanese/articles/cqx2vp2dne8mo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は22日、米スペースXの衛星通信サービス「スターリンク」について、所有するマスク氏が、ウクライナのアクセスを復旧させたと述べた。",
+      "published": "2026/10/23 09:55",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7001/live/78680580-ce73-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ゼレンスキー氏、アメリカの情報提供は「機能している」　トランプ氏の特使と会談後",
-      "url": "https://www.bbc.com/japanese/articles/ck78p4053y8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナのゼレンスキー大統領は20日、アメリカのトランプ大統領の特使、ウィトコフ氏と会談した。ゼレンスキー氏は終了後、ロシアのミサイル攻撃に関するアメリカの情報提供について「今は機能している」と述べた。",
-      "published": "2026/10/21 11:56",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg"
+      "title": "トランプ氏、BBC「パノラマ」訴訟で宣誓下での証言録取を命じられる",
+      "url": "https://www.bbc.com/japanese/articles/cjr4y34kww2zo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領が名誉を傷つけられたとして、BBCを相手に少なくとも100億ドル（約1兆6000億円）の損害賠償を請求している訴訟で、連邦判事は22日、大統領に対し、12月11日までに宣誓下で質問に答えるよう命じた。応じない場合、訴訟が棄却される可能性がある。",
+      "published": "2026/10/23 10:32",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英フェアフォード空軍基地事件、2人を再逮捕　イラン情報機関に協力した容疑",
-      "url": "https://www.bbc.com/japanese/articles/c5lyelywnrv1o?at_medium=RSS&at_campaign=rss",
-      "summary": "英空軍のフェアフォード基地の近くで先月「不審車両」が発見された事件で、対テロ警察は20日、いったん逮捕され保釈されていた男性容疑者2人を再逮捕したと発表した。外国の情報機関に協力した疑いがあるという。",
-      "published": "2026/10/21 17:57",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de9d/live/8c042fe0-cca9-11f1-8789-fd6bb060c3f9.jpg"
+      "title": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
+      "url": "https://www.bbc.com/japanese/articles/c9gkvey4x0mgo?at_medium=RSS&at_campaign=rss",
+      "summary": "中国チベットの山岳地帯で22日、マグニチュード（M）7.0の地震が発生し、少なくとも16人が死亡、54人が負傷した。中国国営メディアが報じた。",
+      "published": "2026/10/23 12:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "車で襲われたとされる豪議員、両脚を失う　逮捕された男性が初出廷",
-      "url": "https://www.bbc.com/japanese/articles/cmd7qr3re235o?at_medium=RSS&at_campaign=rss",
-      "summary": "オーストラリア・ヴィクトリア州で、連邦下院のヘレン・ヘインズ議員（65、無所属）が車で襲われたとされる事件で、同議員が両脚を失ったと、夫のフィル・ヘインズ氏が21日、明らかにした。",
-      "published": "2026/10/21 18:31",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49dd/live/d79d2e10-cd31-11f1-a64c-550be9e3c66b.jpg"
+      "title": "シャモンダウイルス、ヒト感染例を初めて確認　フランス",
+      "url": "https://www.bbc.com/japanese/articles/c68xzdlx98geo?at_medium=RSS&at_campaign=rss",
+      "summary": "フランス当局は22日、シャモンダウイルスのヒトへの初の感染例が確認されたと発表した。患者は10月上旬に死亡したという。シャモンダウイルスはこれまで、動物でのみ感染が確認されていた。",
+      "published": "2026/10/23 13:00",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f518/live/9a1112f0-ce03-11f1-8991-296181d7e3de.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】 トランプ氏とゼレンスキー氏、依然対立か　オスロ会談後に楽観論も流れるが",
-      "url": "https://www.bbc.com/japanese/articles/cmgqw4weqxveo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領の特使のウィトコフ氏が、オスロで20日午後、ウクライナのゼレンスキー大統領と、会談を前に抱擁を交わした。だが、戦争で荒廃した自国に対するアメリカの現在の政策の方向性について、ゼレンスキー氏が抱いている懸念が払拭された可能性は低い。",
-      "published": "2026/10/21 16:27",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca83/live/3f595b00-ccba-11f1-a64c-550be9e3c66b.png"
+      "title": "PHPめぐって何が起きているのか　AIが脆弱性を発見し世界中が大慌て",
+      "url": "https://www.bbc.com/japanese/watch/cqvg0r4kmdk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "ハッカーに悪用される可能性のあるインターネット技術の重大な欠陥を人工知能（AI）が発見し、世界中の政府やサイバーセキュリティー機関が、その封じ込めに奮闘している。AIはどのようにしてこの大規模なサイバーセキュリティーリスクを発見したのか。私たち利用者にどんな影響があるのか。BBCのテクノロジー担当編集委員が解説する。",
+      "published": "2026/10/23 11:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1179/live/36410730-ce21-11f1-bc2e-018d645d8d21.png"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "イデオロギーによって｢脳そのもの｣が作り変えられるという衝撃　｢政治神経科学｣のパイオニアによる研究 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954625?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "なぜ私たちは対立し､極端な思想にとらわれてしまうのでしょうか。脳科学の視点から､信念やイデオロギーが私たちの思考や行動､さらには脳の構造そのものに与える影響を､最先端の研究に基づき解き明かします。信…",
-      "published": "2026/10/22 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/5/1200w/img_b5af10619da270af8b2416964b5c3cb4477839.jpg?nextgen=false"
+      "title": "高市首相の意向も忖度されず？ 世耕議員の復党が｢2度目の先送り｣へと追い込まれた自民党内の\"複雑すぎる権力闘争\" | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "旧安倍派の\"裏金問題\"で離党した世耕弘成議員の自民党復党をめぐって､党紀委員会の議論が混迷を極めています。高市首相ら党内有力者の思惑や地元での勢力争いも絡み､復党問題は権力闘争の火種に。着地点が見い…",
+      "published": "2026/10/23 13:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/b/1200w/img_8b702d43557874cd2c8c4804ebe2d6ba97145.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢AI都市｣構想で移転論が再燃する台北･松山空港､開港90年の歴史に刻まれた戦争とインド独立の英雄の悲劇 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961827?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "日本人観光客もよく利用する､台北市の松山空港をめぐる移転構想が､都市再開発とAI産業の集積地化という未来志向のビジョンと､交通･医療･国防を含む現実的な課題の狭間で大きな注目を集めています。90年を…",
-      "published": "2026/10/22 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/a/1200w/img_aa8bdc8dcb859c16e4c4cb729ff41a6a570927.jpg?nextgen=false"
+      "title": "人間の行動をクリアに説明する｢進化心理学｣から読み解く､お金が｢人とのつながり｣を減らしてしまう理由 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959389?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "私たちは誰かと一緒にいたいと願う一方で､時に一人で自由を満喫したくなるもの。その矛盾は､進化心理学の視点でどう説明できるのでしょうか。つながりと自主性——2つの欲求のせめぎ合いが､現代人の幸せや社会…",
+      "published": "2026/10/23 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/b/1200w/img_2b77dd3ea1a75cfd73bfde5543e64e4b275280.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "AIに月数万円も払う時代が来た､ChatGPTだけでは済まない追加課金の連鎖とサービス淘汰の行方 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961669?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "生成AIの普及により､多くのウェブサービスがAI機能のサブスク課金を導入し､支出が積み重なる現実に直面している。高度化した便利な機能の裏で､AIの真の価値と価格のバランスはどう判断すべきなのか？",
-      "published": "2026/10/22 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/5/1200w/img_b587916e21e0ac9570955f67edf55f09151014.jpg?nextgen=false"
+      "title": "｢仕事なのだからビジネスの話を優先で｣VS｢いやいやまずはお互いの距離を詰めてから｣　取引先との懇親会の正解は？ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959961?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "懇親会を開いても｢本当に意味があったのか｣と疑問に感じた経験はありませんか？　実は､仕事とプライベートの話題をバランス良く織り交ぜ､さらに自分から積極的に誘うことで､信頼関係は格段に深まります。その…",
+      "published": "2026/10/23 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/2/1200w/img_e251f9f6e99f3317d4c029da102d9d3f438611.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ベクトル子会社のビタブリッドジャパンが上期黒字化､\"効率化達成\"の背景 新商品を積極投入 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961627?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "サプリメントを企画販売するビタブリッドジャパンの上期決算は黒字化しました。その背景とは？",
-      "published": "2026/10/22 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/8/1200w/img_b81da364f0dccde02cfc8283486e071d197557.jpg?nextgen=false"
+      "title": "【チームみらい・安野氏に聞く】サイバー攻撃「新型AI」の猛威はこれから／国家レベルですべき対策／公的機関は高度専門人材の“待遇”見直しを／「ホワイトハッカー」が諸外国に比べ動きづらすぎる | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962331?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "9月下旬以降、日本の企業や自治体、公共インフラを狙ったサイバー攻撃が深刻さを増している。AIエンジニアとしての専門的知見を持つチームみらい・党首の安野貴博氏に、急増する被害の実態や政府が取るべき対策…",
+      "published": "2026/10/23 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/6/1200w/img_a6d9089291625ddefb34c736e9e8bac0230139.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "11月に高速｢2つの新規開通｣あり！圏央道｢多古｣と東関道｢行方｣開通は交通の流れを変えるのか？ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961571?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "11月､関東地方で新たに2区間の高速道路が開通する運びとなった。11月9日に､圏央道の｢大栄JCT～多古IC｣間9.1km､11月22日に東関道の｢鉾田IC～行方IC｣間7.9kmだ。どちらも短い区…",
-      "published": "2026/10/22 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/0/1200w/img_e0f70ac09277948c2310432240b23a55529810.jpg?nextgen=false"
+      "title": "日本人はなぜ｢まちがえた｣と言えないのか――アインシュタインの警告から読む｢知識人こそ暗示にかかりやすい｣理由 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961595?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "コロナ禍でもウクライナ戦争でも､メディアは｢専門家｣の解説で埋めつくされた。見通しが外れても､なぜ日本人は同じ専門家に頼り続けたのか。評論家･與那覇潤氏は､その背景に依存症と同じメカニズムを見る。新…",
+      "published": "2026/10/23 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/3/1200w/img_0309fb5b41238ca49fba420c38c20d65568927.jpg?nextgen=false"
     }
   ]
 }
