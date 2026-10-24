@@ -1,59 +1,77 @@
 {
-  "generated_at": "2026-10-23T04:49:29.413014+00:00",
+  "generated_at": "2026-10-24T04:36:49.711454+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "PayPay、「免許証画像で本人確認」廃止　ICチップ読み取りに統一",
-      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002540/",
-      "summary": "運転免許証かマイナンバーカードのICチップをユーザーがスマートフォンで読み取り、本人確認申請する方法に統一する。",
-      "published": "2026/10/23 12:59",
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+      "summary": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
+      "published": "2026/10/24 07:28",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "令和12年度からの教科書、「紙」と「デジタル」組み合わせ　文科相指針案",
-      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002537/",
-      "summary": "文部科学省は10月22日、令和12年度から正式な教科書となるデジタル教科書について、全ての学年で紙とデジタルを組み合わせた「ハイブリッド形式」を基本とする「大臣指針案」を有識者会議に示した。「完全デジタル」の教科書は小学5年生以上の一部の教科に限定する。",
-      "published": "2026/10/23 12:07",
+      "title": "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
+      "summary": "パナソニックホールディングス傘下のパナソニック オペレーショナルエクセレンス（大阪府門真市）は10月23日、社内プロジェクトに携わる社員が、パナソニックグループの従業員や元従業員、その家族ら計約33万4000人分の個人情報を含むデータを、社内で利用を禁止している外部の生成AIサービスにアップロードしていたと発表した。",
+      "published": "2026/10/23 21:48",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「AIでエンジニア派遣は不要になる」のか？　各社に肌感を聞いた　求められる人材、明確に変化",
-      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
-      "summary": "生成AIがコードを書く時代、エンジニア派遣は不要になるのか。10月21～23日に幕張メッセで開催中の「Japan IT Week 秋 2026」には、派遣・紹介サービスを手掛ける企業が複数出展。エンジニア派遣の需要について、疑問を各社にぶつけてみた。",
-      "published": "2026/10/23 12:07",
+      "title": "タイムズカー、3000円の見舞金支払いへ　免許証画像漏えいの146万件対象　55億円の特損計上",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002558/",
+      "summary": "パーク24は10月23日、グループ会社のタイムズモビリティ（東京都品川区）が運営するカーシェアリングサービス「タイムズカー」で9月に発覚した個人情報漏えいを巡り、一部利用者に3000円相当の見舞金を渡すと発表した。",
+      "published": "2026/10/23 19:05",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？　香港科技大などが調査",
-      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
-      "summary": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。",
-      "published": "2026/10/23 12:00",
+      "title": "「チケット当選」装う詐欺メールが急増中──イープラスやローチケ、ぴあかたる手口　フィッシングの専門家に対策を聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002557/",
+      "summary": "イープラスを装い、チケットの抽選に当選したとして支払いを迫る偽メールがXで拡散している。ローチケやチケットぴあをかたる同種のメールも10月に入って相次いでいる。フィッシング対策協議会によると、イープラスをかたるフィッシングの報告は直近1カ月で約6.5倍に増えた。",
+      "published": "2026/10/23 18:40",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？　大手銀行やインフラの鍵も　米スタンフォード大などが調査",
-      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002515/",
-      "summary": "米スタンフォード大学などに所属する研究者らが発表した論文「Keys on Doormats: Exposed API Credentials on the Web」は、Web上の1000万サイトを調査し、本来秘匿にすべき「APIキー」（APIを利用する際の配布元が発行する許可証となる秘密のパスワード）が大量に露出している実態を発表した研究報告だ。",
-      "published": "2026/10/23 12:00",
+      "title": "11月中に「ホワイトハッカー」のチームを立ち上げへ　サイバー攻撃に対抗　赤沢経産相",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002556/",
+      "summary": "赤沢亮正経済産業相は23日の閣議後記者会見で、国内でサイバー攻撃による被害が相次いでいることを踏まえ、サイバー攻撃とその防御に詳しいエンジニア「ホワイトハッカー」を集めた対策チームを11月中に立ち上げる方針を明らかにした。",
+      "published": "2026/10/23 17:51",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ大統領、マスク氏がウクライナのスターリンクへのアクセスを復旧と",
-      "url": "https://www.bbc.com/japanese/articles/cqx2vp2dne8mo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は22日、米スペースXの衛星通信サービス「スターリンク」について、所有するマスク氏が、ウクライナのアクセスを復旧させたと述べた。",
-      "published": "2026/10/23 09:55",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7001/live/78680580-ce73-11f1-bc2e-018d645d8d21.jpg"
+      "title": "パリ近郊で銃撃、「人種差別的なテロ攻撃」と仏大統領　1人死亡し5人負傷",
+      "url": "https://www.bbc.com/japanese/articles/c6kg5ml4zv7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "フランス・パリ近郊で23日、銃撃があり、1人が死亡、5人が負傷した。エマニュエル・マクロン仏大統領は、「人種差別的なテロ攻撃」だとしている。",
+      "published": "2026/10/24 11:28",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "スターリンクの利用制限、トランプ氏の解除発言後も続いている……ウクライナ側が主張",
+      "url": "https://www.bbc.com/japanese/articles/cm2d6zzwddypo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナ国防省の複数の関係者は23日、米スペースXの衛星通信サービス「スターリンク」について、所有者のマスク氏が利用制限を解除したとトランプ米大統領が述べたあとも、ウクライナは依然として接続の問題に直面しているとBBCに話した。",
+      "published": "2026/10/24 12:17",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長",
+      "url": "https://www.bbc.com/japanese/articles/c50mepzk188go?at_medium=RSS&at_campaign=rss",
+      "summary": "プログラミング言語「PHP」をめぐる今回の事案は、サイバー空間における不発弾のようなものだ。まだ起きていないサイバー事件が、これほど劇的、公的、世界的な反応を呼んだ例は、かつてなかった。",
+      "published": "2026/10/23 16:09",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/71b5/live/6f991250-ce0f-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -67,74 +85,56 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
-      "url": "https://www.bbc.com/japanese/articles/c9gkvey4x0mgo?at_medium=RSS&at_campaign=rss",
-      "summary": "中国チベットの山岳地帯で22日、マグニチュード（M）7.0の地震が発生し、少なくとも16人が死亡、54人が負傷した。中国国営メディアが報じた。",
-      "published": "2026/10/23 12:52",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "シャモンダウイルス、ヒト感染例を初めて確認　フランス",
-      "url": "https://www.bbc.com/japanese/articles/c68xzdlx98geo?at_medium=RSS&at_campaign=rss",
-      "summary": "フランス当局は22日、シャモンダウイルスのヒトへの初の感染例が確認されたと発表した。患者は10月上旬に死亡したという。シャモンダウイルスはこれまで、動物でのみ感染が確認されていた。",
-      "published": "2026/10/23 13:00",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f518/live/9a1112f0-ce03-11f1-8991-296181d7e3de.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "PHPめぐって何が起きているのか　AIが脆弱性を発見し世界中が大慌て",
-      "url": "https://www.bbc.com/japanese/watch/cqvg0r4kmdk4o?at_medium=RSS&at_campaign=rss",
-      "summary": "ハッカーに悪用される可能性のあるインターネット技術の重大な欠陥を人工知能（AI）が発見し、世界中の政府やサイバーセキュリティー機関が、その封じ込めに奮闘している。AIはどのようにしてこの大規模なサイバーセキュリティーリスクを発見したのか。私たち利用者にどんな影響があるのか。BBCのテクノロジー担当編集委員が解説する。",
-      "published": "2026/10/23 11:54",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1179/live/36410730-ce21-11f1-bc2e-018d645d8d21.png"
+      "title": "トランプ大統領、マスク氏がウクライナのスターリンクへのアクセスを復旧と",
+      "url": "https://www.bbc.com/japanese/articles/cqx2vp2dne8mo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのトランプ大統領は22日、米スペースXの衛星通信サービス「スターリンク」について、所有するマスク氏が、ウクライナのアクセスを復旧させたと述べた。",
+      "published": "2026/10/23 09:55",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7001/live/78680580-ce73-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "高市首相の意向も忖度されず？ 世耕議員の復党が｢2度目の先送り｣へと追い込まれた自民党内の\"複雑すぎる権力闘争\" | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "旧安倍派の\"裏金問題\"で離党した世耕弘成議員の自民党復党をめぐって､党紀委員会の議論が混迷を極めています。高市首相ら党内有力者の思惑や地元での勢力争いも絡み､復党問題は権力闘争の火種に。着地点が見い…",
-      "published": "2026/10/23 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/b/1200w/img_8b702d43557874cd2c8c4804ebe2d6ba97145.jpg?nextgen=false"
+      "title": "東大も新設｢デザイン学部｣はなぜ就職に強いのか？《AI時代に大手企業が求めている\"デザイン力\"の本質》 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962039?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢デザイン｣という言葉が､社会や生き方そのものを設計する広義の意味で使われ始め､大学でも専門学部が次々と設立されています。AI時代に求められる本当の｢デザイン力｣とは何なのか､深掘りします。",
+      "published": "2026/10/24 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/8/1200w/img_f8e90de987c840626933cdd753fc5f76527536.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "人間の行動をクリアに説明する｢進化心理学｣から読み解く､お金が｢人とのつながり｣を減らしてしまう理由 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959389?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "私たちは誰かと一緒にいたいと願う一方で､時に一人で自由を満喫したくなるもの。その矛盾は､進化心理学の視点でどう説明できるのでしょうか。つながりと自主性——2つの欲求のせめぎ合いが､現代人の幸せや社会…",
-      "published": "2026/10/23 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/b/1200w/img_2b77dd3ea1a75cfd73bfde5543e64e4b275280.jpg?nextgen=false"
+      "title": "秀吉が家康に｢最高のもてなし｣対面するのは明日のハズなのに…前夜に突如訪ねてきた秀吉の《人たらし術》 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961096?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつては敵対していた家康と秀吉。そんな中でついに家康が秀吉に臣従を誓います。家康が上阪した際の秀吉による｢最高のもてなし｣とは。",
+      "published": "2026/10/24 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/b/1200w/img_8b101e5f2cf7e6ea559a5f2e3fb80ab3674516.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢仕事なのだからビジネスの話を優先で｣VS｢いやいやまずはお互いの距離を詰めてから｣　取引先との懇親会の正解は？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959961?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "懇親会を開いても｢本当に意味があったのか｣と疑問に感じた経験はありませんか？　実は､仕事とプライベートの話題をバランス良く織り交ぜ､さらに自分から積極的に誘うことで､信頼関係は格段に深まります。その…",
-      "published": "2026/10/23 12:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/2/1200w/img_e251f9f6e99f3317d4c029da102d9d3f438611.jpg?nextgen=false"
+      "title": "｢フランスは燃えているか？｣全土に広がる若者の怒りと抗議デモ､ゼネストへとつながった1968年｢5月革命｣の再来か | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962156?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "歴史的な革命の伝統を持つフランスで､再び大規模な抗議運動と混乱が巻き起こっています。経済政策への不満､教育や労働の環境問題､そして政権への不信—国民の怒りの背景には複雑な社会構造の綻びが見え隠れしま…",
+      "published": "2026/10/24 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/3/1200w/img_b31508b65a86b374787652a4dce66ec7846485.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【チームみらい・安野氏に聞く】サイバー攻撃「新型AI」の猛威はこれから／国家レベルですべき対策／公的機関は高度専門人材の“待遇”見直しを／「ホワイトハッカー」が諸外国に比べ動きづらすぎる | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962331?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "9月下旬以降、日本の企業や自治体、公共インフラを狙ったサイバー攻撃が深刻さを増している。AIエンジニアとしての専門的知見を持つチームみらい・党首の安野貴博氏に、急増する被害の実態や政府が取るべき対策…",
-      "published": "2026/10/23 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/6/1200w/img_a6d9089291625ddefb34c736e9e8bac0230139.jpg?nextgen=false"
+      "title": "貸会議室の好調続くTKP､決算説明会でCFOが口にした言葉 大型M＆Aも視野に成長投資を継続 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961982?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "貸会議室大手のTKPの2027年2月期第2四半期は増収増益で好調に進捗しています。上場以来初となる配当も発表しました。",
+      "published": "2026/10/24 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1c344ebfe4f8e5f9a72f9581acca699d319306.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本人はなぜ｢まちがえた｣と言えないのか――アインシュタインの警告から読む｢知識人こそ暗示にかかりやすい｣理由 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961595?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "コロナ禍でもウクライナ戦争でも､メディアは｢専門家｣の解説で埋めつくされた。見通しが外れても､なぜ日本人は同じ専門家に頼り続けたのか。評論家･與那覇潤氏は､その背景に依存症と同じメカニズムを見る。新…",
-      "published": "2026/10/23 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/3/1200w/img_0309fb5b41238ca49fba420c38c20d65568927.jpg?nextgen=false"
+      "title": "アメリカ海兵隊員による凶悪犯罪､沖縄での再発防止策は｢海兵隊撤退論｣が最も現実･効果的であるこれだけの理由 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961969?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年､那覇で発生したアメリカ海兵隊員による凶悪事件は､沖縄の人々に深い衝撃と怒りをもたらしました。繰り返される再発防止策の実効性には大きな疑問が残り､真の解決策として海兵隊撤退を求める声が高ま…",
+      "published": "2026/10/24 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/5/1200w/img_55ef3bb65dae6ea8fd44cf75c4bb78d8767966.jpg?nextgen=false"
     }
   ]
 }
