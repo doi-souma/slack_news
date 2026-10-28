@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-10-27T05:05:21.290326+00:00",
+  "generated_at": "2026-10-28T05:42:34.005439+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ　高市首相がサイバー閣僚会議の初会合で指示",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002620/",
-      "summary": "政府は10月26日、「サイバーセキュリティに関する関係閣僚会議」の初会合を首相官邸で開いた。高市早苗首相は、企業への攻撃で大規模な情報漏えいが相次いでいるとして、来週中をめどに政府の「緊急対策パッケージ」を取りまとめるよう各大臣に指示した。",
-      "published": "2026/10/27 12:18",
+      "title": "Anthropic、独自の“創薬活動”に着手　社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
+      "summary": "米Anthropicは10月27日（現地時間）、小児の希少な筋ジストロフィーなどを対象に、自社で創薬活動を進めていると発表した。社員1人でAI「Claude」を使い外部11の研究機関と実験を進めてきた企業を買収し、研究を引き継いだ。",
+      "published": "2026/10/28 13:07",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "貨物の搬送車両で自動運転「レベル4」　福岡空港、国内3カ所目",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002619/",
-      "summary": "日本航空と福岡国際空港は10月26日、貨物コンテナを運搬する「トーイングトラクター」で「レベル4」の自動運転を始めた。国内では成田、羽田に続き3カ所目。",
-      "published": "2026/10/27 12:09",
+      "title": "顧客も巻き込むサイバー脅迫　GMO攻撃が問う企業の防御と国の対処、被害の連鎖どう断つ",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002660/",
+      "summary": "ネットサービス大手、GMOインターネットグループへの不正アクセス問題は10月27日、攻撃者からとみられる声明と、利用者情報とされるデータがネット上で公開されるなど、新たな段階に入った。人工知能（AI）を用いたサイバー攻撃が本格化しており、防御におけるAIの活用や、政府による攻撃拠点の無害化が求められている。",
+      "published": "2026/10/28 12:42",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に　7000人以上で実験",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/",
-      "summary": "ドイツのベルリン工科大学などに所属する研究者らが発表した論文「A Large-Scale Study of Personalized Phishing using Large Language Models」は、AIが生成するスピアフィッシング攻撃の有効性を検証した研究報告だ。",
-      "published": "2026/10/27 12:00",
+      "title": "GMO不正アクセスの犯人サイト、ドメイン停止を確認",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002659/",
+      "summary": "今後、同様のサイトが新たに開設された場合も、「確認次第、直ちにテイクダウンに向けた対応を行う」としている。",
+      "published": "2026/10/28 12:22",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「若手はAI使うな」は“老害”なのか？　新人教育で「AI禁止」した企業の1年後",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002585/",
-      "summary": "約1年前、新人教育を目的にAI禁止施策を採用したいえらぶGROUP。現在の状況は……？",
-      "published": "2026/10/27 12:00",
+      "title": "システム障害でカード決済が1日停止→客が取る行動は……スイス国立銀行が約2400店を調査",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002613/",
+      "summary": "スイス国立銀行などに所属する研究者らが発表した論文「Cash saves the day: How cash infrastructure enhances resilience during a card payment system outage」は、小売店でシステム障害が起きてカード決済が使えなくなった場合における消費者の行動を分析した研究報告だ。",
+      "published": "2026/10/28 12:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「自分の個人情報が漏えいした……どうすれば？」　IPAが対処法公開",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002617/",
-      "summary": "メールアドレスや電話番号、住所、氏名が漏えいした場合は、突然届くメールやSMSは基本的にすべて詐欺の偽メールだと考えて、無視して削除するよう呼び掛けた。",
-      "published": "2026/10/27 11:51",
+      "title": "AI音声の詐欺電話、6人に1人が応じる可能性　だまされやすい手口とは　米ハーバード大やMetaが4100人で検証",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002612/",
+      "summary": "米ハーバード大学や米Metaなどに所属する研究者らが発表した論文「Evaluating AI Models’ Capability to Automate Voice Phishing Attacks」は、AIによる詐欺電話によってどれくらい騙されるかを調査した研究報告だ。",
+      "published": "2026/10/28 12:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】 ブラジル大統領続投のルラ氏、直面するのは敵対する議会と分裂した国",
-      "url": "https://www.bbc.com/japanese/articles/c699zj4njg5jo?at_medium=RSS&at_campaign=rss",
-      "summary": "ブラジルの大統領選は、ベテラン左派の現職が勝利を収めた。予想外の結果であり、その道のりは平坦ではなかった。そしてこの先も、2003年の就任以来、最も厳しい政治情勢に直面することになる。",
-      "published": "2026/10/27 13:13",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/836c/live/76463e40-d1a5-11f1-a611-7ff246f4f9f3.jpg"
+      "title": "イスラエル総選挙、出口調査では明確な勝者なし　与野党とも過半数達しない見通し",
+      "url": "https://www.bbc.com/japanese/articles/c60qk3j98p03o?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエルの総選挙（定数120、比例代表制）が27日、投開票された。複数の地元テレビの出口調査では、与野党どちらも過半数を確保できない状態となっている。今回の総選挙は、2023年10月7日にパレスチナの武装勢力ハマスが主導してイスラエルを襲撃し、それを受けてイスラエルがパレスチナ・ガザ地区の攻撃を開始して以降、初めてだった。",
+      "published": "2026/10/28 13:50",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69a9/live/4270f600-d272-11f1-a4f1-4fff2e6cf5f3.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ブラジル大統領選、現職ルラ氏が決選投票で当選　敗れた右派候補は「あり得ない」",
-      "url": "https://www.bbc.com/japanese/articles/cky83ywyx5yjo?at_medium=RSS&at_campaign=rss",
-      "summary": "南米ブラジルの大統領選挙の決選投票で、選挙管理当局は25日、左派で現職のルイス・イナシオ・「ルラ」・ダ・シルヴァ氏（80）が再選されたと発表した。ルラ大統領は勝利演説で、「（ブラジルは）誰の裏庭にも決してならない」と述べた。これはアメリカのトランプ政権を念頭に置いたものと受け止められている。一方、第1回投票では勝った右派候補のフラヴィオ・ボルソナロ氏は、今回の結果を「あり得ない」ものだとし、無効に",
-      "published": "2026/10/27 09:09",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ed9/live/2720f160-d0e3-11f1-ad70-07daa2562508.jpg"
+      "title": "ブラジル大統領選で敗れたボルソナロ氏、アメリカへ出国　旅券停止され",
+      "url": "https://www.bbc.com/japanese/articles/c574p3pejynjo?at_medium=RSS&at_campaign=rss",
+      "summary": "25日に行われたブラジル大統領選の決選投票で敗れた右派フラヴィオ・ボルソナロ氏がブラジルを出国し、27日に米フロリダ州に到着した。複数の消息筋がBBCに確認した。アメリカ在住の弟エドゥアルド氏とすでに対面したという。米国務省はBBCに、同氏と家族に入国査証（ビザ）を発給すると明らかにしていた。同氏は資金洗浄などの疑いで捜査対象になっており、来年1月に上院議員の任期が終わると不逮捕特権を失う。",
+      "published": "2026/10/28 10:55",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c76/live/ceada000-d25e-11f1-95c4-233ff19532bd.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "コーミー元FBI長官に3回目の刑事訴追　防衛情報を流出させたと米司法省",
-      "url": "https://www.bbc.com/japanese/articles/crkg71q02g2wo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの司法省が、連邦捜査局（FBI）長官を務めたジェイムズ・コーミー氏を、国家防衛情報を流出させた疑いで訴追した。26日に公開された裁判文書から明らかになった。司法省がコーミー氏の刑事訴追に踏み切るのは3回目。",
-      "published": "2026/10/27 10:59",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"
+      "title": "【解説】セルビアの学生運動はどのようにヴチッチ政権を崩壊させたのか",
+      "url": "https://www.bbc.com/japanese/articles/cjy5675y5vkko?at_medium=RSS&at_campaign=rss",
+      "summary": "セルビアの学生たちの政治運動は、悲劇から生まれた。学生たちはまず道路を封鎖した。それがほぼ連日の抗議活動へと発展し、汚職と政府の怠慢に対する全国的な運動へと成長した。わずか2年足らずで、学生たちはアレクサンダル・ヴチッチ氏による14年間の政治的支配を打ち破った。",
+      "published": "2026/10/28 14:11",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec54/live/9d3eb1f0-d0d1-11f1-a058-dfc7f6e2951c.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "コーミー元FBI長官の娘、トランプ政権が違法解雇と米連邦地裁　復職命じる",
-      "url": "https://www.bbc.com/japanese/articles/ck62y0gd5vjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "米ニューヨークにある連邦地方裁判所は26日、連邦検事だったモーリーン・コーミー氏を、司法省が違法に解雇したとの判断を示した。コーミー氏は、ドナルド・トランプ大統領に批判的なジェイムズ・コーミー元連邦捜査局（FBI）長官の娘。コーミー元長官も、トランプ政権の司法当局から刑事訴追され続けている。",
-      "published": "2026/10/27 12:43",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"
+      "title": "【解説】ルラ大統領の逆転勝利、ラテンアメリカへのトランプ氏の野望にへこみが",
+      "url": "https://www.bbc.com/japanese/articles/cqx2v4x9e29eo?at_medium=RSS&at_campaign=rss",
+      "summary": "トランプ氏とルラ氏の関係は一時に比べて改善したように見えるが、いくつかの問題が両大統領の間の緊張を再び高める可能性がある。",
+      "published": "2026/10/27 16:27",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05b2/live/06753110-d192-11f1-8c41-0bbbeafdc6d4.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ルラ氏の再選、ワッツアップでのSNS戦略が貢献したのか",
-      "url": "https://www.bbc.com/japanese/watch/cmkg71llvqvdo?at_medium=RSS&at_campaign=rss",
-      "summary": "南米ブラジルの大統領選挙の決選投票で、選挙管理当局は25日、左派で現職のルイス・イナシオ・「ルラ」・ダ・シルヴァ氏（80）が再選されたと発表した。ルラ氏の再選の背景には、連邦下院のアンドレ・ジャノニス議員が主導したワッツアップのチャンネルがあるという。「ルラ氏の軍」と呼ばれるこのチャンネルは、第1回投票から決選投票までの間にフォロワーを1100万人以上増やした。",
-      "published": "2026/10/27 12:51",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4e4/live/083fc370-d188-11f1-a701-fddedf244c16.jpg"
+      "title": "ロシア占領下のウクライナ南部で局地的な停戦発効、メラニア米大統領夫人の発表から4日",
+      "url": "https://www.bbc.com/japanese/articles/c6p9gm7xgddyo?at_medium=RSS&at_campaign=rss",
+      "summary": "ロシアが占領するウクライナ南部へルソン州オレシュキで27日午前3時（モスクワ時間同日午前4時、日本時間同日午前10時）、局地的な停戦が発効した。停戦をめぐっては、アメリカのメラニア大統領夫人がウクライナとロシアを仲介し実現したと、ホワイトハウスが23日に発表していた。",
+      "published": "2026/10/27 16:30",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢理解の浅さが露呈｣新曲『シンデレラ』炎上中のミセスが抱える表現の限界…｢コロンブス｣炎上に通ずる根本的問題とは | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962648?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "Mrs. GREEN APPLEの新曲｢シンデレラ｣MVが物議を醸しています。夜の世界や経済的困窮に悩む女性を描いた本作に､深い理解や表現の配慮が足りないとSNSで指摘が続出した背景とは？",
-      "published": "2026/10/27 13:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/c/1200w/img_3c78546c00b0a78813889a11b770f67f374342.jpg?nextgen=false"
+      "title": "｢夕方になると頭が働かない｣｢疲れが取れない｣…現代人の脳を疲弊させる《誰もが無意識にやっている習慣》の正体 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962164?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢しっかり寝たのに疲れが取れない｣｢夕方になると集中できない｣そんな不調の原因は､意志の弱さではなく､スマホやAIによる\"脳疲労\"かもしれません。脳に溜まった見えないゴミは､1日1分の呼吸法でリセッ…",
+      "published": "2026/10/28 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/7/1200w/img_b75e8a159d01974542cb787a4b7b6b49184411.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢安直すぎ｣｢演出がマジきつい｣ ミセス『シンデレラ』MVなぜ物議？ \"キャバ嬢とパパ活\"描写が示す《国民的バンドの重荷》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962632?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "Mrs. GREEN APPLEの楽曲『シンデレラ』のMVが､主人公をキャバクラ嬢とした設定や｢パパ活｣を想起させる描写によって賛否両論を巻き起こしています。なぜ同じ映像に称賛と違和感が同時に生まれ…",
-      "published": "2026/10/27 13:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/2/1200w/img_c2b201ad86a1a37839adff402839c48e392341.jpg?nextgen=false"
+      "title": "いまや日本経済も〈AI一本足経済〉､輸出に設備投資､株価ひいては消費にもAIの恩恵…エネルギー高を和らげている | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962395?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界経済の成長を牽引するAIブーム。日本も設備投資や半導体輸出､株式市場を通じてその恩恵を享受していますが､エネルギー高や地政学リスクが影を落とします。AI一本足経済のリスクと､その先に待つ可能性と…",
+      "published": "2026/10/28 12:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/4/1200w/img_34479361fd34cce993c837b5b3ac330a236529.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "9世紀には畿内の氏は3分の1が渡来系に…飛鳥時代の日本が中国由来の｢仏教･儒教･道教｣にすっかり染め上げられるまで | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959979?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "5世紀末､朝鮮半島から多くの渡来人が大和政権に迎えられ､日本の国づくりと文化形成に深く関わりました。養蚕や機織り､酒造から仏教･儒教･道教の伝来まで､彼らの技術革新は飛鳥文化の礎となります。渡来人が…",
-      "published": "2026/10/27 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/b/1200w/img_ebc1fa530428e4c49d9722f9d708d1d5743139.jpg?nextgen=false"
+      "title": "｢VIVANT｣第2シーズンの暴力描写､地上波では\"過激すぎる\"が配信では\"物足りない\"…｢地上波と配信の二兎を追う｣無理筋 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962513?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "地上波ドラマ｢VIVANT｣続編の暴力描写がBPOで問題視され､議論が巻き起こっています。一方､世界の配信市場でヒットを狙う大作としてはリアリティや迫力が不足という指摘も。日本のテレビドラマが直面す…",
+      "published": "2026/10/28 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/4/1200w/img_1442d7da06fe643cbece70d845b68da8196237.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "金正恩氏はなぜ中国人民志願軍への｢永遠の感謝｣を誓ったのか―北朝鮮2紙が示す中朝関係の変化と｢血の同盟｣の意味 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962535?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "金正恩総書記が1年ぶりに中国を訪問し､中国人民志願軍の戦死者を追悼した今回の中朝交流。北朝鮮メディア2紙が描く｢血の同盟｣の歴史と､その政治的狙いにはどんな意味が込められているのでしょうか。指導者独…",
-      "published": "2026/10/27 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/e/1200w/img_de9174b796757ffd0778b474bdcd2ac7828059.jpg?nextgen=false"
+      "title": "世界興収10億ドル突破『Michael／マイケル』が虎視眈々と狙うアカデミー賞　大抜擢の\"演技未経験の主演\"に高まる評価 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962368?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "マイケル･ジャクソンの伝記映画『Michael／マイケル』が日本でも空前の大ヒットを記録。主演を務めたマイケル･ジャクソンの甥であるジャファー･ジャクソンは､演技の経験が皆無だったといいます。ロサン…",
+      "published": "2026/10/28 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/b/1200w/img_0bf9b689d941b170afc4690e74ea7e12294001.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "創薬ベンチャーのカルナバイオに近づく｢重い決断｣のとき…著名投資家が支援も､中国勢の台頭が影を差す | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962002?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "資金調達で一息ついたカルナバイオ。第三者割当に応じた著名個人投資家の狙いと､BTK阻害剤の導出をめぐる難しい選択とは？",
-      "published": "2026/10/27 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/0/1200w/img_90ffade828ab05e629c0346c64e097d0750712.jpg?nextgen=false"
+      "title": "1日270万回!サイバー攻撃にさらされる台湾が実施する中高生から｢ホワイトハッカー｣を育てる教育に日本が学ぶべきこと | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962638?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本で相次ぐサイバー攻撃は社会の脆弱性を浮き彫りにし､サイバーセキュリティ人材の重要性が再認識されています。一方､日常的な脅威にさらされる台湾では､中高生から次世代ホワイトハッカーを育成するユニーク…",
+      "published": "2026/10/28 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/8/1200w/img_08dc5354909ffb5746ea7b23aa8d16c7258383.jpg?nextgen=false"
     }
   ]
 }
