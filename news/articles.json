@@ -1,50 +1,86 @@
 {
-  "generated_at": "2026-10-30T05:49:25.584028+00:00",
+  "generated_at": "2026-10-31T05:41:24.764392+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "松屋のアプリに不正アクセス、約238万件の個人情報が漏えい　停止中の補償も予定",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002753/",
-      "summary": "松屋フーズホールディングスは10月30日、公式アプリの管理システムへの不正アクセスで、約238万件の個人情報が漏えいしたと発表した。アプリ会員には、サービス停止期間中の補償をする予定という。",
-      "published": "2026/10/30 14:17",
+      "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
+      "summary": "Binanceから約60億ドルの暗号資産が流出した事件で、TRM LabsとChainalysisは北朝鮮のサイバー集団「TraderTraitor」の関与を指摘した。過去最大規模の被害に対し、盗難資産の分散洗浄が進む一方、当局や発行元による迅速な資産凍結も進められている。",
+      "published": "2026/10/31 07:13",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "イオン、フィジカルAIで物流改革　配送拠点の自動化率5割達成　深刻な人手不足に対応",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
-      "summary": "イオンとロボット制御ソフトのMujin（ムジン）は10月29日、人工知能（AI）で機械を自律的に動かす「フィジカルAI」を搭載したロボットを活用する配送拠点「イオン川口東XD（クロスドック）」（埼玉県川口市）を報道陣に公開した。",
-      "published": "2026/10/30 13:24",
+      "title": "「低評価でキャラが悲しげな目」　モスバーガーのアンケートがSNSで話題　運営会社に狙いを聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002767/",
+      "summary": "モスバーガーの顧客アンケートで、評価する数字に応じてキャラクターの表情が変わる画面設計がX上で話題だ。好意的な反応が目立つ一方、「回答者の評価に影響するのではないか」と懸念する声もみられる。どのような狙いで採用したのか。モスバーガーを運営するモスフードサービスに聞いた。",
+      "published": "2026/10/30 18:05",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "誤訳で“違う製品”を作りかけた？　ベトナム工場への指示書、通訳よりGeminiの方が伝わったワケ",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002699/",
-      "summary": "グローバルニッチは高い技術力を持つ一方で、知名度が実力に比べて劣り、ITを駆使して海外でのブランディングや販売に生かしていることも多い。この連載では、こうした企業のIT戦略をインタビューで深堀りする。今回は搬送ロボットなど産業機械の製造・販売を手掛けるニチエツを取り上げる。",
-      "published": "2026/10/30 13:00",
+      "title": "セガのスマホゲーム「チェンクロ」、セキュリティ問題で1?2カ月の長期メンテ　13年続く長寿タイトル",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002768/",
+      "summary": "セガが運営するスマホRPG「チェインクロニクル」で、10月23日から緊急メンテナンスが続いている。同社は30日、一部システムでセキュリティ上の問題を確認したため、少なくとも1?2カ月、メンテナンスが続く見通しだと発表した。",
+      "published": "2026/10/30 18:00",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「本会議場にタブレット持ち込み可能に」自民の提言案にチームみらい安野党首「うおおおおお」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002747/",
-      "summary": "本会議場へのタブレット端末の持ち込みを認める一方、質疑者や答弁者などは外部からの干渉を防ぐため、通信機能を搭載した端末は認めないという。",
-      "published": "2026/10/30 12:59",
+      "title": "「ITノウハウ持つ人材少なく」　PHP脆弱性問題、31市町村でサイト一時停止継続",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002766/",
+      "summary": "プログラミング言語「PHP」に重大な脆弱（ぜいじゃく）性が見つかった問題で、少なくとも全国31市町村がWebサイトの公開を一時停止・縮小していることが10月30日、分かった。",
+      "published": "2026/10/30 17:38",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "暗号資産取引所Binance、ハッキングで約1兆円の被害か　入出金を全面停止",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002749/",
-      "summary": "暗号資産取引所で世界最大手のBinanceは10月30日、セキュリティ上の問題で推定約63億ドルの被害が出たと発表した。初期調査では、エンジニアのノートPCを起点に攻撃者が不正な出金を実行した可能性があるという。",
-      "published": "2026/10/30 12:52",
+      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+      "summary": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。",
+      "published": "2026/10/30 17:13",
       "image_url": ""
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "アメリカ、ウクライナへパトリオットミサイル500発の売却承認",
+      "url": "https://www.bbc.com/japanese/articles/c6y0e21x2xlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカは30日、ロシアの空爆激化に対して自衛するウクライナにとって不可欠な防空ミサイル「パトリオット」について、ウクライナへ500発の売却を承認した。しかし、ウクライナのウォロディミル・ゼレンスキー大統領は、ミサイルの到着には「数年」かかる可能性があると警告している。",
+      "published": "2026/10/31 11:55",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "レオ14世が米中間選挙に郵便投票　米選挙にローマ教皇が投票するのは初めて",
+      "url": "https://www.bbc.com/japanese/articles/ckg5jppzj5e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "キリスト教カトリック教会のローマ教皇レオ14世は、アメリカの中間選挙で、米イリノイ州の有権者として郵便投票を行った。ローマ教皇がアメリカの選挙で投票したのは歴史上、初めてとなる。",
+      "published": "2026/10/31 12:12",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "AIは科学研究を脅かしているのか……数学をめぐる論争があおる懸念",
+      "url": "https://www.bbc.com/japanese/articles/c8r4y1lzyr94o?at_medium=RSS&at_campaign=rss",
+      "summary": "AIはこれまでにさまざまな形で科学に貢献してきたが、一方で、AIが科学的プロセスへの信頼を損ない、研究の新規性や正確性について疑問を投げかける危険性が指摘されている。さらに、人間真の科学的発見とAIが生み出した虚構を区別することが難しくなるのではないかと懸念されている。",
+      "published": "2026/10/31 12:49",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d5a/live/a1802440-cdf4-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "スペインの高速列車衝突、運転士と管制の交信音声が浮上　直前のやり取りが明らかに",
+      "url": "https://www.bbc.com/japanese/articles/cq0732kvgd5mo?at_medium=RSS&at_campaign=rss",
+      "summary": "スペイン中部で28日朝に起きた高速列車の衝突事故で、列車の運転士と管制センターが発生の数分前に交わしたやり取りの音声が流出した。複数のスペインメディアが内容を報じた。",
+      "published": "2026/10/30 15:06",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4973/live/57b182e0-d41c-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イスラエル野党、ネタニヤフ首相が選挙の正当性を損なおうとしていると非難",
-      "url": "https://www.bbc.com/japanese/articles/ckjrwp2705r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "イスラエルの主要野党指導者アイゼンコット氏とアラブ系政党の指導者らは29日、総選挙で外国の干渉があったと主張しているネタニヤフ首相を非難した。ネタニヤフ首相率いる与党リクードは28日、イスラエルのアラブ系政党が選挙を「盗んだ」と非難した。",
-      "published": "2026/10/30 13:38",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "英俳優サー・パトリック・スチュワート、86歳で死去　シェイクスピアや「スター・トレック」など数々の名演",
-      "url": "https://www.bbc.com/japanese/articles/cq70p7w9pnr5o?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスの俳優サー・パトリック・スチュワートが28日、亡くなった。86歳だった。スチュワート氏のインスタグラムの公式アカウントが29日、アルツハイマー病とレビー小体型認知症を患った後、ロサンゼルスの自宅で死去したと発表した。イギリスで古典を演じる舞台俳優としての評価を確立した後、米テレビシリーズ「新スター・トレック」　で艦長を演じ、世界的な人気を得た。動物愛護や女性への暴力に反対する運動などにも、",
-      "published": "2026/10/30 11:35",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/181b/live/e3f3f0b0-d3f1-11f1-bfc8-93c83fe8b3e4.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "スペインで高速列車が衝突、少なくとも68人死亡　停止列車に追突か",
-      "url": "https://www.bbc.com/japanese/articles/cq0k0rp174m5o?at_medium=RSS&at_campaign=rss",
-      "summary": "スペイン中部で28日朝、高速列車の衝突事故があり、少なくとも68人が死亡、数十人が負傷した。マドリードからセビリアに向かっていた列車が、線路上で停車していた別の列車に追突したとみられている。",
-      "published": "2026/10/29 12:02",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ブラジル大統領選で敗れたボルソナロ氏、国外逃亡を否定　米マイアミ到着後",
-      "url": "https://www.bbc.com/japanese/articles/c6n8d9j7ynlzo?at_medium=RSS&at_campaign=rss",
-      "summary": "25日に行われたブラジル大統領選の決選投票で敗れた後、ブラジルを出国しアメリカ・フロリダ州に到着した右派フラヴィオ・ボルソナロ氏（45）は28日、「国を離れる」意図は全くなかったと述べた。",
-      "published": "2026/10/29 13:34",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/149c/live/fb1b17b0-d305-11f1-93e1-3b657b665bcf.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢プレ出雲大社｣の存在を示唆する説も…神話には創建が明記されていない｢出雲大社｣は､いったいいつ誰が建てたのか？ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961877?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢国譲り｣神話で知られる出雲大社は､オオクニヌシを祀る日本屈指の古社。その創建にまつわる神話や『古事記』『日本書紀』の記述をたどると､壮麗な神殿が誕生するまでの謎と変遷が浮かび上がります。神と人､歴…",
+      "published": "2026/10/31 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/a/1200w/img_9a0174bdaf85c8689c777b2167b09be7586412.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢寛容なリベラル｣は本当に存在するのか　伝統的な共同体を破壊し､大衆を切り捨てた｢エリート層の冷酷な偽善｣  | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958702?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "リベラリズムは｢人間の解放｣を掲げてきましたが､その結果は家族や地域共同体といった｢防護柵｣の崩壊――社会の分断と荒廃でした。エリートと労働者階級の断絶が浮き彫りとなる現代､私たちは今､どんな新しい…",
-      "published": "2026/10/30 14:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/9/1200w/img_194bd991d5c507736419bc8cdb4ec38a237219.jpg?nextgen=false"
+      "title": "秀吉に｢たいした出自の人物ではない｣と言い放った島津氏が､\"秀吉の大軍\"に追い詰められてしまった背景 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962003?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大友氏と島津氏の戦争をやめるよう両氏に働きかけた秀吉でしたが､秀吉の命令に従わない決断をした島津氏。ついには秀吉と戦を交えることに。いったいどうなったのでしょうか。",
+      "published": "2026/10/31 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/2/1200w/img_e26714136d87340c7b3b8c07e9b5bee0563587.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "イスラエル〈勝者なき選挙〉を経て､ネタニヤフ首相が中東にさらなる緊張をもたらす最悪の展開も | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963018?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "イスラエル総選挙は｢勝者不在｣となり､連立協議が難航する混迷状態に突入しました。ネタニヤフ政権も反対勢力も過半数に届かず､アラブ政党は存在感を大きく増しています。再選挙や政治の長期空白が現実味を帯び…",
-      "published": "2026/10/30 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/e/1200w/img_bef6f9c4d0a59266a28b02fea5a83c3e138299.jpg?nextgen=false"
+      "title": "サムスン電子が4四半期連続で過去最高益､3カ月で営業利益12兆円を記録､AI全盛でも手放しで喜べないこれだけの理由 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963016?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "サムスン電子の半導体部門が四半期営業利益で初の100兆ウォン超を達成し､世界のテクノロジー分野を席巻しています。しかし､SKハイニックスやTSMCとの競争､社内の組織と人材課題が解決すべき課題として…",
+      "published": "2026/10/31 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/3/1200w/img_5346a9d4c6be43220542d88a106e987f670727.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢政治的に保守的な人｣の脳を調べてみると？　コンマ何秒という数値で示されるその｢知覚面の慎重さ｣という特徴 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954628?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "なぜ私たちは､意見や思考が極端に分かれてしまうのでしょうか。脳の｢認知的硬直性｣とイデオロギーの結びつき､そしてストレスがもたらす過激思考のメカニズムを､政治神経科学の先駆者が脳科学の最新知見から解…",
-      "published": "2026/10/30 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/6/1200w/img_c6f8ec99ab6cc4a899048c91a3f926a4426541.jpg?nextgen=false"
+      "title": "フランス暴動は\"移民のせい\"か――混乱は誰を利する？日本も人ごとではない｢平和な停滞or摩擦ある活力｣の議論 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962733?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "フランスで高校生らのデモをきっかけに広がった抗議行動は､各地で暴動へと発展しました。これを受け､日本では移民への抵抗感をにじませるSNS投稿も散見されます。暴動は\"移民のせい\"なのか。混乱は誰を利す…",
+      "published": "2026/10/31 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/d/1200w/img_3de026c4d97b1ae9d67725102963943d150817.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢『坊っちゃん』はコンプライアンス小説である｣漱石が描いた学者の盲点と｢まちがえた｣と言える条件 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962653?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "現代社会では､誠実に｢まちがえた｣と認める人ほど叩かれ､居直る者だけが生き残る――そんなゆがんだ風潮が広がっています。専門家であれ一般人であれ､間違いを正直に認めることがいかに難しくなったのか､本記…",
-      "published": "2026/10/30 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/4/1200w/img_24797c0ca27deef79fbc31b9b0dba34f1005380.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "【アンソロピック巨額上場】300ページ超の目論見書から見えた強みは？／「1番注目すべきは利益」営業利益は黒字転換／時価総額最大300兆円／日本のAI関連企業への影響は？／Anthropicの野望とは | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963043?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AI（人工知能）開発のアメリカのアンソロピックは10月26日、IPO（株式上場）に向けた目論見書を米証券取引委員会（SEC）に提出。ダリオ・アモデイCEOら創業者たちは目論見書で、AIを賢く安全に使…",
-      "published": "2026/10/30 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/2/1200w/img_a22f879bee0cb2f67ca00865b34e56a4228516.jpg?nextgen=false"
+      "title": "｢台湾有事｣ばかり見る日本人が知らない台北市長選のリアル…｢洋流｣ムーブメントが映し出す｢理想｣と都市の未来 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963050?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "11月28日に投票を迎える台湾･台北市長選挙は､伝統政党の有力者と新興の風｢洋流｣に象徴される挑戦者による予想外の接戦に。政策への市民参加や新たな民主主義の形､市政への熱い期待と不安が交錯する現場を…",
+      "published": "2026/10/31 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/6/1200w/img_d6249432eec9217f50a42bf4311fa6b51015640.jpg?nextgen=false"
     }
   ]
 }
