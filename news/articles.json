@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-11-01T06:04:44.199947+00:00",
+  "generated_at": "2026-11-02T06:03:02.292306+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-      "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
-      "published": "2026/11/01 08:31",
+      "title": "ニコニコレンタカー、免許証画像の事前登録を廃止　保存済み画像も全削除　サイバー攻撃の増加受け",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
+      "summary": "ニコニコレンタカーは10月27日、公式アプリ「ニコパス」での運転免許証画像の事前登録機能を廃止すると発表した。これまで預かっていた画像データは全て削除済みという。",
+      "published": "2026/11/02 12:23",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
-      "summary": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。",
-      "published": "2026/10/31 19:02",
+      "title": "楽天証券、顧客情報362件が漏えいか　NTTデータ委託先に不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
+      "summary": "漏えいした可能性がある項目は明らかにしていない。",
+      "published": "2026/11/02 12:02",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
-      "url": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
-      "summary": "Binanceから約60億ドルの暗号資産が流出した事件で、TRM LabsとChainalysisは北朝鮮のサイバー集団「TraderTraitor」の関与を指摘した。過去最大規模の被害に対し、盗難資産の分散洗浄が進む一方、当局や発行元による迅速な資産凍結も進められている。",
-      "published": "2026/10/31 07:13",
+      "title": "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性　「RAGTAG」運営元",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002783/",
+      "summary": "氏名、住所、電話番号、生年月日、性別、メールアドレスを含む。",
+      "published": "2026/11/02 11:06",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "「低評価でキャラが悲しげな目」　モスバーガーのアンケートがSNSで話題　運営会社に狙いを聞いた",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002767/",
-      "summary": "モスバーガーの顧客アンケートで、評価する数字に応じてキャラクターの表情が変わる画面設計がX上で話題だ。好意的な反応が目立つ一方、「回答者の評価に影響するのではないか」と懸念する声もみられる。どのような狙いで採用したのか。モスバーガーを運営するモスフードサービスに聞いた。",
-      "published": "2026/10/30 18:05",
+      "title": "クラブツーリズムに不正アクセス　個人情報約432万件漏えいの可能性、サイト停止",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002782/",
+      "summary": "氏名、国籍、性別、生年月日・年齢、住所、電話番号、メールアドレス、会員ID、緊急連絡先が対象。",
+      "published": "2026/11/02 10:48",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "セガのスマホゲーム「チェンクロ」、セキュリティ問題で1?2カ月の長期メンテ　13年続く長寿タイトル",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002768/",
-      "summary": "セガが運営するスマホRPG「チェインクロニクル」で、10月23日から緊急メンテナンスが続いている。同社は30日、一部システムでセキュリティ上の問題を確認したため、少なくとも1?2カ月、メンテナンスが続く見通しだと発表した。",
-      "published": "2026/10/30 18:00",
+      "title": "ロゴ画像用の公開領域に顧客ファイルも保存　GMO系シングルサインオン、4.5万人分漏えい",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/",
+      "summary": "顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり外部から取得できる状態だったことが原因。",
+      "published": "2026/11/02 10:23",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "アメリカ、ウクライナへパトリオットミサイル500発の売却承認",
-      "url": "https://www.bbc.com/japanese/articles/c6y0e21x2xlwo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカは30日、ロシアの空爆激化に対して自衛するウクライナにとって不可欠な防空ミサイル「パトリオット」について、ウクライナへ500発の売却を承認した。しかし、ウクライナのウォロディミル・ゼレンスキー大統領は、ミサイルの到着には「数年」かかる可能性があると警告している。",
-      "published": "2026/10/31 11:55",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
+      "title": "ウクライナの空襲警報アプリにサイバー攻撃か、放射能の脅威などの偽警報が送信　ウクライナ空軍が発表",
+      "url": "https://www.bbc.com/japanese/articles/c6ev3lw2dg99o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナの空襲警報アプリが1日、首都キーウで放射能の脅威があるとする偽情報を一時表示する出来事があった。アプリがハッキングされたとみられる。ウクライナ空軍が明らかにした。",
+      "published": "2026/11/02 09:51",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【米中間選挙2026】11月3日にアメリカで中間選挙　勝敗はどこで決まるのか",
-      "url": "https://www.bbc.com/japanese/articles/cmvgxvgrk9w1o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカ国民は11月3日に投票所へ向かい、ドナルド・トランプ大統領の残る任期がどのように展開するかを決定する。主要な世論調査、選挙戦、そして争点について分析する。",
-      "published": "2026/10/31 18:05",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b20/live/a6c115e0-c6dd-11f1-9a39-31b474234113.jpg"
+      "title": "ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃　へルソン州の人道的停戦が終了",
+      "url": "https://www.bbc.com/japanese/articles/cjp3g6g6vn96o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナ南部ヘルソン州の前線地域で発効された異例の人道的停戦が1日、終了した。この局地的停戦では、ロシア占領下の同州オレシュキからの民間人の避難が可能になった。",
+      "published": "2026/11/02 12:34",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ポーランド憲法裁に治安部隊が出動、政府と裁判所トップの対立激化",
-      "url": "https://www.bbc.com/japanese/articles/cj20v22qyxyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "ポーランドの警察は30日、憲法裁判所に治安部隊を配備した。同国では、ドナルド・トゥスク首相率いる親欧派政権と、右派「法と正義」（PiS）の前政権が任命した憲法裁トップの対立が激化しているが、政府がトップ判事2人を停職処分とし、刑事訴追に踏み切ったことで事態が加速した。",
-      "published": "2026/10/31 18:24",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
+      "title": "ドイツで生活費上昇への抗議デモ、一部が暴徒化し商店で略奪",
+      "url": "https://www.bbc.com/japanese/articles/cm86z2xd05y7o?at_medium=RSS&at_campaign=rss",
+      "summary": "ドイツのいくつかの主要都市で10月31日、生活費の上昇などをめぐる抗議デモがあり、一部で当局と衝突した。金融の中心地フランクフルト中心部では同日夜、暴徒が商店を襲い商品を略奪した。",
+      "published": "2026/11/02 13:49",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【米中間選挙2026】 トランプ氏は不正投票が「横行」と主張　だが証拠によると極めて珍しい",
-      "url": "https://www.bbc.com/japanese/articles/cmde85n8pngdo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの中間選挙を前にトランプ大統領は、郵便投票や、投票権をもたない非市民の投票によって、不正が「横行」していると主張している。しかし、研究では、そうしたことは実際には極めて珍しいとされる。BBCヴェリファイ（検証チーム）は、関連する証拠を検証した。",
-      "published": "2026/10/31 18:44",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d705/live/81506150-d23e-11f1-93e1-3b657b665bcf.jpg"
+      "title": "仮想通貨取引所バイナンスに過去最大規模のハッキング被害、再開後に36億ドルの顧客引き出し",
+      "url": "https://www.bbc.com/japanese/articles/c9rkyvy70638o?at_medium=RSS&at_campaign=rss",
+      "summary": "先週ハッキングを受けた暗号資産（仮想通貨）取引大手バイナンスは1日、営業を再開した。この日は多くの顧客が出金し、顧客引き出しによる純流出額は36億4000万ドル（約5700億円）に上った。",
+      "published": "2026/11/02 14:59",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ウクライナ南部オレシュキから数百人避難、異例の局地的停戦",
-      "url": "https://www.bbc.com/japanese/articles/cqkgkpxg47j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアとウクライナ当局は、人道的な停戦合意を受け、ロシア占領下で壊滅的な被害を受けたオレシュキから、住民数百人が避難したと発表した。他方、数百人が町にとどまることを選んだ様子。",
-      "published": "2026/10/31 15:10",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0610/live/34ef8cc0-d4cb-11f1-9052-b355570a1454.jpg"
+      "title": "イスラエル軍がガザ空爆、子ども含む8人殺害　病院発表",
+      "url": "https://www.bbc.com/japanese/articles/c32l4y80l2q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "パレスチナ・ガザ地区でイスラエル軍による攻撃があり、子どもを含む少なくとも計8人が殺害された。現地の病院などが1日、明らかした。イスラエル軍とパレスチナのイスラム組織ハマスは1年以上前に停戦で合意している。",
+      "published": "2026/11/02 12:03",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "トリウム原子力とは何か―レアアースの外部不経済とウラン･サイクルの構造的限界を同時に解決できる原子力の正体 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962985?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "地政学リスクや脱炭素化の要請が高まる現代､原子力発電の｢負の遺産｣が社会問題となる中で､トリウム原子力は廃棄物問題や核不拡散に画期的な解をもたらす新たな選択肢として注目されています。果たしてその実力…",
-      "published": "2026/11/01 15:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/f/1200w/img_affd07ed214fbdde043d0f8b092f8931565450.jpg?nextgen=false"
+      "title": "支持率で社民党にも敗北､\"元同僚\"は｢一緒になれば共倒れ｣と門前払い… ｢民主改革の会｣に迫る統一選前の消滅シナリオ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963270?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中道改革連合の分裂を受けて誕生した｢民主改革の会｣が､早くも解体の危機に直面しています。同党が旧民主党勢力の再結集や政権交代の受け皿となる日は訪れるのでしょうか。",
+      "published": "2026/11/02 14:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/6/1200w/img_4651d1ba7e9218726e54fee161dcb336217045.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢謙遜は美徳ではない？｣PRプロが｢知名度を上げたいなら絶対やるべき｣と豪語するAI時代に損しない｢自己紹介｣ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961942?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AIの進化により､企業や商品の｢紹介｣が大きく変わろうとしています。謙虚さが美徳とされる日本ですが､AI時代には控えめな表現や自虐PRは誤解を招くリスクも。これからの自己紹介は､より伝わる工夫が必要…",
-      "published": "2026/11/01 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/d/1200w/img_8de0c5b019c04569e3f0af7708e8ce0f135609.jpg?nextgen=false"
+      "title": "社内における｢つながり｣の減少がもたらす大問題　定量的に評価できない｢協力するスキル｣の重要度 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960632?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "人間は｢つながり｣と｢自主性｣という相反する欲求の間で揺れ動き､現代社会ではそのバランスを取ることが難しくなっています。他者と協力する力やノウハウの継承､さらには職場での人間関係の悩みーーあなたなら…",
+      "published": "2026/11/02 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/8/1200w/img_a833be0d16038b32a13f38481884f29d265105.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "秀吉が突如《バテレン追放令》を出した謎…当初は｢キリスト教に寛容｣だった秀吉の考えが変わった背景 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962637?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第46回は豊臣秀吉による｢バテレン追放令｣が及ぼした影響について真山知幸氏が解説します。",
-      "published": "2026/11/01 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/b/1200w/img_0b957ecc1f1cfeb1b05e485ef4505f8c356610.jpg?nextgen=false"
+      "title": "｢個人情報の流出｣で終わらないサイバー攻撃の次なる恐怖…一段の急増が懸念される金融犯罪､対策の切り札にも死角 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962967?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "サイバー攻撃による個人情報の大量流出が相次ぐ今､流出情報を悪用した金融犯罪の拡大が深刻な社会問題となっています。不正口座の量産や法人口座を巻き込んだマネーロンダリング､巧妙化するフィッシング詐欺――…",
+      "published": "2026/11/02 11:35",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/0/1200w/img_30522d02e19b70ef2ce3543c37f251d7581631.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢置き去りにされた人々｣の怒りがドイツ･フランスで極右政党を押し上げる―右傾化したEUが日本に与える悪影響とは？ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963036?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "近年ドイツとフランスで右派勢力が急伸し､EU統合や国際秩序にも大きな影響を与えかねない政変ムードが広がっています。旧東西ドイツ格差や社会不安､デモの頻発が背景となるこの潮流は､なぜここまで拡大したの…",
-      "published": "2026/11/01 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/5/1200w/img_d5729782b5d486df5fb552dbc93b7909887896.jpg?nextgen=false"
+      "title": "池田泉州HDと滋賀銀の経営統合が変える関西勢力図と地銀再編のうねり…注目は南都･紀陽･京都銀とありあけ出資行の行方 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963164?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "関西最大となる地方銀行グループの誕生は、周辺の地銀を巻き込む広域再編の呼び水となるのか――。大阪府地盤の池田泉州銀行を傘下に持つ池田泉州ホールディングス（HD）と滋賀銀行は10月29日、経営統合に関…",
+      "published": "2026/11/02 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/0/1200w/img_00125f78640dfd7fdf7e184daa8cac4f237590.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "半導体TSMCの売上高が予想上限を超え､10～12月期も2桁増収へ…AI需要は｢減速の兆しなし｣ | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962899?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "TSMC（台湾積体電路製造）は、台湾・新竹に本社を置く世界最大の半導体受託製造企業です。自社ブランドの製品は持たず、顧客が設計したチップの製造を専門に手がけています。同社は最先端の製造プロセスで高い…",
-      "published": "2026/11/01 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/f/1200w/img_0f092754da54d745e7436070f090859299993.jpg?nextgen=false"
+      "title": "中国海軍｢2035年に空母9隻･原子力潜水艦40隻｣配備予測の衝撃､太平洋進出の拡大で日本も原潜保有を迫られるのか | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963004?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国海軍が空母9隻･原潜約40隻体制を目指し､太平洋進出を加速させる中､日本の防衛戦略も大きな岐路に立たされています。広がる監視･防衛範囲と長期活動への対策として､日本は原子力潜水艦を保有すべきか。…",
+      "published": "2026/11/02 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_239d16f88d64365983c5dfb104ae40ea846461.jpg?nextgen=false"
     }
   ]
 }
