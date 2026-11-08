@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:58:24.358253+00:00",
+  "generated_at": "2026-11-08T06:00:47.525941+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
@@ -49,6 +49,15 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
+      "title": "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか",
+      "url": "https://www.bbc.com/japanese/articles/c6lyeee3lpn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "人工知能（AI）をめぐる、いわゆるゴールドラッシュは終わりを迎えつつあるのか。それとも、これは単に現実に立ち返っているだけなのか。",
+      "published": "2026/11/07 15:31",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
       "title": "トランプ氏、首席補佐官に強硬派ミラー氏任命　中間選挙の歴史的敗北受け人事刷新",
       "url": "https://www.bbc.com/japanese/articles/cj62yye5krz3o?at_medium=RSS&at_campaign=rss",
       "summary": "アメリカのドナルド・トランプ大統領は6日、スティーヴン・ミラー大統領次席補佐官（41）を新しく大統領首席補佐官に任命した。ミラー氏は、トランプ政権で強硬な移民政策を打ち出してきたことで知られる。トランプ氏率いる共和党は、3日投開票の中間選挙で歴史的敗北を喫した。これを受けて、前任スージー・ワイルズ首席補佐官（69）が辞表を提出した。",
@@ -67,6 +76,15 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
+      "title": "パラグアイ大統領を弾劾罷免、自宅軟禁に　デジタル銀行破綻で",
+      "url": "https://www.bbc.com/japanese/articles/c92033jxgmm6o?at_medium=RSS&at_campaign=rss",
+      "summary": "南米パラグアイの上院は6日、サンティアゴ・ペニャ大統領の弾劾罷免を可決した。大統領は自宅軟禁下に置かれた。ペドロ・アリアナ副大統領が暫定大統領に就任した。大手デジタル銀行「ウエノバンク」が破綻し、取り付け騒ぎが起きたことへの関与を問われ、議会に罷免された。",
+      "published": "2026/11/07 15:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4792/live/ca5fa8c0-da58-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
       "title": "【解説】抗議活動で勢いづく欧州の若者たち、何で結びついているのか",
       "url": "https://www.bbc.com/japanese/articles/c8e364xewn5ko?at_medium=RSS&at_campaign=rss",
       "summary": "この1カ月、ヨーロッパ各地で若者主導のデモが相次いだ。デモの共通項は何なのか。",
@@ -74,67 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "欧州各国の航空会社と空港に偽の爆破予告、緊急着陸や捜索相次ぐ　爆発物は見つからず",
-      "url": "https://www.bbc.com/japanese/articles/cwq6nng5vg2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "ヨーロッパ各地で5日、空港や航空機に対する爆破予告があり、複数の空港と少なくとも21便が影響を受けた。こうした事態は今週2度目で、イギリス当局はこれを「悪質な偽の脅迫」と呼んでいる。",
-      "published": "2026/11/06 14:21",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "大手テクノロジー株が急落、米中間選挙での民主党勝利受け　AI開発の減速を懸念",
-      "url": "https://www.bbc.com/japanese/articles/cx98zz4q08d2o?at_medium=RSS&at_campaign=rss",
-      "summary": "米株式市場は5日、大手テクノロジー株が総崩れとなった。3日投開票の米中間選挙で、野党・民主党が圧勝し、連邦議会の上下両院で支配権を奪還したことを受け、人工知能（AI）開発が減速するのではとの懸念が広がった。アジア市場でも6日朝、AIを支える半導体や関連機器を製造する企業の株価が下落し、ハイテク株比率が高い株価指数が軒並み急落した。",
-      "published": "2026/11/06 13:20",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "藤堂高虎だけではない！秀長を支え続けて\"家臣団トップの給与\"が与えられた､超有能な｢最強の側近｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963264?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第47回は秀長を支えた個性豊かなシゴデキ家臣たちについて真山知幸氏が解説します。",
+      "published": "2026/11/08 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/c/1200w/img_fc9500c815ca96eafbefed94bfddac85885038.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "『VIVANT』壮大なモンゴルの風景を高校地理で読み解くと､遊牧民族や現代の都市問題まであらゆることが見えてきた | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962973?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "人気ドラマ『VIVANT』の舞台となる草原に点在する白く丸い住まい――それは､モンゴルの伝統的住居｢ゲル｣。なぜこの地でゲルが生まれ､今も使われ続けているのか。地理の視点で壮大な風景の背景にある人々…",
-      "published": "2026/11/07 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/e/1200w/img_2e2fe9019b668f08ddd80f394452fd2a337384.jpg?nextgen=false"
+      "title": "｢マンジャロ｣のイーライリリー､大幅上方修正の裏側 \"肥満薬は富裕層だけ\"ではなかった | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963240?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "肥満薬はもはや一部の富裕層だけのものではありません。イーライリリーの業績急伸の背景には､中間層や高齢者層にも広がる需要がありました。",
+      "published": "2026/11/08 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/a/1200w/img_2a8f568a6f789056eb09d42b93713ad581278.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《豊臣兄弟！》の\"ラスボス\"北条氏政は本当に愚将だったのか？さまざまな逸話に残る｢氏政の評価｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962786?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢豊臣兄弟！｣で谷原章介さんが演じる､北条氏政。その評価はさまざまだったようです。",
-      "published": "2026/11/07 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/c/1200w/img_ac7384ea39912fdbd71f58066b5e6238663196.jpg?nextgen=false"
+      "title": "｢100人乗っても大丈夫｣ 物置の稲葉製作所が連続減益の公算大､オフィス家具の売れ行きは堅調だが… | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962944?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢100人乗っても大丈夫｣というCMで有名な稲葉製作所ですが､鋼製物置で不振が続いています。",
+      "published": "2026/11/08 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/0/1200w/img_70513a47cf8ea7e5bfc2db02be3f4f12255948.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "電気絶縁用セパレーター専業のニッポン高度紙工業が｢AIサーバー向けの需要爆増｣で上方修正  | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963901?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "電気絶縁用セパレーター専業大手で世界シェア約6割を占めるニッポン高度紙工業が業績の上方修正を発表しました。",
-      "published": "2026/11/07 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/e/1200w/img_2ed80ba5c19e447785cc9d47cd6b2beb325960.jpg?nextgen=false"
+      "title": "相手が感情的で自分は論理的､糾弾し合う保守とリベラル 『社会が壊れるその前に』磯野真穂氏に聞く | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963629?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『社会が壊れるその前に メアリ･ダグラスの人類学』の著者､文化人類学者の磯野真穂氏に話を聞きました。",
+      "published": "2026/11/08 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/0/1200w/img_c0b266e9b5fa0f841c7c13c6d71e0dbf262587.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "明光ネットワークジャパン､｢明光義塾｣の生徒数が急回復し10万人超え　今期業績も反発へ  | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962918?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "小中学生、高校生向けの個別指導塾「明光義塾」を全国展開する明光ネットワークジャパンの今2027年8月期は売上高270億円（前期比3.7％増）、営業利益17億円（同12.5％増）の増収増益の見込みだ。…",
-      "published": "2026/11/07 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/4/1200w/img_f4964fdf5c129a0658d28b986989b174345838.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "〈書評〉『経営者の〈付加価値〉』『為替介入とは何か 200兆円規模｢外為特会｣が生まれた謎』『リベラル再起の条件』 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963630?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『経営者の〈付加価値〉 理論構築者としてのトップ･マネジメント』（沼上幹 著）､『為替介入とは何か 200兆円規模｢外為特会｣が生まれた謎』…",
-      "published": "2026/11/07 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/b/1200w/img_2b08890d27a102cb9c92a6bd04362503167386.jpg?nextgen=false"
+      "title": "｢新しい商品を作らなきゃ｣と焦る企業に伝えたい→1000年以上前から存在する古刹に学ぶ\"知られ続ける\"極意 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962591?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "歴史ある寺院が時代が変化するにもかかわらず人々を惹きつけ続ける秘訣とは何か――。伝統を守りつつ新たな表現で価値を伝える実例をもとに､殿村美樹氏が｢知られ続ける｣極意を深掘り。『大きな会社じゃないのに…",
+      "published": "2026/11/08 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/1/1200w/img_e1587705c0913c21f993e3078d2b0ff7389408.jpg?nextgen=false"
     }
   ]
 }
