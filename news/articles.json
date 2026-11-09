@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-11-08T06:00:47.525941+00:00",
+  "generated_at": "2026-11-09T06:29:05.730625+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ロート製薬、約280万人分の個人情報漏えい　9715件は通話音声データとクレカ情報が流出",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
-      "summary": "11月6日、ロート製薬は9月11日に公表した通信販売システムへの不正アクセスについて、顧客279万7545人分の個人情報が漏えいしたと発表した。調査の結果、9715人分のクレジットカード情報も不正に取得されていたことが分かったという。",
-      "published": "2026/11/06 19:31",
+      "title": "早稲田大、PHP脆弱性への対応中に不正アクセス発見　個人情報約3400件流出確認",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003012/",
+      "summary": "PHPの脆弱性への対応をきっかけに学内システムの状況を確認する中で、不正アクセスの痕跡を見つけたという。",
+      "published": "2026/11/09 13:22",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "政府、相次ぐ情報漏えいで事業者に注意喚起　「基本的な対策が不十分」な事例を複数確認",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
-      "summary": "国家サイバー統括室は、相次ぐ個人情報漏えいを受け、事業者向けに注意喚起を公表した。基本的な対策の不備が原因とみられる事例を複数確認したほか、攻撃者によるAIの悪用も指摘。具体的なセキュリティ対策を示した。",
-      "published": "2026/11/06 17:52",
+      "title": "ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出　サービス停止",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003009/",
+      "summary": "全会員の氏名とメールアドレスに加え、登録・購入状況に応じ、生年月日や年齢、性別、住所、電話番号も流出した。",
+      "published": "2026/11/09 12:42",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "セキュリティ啓発団体に不正アクセス　個人情報最大1.5万件漏えいか",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
-      "summary": "日本ネットワークセキュリティ協会は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。",
-      "published": "2026/11/06 17:24",
+      "title": "学園祭の混雑、ITで解消へ　お茶の水女子大・共創工学部の学生がセンサー活用し実証",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003006/",
+      "summary": "お茶の水女子大学（東京都文京区）の学園祭「第77回徽音祭（きいんさい）」で11月7日、IT技術を活用し混雑状況を可視化する実証実験が行われた。",
+      "published": "2026/11/09 12:34",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か　再開めど立たず",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002971/",
-      "summary": "大阪シティ信用金庫や広島信用金庫など各地の信用金庫で11月6日午後1時30分ごろから、窓口での取引やATMでの入出金ができなくなっている。広島信用金庫によると、障害はしんきん共同センターの「西日本センター」で起きたという。",
-      "published": "2026/11/06 16:03",
+      "title": "サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ　予備費100億円支出",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003005/",
+      "summary": "政府は11月6日、サイバー攻撃によって相次ぐ大規模な情報漏えい被害を受けて、サイバーセキュリティに関する関係閣僚会議を開き、緊急対策パッケージを決定した。",
+      "published": "2026/11/09 12:02",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "サイバー攻撃対策で自社通販サイト閉店　ドールのアゾン「個人情報を社内に保管しない」方針へ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002967/",
-      "summary": "個人情報漏えい事案が続いていることを受け、個人情報を「持たない」方向に動く企業が出てきている。",
-      "published": "2026/11/06 15:25",
+      "title": "画像生成AIは既存のキャラクターをどれくらい出力する？　ソニーAIなどが14モデルを調査",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+      "summary": "ソニー系の研究組織Sony AIなどに所属する研究者らが発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report」は、画像生成AIが既存の知的財産（IP）を認識できる画像をどの程度生成してしまうのか、またそれを防ぐ安全対策（ガードレール）がどれほど機能しているの",
+      "published": "2026/11/09 12:00",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか",
-      "url": "https://www.bbc.com/japanese/articles/c6lyeee3lpn3o?at_medium=RSS&at_campaign=rss",
-      "summary": "人工知能（AI）をめぐる、いわゆるゴールドラッシュは終わりを迎えつつあるのか。それとも、これは単に現実に立ち返っているだけなのか。",
-      "published": "2026/11/07 15:31",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg"
+      "title": "米半導体エヌビディア、フアンCEOと中国スパイ疑惑の女性との関係について調査開始",
+      "url": "https://www.bbc.com/japanese/articles/cv4g1ng03e36o?at_medium=RSS&at_campaign=rss",
+      "summary": "米半導体大手エヌビディアは8日、同社のジェンスン・フアン最高経営責任者（CEO）が中国のスパイ疑惑のある女性と関係を持っていたとの報道を受け、独立した調査を開始した。フアンCEOは妻に対する「不貞行為」を働いたことを認め、妻と子供たちを傷つけたと謝罪。調査に全面協力すると述べた。",
+      "published": "2026/11/09 13:54",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "トランプ氏、首席補佐官に強硬派ミラー氏任命　中間選挙の歴史的敗北受け人事刷新",
-      "url": "https://www.bbc.com/japanese/articles/cj62yye5krz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのドナルド・トランプ大統領は6日、スティーヴン・ミラー大統領次席補佐官（41）を新しく大統領首席補佐官に任命した。ミラー氏は、トランプ政権で強硬な移民政策を打ち出してきたことで知られる。トランプ氏率いる共和党は、3日投開票の中間選挙で歴史的敗北を喫した。これを受けて、前任スージー・ワイルズ首席補佐官（69）が辞表を提出した。",
-      "published": "2026/11/07 13:20",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5751/live/463b6050-da19-11f1-bba7-b50f1faa7672.jpg"
+      "title": "イスラエル大統領、野党指導者アイゼンコット氏に組閣要請",
+      "url": "https://www.bbc.com/japanese/articles/cqwy7077kpzko?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエルのイツハク・ヘルツォグ大統領は5日、新しい連立政権の組閣を野党指導者ガディ・アイゼンコット元軍参謀総長に要請したと明らかにした。国会（定数120）について10月27日の総選挙で明確な勝者がなく、大統領は各党との協議を続けていた。",
+      "published": "2026/11/09 10:36",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英メガン妃の父、児童性的虐待の画像所持で訴追され出廷",
-      "url": "https://www.bbc.com/japanese/articles/c6vg005njxzro?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリス王室ハリー王子の妻、メガン妃の父親が6日、児童性的虐待の画像を所持していた疑いで逮捕・訴追され、フロリダ州の裁判所に出廷した。米司法省とカリフォルニア州中部の連邦検察局は同日、フロリダ州在住のトーマス・マークル被告（82）を、児童ポルノ画像を所持していた罪1件で訴追したと発表した。",
-      "published": "2026/11/07 11:12",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ee4/live/9c7c73d0-da1b-11f1-bba7-b50f1faa7672.jpg"
+      "title": "エジプトで列車同士の衝突事故　7人死亡、100人以上けが",
+      "url": "https://www.bbc.com/japanese/articles/cmwyv008l10yo?at_medium=RSS&at_campaign=rss",
+      "summary": "エジプト北部の都市ギザ近郊で8日、列車の衝突事故が発生し、少なくとも7人が死亡、100人以上が負傷した。同国保健省は、死者には衝突した片方の列車の運転士も含まれていると明らかにした。",
+      "published": "2026/11/09 11:29",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "パラグアイ大統領を弾劾罷免、自宅軟禁に　デジタル銀行破綻で",
-      "url": "https://www.bbc.com/japanese/articles/c92033jxgmm6o?at_medium=RSS&at_campaign=rss",
-      "summary": "南米パラグアイの上院は6日、サンティアゴ・ペニャ大統領の弾劾罷免を可決した。大統領は自宅軟禁下に置かれた。ペドロ・アリアナ副大統領が暫定大統領に就任した。大手デジタル銀行「ウエノバンク」が破綻し、取り付け騒ぎが起きたことへの関与を問われ、議会に罷免された。",
-      "published": "2026/11/07 15:52",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4792/live/ca5fa8c0-da58-11f1-93e1-3b657b665bcf.jpg"
+      "title": "ニュージーランド総選挙、明確な勝者なし",
+      "url": "https://www.bbc.com/japanese/articles/cmqxn5x8pepro?at_medium=RSS&at_campaign=rss",
+      "summary": "ニュージーランドで7日に総選挙が行われたが、過半数議席を獲得する政党はなかった。明確な勝者がいないなか、二大政党の党首らは、連立政権樹立に向けた交渉の準備を進めている。",
+      "published": "2026/11/09 13:16",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/127f/live/9e2f4aa0-dbe1-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】抗議活動で勢いづく欧州の若者たち、何で結びついているのか",
-      "url": "https://www.bbc.com/japanese/articles/c8e364xewn5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "この1カ月、ヨーロッパ各地で若者主導のデモが相次いだ。デモの共通項は何なのか。",
-      "published": "2026/11/07 11:53",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg"
+      "title": "ポーランド南部で銃乱射、6人死亡　容疑者宅からは家族3人の遺体発見",
+      "url": "https://www.bbc.com/japanese/articles/cmzxlx61ny1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "ポーランド第2の都市クラクフの中心部で7日、極右思想に影響を受けたとみられる男が銃を乱射し、6人が死亡、16人が負傷した。",
+      "published": "2026/11/09 14:05",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8342/live/1138cde0-dbf2-11f1-b441-2b33b063138f.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "藤堂高虎だけではない！秀長を支え続けて\"家臣団トップの給与\"が与えられた､超有能な｢最強の側近｣ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963264?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第47回は秀長を支えた個性豊かなシゴデキ家臣たちについて真山知幸氏が解説します。",
-      "published": "2026/11/08 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/c/1200w/img_fc9500c815ca96eafbefed94bfddac85885038.jpg?nextgen=false"
+      "title": "なぜか\"存在が薄い人\"の特徴　｢○○じゃないほう｣から脱却し､存在感を爆上げさせる\"トレードマーク\"の作り方 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963338?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "自分が｢じゃないほう｣と言われてしまうのは､他人より存在感が薄いから？　なぜ目立つ人は覚えてもらえるのか？　科学的に証明された\"参照点\"の力と今日からできる存在感UPのコツに迫ります。｢覚えてもらえ…",
+      "published": "2026/11/09 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/0/1200w/img_80a52d73db8aace65217b4bc70605d9e133565.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢マンジャロ｣のイーライリリー､大幅上方修正の裏側 \"肥満薬は富裕層だけ\"ではなかった | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963240?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "肥満薬はもはや一部の富裕層だけのものではありません。イーライリリーの業績急伸の背景には､中間層や高齢者層にも広がる需要がありました。",
-      "published": "2026/11/08 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/a/1200w/img_2a8f568a6f789056eb09d42b93713ad581278.jpg?nextgen=false"
+      "title": "｢仲間外れにされた人｣は過激な集団に加わる傾向がある？　社会的排斥やストレス､欠乏の深刻な影響 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954629?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "社会の分断や過激化がなぜ生じるのか､あなたは考えたことがありますか？脳の反応や社会的排斥､ストレスが､人をどのようにイデオロギーの虜にし､時に極端な行動へと駆り立てるのか。本記事は､その科学的メカニ…",
+      "published": "2026/11/09 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_79890867590688df0d1a75c493d6c370358035.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢100人乗っても大丈夫｣ 物置の稲葉製作所が連続減益の公算大､オフィス家具の売れ行きは堅調だが… | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962944?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢100人乗っても大丈夫｣というCMで有名な稲葉製作所ですが､鋼製物置で不振が続いています。",
-      "published": "2026/11/08 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/0/1200w/img_70513a47cf8ea7e5bfc2db02be3f4f12255948.jpg?nextgen=false"
+      "title": "日本で｢仕事を奪うAI｣は定着しなかった…JR東日本や野村不動産HDなど4800社超の現場で見えた｢\"間\"に入るAI｣の可能性 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961668?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢AIが仕事を奪う｣という不安が広がる一方で､日本の現場では人間同士をつなぎ､仕事やコミュニケーションを滑らかにするAIの活躍が広まりつつあります。AIと共存し､人間らしさを生かした未来とはどのよう…",
+      "published": "2026/11/09 08:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/d/1200w/img_6d449c23ec33acd128e7310063a60bc7150427.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "相手が感情的で自分は論理的､糾弾し合う保守とリベラル 『社会が壊れるその前に』磯野真穂氏に聞く | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963629?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『社会が壊れるその前に メアリ･ダグラスの人類学』の著者､文化人類学者の磯野真穂氏に話を聞きました。",
-      "published": "2026/11/08 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/0/1200w/img_c0b266e9b5fa0f841c7c13c6d71e0dbf262587.jpg?nextgen=false"
+      "title": "総合商社5社がそろって増益､過去最高益も続出…資源高と事業改革が追い風も景気後退に耐える｢本当の稼ぐ力｣が焦点 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963744?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大手総合商社5社の2026年4～9月期（上期）決算が11月4日までに出そろった。資源価格の上昇などを背景に5社とも上期の純利益は前年同期を上回り、三井物産、伊藤忠商事、丸紅が上期として過去最高を更新…",
+      "published": "2026/11/09 08:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/0/1200w/img_10da79f9b7dc08f453ac025cbc4f77c5222166.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢新しい商品を作らなきゃ｣と焦る企業に伝えたい→1000年以上前から存在する古刹に学ぶ\"知られ続ける\"極意 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962591?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "歴史ある寺院が時代が変化するにもかかわらず人々を惹きつけ続ける秘訣とは何か――。伝統を守りつつ新たな表現で価値を伝える実例をもとに､殿村美樹氏が｢知られ続ける｣極意を深掘り。『大きな会社じゃないのに…",
-      "published": "2026/11/08 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/1/1200w/img_e1587705c0913c21f993e3078d2b0ff7389408.jpg?nextgen=false"
+      "title": "日本の存在感は本当に薄れたのか？海外を旅して見えてきた｢モノづくり大国｣の変貌と世界に広がる新たな強み | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962796?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて世界を席巻した日本の｢モノづくり｣は､今や様変わりしています。家電や自動車から､マンガやアニメ､日本食といったコンテンツ産業が存在感を増す現代。その現状や背景には､どんな変化があったのでしょう…",
+      "published": "2026/11/09 08:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/7/1200w/img_1718d893719256d70cb727e50a84a439723874.jpg?nextgen=false"
     }
   ]
 }
