@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-11-10T07:18:21.019473+00:00",
+  "generated_at": "2026-11-11T06:20:27.411354+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "マイナカードを使うコンビニ交付に障害　自治体が相次ぎ公表　富士フイルム系システムで通信異常か",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
-      "summary": "マイナンバーカードを使ったコンビニ交付サービスで、戸籍謄本などを取得できない障害が発生したと、各地の自治体が11月10日朝から相次いで公表している。一部の自治体は、富士フイルムシステムサービスの証明書発行システムが使うネットワークで通信異常が起きたと説明している。",
-      "published": "2026/11/10 14:29",
+      "title": "内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
+      "summary": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。",
+      "published": "2026/11/11 14:19",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ドコモ・バイクシェア刷新、11月24日に「NOLL」始動へ　当初予定から半年遅れ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003060/",
-      "summary": "当初は5月に実施予定だったが「品質確保のため」延期した後、8月に大規模障害が起きたためさらに延期。当初予定から半年強遅れての船出となる。",
-      "published": "2026/11/10 13:20",
+      "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功　三菱電機",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
+      "summary": "一般的な金属製アンテナの接続性能と差分がないことを確認したという。",
+      "published": "2026/11/11 13:50",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Instagram、年齢を偽った10代もAIで検出　日本でも保護機能の適用を開始",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
-      "summary": "Metaは、Instagramで成人として年齢登録していても、AIが10代と推定したユーザーには「ティーンアカウント」の保護機能を強制適用する取り組みを日本を含む世界各国に拡大すると発表した。日本では同月10日より導入する。年齢詐称による制限回避を防ぐ狙いで、今後Threadsなどにも順次展開していく予定だ。",
-      "published": "2026/11/10 12:27",
+      "title": "“タッチ不要”の改札、山手線など40駅に導入　28年春から　JR東",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
+      "summary": "JR東日本は、Suicaをタッチせずに通過できる「ウォークスルー改札」を2028年春から本格導入する。山手線全駅など40駅から始め、31年度末までに全駅への拡大を目指す。27年4月から14駅で体験導入を実施する。",
+      "published": "2026/11/11 12:35",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "仏スーパー冷蔵庫へのサイバー攻撃、イラン革命防衛隊関連組織の犯行と断定　フランス外務省が声明",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003053/",
-      "summary": "フランス外務省は11月9日、10月にフランス国内の大手スーパーなど約700店舗の冷蔵・冷凍設備がサイバー攻撃を受けた事件について、イラン革命防衛隊の関連組織の犯行だとする声明を発表した。",
-      "published": "2026/11/10 12:05",
+      "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
+      "summary": "米カリフォルニア大学リバーサイド校などに所属する研究者らが2月に発表した論文「AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks」は、Wi-Fiの同じネットワーク内にいる端末同士の通信を遮断する「クライアント分離」を突破する攻撃手法を発表した研究報告だ。",
+      "published": "2026/11/11 12:11",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "サイバー攻撃受けた医療現場のリアル　患者の死亡率が3割上昇　乳がん患者の半裸画像流出、セラピー記録で脅迫され自殺も",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
-      "summary": "米カリフォルニア大学サンディエゴ校などに所属する研究者らが医学誌「Journal of Medical Internet Research」で発表した論文「Unveiling Patient-Level Harms and At-Risk Clinical Groups During Hospital Cyberattacks: Systematic Review of Global Case S",
-      "published": "2026/11/10 12:00",
+      "title": "ドコモまた障害、全国で通話・データ利用しづらく　Xでは「5G SAがつながらない」の声【更新】",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
+      "summary": "ドコモの「5G SA」でまた障害が起きた。【更新】",
+      "published": "2026/11/11 11:52",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【米中間選挙2026】 トランプ氏、公正性に疑問呈す　結果受け入れると表明後",
-      "url": "https://www.bbc.com/japanese/articles/cq0k0kpv5kd4o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は9日、与党・共和党が大敗した中間選挙の結果について正当性を疑問視した。数日前には結果を受け入れると述べていた。",
-      "published": "2026/11/10 10:57",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg"
+      "title": "米司法省、イランの支援を受けた工作員3人を起訴　英空軍基地の事件にも関与か",
+      "url": "https://www.bbc.com/japanese/articles/c6y49ypdk2z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "米司法省は10日、アメリカと欧州で一連のテロ計画で共謀したとして、イランの支援を受けているとされる男性工作員3人を、計8件の罪で起訴したと発表した。同省によると、この3人は、今年9月に米軍が駐留する英フェアフォード空軍基地付近で発生した重大事件にも関与していたという。",
+      "published": "2026/11/11 13:20",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "フランス、スーパーの冷蔵庫へのサイバー攻撃でイランを非難",
-      "url": "https://www.bbc.com/japanese/articles/c3ewewjl1wq8o?at_medium=RSS&at_campaign=rss",
-      "summary": "フランス政府は9日、国内のスーパーマーケットの冷蔵庫や冷凍庫の温度を上昇させたサイバー攻撃の背後に、イランのイスラム革命防衛隊（IRGC）がいると非難した。10月にあったこのサイバー攻撃では、スーパー数百店舗が被害を受け、大量の冷凍・冷蔵食品が廃棄された。",
-      "published": "2026/11/10 11:08",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
+      "title": "米陸軍兵士をイギリスで逮捕、ロシアのスパイ容疑で",
+      "url": "https://www.bbc.com/japanese/articles/c9x2ey0eky6no?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスの対テロ警察は10日、ロシアのためにスパイ行為を行った疑いで米陸軍兵士1人を逮捕したと発表した。BBCが入手した情報によると、この兵士はグロスターシャー州インズワースにあるイムジン兵舎に駐屯していた。この兵舎には、北大西洋条約機構（NATO）の連合緊急対応軍団（ARRC）の本部があり、NATOの戦略作戦拠点となっている。",
+      "published": "2026/11/11 09:40",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英人気コメディアンに拘禁10年半、レイプと性的暴行の罪",
-      "url": "https://www.bbc.com/japanese/articles/cr4g1g9klql2o?at_medium=RSS&at_campaign=rss",
-      "summary": "ロンドンの裁判所は9日、イギリスの人気コメディアンだったラッセル・ブランド被告（51）に対し、レイプと性的暴行の罪で拘禁10年6カ月を言い渡した。陪審団は5日、2004年から2009年にかけて4人の女性に性的暴行をした罪で、被告に有罪評決を下していた。",
-      "published": "2026/11/10 12:18",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1c3/live/e7281af0-dc47-11f1-b441-2b33b063138f.jpg"
+      "title": "ヘグセス米国防長官の弾劾決議案、下院でひとまず阻止",
+      "url": "https://www.bbc.com/japanese/articles/cmy0en9pe2ygo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの連邦議会下院は10日、ヘグセス国防長官を弾劾しようとする試みを阻止した。同長官をめぐっては、議会の承認なしにイランに戦争を仕掛けたとして、弾劾条項を含む決議案が出されていたが、委員会への付託を決めた。ヘグセス氏はこの日、国防総省で半年ぶりに記者会見を開き、弾劾の動きを「茶番」、「妨害行為」と非難した。",
+      "published": "2026/11/11 14:50",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米エヌビディアCEOと中国のスパイとされる人物の不倫、FBIが捜査　トランプ氏が明らかに",
-      "url": "https://www.bbc.com/japanese/articles/cq3696z2ye79o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領は9日、半導体大手エヌビディアのフアン最高経営責任者（CEO）と中国のスパイと疑われる人物との不倫関係について、連邦捜査局（FBI）が捜査しているとホワイトハウスで記者団に述べた。",
-      "published": "2026/11/10 15:51",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+      "title": "ウクライナ和平の3カ国協議、初日は「建設的」とゼレンスキー氏",
+      "url": "https://www.bbc.com/japanese/articles/c3zxvlgv7p25o?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナでの戦争の終結を目指すウクライナ、ロシア、アメリカの3カ国による高官級協議が10日、アラブ首長国連邦（UAE）の首都アブダビであった。2日間の日程で、この日は初日。ウクライナのゼレンスキー大統領は出席しなかったが、「建設的でかなり実質的」だったと述べた。",
+      "published": "2026/11/11 11:34",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6680/live/bb89f6b0-dd4c-11f1-a2ff-1f577adb9bef.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "オーストラリア、AI不正に対する刑事罰を検討　オープンAIのエージェントによるハッキング事件受け",
-      "url": "https://www.bbc.com/japanese/articles/cm0j0j56pz1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "オーストラリア政府は、新たな人工知能（AI）安全規制機関の設立を計画している。また、規制に従わないテクノロジー企業には刑事罰を科す可能性があると警告している。企業が「有害行為を行うAIモデル」を開発し、「その害を防ぐための合理的な措置を講じなかった」場合を犯罪とするという。",
-      "published": "2026/11/10 15:53",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg"
+      "title": "英有名コメディアンのワリアムズ氏、性的不法行為疑惑が報じられる　公表差し止めで敗訴",
+      "url": "https://www.bbc.com/japanese/articles/cq772ljg5dzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスの有名コメディアンで児童文学作家のデイヴィッド・ワリアムズ氏について、英ITVニュースと英紙ガーディアンが10日、複数の女性が性的不正行為を受けたと主張していると報じた。15歳のときに被害を受けたと訴えている女性もいるという。",
+      "published": "2026/11/11 15:10",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2099/live/59c4ece0-dd0c-11f1-b441-2b33b063138f.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "参院で否決なら｢消費税解散｣も？ 石破氏ら\"4人造反\"で一気に高まった消費税減税法案｢参院否決｣シナリオの現実味 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964244?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "衆院を無事通過した消費税減税法案。ですが､参院での成立は予断を許さぬ状況となっています。｢造反｣議員への戒告処分や少数与党の苦闘､さらには突如浮上した｢消費税解散｣説――。不透明感を増している政局の…",
-      "published": "2026/11/10 15:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/0/1200w/img_90ceead94b66c7770e4d76af49e7acd0331927.jpg?nextgen=false"
+      "title": "きっかけは何? 他人にうつるの? つらい後遺症は? 《発症が急増する50代》が知っておきたい帯状疱疹の素朴な疑問10 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962192?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "水ぼうそうと原因ウイルスは同じながら､まったく異なる症状を引き起こす帯状疱疹。加齢やストレスで免疫が低下すると誰にでも発症リスクがあります。知られざる後遺症や予防法､早期の対処法まで､あなたの健康を…",
+      "published": "2026/11/11 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/5/1200w/img_f5934b4de206093ef368454349aa8ffa208587.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "岩屋氏は不問､石破氏は戒告… 同じ｢退席｣でも処分が分かれたのはなぜか？ 自民党執行部\"ダブスタ\"に潜む2つの背景事情 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964235?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "食料品の消費税減税法案をめぐり､自民党の有力議員4人が本会議を退席し戒告処分を受けました。国旗損壊罪の採決では\"スルー\"されたのに､なぜ今回は処分が下されたのでしょうか。その背景に迫ります。",
-      "published": "2026/11/10 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/1/1200w/img_f1a64015ec8e89df040ac4ba2f383fa2339661.jpg?nextgen=false"
+      "title": "《餃子の王将･社長射殺事件》｢被告人が吸ったたばこの吸い殻｣と認められても無罪…元検察官が指摘する｢検察の誤算｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964078?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2013年に発生した｢餃子の王将｣社長射殺事件で､京都地裁は無罪を言い渡しました。事件現場近くで見つかった｢たばこの吸い殻｣から被告人と一致するDNAが検出されるも､犯行を裏付ける決定的な証拠にはな…",
+      "published": "2026/11/11 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/0/1200w/img_a0c9853a2e71fdea2bf84c5fa964071b364407.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢PoCで自然消滅｣｢経営を巻き込めない｣… 新規事業担当者の悲鳴と《4つの壁》を越えるヒント | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963996?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "新規事業やオープンイノベーションに挑む企業がぶつかる｢4つの壁｣。なぜ多くのプロジェクトが成果に結びつかないのか。情報接点､仮説立案､実行､継承､それぞれの壁を突破するためのヒントを､現場の声ととも…",
-      "published": "2026/11/10 12:01",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/e/1200w/img_3e218e7e7d417f4e188a109dfa84da07446829.jpg?nextgen=false"
+      "title": "《脚の筋肉量は腹筋の36倍》腹筋を最速で割りたい人へ､家トレ専門トレーナーが教える｢最強のスクワット｣のやり方 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963266?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "最速でシックスパックを目指すには､実は腹筋ではなく｢脚｣を鍛えることが重要です。\"家トレ専門トレーナー\"が｢下半身はこれ一択｣と太鼓判を押す､効果的なスクワットを紹介します。",
+      "published": "2026/11/11 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/c/1200w/img_7c9660081dd16381a2d7c028233f1b76156251.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "予算や人員の差ではなかった… 新規事業が成果を出せない本当の理由と立ちはだかる｢4つの壁｣ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963995?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "新規事業やオープンイノベーションの取り組みが増える中､多くの企業が｢予算や人員はあるのに成果につながらない｣という壁に直面しています。資源投入だけでは乗り越えられない\"4つの壁\"とはどういうものなの…",
-      "published": "2026/11/10 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/b/1200w/img_eba8c4f3036abd1618c91833692db8b7345106.jpg?nextgen=false"
+      "title": "トヨタがアメリカで最高時速40キロの超小型車｢KEI-01｣を生産へ､当初は法人向けチャンネルを通じてのみの販売 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964344?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "トヨタ自動車が米国で日本の軽自動車の名前を冠した超小型車｢KEI-01｣の生産に乗り出します。",
+      "published": "2026/11/11 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/4/1200w/img_8423da02af70d9136727f8fa4a9b2493942388.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈JTはどうなる〉ロシアが接収した企業資産は最大11兆円…プーチン政権が進める｢富の再分配｣の正体  | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964200?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "ロシア政府が日本たばこ産業（JT）のロシア事業を｢一時管理｣下に置き､今後の事業継続に深刻な影響が及ぶ可能性が高まっています。過去のカールスバーグやダノンの事例が示すように､外国企業の資産接収はロシ…",
-      "published": "2026/11/10 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/1/1200w/img_21965e6713e04fd4c8057f03daeeeff2189215.jpg?nextgen=false"
+      "title": "日本ハム､オーストラリア苦戦やコスト高で利益計画を下方修正 柱の食肉事業が採算悪化 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964217?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "食肉最大手の日本ハムが今2027年3月期の利益計画を下方修正しました。その要因とは？",
+      "published": "2026/11/11 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/8/1200w/img_98e7e6061f0bed5cfbef19cb961cf27b112614.jpg?nextgen=false"
     }
   ]
 }
