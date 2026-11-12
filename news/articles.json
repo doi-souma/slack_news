@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-11-11T06:20:27.411354+00:00",
+  "generated_at": "2026-11-12T07:10:18.146247+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
-      "summary": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。",
-      "published": "2026/11/11 14:19",
+      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+      "summary": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。",
+      "published": "2026/11/12 14:10",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功　三菱電機",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
-      "summary": "一般的な金属製アンテナの接続性能と差分がないことを確認したという。",
-      "published": "2026/11/11 13:50",
+      "title": "NVIDIA取締役会、フアンCEO解任の可否決定へ　2件の不倫報道で株価8％超下落",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003138/",
+      "summary": "米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOの解任の可否を決める会合を開く。フアン氏を巡る2件の不倫報道が続く中、同氏に明確な後継者はいない。",
+      "published": "2026/11/12 13:58",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“タッチ不要”の改札、山手線など40駅に導入　28年春から　JR東",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
-      "summary": "JR東日本は、Suicaをタッチせずに通過できる「ウォークスルー改札」を2028年春から本格導入する。山手線全駅など40駅から始め、31年度末までに全駅への拡大を目指す。27年4月から14駅で体験導入を実施する。",
-      "published": "2026/11/11 12:35",
+      "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
+      "summary": "Google DeepMindは、DNA配列が特定の細胞種に与える影響を予測する次世代AIモデル「AlphaGenome 2」を発表した。1億超の細胞データで学習し、細胞の種類や状態を条件指定して予測できる。疾患に関わる遺伝子変異の特定精度を前モデルから大幅に向上させており、非営利目的ならAPI経由で利用できる。",
+      "published": "2026/11/12 11:29",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
-      "summary": "米カリフォルニア大学リバーサイド校などに所属する研究者らが2月に発表した論文「AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks」は、Wi-Fiの同じネットワーク内にいる端末同士の通信を遮断する「クライアント分離」を突破する攻撃手法を発表した研究報告だ。",
-      "published": "2026/11/11 12:11",
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+      "published": "2026/11/12 10:49",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ドコモまた障害、全国で通話・データ利用しづらく　Xでは「5G SAがつながらない」の声【更新】",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
-      "summary": "ドコモの「5G SA」でまた障害が起きた。【更新】",
-      "published": "2026/11/11 11:52",
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "summary": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
+      "published": "2026/11/12 09:56",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米司法省、イランの支援を受けた工作員3人を起訴　英空軍基地の事件にも関与か",
-      "url": "https://www.bbc.com/japanese/articles/c6y49ypdk2z8o?at_medium=RSS&at_campaign=rss",
-      "summary": "米司法省は10日、アメリカと欧州で一連のテロ計画で共謀したとして、イランの支援を受けているとされる男性工作員3人を、計8件の罪で起訴したと発表した。同省によると、この3人は、今年9月に米軍が駐留する英フェアフォード空軍基地付近で発生した重大事件にも関与していたという。",
-      "published": "2026/11/11 13:20",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
+      "title": "【米中間選挙2026】 民主党コロム氏が歴史的勝利、ミシシッピ州の連邦上院選",
+      "url": "https://www.bbc.com/japanese/articles/cjy5x41ezplro?at_medium=RSS&at_campaign=rss",
+      "summary": "3日に投開票された米中間選挙の連邦上院選で、民主党候補のスコット・コロム氏がミシシッピ州で勝利した。数十年にわたり共和党を選出してきた極めて保守的な同州で、民主党が衝撃的な勝利を獲得した。同州から黒人候補が連邦上院に選ばれるのは、1881年以来。",
+      "published": "2026/11/12 10:58",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b0ff/live/5691ef30-de3a-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米陸軍兵士をイギリスで逮捕、ロシアのスパイ容疑で",
-      "url": "https://www.bbc.com/japanese/articles/c9x2ey0eky6no?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスの対テロ警察は10日、ロシアのためにスパイ行為を行った疑いで米陸軍兵士1人を逮捕したと発表した。BBCが入手した情報によると、この兵士はグロスターシャー州インズワースにあるイムジン兵舎に駐屯していた。この兵舎には、北大西洋条約機構（NATO）の連合緊急対応軍団（ARRC）の本部があり、NATOの戦略作戦拠点となっている。",
-      "published": "2026/11/11 09:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png"
+      "title": "スペインで14年ぶりゼネスト、住宅難など背景に　バルセロナでは警官隊と衝突",
+      "url": "https://www.bbc.com/japanese/articles/cmy0en1k6g07o?at_medium=RSS&at_campaign=rss",
+      "summary": "スペインで11日、住宅難と生活費上昇を背景に主要労働組合が呼びかけた、14年ぶりとなるゼネストがあった。首都マドリードでは約12万人がデモに参加。バルセロナでも参加者が5万人を超え、覆面をした集団と警官隊の衝突もあった。",
+      "published": "2026/11/12 13:14",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ヘグセス米国防長官の弾劾決議案、下院でひとまず阻止",
-      "url": "https://www.bbc.com/japanese/articles/cmy0en9pe2ygo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの連邦議会下院は10日、ヘグセス国防長官を弾劾しようとする試みを阻止した。同長官をめぐっては、議会の承認なしにイランに戦争を仕掛けたとして、弾劾条項を含む決議案が出されていたが、委員会への付託を決めた。ヘグセス氏はこの日、国防総省で半年ぶりに記者会見を開き、弾劾の動きを「茶番」、「妨害行為」と非難した。",
-      "published": "2026/11/11 14:50",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+      "title": "ウクライナ和平の3カ国協議が終了、突破口は開かれず",
+      "url": "https://www.bbc.com/japanese/articles/cmy86x1899exo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナでの戦争の終結を目指すウクライナ、ロシア、アメリカの3カ国による高官級協議は11日、アラブ首長国連邦（UAE）で2日間の日程を終了した。アメリカは「いくつかの好機」が見いだされたと述べたものの、ロシアの侵攻をきっかけに始まった約5年に及ぶ戦争の終結への突破口が開かれる兆しは全く見られなかった。",
+      "published": "2026/11/12 13:16",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ウクライナ和平の3カ国協議、初日は「建設的」とゼレンスキー氏",
-      "url": "https://www.bbc.com/japanese/articles/c3zxvlgv7p25o?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナでの戦争の終結を目指すウクライナ、ロシア、アメリカの3カ国による高官級協議が10日、アラブ首長国連邦（UAE）の首都アブダビであった。2日間の日程で、この日は初日。ウクライナのゼレンスキー大統領は出席しなかったが、「建設的でかなり実質的」だったと述べた。",
-      "published": "2026/11/11 11:34",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6680/live/bb89f6b0-dd4c-11f1-a2ff-1f577adb9bef.jpg"
+      "title": "ヘグセス米国防長官と側近たち、無名戦士の墓で静粛にするよう衛兵に叱責される",
+      "url": "https://www.bbc.com/japanese/watch/c3j4rx07wngvo?at_medium=RSS&at_campaign=rss",
+      "summary": "ヘグセス米国防長官と同行者たちは11日、米ヴァージニア州にあるアーリントン国立墓地を訪れた際、無名戦士の墓で静粛を保つよう衛兵に叱責（しっせき）された。退役軍人の日を記念する献花式の直後のことだった。",
+      "published": "2026/11/12 12:07",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff27/live/573e7b50-de18-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英有名コメディアンのワリアムズ氏、性的不法行為疑惑が報じられる　公表差し止めで敗訴",
-      "url": "https://www.bbc.com/japanese/articles/cq772ljg5dzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスの有名コメディアンで児童文学作家のデイヴィッド・ワリアムズ氏について、英ITVニュースと英紙ガーディアンが10日、複数の女性が性的不正行為を受けたと主張していると報じた。15歳のときに被害を受けたと訴えている女性もいるという。",
-      "published": "2026/11/11 15:10",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2099/live/59c4ece0-dd0c-11f1-b441-2b33b063138f.jpg"
+      "title": "欧州で数千の学校に偽の爆破予告　イタリア、英スコットランドなどで",
+      "url": "https://www.bbc.com/japanese/articles/cqvg245403nzo?at_medium=RSS&at_campaign=rss",
+      "summary": "イタリアで11日、約6300校の公立学校に爆破予告が一斉に送られる事件があった。イギリスのスコットランドとアイルランドでも、合わせて700校以上が爆破予告を受けた。脅迫は偽物とみられているが、避難を行う学校もあった。",
+      "published": "2026/11/12 14:46",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "きっかけは何? 他人にうつるの? つらい後遺症は? 《発症が急増する50代》が知っておきたい帯状疱疹の素朴な疑問10 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962192?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "水ぼうそうと原因ウイルスは同じながら､まったく異なる症状を引き起こす帯状疱疹。加齢やストレスで免疫が低下すると誰にでも発症リスクがあります。知られざる後遺症や予防法､早期の対処法まで､あなたの健康を…",
-      "published": "2026/11/11 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/5/1200w/img_f5934b4de206093ef368454349aa8ffa208587.jpg?nextgen=false"
+      "title": "【大揺れ】ジェンスン･フアン｢解任準備｣の衝撃…稀代のカリスマ経営者を失った場合にエヌビディアの経営は大丈夫なのか | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964598?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "半導体業界を牽引するエヌビディアのカリスマCEO､ジェンスン･フアン氏の解任が現実味を帯びています。",
+      "published": "2026/11/12 16:01",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/0/1200w/img_10eab6091786c0e40667fd9a9e542775108846.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《餃子の王将･社長射殺事件》｢被告人が吸ったたばこの吸い殻｣と認められても無罪…元検察官が指摘する｢検察の誤算｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964078?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2013年に発生した｢餃子の王将｣社長射殺事件で､京都地裁は無罪を言い渡しました。事件現場近くで見つかった｢たばこの吸い殻｣から被告人と一致するDNAが検出されるも､犯行を裏付ける決定的な証拠にはな…",
-      "published": "2026/11/11 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/0/1200w/img_a0c9853a2e71fdea2bf84c5fa964071b364407.jpg?nextgen=false"
+      "title": "【詳報】エヌビディアショックの実相…ジェンスン･フアンCEOが解任されたとしても｢エヌビディアはしばらく磐石｣といえる理由 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964550?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "半導体世界最大手のエヌビディアを率いてきたジェンスン・フアンCEOがの解任が取り沙汰されている。11月11日、ウォールストリート・ジャーナルが取締役会が解任準備を進めている旨を報じたのだ。1993年…",
+      "published": "2026/11/12 16:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_230b98957f5616538784ec07ece3fec9160072.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《脚の筋肉量は腹筋の36倍》腹筋を最速で割りたい人へ､家トレ専門トレーナーが教える｢最強のスクワット｣のやり方 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963266?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "最速でシックスパックを目指すには､実は腹筋ではなく｢脚｣を鍛えることが重要です。\"家トレ専門トレーナー\"が｢下半身はこれ一択｣と太鼓判を押す､効果的なスクワットを紹介します。",
-      "published": "2026/11/11 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/c/1200w/img_7c9660081dd16381a2d7c028233f1b76156251.jpg?nextgen=false"
+      "title": "ミスをしても｢ドンマイ､ドンマイ!｣　みんな仲良く雰囲気もいいのになぜか結果が出ない《生温かい職場》を蝕む病理 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963317?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢仲が良い職場｣は必ずしも高い成果につながるわけではありません。一体感が重視される現場で生まれる｢ドンマイカルチャー｣は､むしろ本音を言い合えない遠慮や忖度の温床となりがちです。真に必要なのは､適度…",
+      "published": "2026/11/12 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/e/1200w/img_5e27348292d4be84d1f073706f7d5646364394.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "トヨタがアメリカで最高時速40キロの超小型車｢KEI-01｣を生産へ､当初は法人向けチャンネルを通じてのみの販売 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964344?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "トヨタ自動車が米国で日本の軽自動車の名前を冠した超小型車｢KEI-01｣の生産に乗り出します。",
-      "published": "2026/11/11 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/4/1200w/img_8423da02af70d9136727f8fa4a9b2493942388.jpg?nextgen=false"
+      "title": "鳥取グルメフェス｢5万人のはずがガラガラ｣炎上､長文謝罪も火に油…市長表敬とテレビ出演が生んだ\"お墨付き\"のワナ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964478?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢5万人集客｣をうたい､出店料を集めた鳥取県倉吉市のグルメイベントが､来場者の少なさや準備不足で炎上。主催者の長文謝罪もかえって反発を招いています。なぜ同じようなトラブルが繰り返されるのか。市長表敬…",
+      "published": "2026/11/12 12:50",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/d/1200w/img_ad51b38c71b2214888aa5d3649472525368086.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "日本ハム､オーストラリア苦戦やコスト高で利益計画を下方修正 柱の食肉事業が採算悪化 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964217?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "食肉最大手の日本ハムが今2027年3月期の利益計画を下方修正しました。その要因とは？",
-      "published": "2026/11/11 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/8/1200w/img_98e7e6061f0bed5cfbef19cb961cf27b112614.jpg?nextgen=false"
+      "title": "人間関係の悩みは《親よりAIに打ち明ける》α世代の\"繊細さとタイパ志向\" ｢優しいチャッピー､正論のGemini｣の区別も | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964236?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "最近では､小学生や中学生も日常的にAIを活用するようになりました。デリケートな人間関係についても､親よりAIに相談する時代が到来しています。AIが理想的な｢対話相手･相談相手｣として重宝されるように…",
+      "published": "2026/11/12 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/9/1200w/img_99cfcb8e672c364c1740f0ae4cc555ab303863.jpg?nextgen=false"
     }
   ]
 }
