@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-11-12T07:10:18.146247+00:00",
+  "generated_at": "2026-11-13T06:45:48.387181+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-      "summary": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。",
-      "published": "2026/11/12 14:10",
+      "title": "【復旧】ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
+      "summary": "「JALも予約できない」という声も出ていた。【更新】",
+      "published": "2026/11/13 14:58",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "NVIDIA取締役会、フアンCEO解任の可否決定へ　2件の不倫報道で株価8％超下落",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003138/",
-      "summary": "米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOの解任の可否を決める会合を開く。フアン氏を巡る2件の不倫報道が続く中、同氏に明確な後継者はいない。",
-      "published": "2026/11/12 13:58",
+      "title": "「Qoo10」不正アクセス、個人情報漏えい　「住所の地理座標」や「身体的特徴」も対象の可能性",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
+      "summary": "氏名や住所の他、住所の地理座標、顧客が任意で入力した身体的特徴などが含まれる可能性があるという。",
+      "published": "2026/11/13 13:31",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
-      "summary": "Google DeepMindは、DNA配列が特定の細胞種に与える影響を予測する次世代AIモデル「AlphaGenome 2」を発表した。1億超の細胞データで学習し、細胞の種類や状態を条件指定して予測できる。疾患に関わる遺伝子変異の特定精度を前モデルから大幅に向上させており、非営利目的ならAPI経由で利用できる。",
-      "published": "2026/11/12 11:29",
+      "title": "AWS、Microsoft 365障害の影響を否定　正常稼働を強調",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003185/",
+      "summary": "AWSは11月12日、別サービスで発生した障害を巡り、AWSの稼働状況について不正確な報道が出ていると、公式Xアカウントに投稿した。同日に米Microsoftの「Microsoft 365」で発生している大規模障害と、別の時間帯に発生したAWS障害を関連付ける報道に反論したとみられる。",
+      "published": "2026/11/13 13:02",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
-      "summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
-      "published": "2026/11/12 10:49",
+      "title": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化　倉庫・物流へ展開視野",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003184/",
+      "summary": "パナソニックホールディングス（HD）は11月11日、人工知能（AI）とロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。",
+      "published": "2026/11/13 12:55",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
-      "summary": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
-      "published": "2026/11/12 09:56",
+      "title": "MS障害、政府共通システムにも影響　デジタル相「朝、なんで使えないんだろうと思ったら」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003183/",
+      "summary": "古川デジタル大臣は、記者からOutlookの障害について問われ、「今日朝使ってみて、『なんで使えないんだろう』と思って報道を見た」という。",
+      "published": "2026/11/13 12:48",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【米中間選挙2026】 民主党コロム氏が歴史的勝利、ミシシッピ州の連邦上院選",
+      "title": "米エヌビディアのフアンCEOが辞任、議会委は証言を要請……不倫問題で大揺れのAI半導体大手",
+      "url": "https://www.bbc.com/japanese/articles/cm5y1j47wp5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "米半導体大手エヌビディアのジェンスン・フアン最高経営責任者（CEO）は12日、辞任を発表した。フアン氏をめぐっては先に、中国のスパイと疑われる人物などとの不倫が発覚。シリコンヴァレーから米連邦議会まで、大きな波紋を広げている。上下両院のいくつかの委員会は同日、スパイ疑惑のある人物との関係について証言するよう求める書簡をフアン氏に送った。",
+      "published": "2026/11/13 14:47",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4307/live/4568c8e0-df0d-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ヘグセス米国防長官、自身と側近らを叱責した衛兵に勲章授与",
+      "url": "https://www.bbc.com/japanese/articles/c6vg2d9klmzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "ヘグセス米国防長官は12日、米ヴァージニア州にあるアーリントン国立墓地で自身と側近らを叱責（しっせき）した衛兵に勲章を授与した。長官と側近らは前日、無名戦士の墓の前で写真撮影をしながら笑ったり話したりし、警備任務にあたっていた兵士から注意を受けていた。",
+      "published": "2026/11/13 13:25",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d19/live/cbe0ffc0-dec5-11f1-86d5-71a9f29d1c99.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米首都で医師が発砲、集合住宅の管理人死亡　自宅カビ問題で対立か",
+      "url": "https://www.bbc.com/japanese/articles/c9vg2l1ykxe7o?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの首都ワシントンの集合住宅内のジムで12日、銃撃があり、建物の管理人が死亡、4人が負傷した。警察によると、容疑者は犯行後に自ら命を絶った。容疑者は集合住宅の自宅のかびなどをめぐり、管理者側と対立していたとされる。",
+      "published": "2026/11/13 11:20",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba5b/live/e513fed0-def6-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【米中間選挙2026】 民主党コローム氏が歴史的勝利、ミシシッピ州の連邦上院選",
       "url": "https://www.bbc.com/japanese/articles/cjy5x41ezplro?at_medium=RSS&at_campaign=rss",
-      "summary": "3日に投開票された米中間選挙の連邦上院選で、民主党候補のスコット・コロム氏がミシシッピ州で勝利した。数十年にわたり共和党を選出してきた極めて保守的な同州で、民主党が衝撃的な勝利を獲得した。同州から黒人候補が連邦上院に選ばれるのは、1881年以来。",
+      "summary": "3日に投開票された米中間選挙の連邦上院選で、民主党候補のスコット・コローム氏がミシシッピ州で勝利した。数十年にわたり共和党を選出してきた極めて保守的な同州で、民主党が衝撃的な勝利を獲得した。同州から黒人候補が連邦上院に選ばれるのは、1881年以来。",
       "published": "2026/11/12 10:58",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b0ff/live/5691ef30-de3a-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "スペインで14年ぶりゼネスト、住宅難など背景に　バルセロナでは警官隊と衝突",
-      "url": "https://www.bbc.com/japanese/articles/cmy0en1k6g07o?at_medium=RSS&at_campaign=rss",
-      "summary": "スペインで11日、住宅難と生活費上昇を背景に主要労働組合が呼びかけた、14年ぶりとなるゼネストがあった。首都マドリードでは約12万人がデモに参加。バルセロナでも参加者が5万人を超え、覆面をした集団と警官隊の衝突もあった。",
-      "published": "2026/11/12 13:14",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ウクライナ和平の3カ国協議が終了、突破口は開かれず",
-      "url": "https://www.bbc.com/japanese/articles/cmy86x1899exo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナでの戦争の終結を目指すウクライナ、ロシア、アメリカの3カ国による高官級協議は11日、アラブ首長国連邦（UAE）で2日間の日程を終了した。アメリカは「いくつかの好機」が見いだされたと述べたものの、ロシアの侵攻をきっかけに始まった約5年に及ぶ戦争の終結への突破口が開かれる兆しは全く見られなかった。",
-      "published": "2026/11/12 13:16",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ヘグセス米国防長官と側近たち、無名戦士の墓で静粛にするよう衛兵に叱責される",
-      "url": "https://www.bbc.com/japanese/watch/c3j4rx07wngvo?at_medium=RSS&at_campaign=rss",
-      "summary": "ヘグセス米国防長官と同行者たちは11日、米ヴァージニア州にあるアーリントン国立墓地を訪れた際、無名戦士の墓で静粛を保つよう衛兵に叱責（しっせき）された。退役軍人の日を記念する献花式の直後のことだった。",
-      "published": "2026/11/12 12:07",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff27/live/573e7b50-de18-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "欧州で数千の学校に偽の爆破予告　イタリア、英スコットランドなどで",
-      "url": "https://www.bbc.com/japanese/articles/cqvg245403nzo?at_medium=RSS&at_campaign=rss",
-      "summary": "イタリアで11日、約6300校の公立学校に爆破予告が一斉に送られる事件があった。イギリスのスコットランドとアイルランドでも、合わせて700校以上が爆破予告を受けた。脅迫は偽物とみられているが、避難を行う学校もあった。",
-      "published": "2026/11/12 14:46",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg"
+      "title": "イスラエル軍がガザ南部のナセル病院を攻撃、少なくとも5人殺害と民間防衛隊",
+      "url": "https://www.bbc.com/japanese/articles/cmr4g09x7z9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "イスラエル軍が12日、パレスチナ・ガザ地区南部ハンユニスのナセル病院の建物を攻撃し、少なくとも5人のパレスチナ人が殺された。ガザの武装組織ハマスが運営する民間防衛隊の関係者がBBCに語った。",
+      "published": "2026/11/12 16:19",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【大揺れ】ジェンスン･フアン｢解任準備｣の衝撃…稀代のカリスマ経営者を失った場合にエヌビディアの経営は大丈夫なのか | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964598?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "半導体業界を牽引するエヌビディアのカリスマCEO､ジェンスン･フアン氏の解任が現実味を帯びています。",
-      "published": "2026/11/12 16:01",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/0/1200w/img_10eab6091786c0e40667fd9a9e542775108846.jpg?nextgen=false"
+      "title": "【独自】タマホームの保険金不正請求問題で新展開､火災保険の新規販売停止措置を損保大手が検討 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964722?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "注文住宅大手タマホームによる保険金の不正請求問題で､取引のある大手損害保険3社が､タマホームによる火災保険の新規販売（募集）を停止させる方向で検討に入ったことがわかりました。その背景について迫ります。",
+      "published": "2026/11/13 15:33",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1cd75e01f08f37ae91c2533b05bf85fc100988.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【詳報】エヌビディアショックの実相…ジェンスン･フアンCEOが解任されたとしても｢エヌビディアはしばらく磐石｣といえる理由 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964550?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "半導体世界最大手のエヌビディアを率いてきたジェンスン・フアンCEOがの解任が取り沙汰されている。11月11日、ウォールストリート・ジャーナルが取締役会が解任準備を進めている旨を報じたのだ。1993年…",
-      "published": "2026/11/12 16:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_230b98957f5616538784ec07ece3fec9160072.jpg?nextgen=false"
+      "title": "【独自】タマホームの保険金不正請求問題をめぐり､損保大手各社が火災保険の新規販売停止措置を検討 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964717?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "注文住宅大手タマホームによる保険金の不正請求問題で､取引のある大手損害保険3社が､タマホームによる火災保険の新規販売（募集）を停止させる方向で検討に入ったことがわかりました。その背景について迫ります。",
+      "published": "2026/11/13 15:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/6/1200w/img_16c537749defa57ae7e11ecbbad2a6ca150026.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ミスをしても｢ドンマイ､ドンマイ!｣　みんな仲良く雰囲気もいいのになぜか結果が出ない《生温かい職場》を蝕む病理 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963317?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢仲が良い職場｣は必ずしも高い成果につながるわけではありません。一体感が重視される現場で生まれる｢ドンマイカルチャー｣は､むしろ本音を言い合えない遠慮や忖度の温床となりがちです。真に必要なのは､適度…",
-      "published": "2026/11/12 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/e/1200w/img_5e27348292d4be84d1f073706f7d5646364394.jpg?nextgen=false"
+      "title": "月収5万円で受診遅れ､2日後死亡…｢生きたくなかったのでは｣｢安楽死が必要｣と飛躍する世論に欠けた《4つの視点》 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964728?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経済的理由から医療受診を控え､肺がんと判明して2日後に亡くなった男性の悲劇が波紋を呼んでいます。私たちが考えるべき｢4つの視点｣を掘り下げます。",
+      "published": "2026/11/13 14:45",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/c/1200w/img_0ca619ddb5db70146587ace827544f56358024.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "鳥取グルメフェス｢5万人のはずがガラガラ｣炎上､長文謝罪も火に油…市長表敬とテレビ出演が生んだ\"お墨付き\"のワナ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964478?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢5万人集客｣をうたい､出店料を集めた鳥取県倉吉市のグルメイベントが､来場者の少なさや準備不足で炎上。主催者の長文謝罪もかえって反発を招いています。なぜ同じようなトラブルが繰り返されるのか。市長表敬…",
-      "published": "2026/11/12 12:50",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/d/1200w/img_ad51b38c71b2214888aa5d3649472525368086.jpg?nextgen=false"
+      "title": "｢私はスポーツが苦手です でも､ゆるスポーツは得意なんです｣　勝ち方を増やす競技の秘密とは？ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962869?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢運動が苦手｣｢体育が嫌だった｣——そんな過去を持つ人でも､再びスポーツの楽しさに触れられる新たな扉が開かれ始めています。世界ゆるスポーツ協会が目指すのは､勝敗の多様な価値と､誰もが安心して参加でき…",
+      "published": "2026/11/13 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/c/1200w/img_7ce309f3c3c0ae7a489b151f62645659476657.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "人間関係の悩みは《親よりAIに打ち明ける》α世代の\"繊細さとタイパ志向\" ｢優しいチャッピー､正論のGemini｣の区別も | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964236?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "最近では､小学生や中学生も日常的にAIを活用するようになりました。デリケートな人間関係についても､親よりAIに相談する時代が到来しています。AIが理想的な｢対話相手･相談相手｣として重宝されるように…",
-      "published": "2026/11/12 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/9/1200w/img_99cfcb8e672c364c1740f0ae4cc555ab303863.jpg?nextgen=false"
+      "title": "｢主催者が逃亡？｣5万人来場のはずが…鳥取グルメフェス大炎上の根本原因　一方出演者の｢神対応｣にネット称賛 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964712?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "鳥取県倉吉市で開催されたご当地グルメイベントが､5万人集客の目標から大きく外れ､わずかな来場者数と運営トラブルで大炎上しました。現場で何が起き､主催者と出店者にどんな影響があったのか。地方イベントの…",
+      "published": "2026/11/13 12:40",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/a/1200w/img_1a1ef1f8290efa240b4680e3ffaad0cf77072.jpg?nextgen=false"
     }
   ]
 }
