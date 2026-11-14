@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-13T06:45:48.387181+00:00",
+  "generated_at": "2026-11-14T06:23:00.877070+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "相次ぐ情報漏えいでアナログ回帰？　ダイソー「パスワード管理ノート」が品薄に　一方でリスクも──IPAに聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
+      "summary": "大創産業（ダイソー）は11月11日、紙の「パスワード管理ノート」の売れ行きが10月末ごろから伸び、一時的に品薄になっているとITmedia NEWSの取材に答えた。IPAは紙での管理を否定しない一方、紙では防ぎにくいリスクへの対策として、多要素認証やパスキーの設定を勧めている。",
+      "published": "2026/11/14 07:30",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "AI×裸眼3Dディスプレイ？　2D映像をその場で3D化し、見る人の目も追う　現地で確かめた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/",
+      "summary": "文章作成とんでん、ソフトバンク、SBクリエイティブの3社が、裸眼で3D映像を見られるデジタルサイネージの実証実験を公開した。AIが視聴者の目の位置を追跡し、既存の2D動画をリアルタイムで3D映像に変換する。現地で体験した。",
+      "published": "2026/11/13 23:34",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
+      "summary": "NTTドコモビジネスなど4社が、データセンターの排熱を使ったエビ養殖の実証に乗り出す。2027年度にはバナメイエビの飼育を始める計画だ。なぜエビを選んだのか、育てたエビをどうするのか。同社の担当者に話を聞いた。",
+      "published": "2026/11/13 19:45",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "「お名前.com」不正アクセス、補償申請約30億円に　GMOインターネットが決算説明会で謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003197/",
+      "summary": "GMOインターネットは11月13日、「お名前.com デスクトップクラウド」への不正アクセスに関わる直接費用が計30億5000万円に上る見込みだと発表した。費用総額は確定していないとして、通期の業績予想は修正していない。",
+      "published": "2026/11/13 18:17",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -11,40 +47,40 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "「Qoo10」不正アクセス、個人情報漏えい　「住所の地理座標」や「身体的特徴」も対象の可能性",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
-      "summary": "氏名や住所の他、住所の地理座標、顧客が任意で入力した身体的特徴などが含まれる可能性があるという。",
-      "published": "2026/11/13 13:31",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表　トランプ大統領、プーチン大統領、習主席が来週中国に集まると",
+      "url": "https://www.bbc.com/japanese/articles/cwkgrn5pnv0mo?at_medium=RSS&at_campaign=rss",
+      "summary": "米ホワイトハウスは13日、アメリカのドナルド・トランプ大統領、ロシアのウラジーミル・プーチン大統領、中国の習近平国家主席が19日、中国で首脳会談に臨むと発表した。トランプ大統領は、「核兵器削減」について話し合う予定だと、ホワイトハウスの報道官は述べた。",
+      "published": "2026/11/14 14:40",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "AWS、Microsoft 365障害の影響を否定　正常稼働を強調",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003185/",
-      "summary": "AWSは11月12日、別サービスで発生した障害を巡り、AWSの稼働状況について不正確な報道が出ていると、公式Xアカウントに投稿した。同日に米Microsoftの「Microsoft 365」で発生している大規模障害と、別の時間帯に発生したAWS障害を関連付ける報道に反論したとみられる。",
-      "published": "2026/11/13 13:02",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "全米の空港で航空機に約4時間の地上待機命令　「通信障害」と運輸長官は説明",
+      "url": "https://www.bbc.com/japanese/articles/c6kgdv88pr0po?at_medium=RSS&at_campaign=rss",
+      "summary": "米連邦航空局（FAA）は東部時間13日午後3時半（日本時間14日午前5時半）すぎ、全米の空港で全ての出発便に対し、地上待機命令を出した。「異常事態と安全上の理由」のためで、「通信障害」が原因だと説明した。FAAは命令から約4時間後の午後8時15分すぎに命令を解除し、ショーン・ダフィー運輸長官はホワイトハウスでの記者会見でフライト再開を発表した。",
+      "published": "2026/11/14 13:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1937/live/60f2ce80-dfc6-11f1-8235-7f489037889f.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化　倉庫・物流へ展開視野",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003184/",
-      "summary": "パナソニックホールディングス（HD）は11月11日、人工知能（AI）とロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。",
-      "published": "2026/11/13 12:55",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
+      "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナに「永遠の平和」がもたらされることを望んでいる――。ロシアのウラジーミル・プーチン大統領はそう述べている。では、ロシア側が和平の前提条件としているものは何か。",
+      "published": "2026/11/14 15:02",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "MS障害、政府共通システムにも影響　デジタル相「朝、なんで使えないんだろうと思ったら」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003183/",
-      "summary": "古川デジタル大臣は、記者からOutlookの障害について問われ、「今日朝使ってみて、『なんで使えないんだろう』と思って報道を見た」という。",
-      "published": "2026/11/13 12:48",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に",
+      "url": "https://www.bbc.com/japanese/articles/cmy5xy6yvn95o?at_medium=RSS&at_campaign=rss",
+      "summary": "米マイクロソフト（MS）の一部サービスで22時間以上にわたり続いた大規模障害は、日常生活に不可欠なサービスが、限られた大手テクノロジー企業にどれほど依存しているかを浮き彫りにし、疑問を投げかける出来事となった。",
+      "published": "2026/11/14 11:36",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7bb3/live/3e9f8480-dfcc-11f1-b441-2b33b063138f.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4307/live/4568c8e0-df0d-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ヘグセス米国防長官、自身と側近らを叱責した衛兵に勲章授与",
-      "url": "https://www.bbc.com/japanese/articles/c6vg2d9klmzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "ヘグセス米国防長官は12日、米ヴァージニア州にあるアーリントン国立墓地で自身と側近らを叱責（しっせき）した衛兵に勲章を授与した。長官と側近らは前日、無名戦士の墓の前で写真撮影をしながら笑ったり話したりし、警備任務にあたっていた兵士から注意を受けていた。",
-      "published": "2026/11/13 13:25",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d19/live/cbe0ffc0-dec5-11f1-86d5-71a9f29d1c99.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米首都で医師が発砲、集合住宅の管理人死亡　自宅カビ問題で対立か",
-      "url": "https://www.bbc.com/japanese/articles/c9vg2l1ykxe7o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの首都ワシントンの集合住宅内のジムで12日、銃撃があり、建物の管理人が死亡、4人が負傷した。警察によると、容疑者は犯行後に自ら命を絶った。容疑者は集合住宅の自宅のかびなどをめぐり、管理者側と対立していたとされる。",
-      "published": "2026/11/13 11:20",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba5b/live/e513fed0-def6-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【米中間選挙2026】 民主党コローム氏が歴史的勝利、ミシシッピ州の連邦上院選",
-      "url": "https://www.bbc.com/japanese/articles/cjy5x41ezplro?at_medium=RSS&at_campaign=rss",
-      "summary": "3日に投開票された米中間選挙の連邦上院選で、民主党候補のスコット・コローム氏がミシシッピ州で勝利した。数十年にわたり共和党を選出してきた極めて保守的な同州で、民主党が衝撃的な勝利を獲得した。同州から黒人候補が連邦上院に選ばれるのは、1881年以来。",
-      "published": "2026/11/12 10:58",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b0ff/live/5691ef30-de3a-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イスラエル軍がガザ南部のナセル病院を攻撃、少なくとも5人殺害と民間防衛隊",
-      "url": "https://www.bbc.com/japanese/articles/cmr4g09x7z9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "イスラエル軍が12日、パレスチナ・ガザ地区南部ハンユニスのナセル病院の建物を攻撃し、少なくとも5人のパレスチナ人が殺された。ガザの武装組織ハマスが運営する民間防衛隊の関係者がBBCに語った。",
-      "published": "2026/11/12 16:19",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "《先行試乗》ファン熱望のMTモデル｢WRX STI Sport R｣で判明した真価――単なるMT化にとどまらないスバルの執念 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964468?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "SUBARU（以下､スバル）は2026年11月14日､スーパー耐久シリーズ最終戦開催中の富士スピードウェイでMT（マニュアルトランスミッション）のカタログモデル､｢WRX STI Sport R｣を…",
+      "published": "2026/11/14 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/9/1200w/img_29a16d55098574bf5b76c9ff0e19d739171963.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【独自】タマホームの保険金不正請求問題で新展開､火災保険の新規販売停止措置を損保大手が検討 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964722?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "注文住宅大手タマホームによる保険金の不正請求問題で､取引のある大手損害保険3社が､タマホームによる火災保険の新規販売（募集）を停止させる方向で検討に入ったことがわかりました。その背景について迫ります。",
-      "published": "2026/11/13 15:33",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1cd75e01f08f37ae91c2533b05bf85fc100988.jpg?nextgen=false"
+      "title": "秀長は本当に｢秀吉のブレーキ役｣だったのか？長生きしても失脚していたかもしれない\"納得の理由\" | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963011?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "秀長がもしもう少し長生きしていれば､その後の豊臣政権は変わったのではないか､と言われています。秀長は長生きしても､秀吉のブレーキ役ができていたでしょうか。",
+      "published": "2026/11/14 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/2/1200w/img_72a0063d033b51f9a1f6bf8bb5c3dfc1399938.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【独自】タマホームの保険金不正請求問題をめぐり､損保大手各社が火災保険の新規販売停止措置を検討 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964717?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "注文住宅大手タマホームによる保険金の不正請求問題で､取引のある大手損害保険3社が､タマホームによる火災保険の新規販売（募集）を停止させる方向で検討に入ったことがわかりました。その背景について迫ります。",
-      "published": "2026/11/13 15:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/6/1200w/img_16c537749defa57ae7e11ecbbad2a6ca150026.jpg?nextgen=false"
+      "title": "視覚障がい者マッサージがミャンマーで大繁盛､日本人が伝えた技術と｢自分たちで稼ぐ｣努力で100店舗を超えた理由 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964209?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "混乱と経済苦境の続くミャンマーで､視覚障がい者マッサージ店が増加し続けている背景には､技術を伝え､職業として自立できる場を築いた人々の努力がありました。なぜこの国で専門技術が根付いたのか､その知られ…",
+      "published": "2026/11/14 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/c/1200w/img_8c66934780a80ddd5ec21a6af977edfb854813.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "月収5万円で受診遅れ､2日後死亡…｢生きたくなかったのでは｣｢安楽死が必要｣と飛躍する世論に欠けた《4つの視点》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964728?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "経済的理由から医療受診を控え､肺がんと判明して2日後に亡くなった男性の悲劇が波紋を呼んでいます。私たちが考えるべき｢4つの視点｣を掘り下げます。",
-      "published": "2026/11/13 14:45",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/c/1200w/img_0ca619ddb5db70146587ace827544f56358024.jpg?nextgen=false"
+      "title": "〈書評〉『人口崩壊 データで見る人類の過去と未来』『僕と｢先生｣』『学校では習わない人生で役に立つ数学』 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964513?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『人口崩壊 データで見る人類の過去と未来』（ディーン･スピアーズ､マイケル･ジェルーソ 著）､『僕と｢先生｣』（長瀬海 著）､『学校では習わ…",
+      "published": "2026/11/14 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/1/1200w/img_f13dd86903922c6197caf5542223cdcb391002.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢私はスポーツが苦手です でも､ゆるスポーツは得意なんです｣　勝ち方を増やす競技の秘密とは？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962869?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢運動が苦手｣｢体育が嫌だった｣——そんな過去を持つ人でも､再びスポーツの楽しさに触れられる新たな扉が開かれ始めています。世界ゆるスポーツ協会が目指すのは､勝敗の多様な価値と､誰もが安心して参加でき…",
-      "published": "2026/11/13 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/c/1200w/img_7ce309f3c3c0ae7a489b151f62645659476657.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "｢主催者が逃亡？｣5万人来場のはずが…鳥取グルメフェス大炎上の根本原因　一方出演者の｢神対応｣にネット称賛 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964712?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "鳥取県倉吉市で開催されたご当地グルメイベントが､5万人集客の目標から大きく外れ､わずかな来場者数と運営トラブルで大炎上しました。現場で何が起き､主催者と出店者にどんな影響があったのか。地方イベントの…",
-      "published": "2026/11/13 12:40",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/a/1200w/img_1a1ef1f8290efa240b4680e3ffaad0cf77072.jpg?nextgen=false"
+      "title": "懐石のプロ直伝！｢だし不要｣で具材3つだけ､旬のほうれん草を堪能できる｢常夜鍋｣が\"意外な調味料\"で驚愕のおいしさ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964452?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "そろそろ鍋が恋しくなる季節。中でも｢常夜鍋｣は､作り方も簡単でシンプルな味わいが魅力です。かつて文化人をも虜にしたといわれますが､今回は懐石料理人に教わった意外なアプローチをご紹介します。新たなおい…",
+      "published": "2026/11/14 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/d/1200w/img_cd4e1e38139c91962683942de7ebd6a4987492.jpg?nextgen=false"
     }
   ]
 }
