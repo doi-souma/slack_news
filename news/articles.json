@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-14T06:23:00.877070+00:00",
+  "generated_at": "2026-11-15T06:31:37.274779+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続",
+      "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
+      "summary": "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名運動が拡大しており、署名サイト「Stand with Jensen」には11万人超が賛同している。イーロン・マスク氏らも名を連ねており、取締役会に公正な調査と退任理由の説明を求めている。米政府や議会による調査も並行して進んでおり、波紋が広がっている。",
+      "published": "2026/11/15 07:15",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -38,13 +47,13 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "【復旧】ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
-      "summary": "「JALも予約できない」という声も出ていた。【更新】",
-      "published": "2026/11/13 14:58",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
+      "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナに「永遠の平和」がもたらされることを望んでいる――。ロシアのウラジーミル・プーチン大統領はそう述べている。では、ロシア側が和平の前提条件としているものは何か。",
+      "published": "2026/11/14 15:02",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -58,29 +67,20 @@
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "全米の空港で航空機に約4時間の地上待機命令　「通信障害」と運輸長官は説明",
-      "url": "https://www.bbc.com/japanese/articles/c6kgdv88pr0po?at_medium=RSS&at_campaign=rss",
-      "summary": "米連邦航空局（FAA）は東部時間13日午後3時半（日本時間14日午前5時半）すぎ、全米の空港で全ての出発便に対し、地上待機命令を出した。「異常事態と安全上の理由」のためで、「通信障害」が原因だと説明した。FAAは命令から約4時間後の午後8時15分すぎに命令を解除し、ショーン・ダフィー運輸長官はホワイトハウスでの記者会見でフライト再開を発表した。",
-      "published": "2026/11/14 13:23",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1937/live/60f2ce80-dfc6-11f1-8235-7f489037889f.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
-      "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナに「永遠の平和」がもたらされることを望んでいる――。ロシアのウラジーミル・プーチン大統領はそう述べている。では、ロシア側が和平の前提条件としているものは何か。",
-      "published": "2026/11/14 15:02",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
       "title": "【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に",
       "url": "https://www.bbc.com/japanese/articles/cmy5xy6yvn95o?at_medium=RSS&at_campaign=rss",
       "summary": "米マイクロソフト（MS）の一部サービスで22時間以上にわたり続いた大規模障害は、日常生活に不可欠なサービスが、限られた大手テクノロジー企業にどれほど依存しているかを浮き彫りにし、疑問を投げかける出来事となった。",
       "published": "2026/11/14 11:36",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7bb3/live/3e9f8480-dfcc-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "全米の空港で航空機に約4時間の地上待機命令　「通信障害」と運輸長官は説明",
+      "url": "https://www.bbc.com/japanese/articles/c6kgdv88pr0po?at_medium=RSS&at_campaign=rss",
+      "summary": "米連邦航空局（FAA）は東部時間13日午後3時半（日本時間14日午前5時半）すぎ、全米の空港で全ての出発便に対し、地上待機命令を出した。「異常事態と安全上の理由」のためで、「通信障害」が原因だと説明した。FAAは命令から約4時間後の午後8時15分すぎに命令を解除し、ショーン・ダフィー運輸長官はホワイトハウスでの記者会見でフライト再開を発表した。",
+      "published": "2026/11/14 13:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1937/live/60f2ce80-dfc6-11f1-8235-7f489037889f.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -94,47 +94,47 @@
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《先行試乗》ファン熱望のMTモデル｢WRX STI Sport R｣で判明した真価――単なるMT化にとどまらないスバルの執念 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964468?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "SUBARU（以下､スバル）は2026年11月14日､スーパー耐久シリーズ最終戦開催中の富士スピードウェイでMT（マニュアルトランスミッション）のカタログモデル､｢WRX STI Sport R｣を…",
-      "published": "2026/11/14 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/9/1200w/img_29a16d55098574bf5b76c9ff0e19d739171963.jpg?nextgen=false"
+      "title": "中小企業が｢海外での知名度を上げる｣のは夢じゃない？｢人手なし･お金なし｣でも問題なしの【海外PR術】 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963352?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "多くの中小企業が海外進出を試みる中､限られた予算や人脈でどのようにPR活動を展開すれば成功できるのでしょうか。本記事では､｢ひこにゃん｣の仕掛け人･殿村美樹氏が､自身の体験と中小企業の実例をもとに､…",
+      "published": "2026/11/15 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/e/1200w/img_aec8b44ae96d2dde1de34ce526cce02091750.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "秀長は本当に｢秀吉のブレーキ役｣だったのか？長生きしても失脚していたかもしれない\"納得の理由\" | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963011?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "秀長がもしもう少し長生きしていれば､その後の豊臣政権は変わったのではないか､と言われています。秀長は長生きしても､秀吉のブレーキ役ができていたでしょうか。",
-      "published": "2026/11/14 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/2/1200w/img_72a0063d033b51f9a1f6bf8bb5c3dfc1399938.jpg?nextgen=false"
+      "title": "《豊臣兄弟！》秀吉が\"秀長すら面会拒絶\"するほど激怒､軍功挙げるも最後には｢処刑されてしまった｣秀長の家臣 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964095?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第48回も前回に引き続き､秀長を支えた個性豊かな家臣たちについて真山知幸氏が解説します。",
+      "published": "2026/11/15 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/7/1200w/img_170f352f86565be7351c4652b2d942f5710342.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "視覚障がい者マッサージがミャンマーで大繁盛､日本人が伝えた技術と｢自分たちで稼ぐ｣努力で100店舗を超えた理由 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964209?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "混乱と経済苦境の続くミャンマーで､視覚障がい者マッサージ店が増加し続けている背景には､技術を伝え､職業として自立できる場を築いた人々の努力がありました。なぜこの国で専門技術が根付いたのか､その知られ…",
-      "published": "2026/11/14 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/8/c/1200w/img_8c66934780a80ddd5ec21a6af977edfb854813.jpg?nextgen=false"
+      "title": "寒い夜は火鍋に挑戦！家でできるレシピを漢方薬剤師が紹介　いつもの鍋にもひと工夫\"冷えと乾燥から体を守る\"食材9選 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964549?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "寒さが厳しくなる季節､体を温めながらバランスよく食べられる鍋料理は心強い味方です。家で作るのは大変と思われがちな火鍋も､実はいくつかのスパイスがあれば手軽に楽しめます。漢方の知恵を取り入れた､冬の鍋…",
+      "published": "2026/11/15 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/8/1200w/img_b8ffe689e040ddc128aeb456babd97d9258021.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈書評〉『人口崩壊 データで見る人類の過去と未来』『僕と｢先生｣』『学校では習わない人生で役に立つ数学』 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964513?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『人口崩壊 データで見る人類の過去と未来』（ディーン･スピアーズ､マイケル･ジェルーソ 著）､『僕と｢先生｣』（長瀬海 著）､『学校では習わ…",
-      "published": "2026/11/14 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/1/1200w/img_f13dd86903922c6197caf5542223cdcb391002.jpg?nextgen=false"
+      "title": "過剰にあおる台湾有事論に懸念､単純化せず冷静に歴史を見よ 『台湾有事』五十嵐隆幸氏に聞く | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964512?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "いま話題になっている本の著者に､じっくりとインタビュー。今回は『台湾有事 歴史･軍事･安定のメカニズム』の著者､目白大学外国語学部准教授の五十嵐隆幸氏に話を聞きました。",
+      "published": "2026/11/15 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/5/1200w/img_4541493674f98d64a1f3c2c90b4e7f3a205360.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "懐石のプロ直伝！｢だし不要｣で具材3つだけ､旬のほうれん草を堪能できる｢常夜鍋｣が\"意外な調味料\"で驚愕のおいしさ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964452?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "そろそろ鍋が恋しくなる季節。中でも｢常夜鍋｣は､作り方も簡単でシンプルな味わいが魅力です。かつて文化人をも虜にしたといわれますが､今回は懐石料理人に教わった意外なアプローチをご紹介します。新たなおい…",
-      "published": "2026/11/14 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/d/1200w/img_cd4e1e38139c91962683942de7ebd6a4987492.jpg?nextgen=false"
+      "title": "｢環境のため｣が独りよがりにならないために―パタゴニア→Jリーグ執行役員が失敗から学んだ｢相手の靴を履く｣大切さ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963704?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "気候変動に挑むJリーグのサステナ部。その中心を担うのは､元パタゴニア日本支社長･辻井隆行氏です。異業種で積んだ経験や失敗から学んだ｢相手の靴を履く｣姿勢は､組織内外の共感と行動を生み出します。変革に…",
+      "published": "2026/11/15 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/1/1200w/img_519ec1a014a6f615efb4905540894a48409323.jpg?nextgen=false"
     }
   ]
 }
