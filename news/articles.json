@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-11-19T07:25:25.285201+00:00",
+  "generated_at": "2026-11-20T07:15:39.519523+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003334/",
-      "summary": "nginx脆弱性を受け、木原稔官房長官は利用事業者に対して「必要な措置を取ることをお願いしたい」と呼び掛けた。",
-      "published": "2026/11/19 15:30",
+      "title": "ドンキのAI社員「近藤あい」が正式デビュー　販促POPや動画で活躍へ　運営元「すでに裏に20人ぐらいいる」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
+      "summary": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。",
+      "published": "2026/11/20 15:11",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
-      "summary": "MicrosoftのAIエージェント開発用SDK「Microsoft Agent Framework」のPythonパッケージが侵害され、認証情報を盗む不正版「1.26.1」「1.26.2」がPyPIで一時公開された。Python起動時に自動実行され、クラウドやGitHubの認証情報を外部へ送信する。両版は削除済みで、影響環境での認証情報再発行や環境再構築が呼び掛けられている。",
-      "published": "2026/11/19 14:58",
+      "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
+      "summary": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
+      "published": "2026/11/20 13:29",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
-      "summary": "日本政府の国家サイバー統括室も19日に注意喚起し、速やかなアップデートの適用を呼び掛けた。",
-      "published": "2026/11/19 14:11",
+      "title": "ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか　決済画面改ざんされる",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/",
+      "summary": "不正アクセスにより決済画面が改ざんされ、顧客が入力したカード情報が外部へ送信される状態になっていた。",
+      "published": "2026/11/20 13:05",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "職人の技、AIで見える化　工科高校でモーションキャプチャー　企業の8割超が継承に不安",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003324/",
-      "summary": "日本のものづくりを支える職人の高齢化が進む中、経験や勘に頼ってきた技術を人工知能（AI）で「見える化」し、次世代に伝える取り組みが広がりつつある。",
-      "published": "2026/11/19 12:16",
+      "title": "掘らずに地中レーダー探査、AI分析も　奈良文化財研究所が挑む次世代のサイバー考古学",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003362/",
+      "summary": "奈良文化財研究所（奈文研、奈良市）が少子高齢化や人件費高騰が進む中、発掘調査方法の見直しを模索している。",
+      "published": "2026/11/20 12:01",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
-      "summary": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。",
-      "published": "2026/11/19 12:00",
+      "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携　2029年に衛星打ち上げへ",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
+      "summary": "Googleは、衛星軌道上にAIデータセンターを構築する「Project Suncatcher」でジェフ・ベゾス氏率いる米Blue Originと提携したと発表した。2029年第1四半期を目標に、大型ロケット「New Glenn」で衛星を太陽同期軌道へ打ち上げる。各衛星はデータセンターのラック1本分程度の計算能力を持つとしている。",
+      "published": "2026/11/20 09:25",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米中ロ3首脳、顔を合わせ握手　中国での歴史的会談を前に",
-      "url": "https://www.bbc.com/japanese/articles/ck782wyn9974o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領とロシアのプーチン大統領が18日、中国・深圳で習国家主席の歓迎を受けたあと、顔を合わせた。米ロ首脳の対面は1年以上ぶり。19日午後には、この3首脳による歴史的な会談が予定されている。",
-      "published": "2026/11/19 10:42",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d52f/live/cb5df270-e3ba-11f1-a094-5fdc692f3e33.jpg"
+      "title": "欧州諸国首脳、ウクライナでの戦争終結に向けてロシアと協議する用意あると",
+      "url": "https://www.bbc.com/japanese/articles/cvwy0n8p07r7o?at_medium=RSS&at_campaign=rss",
+      "summary": "ドイツ・ベルリンで19日、ウクライナ支援の「有志連合」の首脳会合が開かれた。欧州各国の首脳は、ウクライナへの強力な支持を示し、ウクライナでの戦争終結に向けてロシアと協議する用意があると表明した。",
+      "published": "2026/11/20 13:58",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1194/live/45b53330-e447-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】 プーチン氏にとって米中ロ首脳会談は快挙＝BBCロシア編集長",
-      "url": "https://www.bbc.com/japanese/articles/crlyenvl96jqo?at_medium=RSS&at_campaign=rss",
-      "summary": "19日に予定されている歴史的な米中ロ首脳会談は、ロシアのプーチン大統領にとって、大きな舞台に立って脚光を浴びる絶好の機会となるかもしれない。だがそれは必ずしも、彼をウクライナでの戦争での勝利に近づけるものではない。",
-      "published": "2026/11/19 12:24",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg"
+      "title": "米中ロ3首脳が「平和宣言」を発表、歴史的な会談後",
+      "url": "https://www.bbc.com/japanese/articles/c6702wn1xkepo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカのドナルド・トランプ大統領、中国の習近平国家主席、ロシアのウラジーミル・プーチン大統領は19日、歴史的な3カ国首脳会談の後、「平和宣言」を発表した。共同宣言の中で3カ国は「核戦争に勝利することは不可能であり、決して戦ってはならない」と述べたほか、石油の生産と供給を増やす計画を表明した。また、地球規模の課題により効果的に対応できるよう、「国連の改革に取り組む」とも述べた。",
+      "published": "2026/11/20 10:12",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/533e/live/81ce2550-e430-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米民主党、下院議長にジェフリーズ氏を指名　黒人として初就任の公算大",
-      "url": "https://www.bbc.com/japanese/articles/cqy4jmk887v1o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの民主党は18日、次期下院議長の候補としてハキーム・ジェフリーズ氏を正式に指名した。選出されれば黒人として初の下院議長となる。",
-      "published": "2026/11/19 14:24",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
+      "title": "ミャンマー軍はロヒンギャにジェノサイドと認定　国際司法裁判所",
+      "url": "https://www.bbc.com/japanese/articles/crq5vz4j0xlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "ミャンマーの少数派イスラム教徒ロヒンギャに対してジェノサイド（集団殺害）が行われたとして、西アフリカのガンビアがイスラム諸国を代表してミャンマーを訴えた裁判で、国際司法裁判所（ICJ）は19日、ミャンマーによるジェノサイドを認定する判決を言い渡した。ICJが国家によるジェノサイドを認定するのは、史上初めて。",
+      "published": "2026/11/20 10:27",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ゴッホ晩年の作品、記録的な1億9040万ドルで落札　ナチスとの関係めぐり論争",
-      "url": "https://www.bbc.com/japanese/articles/cx30gd42zv3mo?at_medium=RSS&at_campaign=rss",
-      "summary": "『花咲くシャテーニエ』は、フィンセント・ファン・ゴッホの晩年の2ヶ月間、1890年に描かれた作品である。",
-      "published": "2026/11/19 13:22",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg"
+      "title": "膵臓がん治療薬の臨床試験で一部の患者の腫瘍消失、効果に大きな期待",
+      "url": "https://www.bbc.com/japanese/articles/ckpdwe1gwyyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "新薬ダラキソンラシブの初期の臨床試験では、同薬を化学療法と併用し毎日服用した被験者の12人に1人で、がんが検出されなくなった。また、膵臓がんが進行し、体の他の部位に転移していると診断された参加者61人のほぼ全員で、腫瘍の増殖が止まった。",
+      "published": "2026/11/20 12:40",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イスラエル軍、ガザ地区で「撤退ライン」越える地上作戦を開始",
-      "url": "https://www.bbc.com/japanese/articles/cj62p6q10xngo?at_medium=RSS&at_campaign=rss",
-      "summary": "イスラエル軍は18日、支配下にないパレスチナ・ガザ地区の一部地域で、異例の地上作戦を開始した。作戦前には、住民に避難命令が出された。イスラエル軍は、「イエローライン」と呼ばれる撤退ラインを越えた場所にある「テロトンネル」の解体が目的だとしているが、ハマスは「露骨な停戦合意違反」だと非難した。",
-      "published": "2026/11/19 13:29",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+      "title": "米アンソロピックが上場、AI企業として初　投資と技術の行方は",
+      "url": "https://www.bbc.com/japanese/articles/cx24e1zed21ro?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの人工知能（AI）開発大手アンソロピックは19日、ハイテク株を取り扱う米ナスダックに新規上場した。時価総額は約1兆7600億ドル（約281兆円）に達し、世界で最も市場価値の高い企業の一つになった。主要AI企業が上場したのは今回が初めて。AI技術の発展には莫大な資金が投入されているだけに、業界にとって重要な試金石となる。",
+      "published": "2026/11/20 14:57",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "評価額は約1兆5000億ドル､アンソロピックのIPOで莫大な利益を得る投資家の横顔 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965352?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AIチャットボット｢Claude（クロード）｣を手掛ける米アンソロピックの記録的な新規株式公開（IPO）により､同社に巨額を投じてきた複数の金融会社は数十億ドル規模のリターンを得る見通しだ。アンソロ…",
-      "published": "2026/11/19 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/7/1200w/img_076b0dd6a840e52566e9493ef174d4f2602992.jpg?nextgen=false"
+      "title": "｢ナオキマンは岸田元首相と高市首相の隠し子｣説まで…陰謀論YouTuberを起用した政府広報が招いた\"悪夢のゲーム\" | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965465?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "政府広報が都市伝説系YouTuberを起用した安全保障特集がSNS上で大炎上。その背景には､感情に訴え｢共感｣や｢恐怖｣で若者に政策を届ける国家の\"感情の統治\"戦略が見え隠れします。",
+      "published": "2026/11/20 15:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/a/1200w/img_dac5268e41560615d90e074b8f48ef40215367.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【米中会談】トランプ米大統領はエヌビディアを巡るスパイ疑惑を重要視せず､習近平国家主席との｢友情｣を強調 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965345?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "半導体規制やスパイ疑惑が渦巻く一方､トランプ大統領は｢友情｣と｢勝利｣を強調しました。",
-      "published": "2026/11/19 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/d/1200w/img_cd1ce89012adb8d36319c729ff665082678513.jpg?nextgen=false"
+      "title": "｢高校生の門限レベル｣と批判殺到も…NHKの｢飲み会22時まで｣通達を叩く\"ネット世論\"に欠けた《本質的な視点》 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965498?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "NHKが発表した\"飲酒を伴う会食\"の行動指針が世間の大きな議論を呼んでいます。不祥事を背景に､22時ルールの導入やガイドライン化が発表される一方､SNSでは｢制限より本質的対策を｣と批判も噴出。はた…",
+      "published": "2026/11/20 15:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/e/b/1200w/img_eb6025115cc9d27f4cf0975a4ea5048c502718.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "【歓迎格差】トランプ米大統領は習氏が自ら出迎え､領有権対立ある比マルコス大統領でさえ高市首相より良い待遇 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965342?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "国際会議の舞台裏で注目された､中国による各国首脳への空港での\"出迎え\"には､緻密に計算された外交メッセージが込められています。トランプ大統領を自ら迎えた習近平主席の姿や､日本･高市首相への冷淡な対応…",
-      "published": "2026/11/19 13:22",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/4/1200w/img_c453528daba817ced19792f00e26598d585530.jpg?nextgen=false"
+      "title": "中国\"冷遇\"に垣間見えた習近平の｢ツンデレ｣は何を意味するのか？ 台湾有事発言から1年経過で試される高市首相の\"度量\" | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965477?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国･深圳でAPEC首脳会議に臨んだ高市首相。空港などでの冷遇ぶりがセンセーショナルに報道されましたが､一方で中国側には微妙な態度の変化も見られました。関係改善の糸口は見つかるのか､高市首相の決断が…",
+      "published": "2026/11/20 15:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/5/1200w/img_153fa4c3ba15e9806554cc3b25ce383d98990.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ロールスロイスを安売りしていたようなもの…長年の懸案だった《価格改定》実現させた｢ファーストペンギン｣の勇気 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963324?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "縮小する市場､不可能と思われた目標､そして長年解決できなかった経営課題――現場の意識と行動が変わる瞬間､組織はどのように進化するのでしょうか。誇りと自信が伝播し､一枚岩のチームへ変わった事例から､組…",
-      "published": "2026/11/19 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/8/1200w/img_586ecafb3fc8136ed09e9ed735a93de1252474.jpg?nextgen=false"
+      "title": "ソ連への勢力圏容認を彷彿とさせる｢ヤルタ2.0｣体制の出現…｢法の支配｣を無視した国際秩序構築にどう対抗できるか | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965463?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "米中ロ､三大国による歴史的首脳会談が深圳で実現。戦後秩序を築いた｢ヤルタ会議｣を彷彿とさせる動きに､ウクライナや東欧は危機感を募らせています。彼らの主張する大国主導論ははたして新たな世界安定の礎とな…",
+      "published": "2026/11/20 13:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/5/1200w/img_05e33d0e850ca0f4b4935a8c6aa282a368926.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢まず豚肉を炒めます｣が失敗のもと…プロ直伝｢豚汁が劇的に旨くなる｣新常識 今晩から試せる簡単テクニックとは | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964638?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "家庭の定番メニュー｢豚汁｣。実は普段の調理法が､そのおいしさを半減させているかもしれません。人気の料理研究家･小田真規子さんが教える､豚肉と野菜のおいしさを最大限に引き出す意外なコツとは？　知れば納…",
-      "published": "2026/11/19 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/1/1200w/img_71f539cc06287579de661036f79b1694917899.jpg?nextgen=false"
+      "title": "日陰を集める遊びが､街を変える？　近視を抑えるために｢外で過ごす時間を増やす｣という新発想とは？ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962871?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "猛暑の中､子どもに｢外で遊ぼう｣と促しても､なかなか行動にはつながりません。しかし､近視抑制には屋外で過ごす時間が大切。暑さと安全に配慮しつつ､子どもが自ら楽しみながら外に出たくなる仕掛けや遊びとは…",
+      "published": "2026/11/20 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/c/1200w/img_bc5ccb38bfe16d2a2a14926b43f23dae506119.jpg?nextgen=false"
     }
   ]
 }
