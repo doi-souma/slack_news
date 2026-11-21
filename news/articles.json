@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-20T07:15:39.519523+00:00",
+  "generated_at": "2026-11-21T07:07:35.586248+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか　7月末から第三者がアクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+      "summary": "デジタル庁は11月20日、政府共通の業務環境「GSS」のファイル共有サービスで、ファイルの一部が外部に漏えいした可能性があると発表した。7月30日から11月12日までの間、正規の共有相手先以外の者によるアクセスがあったことを確認したという。個人情報が含まれることも想定されるとして、個人情報保護委員会に報告した。",
+      "published": "2026/11/20 21:18",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "韓国大学入試で電子機器不正111件摘発　AI受験疑惑巡り死者も発生",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
+      "summary": "韓国教育省は11月20日、19日に実施された大学修学能力試験（修能、日本の大学入学共通テストに相当）で、スマートグラス（AI眼鏡）など電子機器の扱いを巡り111件の不正行為が確認されたと明らかにした。",
+      "published": "2026/11/20 17:48",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
+      "summary": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。",
+      "published": "2026/11/20 17:13",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "H3ロケット打ち上げ、JAXAから三菱重工に移管　来年1月の11号機から",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+      "summary": "27年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。",
+      "published": "2026/11/20 17:09",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -11,40 +47,40 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
-      "summary": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
-      "published": "2026/11/20 13:29",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "英・EU、食品輸出や青少年プログラムなどで合意　関係深化を検討するとバーナム英首相",
+      "url": "https://www.bbc.com/japanese/articles/c61wr0wnnpxpo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリスと欧州連合（EU）は20日、イギリスの食品輸出、排出量取引、青少年体験プログラムなどに関する合意に達した。バーナム英首相は、EUとのより緊密な関係構築に向けた選択肢について今後、協議していくと述べた。",
+      "published": "2026/11/21 12:45",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか　決済画面改ざんされる",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/",
-      "summary": "不正アクセスにより決済画面が改ざんされ、顧客が入力したカード情報が外部へ送信される状態になっていた。",
-      "published": "2026/11/20 13:05",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
+      "url": "https://www.bbc.com/japanese/articles/cxg5rdrdlq6no?at_medium=RSS&at_campaign=rss",
+      "summary": "ポーランド政府は20日、ロシアが夜間にポーランド領空を侵犯したと発表した。同日未明に領空を侵犯した三つの物体のうち、一つはロシアの巡航ミサイルだったという。負傷者はなく損害もないものの、ロシアによる「挑発」だとポーランドは非難した。ドナルド・トゥスク首相は、西側諸国の軍事演習が近くで行われているタイミングと重なったのは、偶然ではないとの見方を示した。",
+      "published": "2026/11/21 11:03",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "掘らずに地中レーダー探査、AI分析も　奈良文化財研究所が挑む次世代のサイバー考古学",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003362/",
-      "summary": "奈良文化財研究所（奈文研、奈良市）が少子高齢化や人件費高騰が進む中、発掘調査方法の見直しを模索している。",
-      "published": "2026/11/20 12:01",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張",
+      "url": "https://www.bbc.com/japanese/articles/cwlyl6ymz841o?at_medium=RSS&at_campaign=rss",
+      "summary": "米アンソロピックに所属する数学者が20日、同社のAI「クロード」を使い、数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自分のウエブサイトで発表した。「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株を扱う米ナスダックに新規上場したばかり。",
+      "published": "2026/11/21 12:52",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携　2029年に衛星打ち上げへ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
-      "summary": "Googleは、衛星軌道上にAIデータセンターを構築する「Project Suncatcher」でジェフ・ベゾス氏率いる米Blue Originと提携したと発表した。2029年第1四半期を目標に、大型ロケット「New Glenn」で衛星を太陽同期軌道へ打ち上げる。各衛星はデータセンターのラック1本分程度の計算能力を持つとしている。",
-      "published": "2026/11/20 09:25",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米ナスダック急落、アンソロピック株も　ハイテク株に売り圧力",
+      "url": "https://www.bbc.com/japanese/articles/cx62pzp8dgv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "20日の米株式市場では、ハイテク株が幅広く売られ、市場全体を押し下げた。前日に上場し急騰したばかりのAI開発大手アンソロピック株も、公開価格の水準まで下落した。",
+      "published": "2026/11/21 10:58",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -56,85 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1194/live/45b53330-e447-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米中ロ3首脳が「平和宣言」を発表、歴史的な会談後",
-      "url": "https://www.bbc.com/japanese/articles/c6702wn1xkepo?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのドナルド・トランプ大統領、中国の習近平国家主席、ロシアのウラジーミル・プーチン大統領は19日、歴史的な3カ国首脳会談の後、「平和宣言」を発表した。共同宣言の中で3カ国は「核戦争に勝利することは不可能であり、決して戦ってはならない」と述べたほか、石油の生産と供給を増やす計画を表明した。また、地球規模の課題により効果的に対応できるよう、「国連の改革に取り組む」とも述べた。",
-      "published": "2026/11/20 10:12",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/533e/live/81ce2550-e430-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "ミャンマー軍はロヒンギャにジェノサイドと認定　国際司法裁判所",
-      "url": "https://www.bbc.com/japanese/articles/crq5vz4j0xlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "ミャンマーの少数派イスラム教徒ロヒンギャに対してジェノサイド（集団殺害）が行われたとして、西アフリカのガンビアがイスラム諸国を代表してミャンマーを訴えた裁判で、国際司法裁判所（ICJ）は19日、ミャンマーによるジェノサイドを認定する判決を言い渡した。ICJが国家によるジェノサイドを認定するのは、史上初めて。",
-      "published": "2026/11/20 10:27",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "膵臓がん治療薬の臨床試験で一部の患者の腫瘍消失、効果に大きな期待",
-      "url": "https://www.bbc.com/japanese/articles/ckpdwe1gwyyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "新薬ダラキソンラシブの初期の臨床試験では、同薬を化学療法と併用し毎日服用した被験者の12人に1人で、がんが検出されなくなった。また、膵臓がんが進行し、体の他の部位に転移していると診断された参加者61人のほぼ全員で、腫瘍の増殖が止まった。",
-      "published": "2026/11/20 12:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米アンソロピックが上場、AI企業として初　投資と技術の行方は",
-      "url": "https://www.bbc.com/japanese/articles/cx24e1zed21ro?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカの人工知能（AI）開発大手アンソロピックは19日、ハイテク株を取り扱う米ナスダックに新規上場した。時価総額は約1兆7600億ドル（約281兆円）に達し、世界で最も市場価値の高い企業の一つになった。主要AI企業が上場したのは今回が初めて。AI技術の発展には莫大な資金が投入されているだけに、業界にとって重要な試金石となる。",
-      "published": "2026/11/20 14:57",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢\"三日坊主\"を英語で｣がとっさにわからなくても大丈夫→わざわざ調べなくても伝えられる｢シンプルな発想｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964730?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢三日坊主｣を英語でどう説明しますか？実は1970年の東大入試で出題されたこの問いは､単語力ではなく｢自分の言葉での言い換え力｣を試すもの。難しさの正体や､身近な表現で課題を乗り越えるコツを探りませ…",
+      "published": "2026/11/21 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/3/1200w/img_33ff3cdc267c57754a72a9f2b0645bf5179745.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢ナオキマンは岸田元首相と高市首相の隠し子｣説まで…陰謀論YouTuberを起用した政府広報が招いた\"悪夢のゲーム\" | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965465?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "政府広報が都市伝説系YouTuberを起用した安全保障特集がSNS上で大炎上。その背景には､感情に訴え｢共感｣や｢恐怖｣で若者に政策を届ける国家の\"感情の統治\"戦略が見え隠れします。",
-      "published": "2026/11/20 15:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/a/1200w/img_dac5268e41560615d90e074b8f48ef40215367.jpg?nextgen=false"
+      "title": "《豊臣兄弟！》秀長が\"死の間際\"に1人で苦悩…本当は兄･秀吉に異見をしたかった｢重大な話｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963648?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "秀吉の弟であり､｢豊臣兄弟！｣の主役である秀長は､死の間際に秀吉のことを憂慮していたといいます。いったい何に憂慮していたのでしょうか。",
+      "published": "2026/11/21 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/e/1200w/img_1ef21bc456717f01cc59bff3bd2ef4a3851068.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢高校生の門限レベル｣と批判殺到も…NHKの｢飲み会22時まで｣通達を叩く\"ネット世論\"に欠けた《本質的な視点》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965498?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "NHKが発表した\"飲酒を伴う会食\"の行動指針が世間の大きな議論を呼んでいます。不祥事を背景に､22時ルールの導入やガイドライン化が発表される一方､SNSでは｢制限より本質的対策を｣と批判も噴出。はた…",
-      "published": "2026/11/20 15:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/b/1200w/img_eb6025115cc9d27f4cf0975a4ea5048c502718.jpg?nextgen=false"
+      "title": "新庄監督の｢塁上での挨拶禁止｣提言に球界から賛同の声　打席のバースデーソングにも｢不要論｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965216?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本ハム･新庄剛志監督が｢塁上挨拶禁止令｣を発したことで､プロ野球における礼儀と勝負のバランスが問われています。相手選手や審判との頻繁な交流はスポーツマンシップか､それとも勝負の妨げか――？　新たな…",
+      "published": "2026/11/21 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/c/1200w/img_2cae29f9fae3d482efbb845356702e6e397997.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "中国\"冷遇\"に垣間見えた習近平の｢ツンデレ｣は何を意味するのか？ 台湾有事発言から1年経過で試される高市首相の\"度量\" | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965477?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "中国･深圳でAPEC首脳会議に臨んだ高市首相。空港などでの冷遇ぶりがセンセーショナルに報道されましたが､一方で中国側には微妙な態度の変化も見られました。関係改善の糸口は見つかるのか､高市首相の決断が…",
-      "published": "2026/11/20 15:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/1/5/1200w/img_153fa4c3ba15e9806554cc3b25ce383d98990.jpg?nextgen=false"
+      "title": "ビッグモーター問題はなぜ起きたのか？　損害保険会社の文化には大数の法則を盾にした｢量の文化｣が内在している | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965194?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "損害保険業界では､不祥事がたびたび表面化し､その背景には企業内部に根付く｢文化｣の違いが潜んでいます。",
+      "published": "2026/11/21 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/9/1200w/img_99c227646709d9e32347507a60ebae0b146355.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "ソ連への勢力圏容認を彷彿とさせる｢ヤルタ2.0｣体制の出現…｢法の支配｣を無視した国際秩序構築にどう対抗できるか | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965463?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "米中ロ､三大国による歴史的首脳会談が深圳で実現。戦後秩序を築いた｢ヤルタ会議｣を彷彿とさせる動きに､ウクライナや東欧は危機感を募らせています。彼らの主張する大国主導論ははたして新たな世界安定の礎とな…",
-      "published": "2026/11/20 13:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/0/5/1200w/img_05e33d0e850ca0f4b4935a8c6aa282a368926.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "日陰を集める遊びが､街を変える？　近視を抑えるために｢外で過ごす時間を増やす｣という新発想とは？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962871?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "猛暑の中､子どもに｢外で遊ぼう｣と促しても､なかなか行動にはつながりません。しかし､近視抑制には屋外で過ごす時間が大切。暑さと安全に配慮しつつ､子どもが自ら楽しみながら外に出たくなる仕掛けや遊びとは…",
-      "published": "2026/11/20 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/c/1200w/img_bc5ccb38bfe16d2a2a14926b43f23dae506119.jpg?nextgen=false"
+      "title": "\"成功の代名詞\"Netflixでさえ株価が一時7割下落した…それでも世界の巨大企業がこぞって\"サブスク\"に賭ける理由 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963209?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "音楽や動画､クラウドサービスまで､現代ビジネスは｢サブスク｣が主流。しかし､巨額投資も収益化も､すべては会員数のスケール次第です。GAFAMやウォルマートがなぜ継続課金に集中するのか､そこにある落と…",
+      "published": "2026/11/21 10:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/7/1200w/img_c701e5378b5506e7ecef3ac676c13ed6123954.jpg?nextgen=false"
     }
   ]
 }
