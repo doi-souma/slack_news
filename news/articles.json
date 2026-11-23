@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-22T06:48:10.094324+00:00",
+  "generated_at": "2026-11-23T07:38:53.554515+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "「Microsoft To Do」、2027年6月にアプリ提供終了　法人向けは「Planner」へ移行、個人向けは代替なし",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
+      "summary": "Microsoftは、タスク管理アプリ「Microsoft To Do」の全プラットフォーム向けアプリを2027年6月30日に提供終了すると発表した。職場・学校アカウント向けには「Microsoft Planner」を後継として案内するが、個人アカウントでは利用できず、代替アプリへの移行を勧めている。既存データは自動移行されない。",
+      "published": "2026/11/23 12:12",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "高級感のためだけじゃない　財布やバッグの新しいアイデアが“革製品”から生まれる理由",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003389/",
+      "summary": "革製品の魅力は高級感だけではない。留め具なしで閉じる薄い財布、パンツのポケットに収まる長財布、平たく畳める革のバッグ。どれも、革という素材でなければ成立しない仕掛けで作られているのだ。5年半続いた連載の最終回は、筆者が何年も愛用してきた財布とバッグから、革製品が“新しいアイデアの実験場”になる理由を探る。",
+      "published": "2026/11/23 10:00",
+      "image_url": ""
+    },
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "summary": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+      "published": "2026/11/23 07:49",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -20,31 +47,22 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか　7月末から第三者がアクセス",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
-      "summary": "デジタル庁は11月20日、政府共通の業務環境「GSS」のファイル共有サービスで、ファイルの一部が外部に漏えいした可能性があると発表した。7月30日から11月12日までの間、正規の共有相手先以外の者によるアクセスがあったことを確認したという。個人情報が含まれることも想定されるとして、個人情報保護委員会に報告した。",
-      "published": "2026/11/20 21:18",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "COP31、気候変動対策で主要合意に至らず閉幕　深い対立があらわに",
+      "url": "https://www.bbc.com/japanese/articles/c6n83zyvj5pro?at_medium=RSS&at_campaign=rss",
+      "summary": "国連気候変動枠組み条約第31回締約国会議（COP31）がトルコで開催され、気候変動対策の新たな主要合意に達することができないまま、22日に閉幕した。化石燃料と活動資金をめぐって参加国間で深刻な対立が生じ、会期を2日間延長して協議を続けたが、結果を出せなかった。",
+      "published": "2026/11/23 12:17",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg"
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "韓国大学入試で電子機器不正111件摘発　AI受験疑惑巡り死者も発生",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
-      "summary": "韓国教育省は11月20日、19日に実施された大学修学能力試験（修能、日本の大学入学共通テストに相当）で、スマートグラス（AI眼鏡）など電子機器の扱いを巡り111件の不正行為が確認されたと明らかにした。",
-      "published": "2026/11/20 17:48",
-      "image_url": ""
-    },
-    {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
-      "summary": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。",
-      "published": "2026/11/20 17:13",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局",
+      "url": "https://www.bbc.com/japanese/articles/cm205xnej3z7o?at_medium=RSS&at_campaign=rss",
+      "summary": "リビア・ベンガジ湾の海軍基地で22日、停泊中のロシアの軍艦が爆発した。リビア東部を拠点とする国民安定政府は同日、爆発はドローン攻撃によるものとみられると発表した。",
+      "published": "2026/11/23 12:14",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -74,67 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米ナスダック急落、アンソロピック株も　ハイテク株に売り圧力",
-      "url": "https://www.bbc.com/japanese/articles/cx62pzp8dgv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "20日の米株式市場では、ハイテク株が幅広く売られ、市場全体を押し下げた。前日に上場し急騰したばかりのAI開発大手アンソロピック株も、公開価格の水準まで下落した。",
-      "published": "2026/11/21 10:58",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "欧州諸国首脳、ウクライナでの戦争終結に向けてロシアと協議する用意あると",
-      "url": "https://www.bbc.com/japanese/articles/cvwy0n8p07r7o?at_medium=RSS&at_campaign=rss",
-      "summary": "ドイツ・ベルリンで19日、ウクライナ支援の「有志連合」の首脳会合が開かれた。欧州各国の首脳は、ウクライナへの強力な支持を示し、ウクライナでの戦争終結に向けてロシアと協議する用意があると表明した。",
-      "published": "2026/11/20 13:58",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1194/live/45b53330-e447-11f1-a094-5fdc692f3e33.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "｢俺の実力は一流｣｢周りはアホばかり｣売れない漫画家志望者が豪語する衝撃の持論　漫画｢今日も1コマ描いてねる｣3話 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964322?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "28歳、バンド解散、貯金なしのフリーター。「生きてる意味がない」とまで思い詰めた元バンドマンが、もう一度夢を追うために選んだのは、1日1コマずつ漫画を描くことだった。小さな一歩を積み重ねる再出発の物…",
+      "published": "2026/11/23 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/2/7/1200w/img_272a11ddc4c0c2d49782b530da8dd970388788.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "《｢何を覚えた？｣は逆効果》学習漫画で子どもの知識を広げる､親の｢さりげない声かけ｣とは？ | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964138?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "学習漫画を子どもに読ませる時､ついつい本当に知識が定着しているか不安になる親は多いもの。しかし､親が聞きがちな｢何を覚えた？｣という問いかけが､むしろ子どもの学びを妨げているかもしれません。",
-      "published": "2026/11/22 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/0/1200w/img_e00303756458a150e66d100be622d3c3415558.jpg?nextgen=false"
+      "title": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965578?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年､経済成長著しい深圳で開催されたAPEC首脳会議。米中ロの｢G3｣会談や､不透明なWTO議論､さらには日本首相への\"冷遇\"も波紋を呼びました。大国の思惑が交錯する中､国際秩序と日本の立ち位…",
+      "published": "2026/11/23 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/1/e/1200w/img_1e561b7f0e701e8d57424db028e4b2c8523050.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "秀長が｢大出世｣から一転､病に倒れる…秀吉の《天下統一の最終決戦》にはいなかった\"名補佐役\"の姿 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964949?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第49回は､秀長の病状と後継者について真山知幸氏が解説します。",
-      "published": "2026/11/22 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/b/1200w/img_9b2e59b55f147186b7e205ea12e2deb9575635.jpg?nextgen=false"
+      "title": "ソフトバンクGが26年中の買収完了目指す｢ABBロボット事業｣､中国当局の阻止で白紙となった場合の選択肢とは | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965604?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "スイスの重電大手ABBがソフトバンクグループ（SBG）にロボット事業を売却する計画は､中国当局の阻止により白紙撤回の可能性が浮上しています。ABBとSBGは計画の修正に取り組んでいるようです。",
+      "published": "2026/11/23 10:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/8/1200w/img_c807f86c3181e7fcbc101053c77a8f3b119086.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈盛れミで躍進〉Juice=Juice井上玲音が明かす｢アイドルだから出せるモデルとしての魅力｣とファンを動かす発信力 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958542?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "実力派アイドルグループとして今年大きく飛躍したJuice=Juice。その中心には個性と情熱を輝かせる井上玲音さんがいます。モデルとしての新たな挑戦やファンとの絆､そしてライブへのこだわり。彼女たち…",
-      "published": "2026/11/22 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/9/1200w/img_99c2966d13e37cf2be9653d6655ff9e7130971.jpg?nextgen=false"
+      "title": "【SAPIXとジーニアスが明かす】過去問が合格点に届かない！→直前で大逆転する子の共通点､焦る親がやりがちな｢NG介入｣ | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中学受験を控える11月から12月は､保護者も焦りやすい時期。合格を勝ち取る家庭は､過去問の点数をどう受け止め､志望校を固めているのでしょうか。難関校の合格実績が豊富な中学受験塾のプロたちに､｢直前期…",
+      "published": "2026/11/23 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/1/1200w/img_817190277561a087c2eabbafdc7d4633177391.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "スターバックス経営陣が語った｢成長計画｣…抹茶が10億ドル事業に､昼下がりの定番に変化も | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964096?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "スターバックスの最新の決算説明会で､意外な成長戦略が語られました。",
-      "published": "2026/11/22 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/f/1200w/img_ef0067b9355baa38a7412c8aa006738b121711.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "プロが猫と本気で遊んでみたら…その驚くべき｢遊び方｣の中身とは？そして\"暴れん坊子猫\"のその後は… | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "旅行中のエサやりなど、猫専門のシッターサービスを手がける「ひろみ猫シッターサービス」。そこにある日、アルバイト希望で訪ねてきた怪しげな大男。しかも特技は「猫と会話できること」という――。無事雇われる…",
-      "published": "2026/11/22 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/7/f/1200w/img_7f58f0629d0dfbd76fdda52560289d2d74106.jpg?nextgen=false"
+      "title": "NHK紅白｢知らない人ばかり｣｢ヒット曲あったっけ？｣ 今年も出場者に賛否…《昔はよかった論争》が起こる意外な理由 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965517?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "毎年のように｢昔の紅白はよかった｣｢知らない人ばかり｣と賛否両論が巻き起こるNHK紅白歌合戦。その背景にあるのは､世代や情報環境の変化だけでなく､普段見慣れた\"顔ぶれ\"の違いが深く関係していました。",
+      "published": "2026/11/23 08:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/f/1200w/img_5fcaa65a5da8892252b5e765807a7cee242890.jpg?nextgen=false"
     }
   ]
 }
