@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-11-24T09:54:14.240528+00:00",
+  "generated_at": "2026-11-25T08:34:11.001213+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "無印良品、不正アクセスで株主優待が“紙に逆戻り”　電子クーポンにはいつ戻る？　広報に聞いた",
-      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003419/",
-      "summary": "「無印良品」を展開する良品計画は11月20日、株主優待を電子クーポンから紙のクーポンに切り替えた理由などについて、ITmedia NEWSの取材に回答した。電子クーポンに戻すのは、外部の専門機関の調査を経てネットストアを再開した後を想定しているという。",
-      "published": "2026/11/24 18:25",
+      "title": "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003445/",
+      "summary": "22日朝「日曜日なのに、2日後の24日付の約定通知メールが届いた」「誤配信だと思うが不安」という声がXで相次いでいた。",
+      "published": "2026/11/25 15:12",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "月に3度の障害……揺らぐドコモの信頼　通信品質が安定しない理由は？",
-      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003405/",
-      "summary": "NTTドコモへの信頼が揺らぎつつある。11月5日、11日、16日と3回に渡って通信障害を発生させ、17日には藤井比早之総務相が「国民生活の重要なインフラとなっている通信サービスにおいて、短期間で3度の障害は大変遺憾だ」と原因究明と再発防止を求めた。",
-      "published": "2026/11/24 18:20",
+      "title": "タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」　12月1日から案内",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003443/",
+      "summary": "対象は、暗号化された運転免許証などの本人確認書類の画像データへの不正アクセスと、外部送信を示す痕跡が確認された約146万件。",
+      "published": "2026/11/25 14:51",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "東京都内自治体の中小企業向けサイバーセキュリティー支援相次ぐ　専門家訪問や窓口開設",
-      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003409/",
-      "summary": "大量の個人情報の流出など情報システムの不正アクセス被害に歯止めがかからない中、東京都内の自治体が相次いで中小企業向けのサイバーセキュリティ支援に乗り出している。",
-      "published": "2026/11/24 15:24",
+      "title": "六花亭のカード情報流出、対応が「誠実」と評判　再発行時の「伝え方」まで明記",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003437/",
+      "summary": "カード再発行に当たっては、「株式会社六花亭から情報流出の通知を受けたため、カードを再発行したい」と伝えるよう案内するなど、「どうすればいいか」を具体的に示していることが「誠実だ」と評価されている。",
+      "published": "2026/11/25 14:21",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "爆増するサイバー攻撃、魔の手はITだけでなく「OT」にも　元米軍のセキュリティ専門家が警鐘",
-      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003408/",
-      "summary": "工場や水道、店舗の冷蔵設備を動かす制御システム「OT」を狙う攻撃が海外で相次いでいる。OTセキュリティに関する11月20日の記者説明会では米DragosのCEOが、AIを使った攻撃者がITからOTへ標的を移した事例を紹介した。",
-      "published": "2026/11/24 15:06",
+      "title": "子どもの成績や月謝、口座番号など最大5万件漏えいか　学習塾「ベスト個別」運営元に不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003440/",
+      "summary": "漏えいした可能性がある顧客情報は、保護者の氏名、子どもの氏名、兄弟姉妹情報、住所、電話番号、メールアドレスなど。",
+      "published": "2026/11/25 14:08",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "SpaceXをオレゴン州とバージニア州が提訴　Grokの性的画像生成で",
-      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003399/",
-      "summary": "オレゴン州とバージニア州は、AI「Grok」が児童性的虐待コンテンツ（CSAM）や同意のない性的画像を生成・拡散したとしてSpaceXなどを提訴したと発表した。両州は「Spicy」モードなどで安全策を無視し、消費者を欺いたと主張。一方、Xの安全対策アカウントは悪用に対し保護策を強化したと説明している。",
-      "published": "2026/11/24 08:39",
+      "title": "タワレコ、会員情報約1100万件流出　「3年以内の退会者」も対象　通販サイト停止続く",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003439/",
+      "summary": "退会後3年以内の人の情報も含まれているという。",
+      "published": "2026/11/25 13:27",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "フアン氏がエヌビディアに復帰、不倫発覚による辞任から一転　トランプ氏は「私が取引をまとめた」と",
-      "url": "https://www.bbc.com/japanese/articles/c6g7l1397vvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "﻿米半導体大手エヌビディアは23日、ジェンスン・フアン氏を最高経営責任者（CEO）に復帰させると発表した。フアン氏をめぐっては、ドナルド・トランプ米大統領がフアン氏をCEOに再任するよう圧力をかけていた。",
-      "published": "2026/11/24 10:55",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca64/live/13530fb0-e795-11f1-a094-5fdc692f3e33.jpg"
+      "title": "イスラエル軍、ハマス内部治安トップを殺害　ガザ空爆",
+      "url": "https://www.bbc.com/japanese/articles/cmkgdj182rl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "パレスチナ・ガザ地区の複数の場所で24日、イスラエル軍による空からの攻撃があり、イスラム組織ハマスの治安当局幹部を含む少なくとも7人が殺害された。同地区の保健当局と救急当局が発表した。",
+      "published": "2026/11/25 11:47",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "ウクライナがロシア艦船をドローン攻撃、動画や衛星画像で分かること",
-      "url": "https://www.bbc.com/japanese/watch/c68x0g21ywk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "ウクライナは22日、リビア海域でロシアの軍艦と貨物船をドローンで攻撃した。BBCヴェリファイ（検証チーム）のマーリン・トーマス記者が、動画や衛星画像から分かることを説明する。",
-      "published": "2026/11/24 13:43",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6943/live/28fffe10-e73e-11f1-a094-5fdc692f3e33.jpg"
+      "title": "ロシアのウクライナでの戦死者は約50万人　流出公式データをBBCが分析",
+      "url": "https://www.bbc.com/japanese/articles/cmp3ell1k2y5o?at_medium=RSS&at_campaign=rss",
+      "summary": "流出したロシア政府の統計によると、2022年のウクライナへの全面侵攻以来、少なくとも49万334人のロシア兵が死亡していることが、BBCの分析によって明らかになった。",
+      "published": "2026/11/25 15:40",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】 ウクライナでの戦争が拡大、リビア海域でのロシア艦船攻撃から分かること",
-      "url": "https://www.bbc.com/japanese/articles/ckvg2qyr1ypno?at_medium=RSS&at_campaign=rss",
-      "summary": "ロシアのコルベット艦「メルクーリイ」は、ロシアの首都モスクワから約3200キロ離れた地中海の港に停泊していた。その艦長は、自艦が攻撃されるはずはないと考えていたかもしれない。しかし、実際は違った。この攻撃から次の疑問が生じている。ウクライナでの戦争は、国境を大きく越えて拡大しているのだろうか？",
-      "published": "2026/11/24 18:02",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg"
+      "title": "中国ファーウェイ、企業秘密窃盗などでアメリカで有罪評決　組織犯罪では無罪",
+      "url": "https://www.bbc.com/japanese/articles/cqzr5y8326yro?at_medium=RSS&at_campaign=rss",
+      "summary": "中国通信機器大手の華為技術（ファーウェイ）に対し、米ニューヨーク・ブルックリンの連邦地裁の陪審は24日、企業秘密窃盗と銀行詐欺を共謀した罪などで有罪評決を出した。より重い、包括的な組織犯罪では無罪とした。",
+      "published": "2026/11/25 13:23",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "エヌビディア時価総額が1兆ドル近く増加、ハイテク株も急騰　フアン氏のCEO復帰で",
-      "url": "https://www.bbc.com/japanese/articles/c6x28xr98n7do?at_medium=RSS&at_campaign=rss",
-      "summary": "米半導体大手エヌビディアのジェンスン・フアン氏が23日に最高経営責任者（CEO）に即時復帰したことで、ニューヨーク株式市場では同日、エヌビディアの株価が急騰した。これにより、同社の時価総額は1兆ドル（約160兆円）近く増えた。",
-      "published": "2026/11/24 11:17",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
+      "title": "米アイオワ州で劣化した爆薬の爆破処理計画、住民から不安の声",
+      "url": "https://www.bbc.com/japanese/articles/ck30g7z274jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "米アイオワ州の陸軍弾薬工場で25日に、劣化した爆薬5トンを制御下で爆破処理する計画を受け、周辺住民たちに不安が広がっている。",
+      "published": "2026/11/25 17:21",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce07/live/95c1eda0-e89d-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "フアン氏の歴史的なカムバック、トランプ氏の影響は",
-      "url": "https://www.bbc.com/japanese/watch/cqwy4n20ngzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "ジェンスン・フアン氏のエヌビディア復帰に、ドナルド・トランプ米大統領が関与した可能性について、BBCのミシェル・フルーリー・ビジネス担当編集委員が説明する。",
-      "published": "2026/11/24 13:16",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9328/live/2bcba8f0-e785-11f1-99b6-a35a62fa4264.jpg"
+      "title": "英皇太子夫妻の別邸に盗みに入った疑い、2人逮捕　英東部ノーフォーク",
+      "url": "https://www.bbc.com/japanese/articles/c6x20llg7zxko?at_medium=RSS&at_campaign=rss",
+      "summary": "英王室の所有地サンドリンガムにあるウェールズ公ウィリアム皇太子夫妻の別邸に不法侵入し、盗みを働いた疑いで、男性2人が逮捕された。",
+      "published": "2026/11/25 16:15",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ecc/live/c4219c10-e80a-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "木下優樹菜｢AI以下な人間が存在する｣｢世も末｣投稿が物議…\"裏垢\"だったThreadsが｢Xより治安悪い｣と言われる理由 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965664?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "元タレント木下優樹菜のSNS投稿が再び波紋を広げています。仕事関係者への不満をThreadsでぶちまけた今回､共感も集めつつ､一部では強い批判も噴出することに。Threadsは本当に本音を語ることが…",
-      "published": "2026/11/24 16:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/6/1200w/img_f62b119d0d86ec267abe4b8a553f6eee452336.jpg?nextgen=false"
+      "title": "あまりのセコさが命取りに？ 関文科相｢会費1人9万円の議員会館パーティー｣が高市政権にもたらしかねない大きな傷跡 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965858?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "政治資金パーティー問題で野党から追及を受けている関文科相。問責決議案の提出が現実味を増す中､政府･与党は擁護の姿勢を貫きます。政府中枢が恐れる､最悪のシナリオとは？",
+      "published": "2026/11/25 15:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/4/1200w/img_6402e5f1289d9256b954b137b927a82b179807.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈株価急騰〉フアン氏がCEOに電撃復帰､わずか11日間の不在で明らかになった｢エヌビディア経済圏｣の危うさ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965661?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "まさに急転直下の展開だった。アメリカの半導体メーカー最大手・エヌビディアは現地時間11月23日、12日に辞任を発表していた創業者のジェンスン・フアン氏がCEOに即日復帰したと発表した。カリスマの不在…",
-      "published": "2026/11/24 11:15",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/f/1/1200w/img_f1bba8ba6ff7b484896a56c13fc9d562750260.jpg?nextgen=false"
+      "title": "オープンウエートAIは安全といえるのか､ジェンスン･フアン氏のCEO復帰を受けて論争が再燃 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965845?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "米エヌビディアのCEO復帰劇とともに､AI基盤技術のオープン化を巡る全米論争が再燃しています。",
+      "published": "2026/11/25 13:35",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/7/1200w/img_576e767ddc18ecca2e26604280e61b5c531630.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢一人が気楽｣でも孤立は危険――医師･鎌田實が警鐘を鳴らす《健康長寿を遠ざける意外なリスク》 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963771?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "｢一人の時間｣は大切ですが､社会から孤立することは心身に悪影響を及ぼす危険があります。人とのつながりや生きがいを持つことは健康長寿のカギ。幸福な晩年を迎えるため､どんな習慣や｢投資｣が私たちの人生を…",
-      "published": "2026/11/24 09:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/1/1200w/img_e16c5a83169fafb34f10bb7df5284c8b482155.jpg?nextgen=false"
+      "title": "〈もう1つの首脳会議〉が開かれていた…力にモノ言わせる\"大国主義\"に同盟国はアメリカ離れ､日本はどう生きるのか? | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965612?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界のパワーバランスが揺らぐ中､アメリカへの忠誠を装いつつも本音では中国や独自路線にシフトするASEANや欧州､湾岸諸国。強大国への依存から距離を置き､各国が自立を模索しています。日本はこの｢荒れた…",
+      "published": "2026/11/25 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/0/7/1200w/img_0724151e0e7332710dd0f92fd04de272959292.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "AI業界を牽引するエヌビディアのCEO復帰劇…舞台裏ではトランプ大統領とバンス副大統領による異例の直接介入 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965645?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "AI業界を牽引するエヌビディアのCEO復帰劇。その舞台裏には､トランプ大統領の異例ともいえる直接介入がありました。",
-      "published": "2026/11/24 08:35",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/a/f/1200w/img_afee4fafe0151741736e5065c58d7e92746769.jpg?nextgen=false"
+      "title": "｢失敗したらどうしよう｣とすぐに尻込みしてしまう人は試す価値あり！　心理学者が説く《正しい自己暗示》のかけ方 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964286?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "忙しさに追われる日々､｢休息は週末に｣と先延ばしにしていませんか？　実は日々の小さなセルフケアこそが､ストレスをため込まない秘訣。姿勢や自己暗示など､すぐ実践できる心の整え方を詳しくご紹介します。今…",
+      "published": "2026/11/25 09:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/7/1200w/img_d747cbaf498e934255ef8f900cbf1368220729.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "なぜ東大生の約7割は勉強中に\"寄り道\"するのか？ ｢脇目も振らずに机に向かう｣が正解ではない理由 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/964827?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "好奇心には｢広げる｣｢深める｣など5つの側面があるとされ､東大生の学び方も多様です。｢寄り道｣しながら新たな知識を吸収したり､納得いくまで調べたり､人との会話から学びを得る姿が浮かび上がります。自分…",
-      "published": "2026/11/24 08:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/c/1200w/img_4c2f4747212dbf973496da2060a43735268679.jpg?nextgen=false"
+      "title": "あの人､名前何だっけ…どうしても固有名詞が出てこない《中年あるある》を減らす｢記憶の整理法｣を脳の専門家が伝授 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/963301?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢年を重ねると記憶力が落ちる｣と嘆いていませんか？　じつは加齢によって低下するのは記憶力ではなく､膨大な情報から必要なものを探し出す\"検索力\"なのです。本記事では､脳内科医･加藤俊徳氏が提唱する大人…",
+      "published": "2026/11/25 08:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/d/1200w/img_8db1d4caaf2bbfe47aa3f0aeb8f5b520227293.jpg?nextgen=false"
     }
   ]
 }
