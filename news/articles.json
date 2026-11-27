@@ -1,140 +1,140 @@
 {
-  "generated_at": "2026-11-26T08:17:42.796823+00:00",
+  "generated_at": "2026-11-27T08:33:33.975605+00:00",
   "articles": [
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-      "summary": "飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について考える。",
-      "published": "2026/11/26 16:06",
+      "title": "顧客情報を守るため、売上15％の自社ECを閉店　ドールメーカーが明かした「決断」の背景",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/",
+      "summary": "個人情報保護のため、全社売上高の約15％を占める自社ECサイトの閉店を決めたアゾンインターナショナル。AIによるサイバー攻撃の高度化をどう捉え、なぜ個人情報を「持たない」方針に転換したのか。経営陣に聞いた。",
+      "published": "2026/11/27 16:47",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "鉄道運転シミュレーターをマイクロバスに搭載「ライドライブ」　東急テクノシステムが開発",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003492/",
-      "summary": "東急電鉄のグループ会社東急テクノシステムは11月26日、マイクロバスに鉄道の運転シミュレーターを搭載した「RideLIVE（ライドライブ）」を開発し、2027年11月から販売すると発表した。",
-      "published": "2026/11/26 15:34",
+      "title": "「AI関連の需要強い」京セラ　5年で設備投資9000億円、データセンター需要狙う",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/",
+      "summary": "京セラは26日、2031年3月期までの5年間で設備投資に計9000億円を投じると発表した。人工知能（AI）の普及に伴って拡大するデータセンターや半導体関連の需要の取り込みを狙う。これとは別に研究開発にも5年間で6500億円を投資する。",
+      "published": "2026/11/27 16:19",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "アディーレ法律事務所、個人情報約1828件漏えい　氏名や問い合わせ内容など……委託先「メール商人」に不正アクセス",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
-      "summary": "氏名、メールアドレス、電話番号、都道府県、性別、生年月日、法人名・業種・担当者名、学校名・自治体名、問い合わせの内容、連絡に関する希望などが漏えいしたという。",
-      "published": "2026/11/26 14:31",
+      "title": "「時給1280円?」「在宅勤務」　ローソンが募集する「アバターオペレーター」という謎のお仕事",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003511/",
+      "summary": "ローソンは10月16日、在宅でアバターを操作して接客する「ローソンアバターオペレーター」の募集を始めた。導入店舗の数や効果、接客をAIではなく人が担う理由などを同社に聞いた。",
+      "published": "2026/11/27 15:42",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "KDDI、Xのデータ利用で包括契約　通信品質向上や法人向けサービスに活用へ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
-      "summary": "データは個人を特定できない形で活用する。KDDIが保有するデータアセットをXに提供することはなく、XのアカウントとKDDIの顧客の情報を個人単位でひもづけることもない。",
-      "published": "2026/11/26 14:11",
+      "title": "止まらないKARTE漏えい　契約終了後「削除されたはず」のデータ流出相次ぐ　「人的オペレーションと管理の不備」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003517/",
+      "summary": "プレイドによると、契約終了後のデータは「利用規約に則り適切に削除されるべき」だったが、「人的オペレーションおよび管理の不備」により保管されたままだったケースがあるという。",
+      "published": "2026/11/27 14:55",
       "image_url": ""
     },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
-      "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
-      "summary": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。",
-      "published": "2026/11/26 14:04",
+      "title": "聴覚障害の社員にスマートグラス支給　会話をリアルタイムに文字表示　ソフトバンク、連携アプリも独自開発",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/",
+      "summary": "外部のサーバを介さずにスマホ内で音声認識処理と文字起こしを完結させ、文字起こしした内容をスマートグラスに表示する。",
+      "published": "2026/11/27 13:41",
       "image_url": ""
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "米トランプ政権、中国や日本など14カ国・地域に新関税",
-      "url": "https://www.bbc.com/japanese/articles/cqn0dz6e7yg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカは25日、中国や日本など14カ国・地域からの輸入品に新たな関税を課すと発表した。トランプ大統領が自身の看板政策である通商政策を推し進める中での発表となった。",
-      "published": "2026/11/26 12:07",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eaad/live/770807e0-e970-11f1-99a1-253766e7ad8b.jpg"
+      "title": "ゼレンスキー氏、アメリカは中東に集中しすぎてロシアへの圧力不十分と　BBC単独インタビューで",
+      "url": "https://www.bbc.com/japanese/articles/cmj4rww1npreo?at_medium=RSS&at_campaign=rss",
+      "summary": "ウクライナのウォロディミル・ゼレンスキー大統領はBBCの単独インタビューで、アメリカに対する深い不満を口にした。ウクライナの防衛に不可欠な弾道ミサイル迎撃システムがアメリカからなかなか届かず、そのせいでウクライナ国民の命が奪われていると述べ、和平交渉においてアメリカがロシアにかける圧力が不十分だと述べた。",
+      "published": "2026/11/27 10:56",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "英バンド「デュラン・デュラン」の元ギタリスト、アンディ・テイラーさん死去　65歳",
-      "url": "https://www.bbc.com/japanese/articles/cvj6l1jrzg84o?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリスのポップグループ「デュラン・デュラン」の元ギタリスト、アンディ・テイラーさんが23日死去した。65歳だった。",
-      "published": "2026/11/26 15:13",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg"
+      "title": "ゼレンスキー氏、トランプ氏とプーチン氏の「奇妙な」友情関係に言及　BBCのインタビューで",
+      "url": "https://www.bbc.com/japanese/watch/cq782mm7l8jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBCのサラ・レインズフォード特派員が、アメリカのドナルド・トランプ大統領が先のアジア太平洋経済協力会議（APEC）でロシアのウラジーミル・プーチン大統領をハグし、「私の友人」と表現したことについて質問すると、ゼレンスキー氏は「とても奇妙だ」指摘。プーチン氏は「侵略者であり人殺しだ。友人などではない」と強調した。",
+      "published": "2026/11/27 11:28",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "北朝鮮、スイス外交事務所代表に退去命令　「ウクライナの子ども移送」めぐる制裁に反発",
-      "url": "https://www.bbc.com/japanese/articles/cqkg5dge2rx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "北朝鮮は25日、平壌にあるスイス外交事務所の閉鎖と、同事務所代表の48時間以内の国外退去を命じた。",
-      "published": "2026/11/26 16:19",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
+      "title": "英列車内での刺傷事件の被告に有罪評決　計14人に対する殺人未遂罪",
+      "url": "https://www.bbc.com/japanese/articles/cwyvdn5mz4lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリス中部で昨年11月、ロンドンへ向かう急行列車内で乗客らが刺された事件で、英刑事法院の陪審は26日、被告の男性に対し、10人に対する殺人未遂罪で有罪評決を下した。さらに、この事件の直前の複数の事件についても、計4人に対する殺人未遂罪で同被告を有罪とした。量刑は来年2月4日と5日に、ケンブリッジ刑事法院で言い渡される予定。",
+      "published": "2026/11/27 17:13",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f30d/live/2c751280-e9ad-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "【解説】 トランプ氏の投資口座、エヌビディア株を今年44回売買　開示資料で判明",
-      "url": "https://www.bbc.com/japanese/articles/cm5y1p1kn5v0o?at_medium=RSS&at_campaign=rss",
-      "summary": "アメリカのトランプ大統領の投資口座で、今年1～9月に少なくとも44回、米半導体大手エヌビディアの株が取引されていたことが、米政府倫理局（OGE）が公開した資料で明らかになった。",
-      "published": "2026/11/26 14:38",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg"
+      "title": "米政府が「手違い」で中米に強制送還した男性、米国からスペインに到着　トランプ政権との争いに終止符",
+      "url": "https://www.bbc.com/japanese/articles/cm174nxw20qno?at_medium=RSS&at_campaign=rss",
+      "summary": "昨年3月にアメリカ政府の「手違い」で出身国の中米エルサルバドルの刑務所に強制送還され、その後、密入国あっせんなどの罪でアメリカ当局に刑事訴追されたため同国に戻されたキルマー・アブレゴ＝ガルシア氏が24日、アメリカを出国し、25日にスペインに到着した。",
+      "published": "2026/11/27 14:57",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "category": "政治・国際情勢",
       "source": "BBC Japan",
-      "title": "イスラエルの裁判所、ネタニヤフ氏に対する収賄罪の起訴取り下げを勧告",
-      "url": "https://www.bbc.com/japanese/articles/cm702r2kr1y6o?at_medium=RSS&at_campaign=rss",
-      "summary": "イスラエルの裁判所は25日、ネタニヤフ暫定首相に対する収賄罪での起訴を取り下げるよう検察に勧告した。ネタニヤフ氏が直面している3件の訴訟のうち、最も深刻な罪状の事件について「有罪判決が出る可能性は低い」とした。",
-      "published": "2026/11/26 15:40",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg"
+      "title": "イギリスの若者、3人に1人は性交経験なし　「セクスティング」やポルノ視聴は半数以上",
+      "url": "https://www.bbc.com/japanese/articles/c6074pvlep5po?at_medium=RSS&at_campaign=rss",
+      "summary": "イギリス人、とりわけ10代や20代の若者が、過去の同世代と比べて性交の回数が少なかったり、性交を全くしていなかったりしていることが、同国の大規模調査で明らかになった。ポルノを見たり、性的なメッセージや画像などをやり取りする「セクスティング」をしたりする人が多数いることもわかった。",
+      "published": "2026/11/27 15:55",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "カギ握るのは日本保守党と無所属の計7議席､高市政権を大きく揺さぶる関文科相の問責決議｢参院本会議決戦｣の大一番 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/966001?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "関芳弘文科相の問責決議案が11月26日に提出されました。翌27日午前の参院本会議で採決される見通し。政権の命運を握る大一番が目前に迫っています。",
-      "published": "2026/11/26 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/b/1200w/img_eba9ae019c7f507efdc7fa59f616cd26246693.jpg?nextgen=false"
+      "title": "2029年大河『三成のうた』に｢また戦国か｣の声も…なぜNHKは｢戦国と幕末｣ばかり描くのか､視聴率データが示す理由 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/966020?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大河ドラマがなぜ戦国時代や三英傑に偏るのか――2029年も石田三成を主人公に戦国が舞台と聞き､SNSでは｢またか｣とため息が広がっています。",
+      "published": "2026/11/27 16:45",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/9/1200w/img_d97743d1cffb4a603d39ccedbc48fa6f301481.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "みそ汁に｢リンゴ酢｣と｢玉ねぎ｣を足すだけ→腸の名医が実践する\"腸に効くご飯\"8つの鉄則 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965072?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "腸は私たちの思い通りに動かない\"わがままな臓器\"ですが､適切な環境と習慣で驚くほど元気になります。腸を｢育て直す｣ための食事や生活改善法､そして覚えやすい\"腸育食\"キーワード｢お･な･か･は･よ･い…",
-      "published": "2026/11/26 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/1/1200w/img_31adde79360556f044c4974fc7d377fb247431.jpg?nextgen=false"
+      "title": "会社四季報×東洋経済オンラインイベントを12/18開催｢2027年経済･株式相場大予測!｣ | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/966053?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東洋経済オンラインでは有料会員読者向けのリアルイベントを開催しています。東洋経済オンラインの人気連載執筆者やその連載テーマのキーパーソンの方などを招き､リアルな空間で､話題のテーマについて徹底的に掘…",
+      "published": "2026/11/27 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/2/1200w/img_426febb9ef9eeb8df5c34007ee419589246995.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "一瞬で1200万円が溶けた…《61歳夫の退職金FX》が地獄の入り口　損失は2000万円に膨らみ､｢離婚&自己破産｣に至った顛末 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965809?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "出向で年収1000万円超から200万円台に落ちた経験を持つFP･水上克朗氏。ある日､水上氏のもとに､ある妻が相談に訪れました。なんと､61歳の夫が退職金をFXにつぎ込み､2000万円を失ったといいま…",
-      "published": "2026/11/26 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/2/6/1200w/img_269ee2121a2e2cb685c3e6e2692c23e5159816.jpg?nextgen=false"
+      "title": "｢社会を変えてやろう｣というのは邪心？　ゆるスポーツ協会代表が語る､無邪気に働くということの意味 | キャリア・教育 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962873?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "競争や適応が重視される現代社会で､｢正解｣に縛られて生きづらさを感じていませんか？\"ゆる\"の精神で活動する澤田智洋氏と窪田良氏が､画一性をほどく働き方や多様性の可能性について語ります。\"ゆる\"という…",
+      "published": "2026/11/27 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6aaac44eda36a2e15d076f22bc206adb487529.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "実はよく似た国｢アメリカとロシア｣の正体　欧州発の思想を極端化させた｢限りない拡大志向｣が迎える限界 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965219?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "資本主義と社会主義の思想が､アメリカとロシアという｢後発型国家｣で極端化され､両国は限りない拡張主義を国家のDNAとして刻んできました。しかし､21世紀の地球の有限性がこの拡張志向に限界を突きつけて…",
-      "published": "2026/11/26 11:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/3/a/1200w/img_3a21d4984ceb6570a02308a56a1492c7103114.jpg?nextgen=false"
+      "title": "〈紛糾するリゾート開発〉トランプ一族の炎上計画をブルーウェーブの米議会が追及へ…｢ヨーロッパの北朝鮮｣現地を歩く | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965593?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2027年､米民主党の調査が予告される中､トランプ一族のアルバニア高級リゾート開発計画が現地で大規模な暴動｢フラミンゴ革命｣を引き起こしています。自然保護区の破壊疑惑､資金洗浄､不透明な契約……この…",
+      "published": "2026/11/27 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/9/d/1200w/img_9dcdd3789d43c44d21ebb1b892c323c1147735.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "いくら口角を上げても､明るい声を出してもダメなのはなぜ？ ｢また会いたいと思われる人｣｢身構えられる人｣の決定的な差 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965707?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "話し方の本を読んだり､講座に通ったりしても､人づき合いがなかなかうまくいかない。そんな経験はありませんか。実は､笑顔や声を作るほど､相手に伝わってしまうものがあります。｢また会いたい｣と思われる人の…",
-      "published": "2026/11/26 10:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/c/1200w/img_dcf3af5b7d82c969cdc7218e388ae3ca140616.jpg?nextgen=false"
+      "title": "オリックス､高収益･高ROE･好財務の｢三兎｣を追う野望､｢持つ｣｢売る｣を経て｢持たざる経営｣へ | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965462?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1964年7月、金沢市内のスーパーマーケットが4台のレジを導入した。ただし、スーパー側はレジを買うのではなく、代金200万円と金利11％を3年かけて支払う契約を結んだ。「リース業」が日本で幕を開けた…",
+      "published": "2026/11/27 11:30",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/6/1200w/img_b6b3c1cf1251ffc6de45c1e71e9fc1c2364283.jpg?nextgen=false"
     }
   ]
 }
