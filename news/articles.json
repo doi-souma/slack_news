@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-27T08:33:33.975605+00:00",
+  "generated_at": "2026-11-28T07:48:56.750017+00:00",
   "articles": [
+    {
+      "category": "AI・テクノロジー",
+      "source": "ITmedia NEWS",
+      "title": "そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？　8年続いたバースデークラブ終了の理由を社長に聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/28/2000003529/",
+      "summary": "ゆで太郎システムは、個人情報の漏えいリスクを理由に、約4000人が登録する「バースデークラブ」の終了を決めた。8年続けた制度を廃止する理由や、個人情報を持たずに顧客との関係を築く戦略を社長に聞いた。",
+      "published": "2026/11/28 10:00",
+      "image_url": ""
+    },
     {
       "category": "AI・テクノロジー",
       "source": "ITmedia NEWS",
@@ -38,13 +47,22 @@
       "image_url": ""
     },
     {
-      "category": "AI・テクノロジー",
-      "source": "ITmedia NEWS",
-      "title": "聴覚障害の社員にスマートグラス支給　会話をリアルタイムに文字表示　ソフトバンク、連携アプリも独自開発",
-      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/",
-      "summary": "外部のサーバを介さずにスマホ内で音声認識処理と文字起こしを完結させ、文字起こしした内容をスマートグラスに表示する。",
-      "published": "2026/11/27 13:41",
-      "image_url": ""
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "米沿岸部で大雨と強風、広い範囲で停電　ニューヨークでは感謝祭パレードが初の延期",
+      "url": "https://www.bbc.com/japanese/articles/cwdd13d25jvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "アメリカの東西の海岸地域が今週、悪天候に見舞われ、広い範囲で停電などの影響が出ている。26日は家族らが集まる感謝祭の祝日だったが、交通機関に混乱が発生し、ニューヨークでは名物のパレードが初めて延期された。",
+      "published": "2026/11/28 10:59",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9846/live/4bba81c0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
+    },
+    {
+      "category": "政治・国際情勢",
+      "source": "BBC Japan",
+      "title": "カナダ最高裁、ケベック州の一部公務員による宗教的シンボルの着用禁止を支持",
+      "url": "https://www.bbc.com/japanese/articles/c9kgmdgv7vpno?at_medium=RSS&at_campaign=rss",
+      "summary": "カナダ最高裁判所は27日、東部ケベック州の一部の公務員がヒジャブ（頭髪を覆う布）や十字架などの宗教的シンボルを身につけることを禁止する法律を、おおむね支持する判決を下した。",
+      "published": "2026/11/28 10:57",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
     },
     {
       "category": "政治・国際情勢",
@@ -74,67 +92,49 @@
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f30d/live/2c751280-e9ad-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "米政府が「手違い」で中米に強制送還した男性、米国からスペインに到着　トランプ政権との争いに終止符",
-      "url": "https://www.bbc.com/japanese/articles/cm174nxw20qno?at_medium=RSS&at_campaign=rss",
-      "summary": "昨年3月にアメリカ政府の「手違い」で出身国の中米エルサルバドルの刑務所に強制送還され、その後、密入国あっせんなどの罪でアメリカ当局に刑事訴追されたため同国に戻されたキルマー・アブレゴ＝ガルシア氏が24日、アメリカを出国し、25日にスペインに到着した。",
-      "published": "2026/11/27 14:57",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "category": "政治・国際情勢",
-      "source": "BBC Japan",
-      "title": "イギリスの若者、3人に1人は性交経験なし　「セクスティング」やポルノ視聴は半数以上",
-      "url": "https://www.bbc.com/japanese/articles/c6074pvlep5po?at_medium=RSS&at_campaign=rss",
-      "summary": "イギリス人、とりわけ10代や20代の若者が、過去の同世代と比べて性交の回数が少なかったり、性交を全くしていなかったりしていることが、同国の大規模調査で明らかになった。ポルノを見たり、性的なメッセージや画像などをやり取りする「セクスティング」をしたりする人が多数いることもわかった。",
-      "published": "2026/11/27 15:55",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg"
+      "category": "経済・金融",
+      "source": "東洋経済オンライン",
+      "title": "デノミに強い意欲を見せた歴代蔵相たち､水田三喜男も愛知揆一も極秘裏に準備していた　デノミの幻影⑤ | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965947?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1970年代､日本の財政政策の裏側でひそかに進行していた｢デノミ計画｣。水田蔵相や愛知蔵相らが極秘裏に意欲を燃やしながらも､そのたびに首相の判断や他閣僚の発言で挫折してきた背景には､知られざるドラマ…",
+      "published": "2026/11/28 16:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/c/f/1200w/img_cf2f54fc7f0c96b413b622a716708e53311058.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "2029年大河『三成のうた』に｢また戦国か｣の声も…なぜNHKは｢戦国と幕末｣ばかり描くのか､視聴率データが示す理由 | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/966020?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "大河ドラマがなぜ戦国時代や三英傑に偏るのか――2029年も石田三成を主人公に戦国が舞台と聞き､SNSでは｢またか｣とため息が広がっています。",
-      "published": "2026/11/27 16:45",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/d/9/1200w/img_d97743d1cffb4a603d39ccedbc48fa6f301481.jpg?nextgen=false"
+      "title": "豊かになっても長時間働き続ける人々…AIが生み出す富を何に向けるのか 『じゅうぶん豊かで､貧しい社会』を読む（下） | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965944?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『じゅうぶん豊かで､貧しい社会 理念なき資本主義の末路』（ロバート･スキデルスキー､エドワード･スキデルスキー 著）を河野龍太郎氏が読…",
+      "published": "2026/11/28 16:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/5/1200w/img_857ef1982edb7a6db675031dfdda0db2178560.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "会社四季報×東洋経済オンラインイベントを12/18開催｢2027年経済･株式相場大予測!｣ | ライフ | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/966053?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "東洋経済オンラインでは有料会員読者向けのリアルイベントを開催しています。東洋経済オンラインの人気連載執筆者やその連載テーマのキーパーソンの方などを招き､リアルな空間で､話題のテーマについて徹底的に掘…",
-      "published": "2026/11/27 13:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/4/2/1200w/img_426febb9ef9eeb8df5c34007ee419589246995.jpg?nextgen=false"
+      "title": "【元付き人が証言】1987年､アントニオ猪木が\"ビッグマッチ\"でも見せない殺気を発した《巌流島の闘い》の意外な顚末 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964791?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アントニオ猪木の付き人を務めた大矢剛功氏が語る､スーパースター猪木の素顔と壮絶な舞台裏。厳しさと茶目っ気､糖尿病や離婚問題に苦しみながらも闘い続けた男の真実とは？　巌流島決戦の秘話も交え､伝説の裏側…",
+      "published": "2026/11/28 13:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/5/1200w/img_a5d6a105053d661b9c5ec333bfa204e4419575.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "｢社会を変えてやろう｣というのは邪心？　ゆるスポーツ協会代表が語る､無邪気に働くということの意味 | キャリア・教育 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/962873?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "競争や適応が重視される現代社会で､｢正解｣に縛られて生きづらさを感じていませんか？\"ゆる\"の精神で活動する澤田智洋氏と窪田良氏が､画一性をほどく働き方や多様性の可能性について語ります。\"ゆる\"という…",
-      "published": "2026/11/27 12:00",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6aaac44eda36a2e15d076f22bc206adb487529.jpg?nextgen=false"
+      "title": "月収45万円が15万円に…WEBライターが\"ギュられた\"現実　｢AIに奪われやすい職･残りやすい職｣とは何か | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965795?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIの進化が加速し､知的労働さえも｢ギュられる｣時代が到来。かつて安泰と思われていた職業が次々と危機に直面し､仕事の在り方が大きく変わろうとしています。人間にしかできない価値とは何か､今こそ問い直す…",
+      "published": "2026/11/28 12:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/8/3/1200w/img_8392d1b49d47996c3deae0f6ae2d7aca113861.jpg?nextgen=false"
     },
     {
       "category": "経済・金融",
       "source": "東洋経済オンライン",
-      "title": "〈紛糾するリゾート開発〉トランプ一族の炎上計画をブルーウェーブの米議会が追及へ…｢ヨーロッパの北朝鮮｣現地を歩く | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965593?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "2027年､米民主党の調査が予告される中､トランプ一族のアルバニア高級リゾート開発計画が現地で大規模な暴動｢フラミンゴ革命｣を引き起こしています。自然保護区の破壊疑惑､資金洗浄､不透明な契約……この…",
-      "published": "2026/11/27 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/9/d/1200w/img_9dcdd3789d43c44d21ebb1b892c323c1147735.jpg?nextgen=false"
-    },
-    {
-      "category": "経済・金融",
-      "source": "東洋経済オンライン",
-      "title": "オリックス､高収益･高ROE･好財務の｢三兎｣を追う野望､｢持つ｣｢売る｣を経て｢持たざる経営｣へ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965462?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-      "summary": "1964年7月、金沢市内のスーパーマーケットが4台のレジを導入した。ただし、スーパー側はレジを買うのではなく、代金200万円と金利11％を3年かけて支払う契約を結んだ。「リース業」が日本で幕を開けた…",
-      "published": "2026/11/27 11:30",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/b/6/1200w/img_b6b3c1cf1251ffc6de45c1e71e9fc1c2364283.jpg?nextgen=false"
+      "title": "〈書評〉『知能爆発』『世界地図と地球の時間 グリニッジ標準時と本初子午線』『昭和史の道を往く』 | ライフ | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965943?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『知能爆発 AIの次に来るAGIとは何か､そして人類に何が起きるのか』（bioshok 有路翔太 著）､『世界地図と地球の時間 グリニッジ標…",
+      "published": "2026/11/28 11:00",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/2/1200w/img_b2e7a95a5e5b6d5daaec7cf875a28ef4468032.jpg?nextgen=false"
     }
   ]
 }
